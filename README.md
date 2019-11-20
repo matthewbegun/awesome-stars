@@ -46,13 +46,12 @@
   - [Scala](#scala)
   - [ShaderLab](#shaderlab)
   - [Shell](#shell)
-  - [Smalltalk](#smalltalk)
+  - [Stata](#stata)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
-  - [Vue](#vue)
   - [ZIL](#zil)
 
 ## Assembly 
@@ -367,6 +366,7 @@
 
 ## C++ 
 
+- [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
@@ -396,6 +396,7 @@
 
 ## CSS 
 
+- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
 - [solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -471,6 +472,7 @@
 
 ## HTML 
 
+- [shiny-rt](https://github.com/lindeloev/shiny-rt) - Reaction Time Distributions - An Interactive Overview
 - [jpd-pdapr-slides](https://github.com/lgautier/jpd-pdapr-slides) - 
 - [hyperpoly](https://github.com/christianrubiales/hyperpoly) - Interactive technology comparison based on hyperpolyglot.org and influenced by github.com/betaveros/hyperpolymorph.
 - [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
@@ -527,6 +529,8 @@
 
 ## Java 
 
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [TDDIntro](https://github.com/BillSchofield/TDDIntro) - 
 - [packr](https://github.com/libgdx/packr) - Packages your JAR, assets and a JVM for distribution on Windows, Linux and Mac OS X
 - [visualvm](https://github.com/oracle/visualvm) - VisualVM is an All-in-One Java Troubleshooting Tool
@@ -564,6 +568,14 @@
 
 ## JavaScript 
 
+- [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
+- [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
+- [utility-theory](https://github.com/lindeloev/utility-theory) - Utility Theory for Dummies: An R Tutorial
+- [tests-as-linear](https://github.com/lindeloev/tests-as-linear) - Common statistical tests are linear models (or: how to teach stats)
+- [matlab-to-julia](https://github.com/lakras/matlab-to-julia) - Translates MATLAB source code into Julia. Can be accessed here: https://lakras.github.io/matlab-to-julia
+- [git-meta](https://github.com/twosigma/git-meta) - Repository for the git-meta project -- build your own monorepo using Git submodules
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [gbdc-ppda-slides](https://github.com/lgautier/gbdc-ppda-slides) - Slides for Big Data Conference / Bootcamp
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
@@ -593,7 +605,7 @@
 - [pro4trello](https://github.com/mdjekic/pro4trello) - Pro for Trello Google Chrome Extension
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
-- [joplin](https://github.com/laurent22/joplin) - Joplin - a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
+- [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [chrome-rss](https://github.com/justinkelly/chrome-rss) - Chrome RSS Subscription Extension
 - [action-discord](https://github.com/Ilshidur/action-discord) - 🚀 GitHub Action that sends a Discord message.
@@ -664,6 +676,14 @@
 
 ## Jupyter Notebook 
 
+- [matlab_kernel](https://github.com/Calysto/matlab_kernel) - Jupyter Kernel for Matlab
+- [Python-for-Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial in Python targeted at Epidemiologists. Will discuss the basics of analysis in Python 3
+- [PyDataNY_2019_tutorial](https://github.com/CamDavidsonPilon/PyDataNY_2019_tutorial) - Repo for PyData 2019 Tutorial - New Trends in Estimation and Inference
+- [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
+- [BAP](https://github.com/aloctavodia/BAP) - Bayesian Analysis with Python (Second Edition)
+- [DBDA-python](https://github.com/JWarmenhoven/DBDA-python) - Doing Bayesian Data Analysis, 2nd Edition (Kruschke, 2015): Python/PyMC3 code
+- [PrecisionWorkshop1_Prep](https://github.com/junpenglao/PrecisionWorkshop1_Prep) - Preparation materials for CEAi Precision Workshop #1 on Bayesian modelling
+- [advance-bayesian-modelling-with-PyMC3](https://github.com/junpenglao/advance-bayesian-modelling-with-PyMC3) - 
 - [sqlworkshops](https://github.com/microsoft/sqlworkshops) - SQL Server Workshops
 - [pragmatic-polyglot-data-analysis](https://github.com/lgautier/pragmatic-polyglot-data-analysis) - Docker container for off-the-shelf jupyter notebook + Python + R + Spark/pyspark + LLVM
 - [Articles](https://github.com/mrdragonbear/Articles) - Miscellaneous repository for code content related to my Medium posts.
@@ -717,6 +737,7 @@
 
 ## Others 
 
+- [bayes_factors](https://github.com/lindeloev/bayes_factors) - How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 - [AgentConnectionsExample](https://github.com/BenjaminSchumann/AgentConnectionsExample) - Example AnyLogic model used for my blogpost
@@ -938,6 +959,53 @@
 
 ## Python 
 
+- [imatlab](https://github.com/imatlab/imatlab) - A Jupyter kernel for MATLAB.
+- [psychopy-course](https://github.com/lindeloev/psychopy-course) - The course materials for using psychopy for psychophysics and neuroscience.
+- [psychopy](https://github.com/psychopy/psychopy) - For running psychology and neuroscience experiments
+- [morality](https://github.com/lindeloev/morality) - Data and analysis: Morality in the time of Cognitive Famine
+- [smop](https://github.com/victorlei/smop) - Small Matlab to Python compiler
+- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
+- [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package
+- [dog](https://github.com/CamDavidsonPilon/dog) - a simple casual graph evaluator (for experiments)
+- [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [tdigest](https://github.com/CamDavidsonPilon/tdigest) - t-Digest data structure in Python. Useful for percentiles and quantiles, including distributed enviroments like PySpark
+- [lifestyles](https://github.com/CamDavidsonPilon/lifestyles) - Work-In-Progress: conjoint analysis in Python
+- [lifelike](https://github.com/CamDavidsonPilon/lifelike) - WIP predicted survival functions
+- [lifetimes](https://github.com/CamDavidsonPilon/lifetimes) - Lifetime value in Python
+- [demographica](https://github.com/CamDavidsonPilon/demographica) - Analyse US name distributions and create age profiles of your users
+- [pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model
+- [stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
+- [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+- [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+- [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+- [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
+- [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
+- [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
+- [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
+- [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
+- [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file. Also can optionally unstar all backed up repositories.
 - [ELI5](https://github.com/facebookresearch/ELI5) - Scripts and links to recreate the ELI5 dataset.
@@ -973,7 +1041,6 @@
 - [cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [3-MOT](https://github.com/RemiTheWarrior/3-MOT) - 3-MOT is a multi-physics software relying on FEniCS.
 - [scitools](https://github.com/hplgit/scitools) - Additional scientific computing functionality in Python - extensions to NumPy/SciPy++
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [lettuce](https://github.com/gabrielfalcao/lettuce) - Behavior-driven-development tool for python, inspired by Cucumber for Ruby ⛺
 - [behave](https://github.com/behave/behave) - BDD, Python style.
 - [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
@@ -1042,6 +1109,10 @@
 
 ## R 
 
+- [mcp](https://github.com/lindeloev/mcp) - Bayesian inference of Multiple Change Points
+- [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
+- [dashR](https://github.com/plotly/dashR) - An R interface to the Dash ecosystem for authoring reactive web applications
+- [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 - [gpflowr](https://github.com/goldingn/gpflowr) - :blossom: Gaussian processes in TensorFlow via R :blossom:
 - [ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
 - [tibble](https://github.com/tidyverse/tibble) - A modern re-imagining of the data frame
@@ -1068,6 +1139,7 @@
 
 ## Ruby 
 
+- [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [email_reply_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
 - [pdd](https://github.com/yegor256/pdd) - Puzzle Driven Development (PDD) Collector
 - [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
@@ -1170,9 +1242,9 @@
 - [GUIdock](https://github.com/kristiyanto/GUIdock) - Graphical GUI for Docker (Bioconductor, R, Cytoscape, NetworkBMA)
 - [docker-unity3d](https://github.com/nenadg/docker-unity3d) - Docker container for Unity
 
-## Smalltalk 
+## Stata 
 
-- [Koans](https://github.com/hpi-swa-teaching/Koans) - Next-level Koans
+- [MarriageNSFG](https://github.com/AllenDowney/MarriageNSFG) - Repository for a project using NSFG data to explore marriage patterns in the US.
 
 ## Swift 
 
@@ -1201,6 +1273,7 @@
 
 ## TypeScript 
 
+- [dash-table](https://github.com/plotly/dash-table) - A First-Class Interactive DataTable for Dash
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
 - [pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
@@ -1249,13 +1322,7 @@
 ## Vim script 
 
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
-- [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
-
-## Vue 
-
-- [docs](https://github.com/handlebars-lang/docs) - A new documentation site for handlebars.js and the handlebars-language
 
 ## ZIL 
 
