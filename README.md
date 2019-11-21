@@ -39,7 +39,6 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
-  - [ShaderLab](#shaderlab)
   - [Shell](#shell)
   - [Stata](#stata)
   - [Swift](#swift)
@@ -1142,17 +1141,6 @@
 ## Scala 
 
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-
-## ShaderLab 
-
-- [Awesome-Unity-Shader](https://github.com/QianMo/Awesome-Unity-Shader) - :boat: 关于炫酷的Unity3D Shader | About Cool Unity3D Shaders
-- [Unity-ECS-Job-System-SPH](https://github.com/leonardo-montes/Unity-ECS-Job-System-SPH) - Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.
-- [ShaderGraph_ExampleLibrary](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary) - A library of Shaders created using Unity's Shader Graph.
-- [Addressables-Sample](https://github.com/Unity-Technologies/Addressables-Sample) - Demo project using Addressables package
-- [otto](https://github.com/Unity-Technologies/otto) - Otto sample project for the AI Planner
-- [PrefabWorkflows_3DGameKit](https://github.com/UnityTechnologies/PrefabWorkflows_3DGameKit) - Demo Project showing the new Prefab Workflows: Prefab Mode, Editing and Nesting!
-- [PrefabWorkflows_UIDemo](https://github.com/UnityTechnologies/PrefabWorkflows_UIDemo) - 
-- [smeerws-ScriptableObject](https://github.com/HS-Teaching/smeerws-ScriptableObject) - 
 
 ## Shell 
 
