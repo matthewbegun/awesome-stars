@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -49,10 +48,6 @@
   - [Vala](#vala)
   - [Vim script](#vim-script)
   - [ZIL](#zil)
-
-## AutoHotkey 
-
-- [latex-input](https://github.com/clarkgrubb/latex-input) - Enter Unicode characters using LaTeX notation
 
 ## Batchfile 
 
@@ -1252,6 +1247,7 @@
 
 ## TypeScript 
 
+- [vsc-pandoc-markdown-preview](https://github.com/kzvi/vsc-pandoc-markdown-preview) - Preview Markdown files with Pandoc syntax in VS Code
 - [dash-table](https://github.com/plotly/dash-table) - A First-Class Interactive DataTable for Dash
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
