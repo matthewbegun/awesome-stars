@@ -857,11 +857,13 @@
 
 ## Perl 
 
+- [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
 - [termux-stuff](https://github.com/xeffyr/termux-stuff) - Various Termux-related stuff.
 
 ## PowerShell 
 
+- [Console-Docs](https://github.com/MicrosoftDocs/Console-Docs) - Windows Console Docs Repo
 - [DevOpsKitDsc](https://github.com/BernieWhite/DevOpsKitDsc) - Automation resources for working with PowerShell Desired State Configuration (DSC).
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
 - [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
@@ -1171,7 +1173,7 @@
 - [todofi.sh](https://github.com/hugokernel/todofi.sh) - Handle your todo-txt tasks directly from Rofi
 - [Todo](https://github.com/endowdly/Todo) - A PowerShell port of todo.sh
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) - 🙃 A delightful community-driven (with 1,300+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
