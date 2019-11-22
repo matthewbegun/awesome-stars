@@ -94,6 +94,8 @@
 
 ## C# # 
 
+- [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
+- [mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [ExpressionEvaluator](https://github.com/codingseb/ExpressionEvaluator) - A Simple Math and Pseudo C# Expression Evaluator in One C# File. Can also execute small C# like scripts
 - [karma](https://github.com/cgarciae/karma) - An MVC framework for Unity3D
 - [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity
@@ -312,7 +314,7 @@
 - [EnumDispatcher](https://github.com/5argon/EnumDispatcher) - ECS backed C# enums as Flux/Redux action in Unity
 - [OdinHierarchy](https://github.com/5argon/OdinHierarchy) - Pimp your Hierarchy based on pattern matching.
 - [E7Unity](https://github.com/5argon/E7Unity) - Common Unity resources Exceed7 Experiments uses in projects.
-- [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them, plus other Protobuf utilities related to Unity.
+- [protobuf-unity](https://github.com/5argon/protobuf-unity) - Automatic .proto files compilation in Unity project to C# as you edit them, plus utilities.
 - [ecs_life](https://github.com/WiseShards/ecs_life) - Project source code for https://www.wiseshards.com/blog/unity-ecs-entity-component-system-and-job-system/. In this blog post we get our hands on Unity ECS (Entity Component System), Job System, and implement Conway's Game of Life with three different approaches: classic, hybrid and pure ECS. This way you can have a concrete example with a smooth transition from the classic implementation to pure ECS.
 - [hello-cube-ecs-training](https://github.com/Unity-Technologies/hello-cube-ecs-training) - 
 - [samples](https://github.com/dotnet/samples) - Sample code and snippets used in the .NET documentation
@@ -381,6 +383,7 @@
 
 ## CSS 
 
+- [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [cardinalwebdev](https://github.com/charlierguo/cardinalwebdev) - Stanford Web Development Class
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
@@ -413,6 +416,9 @@
 
 ## Dockerfile 
 
+- [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
+- [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
+- [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/pullreminders/slack-action) - GitHub Action for posting Slack messages
 - [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
@@ -448,6 +454,7 @@
 
 ## HTML 
 
+- [design](https://github.com/jupyter/design) - Design related materials for Project Jupyter
 - [shiny-rt](https://github.com/lindeloev/shiny-rt) - Reaction Time Distributions - An Interactive Overview
 - [jpd-pdapr-slides](https://github.com/lgautier/jpd-pdapr-slides) - 
 - [hyperpoly](https://github.com/christianrubiales/hyperpoly) - Interactive technology comparison based on hyperpolyglot.org and influenced by github.com/betaveros/hyperpolymorph.
@@ -505,6 +512,11 @@
 
 ## Java 
 
+- [docosh](https://github.com/rmannibucau/docosh) - 
+- [are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) - Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays
+- [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [pyterpreter](https://github.com/melkamar/pyterpreter) - Python interpreter built on Truffle and Graal VM
+- [graal-polyglot](https://github.com/gomezrondon/graal-polyglot) - testing graal polyglot capabilities with  java + python
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [TDDIntro](https://github.com/BillSchofield/TDDIntro) - 
@@ -544,6 +556,17 @@
 
 ## JavaScript 
 
+- [jquery.graphviz](https://github.com/goinnn/jquery.graphviz) - Animate a svg generated with graphviz
+- [jquery.graphviz.svg](https://github.com/mountainstorm/jquery.graphviz.svg) - jquery plugin to make graphviz svg charts responsive
+- [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
+- [dagre](https://github.com/dagrejs/dagre) - Directed graph layout for JavaScript
+- [viz.js](https://github.com/mdaines/viz.js) - A hack to put Graphviz on the web.
+- [unpkg](https://github.com/mjackson/unpkg) - The CDN for everything on npm
+- [umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere.
+- [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
+- [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
@@ -652,6 +675,24 @@
 
 ## Jupyter Notebook 
 
+- [r_with_python](https://github.com/binder-examples/r_with_python) - Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks
+- [appmode](https://github.com/binder-examples/appmode) - Creating web applications with Jupyter and Binder
+- [remote_storage](https://github.com/binder-examples/remote_storage) - Connecting a Binder repository with data stored remotely.
+- [python-conda_pip](https://github.com/binder-examples/python-conda_pip) - Installing packages with pip and conda
+- [conda](https://github.com/binder-examples/conda) - Specifying a conda environment with `environment.yml`
+- [nix](https://github.com/binder-examples/nix) - Simplest Nix Binderhub example
+- [jupyter-extension](https://github.com/binder-examples/jupyter-extension) - Enabling jupyter extensions for use in Binder
+- [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
+- [requirements](https://github.com/binder-examples/requirements) - Simple requirements.txt based example
+- [ligo-binder](https://github.com/minrk/ligo-binder) - Black holes!
+- [julia-python](https://github.com/binder-examples/julia-python) - Installing Julia and Python environments
+- [multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
+- [wikiwho_demo](https://github.com/gesiscss/wikiwho_demo) - A demonstration of how to use the wikiwho service to complement other external tools
+- [scipy-2016-tutorial](https://github.com/sympy/scipy-2016-tutorial) - SymPy tutorial materials for SciPy 2016
+- [scipy-2017-codegen-tutorial](https://github.com/sympy/scipy-2017-codegen-tutorial) - SymPy code generation tutorial at SciPy 2017
+- [quantum_notebooks](https://github.com/sympy/quantum_notebooks) - Jupyter Notebooks that demonstrate SymPy's symbolic quantum mechanics package.
+- [surveys](https://github.com/jupyter/surveys) - Surveys and datasets collected by Project Jupyter
+- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [matlab_kernel](https://github.com/Calysto/matlab_kernel) - Jupyter Kernel for Matlab
 - [Python-for-Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial in Python targeted at Epidemiologists. Will discuss the basics of analysis in Python 3
 - [PyDataNY_2019_tutorial](https://github.com/CamDavidsonPilon/PyDataNY_2019_tutorial) - Repo for PyData 2019 Tutorial - New Trends in Estimation and Inference
@@ -856,6 +897,7 @@
 
 ## Perl 
 
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
 - [termux-stuff](https://github.com/xeffyr/termux-stuff) - Various Termux-related stuff.
@@ -932,6 +974,27 @@
 
 ## Python 
 
+- [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
+- [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
+- [pep8-naming](https://github.com/PyCQA/pep8-naming) - Naming Convention checker for Python
+- [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
+- [mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
+- [pydocstyle](https://github.com/PyCQA/pydocstyle) - docstring style checker
+- [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
+- [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
+- [sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [pylint](https://github.com/PyCQA/pylint) - It's not just a linter that annoys you!
+- [sphinx-math-dollar](https://github.com/sympy/sphinx-math-dollar) - Sphinx extension to let you write LaTeX math using $$
+- [removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
+- [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
+- [yapf](https://github.com/google/yapf) - A formatter for Python files
+- [graalvm-python-performance](https://github.com/pvginkel/graalvm-python-performance) - GraalVM Python Performance
+- [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
+- [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
+- [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+- [testpath](https://github.com/jupyter/testpath) - Test utilities for Python code working with files and commands
+- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
+- [repo2docker](https://github.com/jupyter/repo2docker) - Turn git repositories into Jupyter enabled Docker Images
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
 - [imatlab](https://github.com/imatlab/imatlab) - A Jupyter kernel for MATLAB.
@@ -1114,6 +1177,8 @@
 
 ## Ruby 
 
+- [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
+- [truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [email_reply_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
 - [pdd](https://github.com/yegor256/pdd) - Puzzle Driven Development (PDD) Collector
@@ -1144,6 +1209,10 @@
 
 ## Shell 
 
+- [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
+- [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
+- [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
+- [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [reproducible-os-environments](https://github.com/ickc/reproducible-os-environments) - Automate installation of softwares on freshly installed OS — macOS, Ubuntu
 - [Todo](https://github.com/endowdly/Todo) - A PowerShell port of todo.sh
