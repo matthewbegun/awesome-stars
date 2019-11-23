@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [ANTLR](#antlr)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -48,6 +49,10 @@
   - [Vim script](#vim-script)
   - [ZIL](#zil)
 
+## ANTLR 
+
+- [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
 ## Batchfile 
 
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
@@ -55,6 +60,7 @@
 
 ## C 
 
+- [Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction](https://github.com/olixbridge/Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction) - This is a Summer Research collaboration with professor Nathaniel Osgood's lab on Public Health and Epidimology, University of Saskachewan. PMCMC stands for Particle Markov Chain Monte Carlo. PF stands for Particle Filtering. My two main projects are on "applying PF to predict disease outburst" and "use PMCMC to model remind population"
 - [timereg](https://github.com/scheike/timereg) - timereg R package, survival analysis methods
 - [haven](https://github.com/tidyverse/haven) - Read SPSS, Stata and SAS files from R
 - [subversion](https://github.com/apache/subversion) - Mirror of Apache Subversion
@@ -353,6 +359,7 @@
 
 ## C++ 
 
+- [XmlDiff](https://github.com/acforu/XmlDiff) - xml diff tool based on data instead of text
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
@@ -454,6 +461,9 @@
 
 ## HTML 
 
+- [hairdressers](https://github.com/zeionara/hairdressers) - Kursach for 'modeling' discipline
+- [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
+- [mathblogging.org](https://github.com/mathblogging/mathblogging.org) - The new home for mathblogging.org
 - [design](https://github.com/jupyter/design) - Design related materials for Project Jupyter
 - [shiny-rt](https://github.com/lindeloev/shiny-rt) - Reaction Time Distributions - An Interactive Overview
 - [jpd-pdapr-slides](https://github.com/lgautier/jpd-pdapr-slides) - 
@@ -512,6 +522,8 @@
 
 ## Java 
 
+- [jlatexmath](https://github.com/opencollab/jlatexmath) - A Java API to render LaTeX
+- [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [docosh](https://github.com/rmannibucau/docosh) - 
 - [are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) - Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays
 - [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
@@ -556,6 +568,12 @@
 
 ## JavaScript 
 
+- [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
+- [asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
+- [vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [svg-crowbar](https://github.com/nytimes/svg-crowbar) - Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.
+- [svg-grabber](https://github.com/ngti/svg-grabber) - Open source chrome extension to quickly preview, download or copy inline or embedded SVG images from a website
 - [jquery.graphviz](https://github.com/goinnn/jquery.graphviz) - Animate a svg generated with graphviz
 - [jquery.graphviz.svg](https://github.com/mountainstorm/jquery.graphviz.svg) - jquery plugin to make graphviz svg charts responsive
 - [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
@@ -675,6 +693,8 @@
 
 ## Jupyter Notebook 
 
+- [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
+- [sustainable-energy-transitions](https://github.com/csaladenes/sustainable-energy-transitions) - Code behind the Sustainable Energy Transitions (SET) model + Project Website
 - [r_with_python](https://github.com/binder-examples/r_with_python) - Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks
 - [appmode](https://github.com/binder-examples/appmode) - Creating web applications with Jupyter and Binder
 - [remote_storage](https://github.com/binder-examples/remote_storage) - Connecting a Binder repository with data stored remotely.
@@ -730,6 +750,7 @@
 
 ## MATLAB 
 
+- [NSV_MILP_assignment](https://github.com/Dymsia/NSV_MILP_assignment) - North West Corner method, MILP assignment with capacity
 - [MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
 - [matlab-snippets](https://github.com/trnkap/matlab-snippets) - Code snippets for the Matlab editor.
 - [gpstuff](https://github.com/gpstuff-dev/gpstuff) - GPstuff - Gaussian process models for Bayesian analysis
@@ -754,6 +775,19 @@
 
 ## Others 
 
+- [ovgu-course-introduction-to-simulation](https://github.com/sayederfanarefin/ovgu-course-introduction-to-simulation) - Simulation Course assignments using AnyLogic
+- [agent-based-simulations](https://github.com/DigiPie/agent-based-simulations) - Agent-based-simulations developed using AnyLogic.
+- [IceCreamStoreSimulation](https://github.com/erenulas/IceCreamStoreSimulation) - Simulation of an ice cream store using AnyLogic
+- [Simulation-Model-for-Quality-and-Order-Management-in-Global-Production-Network](https://github.com/StefanTreber/Simulation-Model-for-Quality-and-Order-Management-in-Global-Production-Network) - Modular System to Reduce the Implementation Time of Simulation Models for Quality and Order Management in Global Production Networks, Research Project PlanQ http://www.qualitaet-netzwerk.de/
+- [UIL.Tml](https://github.com/Quar/UIL.Tml) - An AnyLogic library to support decision making on power utility expansion
+- [AnyLogic-Stuff](https://github.com/SVenkatesn/AnyLogic-Stuff) - 
+- [anyLogicSimulation](https://github.com/hestonst/anyLogicSimulation) - A collection of industrial simulation scenarios written in the AnyLogic modeling environment
+- [Simulation](https://github.com/osya/Simulation) - StarLogo & AnyLogic Simulation Models created during seminars http://www.empatika.com/blog/agent-modeling-hse
+- [DaCSim](https://github.com/bjornpostema/DaCSim) - DaCSim: A Data Centre Simulation Framework
+- [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
+- [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
+- [gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
 - [bayes_factors](https://github.com/lindeloev/bayes_factors) - How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
@@ -974,6 +1008,21 @@
 
 ## Python 
 
+- [restructuredtext](https://github.com/lextm/restructuredtext) - restructuredtext.net contents
+- [xmldiff](https://github.com/Shoobx/xmldiff) - A library and command line utility for diffing xml
+- [warehouse](https://github.com/pypa/warehouse) - The Python Package Repository
+- [pytest-watch](https://github.com/joeyespo/pytest-watch) - Local continuous test runner with pytest and watchdog.
+- [pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
+- [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
+- [py-sorting](https://github.com/gwtw/py-sorting) - A collection of sorting algorithms written in Python.
+- [readable-pylint-messages](https://github.com/janjur/readable-pylint-messages) - List of pylint human readable message ids and dev readable codes
+- [tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool
+- [blackcellmagic](https://github.com/csurfer/blackcellmagic) - IPython magic command to format python code in cell using black.
+- [pyls-black](https://github.com/rupert/pyls-black) - Black plugin for the Python Language Server
+- [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+- [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
+- [plantuml-markdown](https://github.com/mikitex70/plantuml-markdown) - PlantUML plugin for Python-Markdown
 - [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
 - [pep8-naming](https://github.com/PyCQA/pep8-naming) - Naming Convention checker for Python
@@ -1205,6 +1254,7 @@
 
 ## Scala 
 
+- [gitbucket-plantuml-plugin](https://github.com/nus/gitbucket-plantuml-plugin) - A GitBucket plugin that renders PlantUML diagrams.
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
@@ -1260,6 +1310,7 @@
 
 ## TeX 
 
+- [bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [PHYS566_group4_projects](https://github.com/tahoeschrader/PHYS566_group4_projects) - This is a group project for PHYS566 at Duke University. The group members are Tahoe, Ksenia, and Xinmeng. We are studying random walks, the diffusion equation, and cluster growth using Python.
 - [unicode-math](https://github.com/wspr/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
@@ -1281,6 +1332,8 @@
 
 ## TypeScript 
 
+- [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
+- [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [vsc-pandoc-markdown-preview](https://github.com/kzvi/vsc-pandoc-markdown-preview) - Preview Markdown files with Pandoc syntax in VS Code
 - [dash-table](https://github.com/plotly/dash-table) - A First-Class Interactive DataTable for Dash
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
