@@ -461,6 +461,7 @@
 
 ## HTML 
 
+- [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [hairdressers](https://github.com/zeionara/hairdressers) - Kursach for 'modeling' discipline
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [mathblogging.org](https://github.com/mathblogging/mathblogging.org) - The new home for mathblogging.org
@@ -568,6 +569,8 @@
 
 ## JavaScript 
 
+- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
@@ -938,6 +941,10 @@
 
 ## PowerShell 
 
+- [PowerYDL](https://github.com/packetpunter/PowerYDL) - A powershell module that wraps some basic functionality around youtube-dl
+- [VideoScripts](https://github.com/wormeyman/VideoScripts) - PowerShell Scripts I use to make my video life easier.
+- [Powershell-youtube-dl-GUI](https://github.com/HimbeersaftLP/Powershell-youtube-dl-GUI) - GUI for youtube-dl powered by PowerShell and Windows Forms
+- [PowerShell-Youtube-dl](https://github.com/mpb10/PowerShell-Youtube-dl) - A PowerShell script interface used to operate the youtube-dl command line program.
 - [Console-Docs](https://github.com/MicrosoftDocs/Console-Docs) - Windows Console Docs Repo
 - [DevOpsKitDsc](https://github.com/BernieWhite/DevOpsKitDsc) - Automation resources for working with PowerShell Desired State Configuration (DSC).
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
@@ -1008,6 +1015,7 @@
 
 ## Python 
 
+- [psiTurk](https://github.com/NYUCCL/psiTurk) - An open platform for science on Amazon Mechanical Turk.
 - [restructuredtext](https://github.com/lextm/restructuredtext) - restructuredtext.net contents
 - [xmldiff](https://github.com/Shoobx/xmldiff) - A library and command line utility for diffing xml
 - [warehouse](https://github.com/pypa/warehouse) - The Python Package Repository
@@ -1332,6 +1340,7 @@
 
 ## TypeScript 
 
+- [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [vsc-pandoc-markdown-preview](https://github.com/kzvi/vsc-pandoc-markdown-preview) - Preview Markdown files with Pandoc syntax in VS Code
