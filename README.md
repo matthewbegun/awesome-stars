@@ -696,6 +696,7 @@
 
 ## Jupyter Notebook 
 
+- [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability
 - [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
 - [sustainable-energy-transitions](https://github.com/csaladenes/sustainable-energy-transitions) - Code behind the Sustainable Energy Transitions (SET) model + Project Website
 - [r_with_python](https://github.com/binder-examples/r_with_python) - Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks
@@ -796,7 +797,6 @@
 - [awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 - [AgentConnectionsExample](https://github.com/BenjaminSchumann/AgentConnectionsExample) - Example AnyLogic model used for my blogpost
 - [BoatAttack](https://github.com/Unity-Technologies/BoatAttack) - Demo Project using the Universal RP from Unity3D
-- [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
 - [my-termux-setup](https://github.com/mskian/my-termux-setup) - Here is My Termux Terminal Emulator Setup & Packages
 - [termux-x](https://github.com/Hax4us/termux-x) - it is unofficial repository maintained by me @hax4us. you can check available packages in README
 - [Awesome-Termux](https://github.com/T4P4N/Awesome-Termux) - Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...
@@ -1015,6 +1015,8 @@
 
 ## Python 
 
+- [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
+- [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
 - [psiTurk](https://github.com/NYUCCL/psiTurk) - An open platform for science on Amazon Mechanical Turk.
 - [restructuredtext](https://github.com/lextm/restructuredtext) - restructuredtext.net contents
 - [xmldiff](https://github.com/Shoobx/xmldiff) - A library and command line utility for diffing xml
@@ -1273,6 +1275,7 @@
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [reproducible-os-environments](https://github.com/ickc/reproducible-os-environments) - Automate installation of softwares on freshly installed OS — macOS, Ubuntu
+- [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
 - [Todo](https://github.com/endowdly/Todo) - A PowerShell port of todo.sh
 - [gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
@@ -1294,7 +1297,7 @@
 - [kiss-literate-programming](https://github.com/fibo/kiss-literate-programming) - is a minimal literate programming boilerplate
 - [manubot-awesome-list](https://github.com/agitter/manubot-awesome-list) - Proof of concept for creating awesome lists with Manubot
 - [docker-pandoc](https://github.com/silvio/docker-pandoc) - Dockerimage for the great pandoc with inotify based server
-- [pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, fonts, and the latex bazaar
+- [pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
 - [pandoc-thesis](https://github.com/mabl/pandoc-thesis) - Simple example on how to write a thesis in markdown with Pandoc
 - [zsh-pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Antigen plugin for pandoc
 - [fish-completion-pandoc](https://github.com/dsanson/fish-completion-pandoc) - fish completion script for pandoc
