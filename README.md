@@ -47,7 +47,9 @@
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
+  - [Web Ontology Language](#web-ontology-language)
   - [ZIL](#zil)
+  - [sed](#sed)
 
 ## ANTLR 
 
@@ -340,7 +342,7 @@
 - [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code
 - [EntityComponentSystemSamples](https://github.com/Unity-Technologies/EntityComponentSystemSamples) - 
 - [Advanced-Scriptable-Object](https://github.com/JoshuaLM114/Advanced-Scriptable-Object) - 
-- [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics) - A prototype of a C# math library providing vector types and math functions with a shader like syntax
+- [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics) - The C# math library used in Unity providing vector types and math functions with a shader like syntax
 - [software-engineering-project](https://github.com/Kiloyd/software-engineering-project) - 
 - [SuperCow---Mutant-Adventure](https://github.com/KrzysiekZakrzewski/SuperCow---Mutant-Adventure) - 3D game about super hero cow and his adventure.
 - [UnityRpgOverworldBattleExample](https://github.com/ickybodclay/UnityRpgOverworldBattleExample) - A minimalist example of how to transition back and forth between an overworld state and a battle state and persist basic character information.
@@ -390,6 +392,7 @@
 
 ## CSS 
 
+- [xsite](https://github.com/x-stream/xsite) - 
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [cardinalwebdev](https://github.com/charlierguo/cardinalwebdev) - Stanford Web Development Class
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
@@ -509,6 +512,7 @@
 
 ## Haskell 
 
+- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [hyperpolymorph](https://github.com/betaveros/hyperpolymorph) - A flexible multi-language cheat sheet based on hyperpolyglot.org
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
 - [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
@@ -523,6 +527,14 @@
 
 ## Java 
 
+- [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+- [jackson-dataformats-text](https://github.com/FasterXML/jackson-dataformats-text) - Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)
+- [vavr](https://github.com/vavr-io/vavr) - VAVR (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
+- [jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
+- [json-simple](https://github.com/fangyidong/json-simple) - A simple Java toolkit for JSON. You can use json-simple to encode or decode JSON text.
+- [xstream](https://github.com/x-stream/xstream) - Serialize Java objects to XML and back again.
+- [jackson-dataformat-xml](https://github.com/FasterXML/jackson-dataformat-xml) - Extension for Jackson JSON processor that adds support for serializing POJOs as XML (and deserializing from XML) as an alternative to JSON
 - [jlatexmath](https://github.com/opencollab/jlatexmath) - A Java API to render LaTeX
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [docosh](https://github.com/rmannibucau/docosh) - 
@@ -569,6 +581,11 @@
 
 ## JavaScript 
 
+- [write-good](https://github.com/btford/write-good) - Naive linter for English prose
+- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+- [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
+- [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
 - [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
@@ -779,6 +796,10 @@
 
 ## Others 
 
+- [linters](https://github.com/mcandre/linters) - an introduction to static code analysis
+- [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
+- [jackson-docs](https://github.com/FasterXML/jackson-docs) - Documentation for the Jackson JSON processor.
+- [jackson](https://github.com/FasterXML/jackson) - Main Portal page for the Jackson project
 - [ovgu-course-introduction-to-simulation](https://github.com/sayederfanarefin/ovgu-course-introduction-to-simulation) - Simulation Course assignments using AnyLogic
 - [agent-based-simulations](https://github.com/DigiPie/agent-based-simulations) - Agent-based-simulations developed using AnyLogic.
 - [IceCreamStoreSimulation](https://github.com/erenulas/IceCreamStoreSimulation) - Simulation of an ice cream store using AnyLogic
@@ -1015,6 +1036,14 @@
 
 ## Python 
 
+- [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
+- [mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
+- [proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [Pyckson](https://github.com/antidot/Pyckson) - A simple python library to serialize python objects to json
+- [gvgen](https://github.com/stricaud/gvgen) - Graphviz Python dot generator
+- [python-graph](https://github.com/Shoobx/python-graph) - Automatically exported from code.google.com/p/python-graph
+- [pydot](https://github.com/pydot/pydot) - Python interface to Graphviz's Dot language
+- [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language.
 - [heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
 - [pymc3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
 - [psiTurk](https://github.com/NYUCCL/psiTurk) - An open platform for science on Amazon Mechanical Turk.
@@ -1159,7 +1188,7 @@
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) - Unity IL2CPP Disassembler (for apk)
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
-- [tldr](https://github.com/tldr-pages/tldr) - :books: Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [unicode-math-vscode](https://github.com/gatapia/unicode-math-vscode) - Easy insertion of unicode math symbols
 - [CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [panflute-filters](https://github.com/sergiocorreia/panflute-filters) - Pandoc filters that use Panflute
@@ -1269,6 +1298,7 @@
 
 ## Shell 
 
+- [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
@@ -1343,6 +1373,7 @@
 
 ## TypeScript 
 
+- [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
@@ -1398,9 +1429,17 @@
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
 
+## Web Ontology Language 
+
+- [ontology](https://github.com/probonto/ontology) - 
+
 ## ZIL 
 
 - [hitchhikersguide](https://github.com/historicalsource/hitchhikersguide) - The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas Adams (Infocom)
+
+## sed 
+
+- [misspell-fixer](https://github.com/vlajos/misspell-fixer) - Simple tool for fixing common misspellings, typos in source code
 
 
 ## License
