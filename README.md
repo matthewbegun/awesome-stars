@@ -47,6 +47,7 @@
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
   - [Web Ontology Language](#web-ontology-language)
   - [ZIL](#zil)
   - [sed](#sed)
@@ -58,7 +59,6 @@
 ## Batchfile 
 
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
-- [markdown-guide](https://github.com/tajmone/markdown-guide) - The Markdown Guide for the Perplexed
 
 ## C 
 
@@ -102,6 +102,7 @@
 
 ## C# # 
 
+- [plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [ExpressionEvaluator](https://github.com/codingseb/ExpressionEvaluator) - A Simple Math and Pseudo C# Expression Evaluator in One C# File. Can also execute small C# like scripts
@@ -392,6 +393,8 @@
 
 ## CSS 
 
+- [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
+- [markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [xsite](https://github.com/x-stream/xsite) - 
 - [progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
 - [cardinalwebdev](https://github.com/charlierguo/cardinalwebdev) - Stanford Web Development Class
@@ -460,10 +463,14 @@
 
 ## Groovy 
 
+- [cicon-plantuml-sprites](https://github.com/rabelenda/cicon-plantuml-sprites) - PlantUML sprites generated from Cloudinsight icons (https://github.com/cloudinsight/cicon)
 - [parcl](https://github.com/mini2Dx/parcl) - Gradle plugin for bundling your Java application for distribution on Windows, Mac and Linux
 
 ## HTML 
 
+- [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
+- [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
+- [website](https://github.com/swcarpentry/website) - Software Carpentry website
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [hairdressers](https://github.com/zeionara/hairdressers) - Kursach for 'modeling' discipline
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
@@ -527,6 +534,11 @@
 
 ## Java 
 
+- [java-quickstart](https://github.com/structurizr/java-quickstart) - A starting point for using Structurizr for Java
+- [java](https://github.com/structurizr/java) - Structurizr for Java
+- [kroki](https://github.com/yuzutech/kroki) - Convert plain text diagrams to images !
+- [plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
+- [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
 - [jackson-dataformats-text](https://github.com/FasterXML/jackson-dataformats-text) - Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)
@@ -581,6 +593,7 @@
 
 ## JavaScript 
 
+- [serverless-graphql-microservices](https://github.com/softchris/serverless-graphql-microservices) - a workshop that teaches serverless, graphql and microservices
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
@@ -713,6 +726,8 @@
 
 ## Jupyter Notebook 
 
+- [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
+- [lab-workshops](https://github.com/YaleDHLab/lab-workshops) - Materials for workshops on text mining, machine learning, and data visualization
 - [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability
 - [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
 - [sustainable-energy-transitions](https://github.com/csaladenes/sustainable-energy-transitions) - Code behind the Sustainable Energy Transitions (SET) model + Project Website
@@ -796,6 +811,13 @@
 
 ## Others 
 
+- [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
+- [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
+- [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4600+ Material Design Icons from the Community
+- [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
+- [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+- [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [linters](https://github.com/mcandre/linters) - an introduction to static code analysis
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
 - [jackson-docs](https://github.com/FasterXML/jackson-docs) - Documentation for the Jackson JSON processor.
@@ -805,9 +827,7 @@
 - [IceCreamStoreSimulation](https://github.com/erenulas/IceCreamStoreSimulation) - Simulation of an ice cream store using AnyLogic
 - [Simulation-Model-for-Quality-and-Order-Management-in-Global-Production-Network](https://github.com/StefanTreber/Simulation-Model-for-Quality-and-Order-Management-in-Global-Production-Network) - Modular System to Reduce the Implementation Time of Simulation Models for Quality and Order Management in Global Production Networks, Research Project PlanQ http://www.qualitaet-netzwerk.de/
 - [UIL.Tml](https://github.com/Quar/UIL.Tml) - An AnyLogic library to support decision making on power utility expansion
-- [AnyLogic-Stuff](https://github.com/SVenkatesn/AnyLogic-Stuff) - 
 - [anyLogicSimulation](https://github.com/hestonst/anyLogicSimulation) - A collection of industrial simulation scenarios written in the AnyLogic modeling environment
-- [Simulation](https://github.com/osya/Simulation) - StarLogo & AnyLogic Simulation Models created during seminars http://www.empatika.com/blog/agent-modeling-hse
 - [DaCSim](https://github.com/bjornpostema/DaCSim) - DaCSim: A Data Centre Simulation Framework
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
@@ -981,9 +1001,9 @@
 - [extractUserPst](https://github.com/dataweapons/extractUserPst) - Extract user outlook email into a PST with admin creds.
 - [Powershell-Scripts](https://github.com/gscales/Powershell-Scripts) - 
 - [PSDesiredStateConfiguration.Reverse](https://github.com/microsoft/PSDesiredStateConfiguration.Reverse) - Extracts a PowerShell DSC Script from an existing environment
-- [ComputerManagementDsc](https://github.com/PowerShell/ComputerManagementDsc) - 
+- [ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - 
 - [PSDscResources](https://github.com/PowerShell/PSDscResources) - 
-- [xPSDesiredStateConfiguration](https://github.com/PowerShell/xPSDesiredStateConfiguration) - 
+- [xPSDesiredStateConfiguration](https://github.com/dsccommunity/xPSDesiredStateConfiguration) - 
 - [PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the Package Manager for PowerShell
 - [ReverseDSC](https://github.com/microsoft/ReverseDSC) - Utility Library that Handles the Extraction of a DSC configuration script from an existing environment
 - [Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
@@ -1036,6 +1056,15 @@
 
 ## Python 
 
+- [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+- [python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
+- [python-basics-exercises](https://github.com/realpython/python-basics-exercises) - Python Basics: A Practical Introduction to Python 3
+- [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
+- [IPlantUML](https://github.com/jbn/IPlantUML) - A Python package which defines a PlantUML cell magic for IPython.
+- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - Generate Plantuml graphs from docker-compose files
+- [pandoc-plantuml-filter](https://github.com/timofurrer/pandoc-plantuml-filter) - Pandoc filter for PlantUML code blocks
+- [handbook](https://github.com/carpentries/handbook) - Community Documentation for the Carpentries
+- [python-testing](https://github.com/katyhuff/python-testing) - Holds testing section, a 4-hour workshop session on testing and continuous integration.
 - [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [mwic](https://github.com/jwilk/mwic) - Misspelled Words In Context
 - [proselint](https://github.com/amperser/proselint) - A linter for prose.
@@ -1293,11 +1322,12 @@
 
 ## Scala 
 
-- [gitbucket-plantuml-plugin](https://github.com/nus/gitbucket-plantuml-plugin) - A GitBucket plugin that renders PlantUML diagrams.
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
+- [plantuml-kubernetes-sprites](https://github.com/michiel/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
+- [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Vagrant, VirtualBox, Ansible, Kubernetes, K3s, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec...
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
@@ -1373,6 +1403,7 @@
 
 ## TypeScript 
 
+- [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
 - [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
@@ -1428,6 +1459,10 @@
 
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
+
+## Vue 
+
+- [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 
 ## Web Ontology Language 
 
