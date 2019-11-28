@@ -102,6 +102,7 @@
 
 ## C# # 
 
+- [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
@@ -519,6 +520,7 @@
 
 ## Haskell 
 
+- [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [hyperpolymorph](https://github.com/betaveros/hyperpolymorph) - A flexible multi-language cheat sheet based on hyperpolyglot.org
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
@@ -534,6 +536,8 @@
 
 ## Java 
 
+- [spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
+- [java-extensions](https://github.com/structurizr/java-extensions) - Structurizr for Java extensions
 - [java-quickstart](https://github.com/structurizr/java-quickstart) - A starting point for using Structurizr for Java
 - [java](https://github.com/structurizr/java) - Structurizr for Java
 - [kroki](https://github.com/yuzutech/kroki) - Convert plain text diagrams to images !
@@ -541,6 +545,7 @@
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+- [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [jackson-dataformats-text](https://github.com/FasterXML/jackson-dataformats-text) - Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)
 - [vavr](https://github.com/vavr-io/vavr) - VAVR (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
@@ -593,6 +598,15 @@
 
 ## JavaScript 
 
+- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
+- [EduBlocks](https://github.com/AllAboutCode/EduBlocks) - Drag and drop coding tool for creating Python programs
+- [scratchjr](https://github.com/LLK/scratchjr) - With ScratchJr, young children (ages 5-7) can program their own interactive stories and games.
+- [scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
+- [scratch-blocks](https://github.com/LLK/scratch-blocks) - Scratch Blocks is a library for building creative computing interfaces.
+- [ace](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor)
+- [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [serverless-graphql-microservices](https://github.com/softchris/serverless-graphql-microservices) - a workshop that teaches serverless, graphql and microservices
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
@@ -982,6 +996,8 @@
 
 ## PowerShell 
 
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
+- [azure-devtestlab](https://github.com/Azure/azure-devtestlab) - Azure DevTestLab artifacts, scripts and samples
 - [PowerYDL](https://github.com/packetpunter/PowerYDL) - A powershell module that wraps some basic functionality around youtube-dl
 - [VideoScripts](https://github.com/wormeyman/VideoScripts) - PowerShell Scripts I use to make my video life easier.
 - [Powershell-youtube-dl-GUI](https://github.com/HimbeersaftLP/Powershell-youtube-dl-GUI) - GUI for youtube-dl powered by PowerShell and Windows Forms
@@ -1326,6 +1342,9 @@
 
 ## Shell 
 
+- [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
+- [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
+- [C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [plantuml-kubernetes-sprites](https://github.com/michiel/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Vagrant, VirtualBox, Ansible, Kubernetes, K3s, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec...
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -1403,8 +1422,8 @@
 
 ## TypeScript 
 
+- [automutate](https://github.com/automutate/automutate) - Applies waves of mutations provided by other tools, such as linters or codemods.
 - [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
-- [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
