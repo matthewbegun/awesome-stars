@@ -363,6 +363,7 @@
 
 ## C++ 
 
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [XmlDiff](https://github.com/acforu/XmlDiff) - xml diff tool based on data instead of text
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
@@ -598,6 +599,12 @@
 
 ## JavaScript 
 
+- [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
+- [puml2code](https://github.com/jupe/puml2code) - PlantUML code generator
+- [diagrams](https://github.com/francoislaberge/diagrams) - Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
+- [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
@@ -631,7 +638,6 @@
 - [mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
-- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
 - [shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
@@ -825,6 +831,7 @@
 
 ## Others 
 
+- [RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
@@ -1072,6 +1079,9 @@
 
 ## Python 
 
+- [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
+- [pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python
+- [napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
 - [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 - [python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
 - [python-basics-exercises](https://github.com/realpython/python-basics-exercises) - Python Basics: A Practical Introduction to Python 3
@@ -1127,7 +1137,7 @@
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [testpath](https://github.com/jupyter/testpath) - Test utilities for Python code working with files and commands
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
-- [repo2docker](https://github.com/jupyter/repo2docker) - Turn git repositories into Jupyter enabled Docker Images
+- [repo2docker](https://github.com/jupyter/repo2docker) - Turn repositories into Jupyter enabled Docker Images
 - [matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
 - [imatlab](https://github.com/imatlab/imatlab) - A Jupyter kernel for MATLAB.
