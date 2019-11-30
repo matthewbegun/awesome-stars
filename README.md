@@ -1243,7 +1243,6 @@
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) - Unity IL2CPP Disassembler (for apk)
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [unicode-math-vscode](https://github.com/gatapia/unicode-math-vscode) - Easy insertion of unicode math symbols
 - [CriticMarkup-toolkit](https://github.com/CriticMarkup/CriticMarkup-toolkit) - Various tools to use CriticMarkup in your daily workflow
 - [panflute-filters](https://github.com/sergiocorreia/panflute-filters) - Pandoc filters that use Panflute
@@ -1290,7 +1289,7 @@
 
 ## R 
 
-- [mcp](https://github.com/lindeloev/mcp) - Bayesian inference of Multiple Change Points
+- [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
 - [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
 - [dashR](https://github.com/plotly/dashR) - An R interface to the Dash ecosystem for authoring reactive web applications
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
@@ -1378,6 +1377,7 @@
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
 - [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [vglcygsetup](https://github.com/VirtualGL/vglcygsetup) - Script to facilitate installing the VirtualGL Client under Cygwin (since the procedure at http://www.virtualgl.org/Documentation/Cygwin no longer works)
 - [lit](https://github.com/spro/lit) - Literate programming for any language. It's 🔥.
