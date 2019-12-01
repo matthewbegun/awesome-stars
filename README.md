@@ -62,6 +62,8 @@
 
 ## C 
 
+- [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
+- [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction](https://github.com/olixbridge/Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction) - This is a Summer Research collaboration with professor Nathaniel Osgood's lab on Public Health and Epidimology, University of Saskachewan. PMCMC stands for Particle Markov Chain Monte Carlo. PF stands for Particle Filtering. My two main projects are on "applying PF to predict disease outburst" and "use PMCMC to model remind population"
 - [timereg](https://github.com/scheike/timereg) - timereg R package, survival analysis methods
 - [haven](https://github.com/tidyverse/haven) - Read SPSS, Stata and SAS files from R
@@ -599,6 +601,7 @@
 
 ## JavaScript 
 
+- [DontTouchMyTabs](https://github.com/JeroenSwen/DontTouchMyTabs) - A WebExtension that adds the rel=noopener attribute to all hyperlinks that have the target="_blank" attribute (excluding same-domain hyperlinks).
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
@@ -1079,6 +1082,8 @@
 
 ## Python 
 
+- [wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
+- [pytwister](https://github.com/ofajardo/pytwister) - Python with a twist of R syntax
 - [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python
 - [napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
