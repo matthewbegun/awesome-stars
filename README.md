@@ -104,6 +104,7 @@
 
 ## C# # 
 
+- [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
@@ -601,6 +602,8 @@
 
 ## JavaScript 
 
+- [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
+- [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [DontTouchMyTabs](https://github.com/JeroenSwen/DontTouchMyTabs) - A WebExtension that adds the rel=noopener attribute to all hyperlinks that have the target="_blank" attribute (excluding same-domain hyperlinks).
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
@@ -1082,6 +1085,8 @@
 
 ## Python 
 
+- [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
+- [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
 - [pytwister](https://github.com/ofajardo/pytwister) - Python with a twist of R syntax
 - [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
