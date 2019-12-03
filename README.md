@@ -6,6 +6,7 @@
 ## Contents
 
   - [ANTLR](#antlr)
+  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -55,6 +56,10 @@
 ## ANTLR 
 
 - [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
+## AutoHotkey 
+
+- [CHotkeyControl](https://github.com/evilC/CHotkeyControl) - 
 
 ## Batchfile 
 
@@ -182,7 +187,6 @@
 - [ArcadeSpaceFlightExample](https://github.com/brihernandez/ArcadeSpaceFlightExample) - Simple example of arcade style space sim flight physics.
 - [BurstBenchmarks](https://github.com/nxrighthere/BurstBenchmarks) - Benchmarking Burst/IL2CPP against GCC/Clang machine code
 - [FreelancerFlightExample](https://github.com/brihernandez/FreelancerFlightExample) - Spaceship flight in a similar style to Freelancer
-- [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
 - [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
 - [StyleCop.ReSharper](https://github.com/StyleCop/StyleCop.ReSharper) - Official ReSharper extension for StyleCop
 - [StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
@@ -233,7 +237,7 @@
 - [UnityTimelineTutorial](https://github.com/ajingu/UnityTimelineTutorial) - Unity Timeline(Signals, Self-made Marker) Tutorial
 - [UnitySignals](https://github.com/Kalinovych/UnitySignals) - 
 - [Signals](https://github.com/paulhayes/Signals) - Small Unity library that allows decoupled scripts to communicate events to each other easily.
-- [Unity3d-Signals](https://github.com/dimmpixeye/Unity3d-Signals) - Signals are in-memory publish/subscribe system and effectively replace Unity3d SendMessage
+- [Unity3d-Signals](https://github.com/PixeyeHQ/Unity3d-Signals) - Signals are in-memory publish/subscribe system and effectively replace Unity3d SendMessage
 - [Relay](https://github.com/SixWays/Relay) - Fast, powerful, GC-friendly C# signals/events for Unity.
 - [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
 - [unity-signals](https://github.com/jheiling/unity-signals) - Signals for Unity3D
@@ -277,6 +281,7 @@
 - [FontainebleauDemo](https://github.com/Unity-Technologies/FontainebleauDemo) - Fontainebleau demo
 - [Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters) - Unity Standard Asset Controllers
 - [InputSystem](https://github.com/Unity-Technologies/InputSystem) - An efficient and versatile input system for Unity.
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [Minefield](https://github.com/5argon/Minefield) - Program a concise navigation play mode test in Unity.
 - [Puppetry](https://github.com/TestUnitLab/Puppetry) - Framework for automated UI testing of Unity3d application
 - [trilleon](https://github.com/disruptorbeam/trilleon) - Automate all the things.
@@ -366,6 +371,7 @@
 
 ## C++ 
 
+- [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [XmlDiff](https://github.com/acforu/XmlDiff) - xml diff tool based on data instead of text
 - [tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
@@ -540,6 +546,7 @@
 
 ## Java 
 
+- [cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
 - [spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [java-extensions](https://github.com/structurizr/java-extensions) - Structurizr for Java extensions
 - [java-quickstart](https://github.com/structurizr/java-quickstart) - A starting point for using Structurizr for Java
@@ -837,6 +844,7 @@
 
 ## Others 
 
+- [tidy-stats-in-R](https://github.com/jthomasmock/tidy-stats-in-R) - Code and data for Tidy Stats in R blogpost
 - [RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
@@ -953,6 +961,7 @@
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [nvidia-virtualgl](https://github.com/plumbee/nvidia-virtualgl) - Base docker image to be ran with nvidia-docker
 - [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
+- [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
 - [awesome-scientific-writing](https://github.com/ashwinvis/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 - [markdown-styleguide](https://github.com/notslang/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [markdown-styleguide](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown
@@ -1085,6 +1094,9 @@
 
 ## Python 
 
+- [pytest_tutorial](https://github.com/shashikumarraja/pytest_tutorial) - 
+- [ISCPP](https://github.com/simondlevy/ISCPP) - Introduction to Scientific Computing and Programming in Python
+- [sniffer](https://github.com/jeffh/sniffer) - Python auto testing tool.
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [wheel](https://github.com/pypa/wheel) - The official binary distribution format for Python
@@ -1272,7 +1284,6 @@
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
 - [OpenKE](https://github.com/Unity-Technologies/OpenKE) - An Open-Source Package for Knowledge Embedding (KE)
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [uberdoc](https://github.com/sbrosinski/uberdoc) - Uberdoc is a wrapper script for pandoc which provides a build system for large documents
 - [pandoc-watch](https://github.com/dloureiro/pandoc-watch) - A simple watch to call the pandoc command with the provided arguments when a file/folder modification is detected
@@ -1299,6 +1310,7 @@
 
 ## R 
 
+- [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
 - [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
 - [dashR](https://github.com/plotly/dashR) - An R interface to the Dash ecosystem for authoring reactive web applications
@@ -1351,7 +1363,7 @@
 ## Rust 
 
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
-- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts.
+- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 
@@ -1420,6 +1432,7 @@
 
 ## TeX 
 
+- [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [PHYS566_group4_projects](https://github.com/tahoeschrader/PHYS566_group4_projects) - This is a group project for PHYS566 at Duke University. The group members are Tahoe, Ksenia, and Xinmeng. We are studying random walks, the diffusion equation, and cluster growth using Python.
