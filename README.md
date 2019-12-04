@@ -67,6 +67,7 @@
 
 ## C 
 
+- [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction](https://github.com/olixbridge/Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction) - This is a Summer Research collaboration with professor Nathaniel Osgood's lab on Public Health and Epidimology, University of Saskachewan. PMCMC stands for Particle Markov Chain Monte Carlo. PF stands for Particle Filtering. My two main projects are on "applying PF to predict disease outburst" and "use PMCMC to model remind population"
@@ -479,6 +480,8 @@
 
 ## HTML 
 
+- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the tidyverse
+- [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
 - [website](https://github.com/swcarpentry/website) - Software Carpentry website
@@ -530,6 +533,7 @@
 
 ## Haskell 
 
+- [markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [hyperpolymorph](https://github.com/betaveros/hyperpolymorph) - A flexible multi-language cheat sheet based on hyperpolyglot.org
@@ -546,6 +550,11 @@
 
 ## Java 
 
+- [java-debug](https://github.com/microsoft/java-debug) - The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code.
+- [flamegrapher](https://github.com/flamegrapher/flamegrapher) - Web frontend and REST API for Java Flight Recorder with Flamegraphs 🔥
+- [vscode-java-debug](https://github.com/microsoft/vscode-java-debug) - Java Debugger for Visual Studio Code.
+- [birdseye-pycharm](https://github.com/alexmojaki/birdseye-pycharm) - IntelliJ IDE plugin for the Python debugger birdseye
+- [api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
 - [spring-petclinic](https://github.com/spring-projects/spring-petclinic) - A sample Spring-based application
 - [java-extensions](https://github.com/structurizr/java-extensions) - Structurizr for Java extensions
@@ -609,6 +618,15 @@
 
 ## JavaScript 
 
+- [pandoc-as-a-service](https://github.com/mrded/pandoc-as-a-service) - If you need to convert text from one markup format into another, pandoc-as-a-service is your swiss-army knife.
+- [kokoi](https://github.com/zeis/kokoi) - Configurable markup file watcher, previewer and converter.
+- [paja](https://github.com/htdebeer/paja) - Pandoc wrapped around in JavaScript
+- [simple-pandoc](https://github.com/utatti/simple-pandoc) - A thin and simple pandoc wrapper function
+- [node-pandoc](https://github.com/eshinn/node-pandoc) - Run Pandoc from NodeJS. Pandoc installation is required.
+- [node-pdc](https://github.com/pvorb/node-pdc) - node.js pandoc wrapper
+- [pandoc-filter-node](https://github.com/mvhenderson/pandoc-filter-node) - Pandoc filtering for Node.js
+- [paperify](https://github.com/olastor/paperify) - An online wrapper for pandoc.
+- [PanDocElectron](https://github.com/niebert/PanDocElectron) - Atom/Electron Application for calling PanDoc Converter with Shell Commands on Linux Windows Mac
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [DontTouchMyTabs](https://github.com/JeroenSwen/DontTouchMyTabs) - A WebExtension that adds the rel=noopener attribute to all hyperlinks that have the target="_blank" attribute (excluding same-domain hyperlinks).
@@ -844,6 +862,8 @@
 
 ## Others 
 
+- [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
+- [vscode-java-decompiler](https://github.com/dgileadi/vscode-java-decompiler) - Decompiler extension for Java in Visual Studio Code
 - [tidy-stats-in-R](https://github.com/jthomasmock/tidy-stats-in-R) - Code and data for Tidy Stats in R blogpost
 - [RedDress-PlantUML](https://github.com/Drakemor/RedDress-PlantUML) - Stylesheets for PlantUML
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
@@ -967,7 +987,6 @@
 - [markdown-styleguide](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [download-artifact](https://github.com/actions/download-artifact) - 
 - [upload-artifact](https://github.com/actions/upload-artifact) - 
-- [checkout](https://github.com/actions/checkout) - 
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [specification](https://github.com/sembr/specification) - Semantic Line Breaks Specification
 - [productivity-pack](https://github.com/geoffstevens8/productivity-pack) - Productivity extension pack for Visual Studio Code
@@ -1094,6 +1113,13 @@
 
 ## Python 
 
+- [panzer](https://github.com/msprev/panzer) - pandoc + styles
+- [pyandoc](https://github.com/applecrazy/pyandoc) - Python wrapper for Pandoc—the universal document converter.
+- [PanConvert](https://github.com/apaeffgen/PanConvert) - GUI Wrapper for Pandoc (Crossplatform)
+- [pypandoc](https://github.com/bebraw/pypandoc) - Thin wrapper for "pandoc" (MIT)
+- [commentary](https://github.com/hdbhdb/commentary) - comment-preserving docx&lt;----&gt;markdown converter
+- [pancritic](https://github.com/ickc/pancritic) - using criticmarkup in the pandoc markdown source
+- [kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [pytest_tutorial](https://github.com/shashikumarraja/pytest_tutorial) - 
 - [ISCPP](https://github.com/simondlevy/ISCPP) - Introduction to Scientific Computing and Programming in Python
 - [sniffer](https://github.com/jeffh/sniffer) - Python auto testing tool.
@@ -1310,6 +1336,7 @@
 
 ## R 
 
+- [future](https://github.com/HenrikBengtsson/future) - :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
 - [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
@@ -1341,6 +1368,7 @@
 
 ## Ruby 
 
+- [docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
@@ -1432,7 +1460,8 @@
 
 ## TeX 
 
-- [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
+- [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
+- [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [bnfc](https://github.com/BNFC/bnfc) - BNF Converter
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [PHYS566_group4_projects](https://github.com/tahoeschrader/PHYS566_group4_projects) - This is a group project for PHYS566 at Duke University. The group members are Tahoe, Ksenia, and Xinmeng. We are studying random walks, the diffusion equation, and cluster growth using Python.
@@ -1455,6 +1484,8 @@
 
 ## TypeScript 
 
+- [vscode-tomcat](https://github.com/adashen/vscode-tomcat) - 
+- [vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
 - [automutate](https://github.com/automutate/automutate) - Applies waves of mutations provided by other tools, such as linters or codemods.
 - [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
@@ -1482,6 +1513,7 @@
 - [vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [checkout](https://github.com/actions/checkout) - 
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [vscode-core-theme](https://github.com/miqh/vscode-core-theme) - Minimal environment aesthetics for maximum focus.
