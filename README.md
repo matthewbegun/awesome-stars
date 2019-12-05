@@ -13,9 +13,11 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [Cuda](#cuda)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Erlang](#erlang)
+  - [Fortran](#fortran)
   - [GLSL](#glsl)
   - [Go](#go)
   - [Groovy](#groovy)
@@ -67,6 +69,8 @@
 
 ## C 
 
+- [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
+- [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
@@ -94,7 +98,6 @@
 - [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
 - [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
 - [data-tools](https://github.com/clarkgrubb/data-tools) - File format conversion tools
-- [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) - WebRTC package for Unity
 - [cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for libcmark (CommonMark parser)
@@ -372,6 +375,7 @@
 
 ## C++ 
 
+- [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [XmlDiff](https://github.com/acforu/XmlDiff) - xml diff tool based on data instead of text
@@ -405,6 +409,7 @@
 
 ## CSS 
 
+- [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
 - [xsite](https://github.com/x-stream/xsite) - 
@@ -435,6 +440,10 @@
 
 - [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
+## Cuda 
+
+- [cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+
 ## Dart 
 
 - [plotFun](https://github.com/wzhd/plotFun) - Instant XKCD-style Graphs created in Javascript D3 for your enjoyment  http://xkcdgraphs.com/
@@ -455,12 +464,18 @@
 
 - [knot](https://github.com/mqsoh/knot) - A literate programming tool that uses Markdown.
 
+## Fortran 
+
+- [lapack](https://github.com/Reference-LAPACK/lapack) - LAPACK development repository
+
 ## GLSL 
 
 - [Imagine_fudge-roll](https://github.com/microsoft/Imagine_fudge-roll) - Get the assets and code here, and then follow our Fudge Roll tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
 
 ## Go 
 
+- [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
+- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [golang-workshop](https://github.com/jbelmont/golang-workshop) - Learning New Programming Languages Workshop Series on Golang
 - [word-cloud-generator](https://github.com/wickett/word-cloud-generator) - its a golang web app that takes a block of text and turns it into a word cloud
 - [lfs-test-server](https://github.com/git-lfs/lfs-test-server) - Standalone Git LFS server
@@ -480,6 +495,13 @@
 
 ## HTML 
 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
+- [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
+- [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
+- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
+- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -550,6 +572,25 @@
 
 ## Java 
 
+- [invesdwin-context-r](https://github.com/subes/invesdwin-context-r) - Integrate R functionality with these modules for invesdwin-context
+- [invesdwin-context](https://github.com/subes/invesdwin-context) - Module system for software product lines
+- [invesdwin-context-python](https://github.com/subes/invesdwin-context-python) - Integrate python functionality with these modules for invesdwin-context
+- [tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [tensorflow-example-java](https://github.com/szaza/tensorflow-example-java) - This is a Tensorflow Java example application what uses YOLOv2 model and Gradle for build and dependency management.
+- [Pyrolite](https://github.com/irmen/Pyrolite) - Java and .NET interface to Python's pickle and Pyro protocols
+- [jna](https://github.com/java-native-access/jna) - Java Native Access
+- [java](https://github.com/tensorflow/java) - Java bindings for TensorFlow
+- [py4j](https://github.com/bartdag/py4j) - Py4J enables Python programs to dynamically access arbitrary Java objects
+- [mug](https://github.com/google/mug) - 
+- [error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+- [gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+- [auto](https://github.com/google/auto) - A collection of source code generators for Java.
+- [dagger](https://github.com/google/dagger) - A fast dependency injector for Android and Java.
+- [guava](https://github.com/google/guava) - Google core libraries for Java
+- [standalone-app](https://github.com/helios-decompiler/standalone-app) - All-in-one Java reverse engineering tool
+- [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)
+- [Luyten](https://github.com/deathmarine/Luyten) - An Open Source Java Decompiler Gui for Procyon
+- [fernflower](https://github.com/fesh0r/fernflower) - Unofficial mirror of FernFlower Java decompiler (All pulls should be submitted upstream)
 - [java-debug](https://github.com/microsoft/java-debug) - The debug server implementation for Java. It conforms to the debug protocol of Visual Studio Code.
 - [flamegrapher](https://github.com/flamegrapher/flamegrapher) - Web frontend and REST API for Java Flight Recorder with Flamegraphs 🔥
 - [vscode-java-debug](https://github.com/microsoft/vscode-java-debug) - Java Debugger for Visual Studio Code.
@@ -618,6 +659,9 @@
 
 ## JavaScript 
 
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [blockly-samples](https://github.com/google/blockly-samples) - Sample projects demonstrating how to integrate Blockly into your project
+- [blockly-games](https://github.com/google/blockly-games) - Games for tomorrow's programmers.
 - [pandoc-as-a-service](https://github.com/mrded/pandoc-as-a-service) - If you need to convert text from one markup format into another, pandoc-as-a-service is your swiss-army knife.
 - [kokoi](https://github.com/zeis/kokoi) - Configurable markup file watcher, previewer and converter.
 - [paja](https://github.com/htdebeer/paja) - Pandoc wrapped around in JavaScript
@@ -777,6 +821,15 @@
 
 ## Jupyter Notebook 
 
+- [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
+- [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
+- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
+- [examples](https://github.com/tensorflow/examples) - TensorFlow examples
+- [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
+- [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
+- [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
+- [edward2](https://github.com/google/edward2) - A lightweight probabilistic programming language in NumPy or TensorFlow.
+- [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [lab-workshops](https://github.com/YaleDHLab/lab-workshops) - Materials for workshops on text mining, machine learning, and data visualization
 - [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability
@@ -862,6 +915,10 @@
 
 ## Others 
 
+- [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [deepdream](https://github.com/google/deepdream) - 
+- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [vscode-java-decompiler](https://github.com/dgileadi/vscode-java-decompiler) - Decompiler extension for Java in Visual Studio Code
 - [tidy-stats-in-R](https://github.com/jthomasmock/tidy-stats-in-R) - Code and data for Tidy Stats in R blogpost
@@ -1113,6 +1170,18 @@
 
 ## Python 
 
+- [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+- [hpc-container-maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker
+- [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
+- [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+- [mesh](https://github.com/tensorflow/mesh) - Mesh TensorFlow: Model Parallelism Made Easier
+- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
+- [jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
+- [TensorNetwork](https://github.com/google/TensorNetwork) - A library for easy and efficient manipulation of tensor networks.
+- [mobly](https://github.com/google/mobly) - E2E test framework for tests with complex environment requirements.
+- [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [pyandoc](https://github.com/applecrazy/pyandoc) - Python wrapper for Pandoc—the universal document converter.
 - [PanConvert](https://github.com/apaeffgen/PanConvert) - GUI Wrapper for Pandoc (Crossplatform)
@@ -1213,7 +1282,6 @@
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
@@ -1397,10 +1465,12 @@
 
 ## Scala 
 
+- [spark](https://github.com/apache/spark) - Apache Spark
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
+- [enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
@@ -1460,6 +1530,7 @@
 
 ## TeX 
 
+- [latex-homework-class](https://github.com/jez/latex-homework-class) - A class for homework assignments written in LaTeX.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [bnfc](https://github.com/BNFC/bnfc) - BNF Converter
