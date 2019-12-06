@@ -69,6 +69,8 @@
 
 ## C 
 
+- [VcXsvr](https://github.com/Lumak/VcXsvr) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
+- [asm](https://github.com/WindowsNT/asm) - Assembly Tutorial for DOS
 - [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
@@ -113,6 +115,7 @@
 
 ## C# # 
 
+- [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
 - [plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
@@ -285,7 +288,6 @@
 - [FontainebleauDemo](https://github.com/Unity-Technologies/FontainebleauDemo) - Fontainebleau demo
 - [Standard-Assets-Characters](https://github.com/Unity-Technologies/Standard-Assets-Characters) - Unity Standard Asset Controllers
 - [InputSystem](https://github.com/Unity-Technologies/InputSystem) - An efficient and versatile input system for Unity.
-- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [Minefield](https://github.com/5argon/Minefield) - Program a concise navigation play mode test in Unity.
 - [Puppetry](https://github.com/TestUnitLab/Puppetry) - Framework for automated UI testing of Unity3d application
 - [trilleon](https://github.com/disruptorbeam/trilleon) - Automate all the things.
@@ -371,6 +373,7 @@
 - [Lightweight-State-Machine](https://github.com/sharpaccent/Lightweight-State-Machine) - A lightweight state machine to get you started on FSMs
 - [Component-State-Machine](https://github.com/sharpaccent/Component-State-Machine) - A component based state machine for Unity
 - [ScriptableObject-Library](https://github.com/sharpaccent/ScriptableObject-Library) - A collection of the most common used scriptable object cases I use through out my videos
+- [Unite2017](https://github.com/roboryantron/Unite2017) - Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017
 - [ScriptableObject-Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture) - Makes using Scriptable Objects as a fundamental part of your architecture in Unity super easy
 
 ## C++ 
@@ -450,6 +453,7 @@
 
 ## Dockerfile 
 
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
@@ -474,6 +478,8 @@
 
 ## Go 
 
+- [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
+- [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [golang-workshop](https://github.com/jbelmont/golang-workshop) - Learning New Programming Languages Workshop Series on Golang
@@ -495,6 +501,8 @@
 
 ## HTML 
 
+- [words](https://github.com/yuvipanda/words) - Source for words.yuvi.in
+- [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -549,7 +557,6 @@
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
-- [Unite2017](https://github.com/roboryantron/Unite2017) - Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017
 - [ddabm-solar](https://github.com/haffwin/ddabm-solar) - 
 - [BoB-Workshop](https://github.com/matt-sutton/BoB-Workshop) - Short workshop on Bayesian Variable Selection methods
 
@@ -572,6 +579,7 @@
 
 ## Java 
 
+- [intellij-samples](https://github.com/JetBrains/intellij-samples) - Sample projects for IntelliJ IDEA
 - [invesdwin-context-r](https://github.com/subes/invesdwin-context-r) - Integrate R functionality with these modules for invesdwin-context
 - [invesdwin-context](https://github.com/subes/invesdwin-context) - Module system for software product lines
 - [invesdwin-context-python](https://github.com/subes/invesdwin-context-python) - Integrate python functionality with these modules for invesdwin-context
@@ -659,6 +667,9 @@
 
 ## JavaScript 
 
+- [togglbit](https://github.com/toggl/togglbit) - A simple Fitbit app for Toggl Track
+- [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
+- [djvujs](https://github.com/RussCoder/djvujs) - DjVu.js v.0.4.0, DjVu.js Viewer v.0.3.3. A program library for working with .djvu files online.  A widget powered with the DjVu.js library, allowing to view .djvu files online
 - [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [blockly-samples](https://github.com/google/blockly-samples) - Sample projects demonstrating how to integrate Blockly into your project
 - [blockly-games](https://github.com/google/blockly-games) - Games for tomorrow's programmers.
@@ -714,7 +725,7 @@
 - [docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [kiwix-desktop](https://github.com/kiwix/kiwix-desktop) - Kiwix for Windows and GNU/Linux desktops
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [shapefile](https://github.com/mbostock/shapefile) - A cross-platform streaming parser for the ESRI Shapefile spatial data format.
 - [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [utility-theory](https://github.com/lindeloev/utility-theory) - Utility Theory for Dummies: An R Tutorial
@@ -821,6 +832,7 @@
 
 ## Jupyter Notebook 
 
+- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
@@ -915,6 +927,7 @@
 
 ## Others 
 
+- [ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
 - [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [deepdream](https://github.com/google/deepdream) - 
@@ -1170,6 +1183,7 @@
 
 ## Python 
 
+- [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [hpc-container-maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker
 - [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
@@ -1301,7 +1315,7 @@
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
-- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - A curated collection of useful Python snippets that you can understand in 30 seconds or less.
+- [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file. Also can optionally unstar all backed up repositories.
@@ -1378,6 +1392,7 @@
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
 - [OpenKE](https://github.com/Unity-Technologies/OpenKE) - An Open-Source Package for Knowledge Embedding (KE)
+- [ml-agents](https://github.com/Unity-Technologies/ml-agents) - Unity Machine Learning Agents Toolkit
 - [manubot](https://github.com/manubot/manubot) - Python utilities for Manubot: Manuscripts, open and automated
 - [uberdoc](https://github.com/sbrosinski/uberdoc) - Uberdoc is a wrapper script for pandoc which provides a build system for large documents
 - [pandoc-watch](https://github.com/dloureiro/pandoc-watch) - A simple watch to call the pandoc command with the provided arguments when a file/folder modification is detected
@@ -1436,6 +1451,7 @@
 
 ## Ruby 
 
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
 - [truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
