@@ -832,6 +832,9 @@
 
 ## Jupyter Notebook 
 
+- [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
+- [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
+- [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
@@ -1030,7 +1033,7 @@
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
-- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - :pill: Curated list of falsehoods programmers believe in.
+- [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
@@ -1183,6 +1186,21 @@
 
 ## Python 
 
+- [PREOS](https://github.com/CorySimon/PREOS) - Peng-Robinson Equation of State
+- [fugacity](https://github.com/forsterite/fugacity) - 
+- [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
+- [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
+- [ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
+- [benchmarks](https://github.com/tensorflow/benchmarks) - A benchmark framework for Tensorflow
+- [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
+- [autograph](https://github.com/tensorflow/autograph) - 
+- [cleverhans](https://github.com/tensorflow/cleverhans) - An adversarial example library for constructing attacks, building defenses, and benchmarking both
+- [tensor2tensor](https://github.com/tensorflow/tensor2tensor) - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [data-validation](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data
+- [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
+- [model-optimization](https://github.com/tensorflow/model-optimization) - A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution.
+- [datasets](https://github.com/tensorflow/datasets) - A collection of datasets ready to use with TensorFlow
+- [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [hpc-container-maker](https://github.com/NVIDIA/hpc-container-maker) - HPC Container Maker
@@ -1571,6 +1589,7 @@
 
 ## TypeScript 
 
+- [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [vscode-tomcat](https://github.com/adashen/vscode-tomcat) - 
 - [vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
 - [automutate](https://github.com/automutate/automutate) - Applies waves of mutations provided by other tools, such as linters or codemods.
