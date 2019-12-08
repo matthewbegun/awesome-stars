@@ -832,6 +832,8 @@
 
 ## Jupyter Notebook 
 
+- [ipynb](https://github.com/ipython/ipynb) - Package / Module importer for importing code from Jupyter Notebook files (.ipynb)
+- [py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
 - [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
 - [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
@@ -1186,6 +1188,9 @@
 
 ## Python 
 
+- [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
+- [dash-bio](https://github.com/plotly/dash-bio) - Open-source bioinformatics components for Dash
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [PREOS](https://github.com/CorySimon/PREOS) - Peng-Robinson Equation of State
 - [fugacity](https://github.com/forsterite/fugacity) - 
 - [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
@@ -1504,6 +1509,7 @@
 
 ## Shell 
 
+- [ClearWSL](https://github.com/wight554/ClearWSL) - 
 - [enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
