@@ -478,10 +478,12 @@
 
 ## Go 
 
+- [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [gvisor](https://github.com/google/gvisor) - Container Runtime Sandbox
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
+- [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [golang-workshop](https://github.com/jbelmont/golang-workshop) - Learning New Programming Languages Workshop Series on Golang
 - [word-cloud-generator](https://github.com/wickett/word-cloud-generator) - its a golang web app that takes a block of text and turns it into a word cloud
 - [lfs-test-server](https://github.com/git-lfs/lfs-test-server) - Standalone Git LFS server
@@ -824,7 +826,7 @@
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff) - An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
-- [noVNC](https://github.com/novnc/noVNC) - VNC client using HTML5 (WebSockets, Canvas)
+- [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
 ## Julia 
 
@@ -932,6 +934,7 @@
 
 ## Others 
 
+- [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
 - [ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
 - [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -1188,6 +1191,9 @@
 
 ## Python 
 
+- [clr-bundles](https://github.com/clearlinux/clr-bundles) - 
+- [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
+- [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
 - [dash-bio](https://github.com/plotly/dash-bio) - Open-source bioinformatics components for Dash
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
@@ -1509,6 +1515,9 @@
 
 ## Shell 
 
+- [clr-rpm-config](https://github.com/clearlinux/clr-rpm-config) - RPM configurations for Clear Linux OS
+- [clr-distro-factory-config](https://github.com/clearlinux/clr-distro-factory-config) - Clear Linux* Distro Factor Config
+- [clr-distro-factory](https://github.com/clearlinux/clr-distro-factory) - Clear Linux* Distro Factory
 - [ClearWSL](https://github.com/wight554/ClearWSL) - 
 - [enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
@@ -1516,7 +1525,6 @@
 - [C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [plantuml-kubernetes-sprites](https://github.com/michiel/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Vagrant, VirtualBox, Ansible, Kubernetes, K3s, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec...
-- [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
