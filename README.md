@@ -32,6 +32,7 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
+  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -115,6 +116,7 @@
 
 ## C# # 
 
+- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext option.
 - [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
@@ -453,6 +455,7 @@
 
 ## Dockerfile 
 
+- [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
@@ -478,6 +481,8 @@
 
 ## Go 
 
+- [singularity](https://github.com/sylabs/singularity) - Singularity: Application containers for Linux
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
 - [source-to-image](https://github.com/openshift/source-to-image) - A tool for building artifacts from source and injecting into container images
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -503,6 +508,7 @@
 
 ## HTML 
 
+- [sharing-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter) - Using GitHub and Binder to share Jupyter Notebooks, statically and interactively
 - [words](https://github.com/yuvipanda/words) - Source for words.yuvi.in
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -834,6 +840,22 @@
 
 ## Jupyter Notebook 
 
+- [data-exploration-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter) - The Data Exploration lesson in the Reproducible Science using Jupyter Notebooks curriculum
+- [conx-notebooks](https://github.com/Calysto/conx-notebooks) - Notebooks for Conx, Deep Learning software
+- [nix-binder-example](https://github.com/costrouc/nix-binder-example) - BinderHub example using Nix
+- [IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
+- [examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
+- [r](https://github.com/binder-examples/r) - Using R with Jupyter / RStudio on Binder
+- [zero-to-binder](https://github.com/binder-examples/zero-to-binder) - 
+- [getting-data](https://github.com/binder-examples/getting-data) - How to get data into your Binder
+- [continuous-build](https://github.com/binder-examples/continuous-build) - Show how to use continuous integration to test your dependency specifications
+- [binder-r-description](https://github.com/binder-examples/binder-r-description) - 
+- [appmode](https://github.com/binder-examples/appmode) - Creating web applications with Jupyter and Binder
+- [jupyter-rise](https://github.com/binder-examples/jupyter-rise) - Auto-launching the RISE plugin for Binder presentations.
+- [remote_storage](https://github.com/binder-examples/remote_storage) - Connecting a Binder repository with data stored remotely.
+- [latex](https://github.com/binder-examples/latex) - Using `apt.txt` to install latex for use in notebooks.
+- [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
+- [jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
 - [ipynb](https://github.com/ipython/ipynb) - Package / Module importer for importing code from Jupyter Notebook files (.ipynb)
 - [py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
@@ -847,7 +869,7 @@
 - [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
 - [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
-- [edward2](https://github.com/google/edward2) - A lightweight probabilistic programming language in NumPy or TensorFlow.
+- [edward2](https://github.com/google/edward2) - A simple probabilistic programming language.
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [lab-workshops](https://github.com/YaleDHLab/lab-workshops) - Materials for workshops on text mining, machine learning, and data visualization
@@ -855,17 +877,13 @@
 - [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
 - [sustainable-energy-transitions](https://github.com/csaladenes/sustainable-energy-transitions) - Code behind the Sustainable Energy Transitions (SET) model + Project Website
 - [r_with_python](https://github.com/binder-examples/r_with_python) - Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks
-- [appmode](https://github.com/binder-examples/appmode) - Creating web applications with Jupyter and Binder
-- [remote_storage](https://github.com/binder-examples/remote_storage) - Connecting a Binder repository with data stored remotely.
 - [python-conda_pip](https://github.com/binder-examples/python-conda_pip) - Installing packages with pip and conda
 - [conda](https://github.com/binder-examples/conda) - Specifying a conda environment with `environment.yml`
 - [nix](https://github.com/binder-examples/nix) - Simplest Nix Binderhub example
 - [jupyter-extension](https://github.com/binder-examples/jupyter-extension) - Enabling jupyter extensions for use in Binder
-- [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
 - [requirements](https://github.com/binder-examples/requirements) - Simple requirements.txt based example
 - [ligo-binder](https://github.com/minrk/ligo-binder) - Black holes!
 - [julia-python](https://github.com/binder-examples/julia-python) - Installing Julia and Python environments
-- [multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
 - [wikiwho_demo](https://github.com/gesiscss/wikiwho_demo) - A demonstration of how to use the wikiwho service to complement other external tools
 - [scipy-2016-tutorial](https://github.com/sympy/scipy-2016-tutorial) - SymPy tutorial materials for SciPy 2016
 - [scipy-2017-codegen-tutorial](https://github.com/sympy/scipy-2017-codegen-tutorial) - SymPy code generation tutorial at SciPy 2017
@@ -928,12 +946,19 @@
 - [jupyter-hub-oauth-matlab](https://github.com/benjamin-heasly/jupyter-hub-oauth-matlab) - JupyterHub plus Google OAuth, plus support for a mounted-in Matlab, plus the Jypyter matlab_kernel.
 - [MatlabJobSupport](https://github.com/BrainardLab/MatlabJobSupport) - Scripts and Docker images to support Matlab jobs including batch, distributed, and test jobs.
 
+## Nix 
+
+- [nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
+
 ## OCaml 
 
 - [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 
 ## Others 
 
+- [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
+- [dar](https://github.com/substance/dar) - Reproducible Document Archive
+- [stencila-r](https://github.com/binder-examples/stencila-r) - Demo for Stencila & DAR on binder with R code
 - [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
 - [ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
 - [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems
@@ -1191,6 +1216,13 @@
 
 ## Python 
 
+- [publication-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter) - Publication and sharing with Jupyter notebooks for reproducible research
+- [conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
+- [cffi_magic](https://github.com/Carreau/cffi_magic) - %%cffi cell magic for ipython.
+- [metakernel](https://github.com/Calysto/metakernel) - Jupyter/IPython Kernel Tools
+- [ipyparallel](https://github.com/ipython/ipyparallel) - Interactive Parallel Computing in Python
+- [bokeh](https://github.com/binder-examples/bokeh) - 
+- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [clr-bundles](https://github.com/clearlinux/clr-bundles) - 
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
@@ -1448,6 +1480,11 @@
 
 ## R 
 
+- [IRdisplay](https://github.com/IRkernel/IRdisplay) - Jupyter display machinery for R
+- [repr](https://github.com/IRkernel/repr) - String and byte representations for all kinds of R objects
+- [survival](https://github.com/therneau/survival) - Survival package for R
+- [stencila-multi](https://github.com/binder-examples/stencila-multi) - Demo for Stencila & Dar on binder with multiple Stencila documents in one repository
+- [dockerfile-rstudio](https://github.com/binder-examples/dockerfile-rstudio) - Using RStudio with Binder with a custom Dockerfile
 - [future](https://github.com/HenrikBengtsson/future) - :rocket: R package: future: Unified Parallel and Distributed Processing in R for Everyone
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
@@ -1515,6 +1552,8 @@
 
 ## Shell 
 
+- [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
+- [how-to-clear](https://github.com/clearlinux/how-to-clear) - Training documentation to teach users how to make a Clear Linux OS derivative distribution.
 - [clr-rpm-config](https://github.com/clearlinux/clr-rpm-config) - RPM configurations for Clear Linux OS
 - [clr-distro-factory-config](https://github.com/clearlinux/clr-distro-factory-config) - Clear Linux* Distro Factor Config
 - [clr-distro-factory](https://github.com/clearlinux/clr-distro-factory) - Clear Linux* Distro Factory
@@ -1603,6 +1642,7 @@
 
 ## TypeScript 
 
+- [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [vscode-tomcat](https://github.com/adashen/vscode-tomcat) - 
 - [vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
