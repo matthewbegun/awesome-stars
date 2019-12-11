@@ -380,6 +380,7 @@
 
 ## C++ 
 
+- [serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
@@ -455,6 +456,9 @@
 
 ## Dockerfile 
 
+- [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
+- [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
+- [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
@@ -508,6 +512,9 @@
 
 ## HTML 
 
+- [projects](https://github.com/NikKrieger/projects) - projects
+- [exreport](https://github.com/jacintoArias/exreport) - An R package for reproducible research. Analyze your experimental data and generate HTML and PDF reports.
+- [shiny](https://github.com/rocker-org/shiny) - 
 - [sharing-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter) - Using GitHub and Binder to share Jupyter Notebooks, statically and interactively
 - [words](https://github.com/yuvipanda/words) - Source for words.yuvi.in
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
@@ -675,6 +682,7 @@
 
 ## JavaScript 
 
+- [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [togglbit](https://github.com/toggl/togglbit) - A simple Fitbit app for Toggl Track
 - [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
 - [djvujs](https://github.com/RussCoder/djvujs) - DjVu.js v.0.4.0, DjVu.js Viewer v.0.3.3. A program library for working with .djvu files online.  A widget powered with the DjVu.js library, allowing to view .djvu files online
@@ -840,6 +848,18 @@
 
 ## Jupyter Notebook 
 
+- [rocker](https://github.com/binder-examples/rocker) - Using a pre-existing rocker image on mybinder.org
+- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
+- [data-quilt](https://github.com/binder-examples/data-quilt) - Install quilt data packages and use them in Binder notebooks
+- [multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
+- [geopandas-tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial) - Tutorial on geospatial data manipulation with Python
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
+- [resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation
+- [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
+- [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
+- [dl-workshop](https://github.com/pacm/dl-workshop) - Intro to deep learning workshop.
+- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
+- [binder-data](https://github.com/jupyterhub/binder-data) - A place to store data for Binder
 - [data-exploration-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter) - The Data Exploration lesson in the Reproducible Science using Jupyter Notebooks curriculum
 - [conx-notebooks](https://github.com/Calysto/conx-notebooks) - Notebooks for Conx, Deep Learning software
 - [nix-binder-example](https://github.com/costrouc/nix-binder-example) - BinderHub example using Nix
@@ -956,6 +976,7 @@
 
 ## Others 
 
+- [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
 - [dar](https://github.com/substance/dar) - Reproducible Document Archive
 - [stencila-r](https://github.com/binder-examples/stencila-r) - Demo for Stencila & DAR on binder with R code
@@ -1129,6 +1150,7 @@
 
 ## PHP 
 
+- [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
 ## Perl 
@@ -1216,6 +1238,17 @@
 
 ## Python 
 
+- [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
+- [appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
+- [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
+- [jupyterhub-deploy-hpc](https://github.com/jupyterhub/jupyterhub-deploy-hpc) - Documented examples of Jupyterhub deployment in HPC settings
+- [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Jupyter server extension to sync a git repository one-way to a local path
+- [dockerspawner](https://github.com/jupyterhub/dockerspawner) - Spawns JupyterHub single user servers in Docker containers
+- [the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server
+- [examples](https://github.com/IntelPython/examples) - Examples and sample code showcasing features of the Intel(R) Distribution for Python
+- [sage-notebook](https://github.com/sharpTrick/sage-notebook) - sage-notebook is a community maintained Jupyter Docker Stack image with the sagemath kernel.
+- [java-notebook](https://github.com/jbindinga/java-notebook) - ijava-jupyter-stack is a Jupyter Docker Stack image that's including the IJAVA Kernel to Jupyter notebook.
+- [education-notebook](https://github.com/umsi-mads/education-notebook) - education notebook is a community maintained Jupyter Docker Stack image
 - [publication-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter) - Publication and sharing with Jupyter notebooks for reproducible research
 - [conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 - [cffi_magic](https://github.com/Carreau/cffi_magic) - %%cffi cell magic for ipython.
@@ -1480,6 +1513,28 @@
 
 ## R 
 
+- [jags_examples](https://github.com/andrewcparnell/jags_examples) - A large set of JAGS examples using R
+- [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
+- [starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
+- [rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
+- [ghactions](https://github.com/r-lib/ghactions) - GitHub actions for R and accompanying R package
+- [pkgdepends](https://github.com/r-lib/pkgdepends) - R Package Dependency Resolution -- EXPERIMENTAL, WORK IN PROGRESS!
+- [pak](https://github.com/r-lib/pak) - A fresh approach to package installation
+- [vctrs](https://github.com/r-lib/vctrs) - Vector types
+- [testthat](https://github.com/r-lib/testthat) - An R 📦 to make testing 😀
+- [devtools](https://github.com/r-lib/devtools) - Tools to make an R developer's life easier
+- [covr](https://github.com/r-lib/covr) - Test coverage reports for R
+- [usethis](https://github.com/r-lib/usethis) - Set up commonly used 📦 components
+- [RepoGenerator](https://github.com/jaredlander/RepoGenerator) - This builds a repo from a template for use in workshop instruction
+- [prodigenr](https://github.com/lwjohnst86/prodigenr) - Project directory generator R package
+- [here](https://github.com/r-lib/here) - A simpler way to find your files
+- [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
+- [workflowr](https://github.com/jdblischak/workflowr) - Organize your project into a research website
+- [represtools](https://github.com/PirateGrunt/represtools) - Reproducible Research Tools
+- [ProjectTemplate](https://github.com/KentonWhite/ProjectTemplate) - A template utility for R projects that provides a skeletal project.
+- [orderly](https://github.com/vimc/orderly) - :hospital::ambulance: Lightweight Reproducible Reporting for R
+- [madrat](https://github.com/pik-piam/madrat) - R package | May All Data be Reproducible and Transparent (MADRaT)
+- [DataPackageR](https://github.com/ropensci/DataPackageR) - An R package to enable reproducible data processing, packaging and sharing.
 - [IRdisplay](https://github.com/IRkernel/IRdisplay) - Jupyter display machinery for R
 - [repr](https://github.com/IRkernel/repr) - String and byte representations for all kinds of R objects
 - [survival](https://github.com/therneau/survival) - Survival package for R
@@ -1489,7 +1544,7 @@
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
 - [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
-- [dashR](https://github.com/plotly/dashR) - An R interface to the Dash ecosystem for authoring reactive web applications
+- [dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for authoring reactive web applications
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 - [gpflowr](https://github.com/goldingn/gpflowr) - :blossom: Gaussian processes in TensorFlow via R :blossom:
 - [ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
