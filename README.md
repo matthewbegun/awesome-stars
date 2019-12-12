@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext option.
 - [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
@@ -380,6 +381,9 @@
 
 ## C++ 
 
+- [nix-windows](https://github.com/volth/nix-windows) - Nix, the purely functional package manager
+- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
+- [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
 - [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
@@ -456,6 +460,7 @@
 
 ## Dockerfile 
 
+- [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
@@ -485,6 +490,7 @@
 
 ## Go 
 
+- [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [singularity](https://github.com/sylabs/singularity) - Singularity: Application containers for Linux
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
@@ -512,6 +518,9 @@
 
 ## HTML 
 
+- [orc](https://github.com/gesiscss/orc) - Open Research Computing
+- [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
+- [cscar.github.io](https://github.com/CSCAR/cscar.github.io) - A website of CSCAR resources for ourselves and those we collaborate and consult with.
 - [projects](https://github.com/NikKrieger/projects) - projects
 - [exreport](https://github.com/jacintoArias/exreport) - An R package for reproducible research. Analyze your experimental data and generate HTML and PDF reports.
 - [shiny](https://github.com/rocker-org/shiny) - 
@@ -682,6 +691,7 @@
 
 ## JavaScript 
 
+- [clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [togglbit](https://github.com/toggl/togglbit) - A simple Fitbit app for Toggl Track
 - [toggl-button](https://github.com/toggl/toggl-button) - Toggl Button extension for Chrome and Firefox
@@ -848,6 +858,20 @@
 
 ## Jupyter Notebook 
 
+- [smm_demo](https://github.com/gesiscss/smm_demo) - Examples to complement of the SMM Monitor
+- [notebooks](https://github.com/elegant-scipy/notebooks) - The compiled, clean (not run) Jupyter notebooks for Elegant SciPy
+- [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
+- [documentation](https://github.com/plotly/documentation) - Documentation for Plotly's open-source graphing libraries
+- [Survival-Analysis-on-Machine-Incident-Prediction](https://github.com/christine-ding/Survival-Analysis-on-Machine-Incident-Prediction) - Time-to-Failure Prediction using Coxph Regression Model
+- [Lifelines](https://github.com/shreejitp/Lifelines) - Using Lifelines Package for Survival Analysis
+- [TCGA-lifelines-survival](https://github.com/auberginekenobi/TCGA-lifelines-survival) - Survival analysis on the KIRC cohort of TCGA cancer patients. Done on the lifelines platform.
+- [WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython) - The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"
+- [survival_analysis](https://github.com/tarunaditya/survival_analysis) - kaplan meier & lifelines based
+- [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
+- [Lifelines-notes-and-examples](https://github.com/felipe0216/Lifelines-notes-and-examples) - Information extracted from Lifelines official documentation
+- [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
+- [2017-davis-ggg201a-day1](https://github.com/ngs-docs/2017-davis-ggg201a-day1) - 
+- [more-sagemath-tutorials](https://github.com/sagemath/more-sagemath-tutorials) - More SageMath Tutorials: A place to share and evolve tutorials for Sage, with the aim to contribute them to Sage
 - [rocker](https://github.com/binder-examples/rocker) - Using a pre-existing rocker image on mybinder.org
 - [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
 - [data-quilt](https://github.com/binder-examples/data-quilt) - Install quilt data packages and use them in Binder notebooks
@@ -955,6 +979,7 @@
 
 ## Makefile 
 
+- [docker-images](https://github.com/sagemath/docker-images) - Dockerfiles for Sage
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
@@ -976,6 +1001,7 @@
 
 ## Others 
 
+- [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
 - [dar](https://github.com/substance/dar) - Reproducible Document Archive
@@ -993,7 +1019,7 @@
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4600+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4700+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
@@ -1162,6 +1188,13 @@
 
 ## PowerShell 
 
+- [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
+- [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
+- [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
+- [WLOADER](https://github.com/wuseman/WLOADER) - Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs.
+- [BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+- [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps
 - [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
 - [azure-devtestlab](https://github.com/Azure/azure-devtestlab) - Azure DevTestLab artifacts, scripts and samples
 - [PowerYDL](https://github.com/packetpunter/PowerYDL) - A powershell module that wraps some basic functionality around youtube-dl
@@ -1238,6 +1271,20 @@
 
 ## Python 
 
+- [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
+- [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
+- [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
+- [voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
+- [python-javabridge](https://github.com/CellProfiler/python-javabridge) - Python wrapper for the Java Native Interface
+- [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
+- [top-chef-survival-analysis](https://github.com/marshalladam/top-chef-survival-analysis) - A Top Chef survival analysis using the python package Lifelines.
+- [dammit](https://github.com/dib-lab/dammit) - just annotate it, dammit!
+- [dib-lab](https://github.com/dib-lab/dib-lab) - Issue tracker and Web site for the Lab for Data Intensive Biology at UC Davis.
+- [survival_workshop](https://github.com/kshedden/survival_workshop) - Materials for a CSCAR workshop on survival analysis
+- [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [sagenb](https://github.com/sagemath/sagenb) - Sage Notebook (flask), docs in $SAGE_LOCAL/share/doc/sagenb/index.html
+- [sagecell](https://github.com/sagemath/sagecell) - The Sage Cell Server---providing a way to embed Sage computations into any web page.
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
 - [appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
@@ -1340,7 +1387,6 @@
 - [pyls-black](https://github.com/rupert/pyls-black) - Black plugin for the Python Language Server
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- [voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
 - [plantuml-markdown](https://github.com/mikitex70/plantuml-markdown) - PlantUML plugin for Python-Markdown
 - [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
@@ -1513,6 +1559,7 @@
 
 ## R 
 
+- [openintro-r-package](https://github.com/OpenIntroStat/openintro-r-package) - R Package: openintro
 - [jags_examples](https://github.com/andrewcparnell/jags_examples) - A large set of JAGS examples using R
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
@@ -1607,6 +1654,8 @@
 
 ## Shell 
 
+- [linux](https://github.com/clearlinux-pkgs/linux) - 
+- [sage-windows](https://github.com/sagemath/sage-windows) - Build tools for the Sagemath Windows installer
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
 - [how-to-clear](https://github.com/clearlinux/how-to-clear) - Training documentation to teach users how to make a Clear Linux OS derivative distribution.
 - [clr-rpm-config](https://github.com/clearlinux/clr-rpm-config) - RPM configurations for Clear Linux OS
@@ -1672,6 +1721,8 @@
 
 ## TeX 
 
+- [openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - Slides for the OpenIntro Statistics textbook
+- [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [latex-homework-class](https://github.com/jez/latex-homework-class) - A class for homework assignments written in LaTeX.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
@@ -1697,6 +1748,12 @@
 
 ## TypeScript 
 
+- [vscode-reflow-lines](https://github.com/dontrolle/vscode-reflow-lines) - Reflow paragraph extension for vscode
+- [ReflowMarkdown](https://github.com/marvhen/ReflowMarkdown) - Reflow paragraph extension for vscode
+- [vscode-tidymarkdown](https://github.com/Tehnix/vscode-tidymarkdown) - VS Code formatter using tidymarkdown
+- [markdown-formatter](https://github.com/sumnow/markdown-formatter) - markdown formatter
+- [vscode-markdownfmt](https://github.com/Anmol-Singh-Jaggi/vscode-markdownfmt) - :vs: :m: :ballot_box_with_check: Markdown formatter for Visual Studio code.
+- [pandoc-format](https://github.com/monofon/pandoc-format) - A Visual Studio Code formatter for Markdown using Pandoc (http://pandoc.org).
 - [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [playground](https://github.com/tensorflow/playground) - Play with neural networks!
 - [vscode-tomcat](https://github.com/adashen/vscode-tomcat) - 
