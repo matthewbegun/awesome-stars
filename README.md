@@ -116,6 +116,7 @@
 
 ## C# # 
 
+- [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext option.
 - [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
@@ -381,6 +382,7 @@
 
 ## C++ 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [nix-windows](https://github.com/volth/nix-windows) - Nix, the purely functional package manager
 - [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -518,6 +520,7 @@
 
 ## HTML 
 
+- [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
 - [cscar.github.io](https://github.com/CSCAR/cscar.github.io) - A website of CSCAR resources for ourselves and those we collaborate and consult with.
@@ -858,6 +861,17 @@
 
 ## Jupyter Notebook 
 
+- [jupyter-sos](https://github.com/binder-examples/jupyter-sos) - 
+- [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas
+- [bokeh-notebooks](https://github.com/bokeh/bokeh-notebooks) - Interactive Web Plotting with Bokeh in IPython notebook
+- [binder_builder_gui](https://github.com/choldgraf/binder_builder_gui) - 
+- [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
+- [iris_r](https://github.com/gesiscss/iris_r) - Example R repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
+- [iris_python](https://github.com/gesiscss/iris_python) - Example python repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
+- [methods_seminar_2019](https://github.com/gesiscss/methods_seminar_2019) - Jupyter Notebooks to be used in the 39th GESIS Methods Seminar
+- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
+- [jupytext_pyparis_2018](https://github.com/mwouts/jupytext_pyparis_2018) - Jupytext talk at PyParis 2018
+- [data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
 - [smm_demo](https://github.com/gesiscss/smm_demo) - Examples to complement of the SMM Monitor
 - [notebooks](https://github.com/elegant-scipy/notebooks) - The compiled, clean (not run) Jupyter notebooks for Elegant SciPy
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
@@ -933,7 +947,6 @@
 - [scipy-2017-codegen-tutorial](https://github.com/sympy/scipy-2017-codegen-tutorial) - SymPy code generation tutorial at SciPy 2017
 - [quantum_notebooks](https://github.com/sympy/quantum_notebooks) - Jupyter Notebooks that demonstrate SymPy's symbolic quantum mechanics package.
 - [surveys](https://github.com/jupyter/surveys) - Surveys and datasets collected by Project Jupyter
-- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [matlab_kernel](https://github.com/Calysto/matlab_kernel) - Jupyter Kernel for Matlab
 - [Python-for-Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial in Python targeted at Epidemiologists. Will discuss the basics of analysis in Python 3
 - [PyDataNY_2019_tutorial](https://github.com/CamDavidsonPilon/PyDataNY_2019_tutorial) - Repo for PyData 2019 Tutorial - New Trends in Estimation and Inference
@@ -1001,6 +1014,9 @@
 
 ## Others 
 
+- [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
+- [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
+- [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
@@ -1271,6 +1287,16 @@
 
 ## Python 
 
+- [pronto](https://github.com/althonos/pronto) - A Python frontend to Ontologies.
+- [sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [altair_recipes](https://github.com/piccolbo/altair_recipes) - A selection of statistical graphics for vega in python, based on altair.
+- [Pweave](https://github.com/mpastell/Pweave) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
+- [pandoctools](https://github.com/kiwi0fruit/pandoctools) - Profile manager of text processing pipelines: Pandoc filters, any text CLI filters. Atom+Markdown+Pandoc+Jupyter workflow, export to ipynb. Uses Stitch fork: https://github.com/kiwi0fruit/knitty
+- [codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
+- [jupinx](https://github.com/QuantEcon/jupinx) - Jupyter + Sphinx Utilities and Tools
+- [ggpy](https://github.com/yhat/ggpy) - ggplot port for python
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
 - [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
@@ -1559,6 +1585,12 @@
 
 ## R 
 
+- [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
+- [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
+- [prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods
+- [rio.db](https://github.com/leeper/rio.db) - A Database Extension for 'rio'
+- [margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
+- [rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
 - [openintro-r-package](https://github.com/OpenIntroStat/openintro-r-package) - R Package: openintro
 - [jags_examples](https://github.com/andrewcparnell/jags_examples) - A large set of JAGS examples using R
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
@@ -1602,7 +1634,6 @@
 - [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
 - [pander](https://github.com/Rapporter/pander) - An R Pandoc Writer
-- [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [xkcd-plots](https://github.com/alice-i-cecile/xkcd-plots) - Silly xkcd style graphs in R
 - [xkcd-graphics](https://github.com/elabuel-o/xkcd-graphics) - xkcd style graphics with ggplot2
 - [pammtools](https://github.com/adibender/pammtools) - Piece-wise exponential Additive Mixed Modeling tools
@@ -1654,6 +1685,7 @@
 
 ## Shell 
 
+- [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [linux](https://github.com/clearlinux-pkgs/linux) - 
 - [sage-windows](https://github.com/sagemath/sage-windows) - Build tools for the Sagemath Windows installer
 - [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
@@ -1748,6 +1780,8 @@
 
 ## TypeScript 
 
+- [snooty-vscode](https://github.com/mongodb/snooty-vscode) - 
+- [vscode-r-lsp](https://github.com/REditorSupport/vscode-r-lsp) - R LSP Client for Visual Studio Code
 - [vscode-reflow-lines](https://github.com/dontrolle/vscode-reflow-lines) - Reflow paragraph extension for vscode
 - [ReflowMarkdown](https://github.com/marvhen/ReflowMarkdown) - Reflow paragraph extension for vscode
 - [vscode-tidymarkdown](https://github.com/Tehnix/vscode-tidymarkdown) - VS Code formatter using tidymarkdown
