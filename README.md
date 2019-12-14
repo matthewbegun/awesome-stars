@@ -462,6 +462,8 @@
 
 ## Dockerfile 
 
+- [notebooks](https://github.com/AustinRochford/notebooks) - My Jupyter notebook server
+- [r-docker](https://github.com/rstudio/r-docker) - Docker images for R
 - [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
@@ -694,6 +696,7 @@
 
 ## JavaScript 
 
+- [thebelab](https://github.com/minrk/thebelab) - ThebeLab: turning static HTML pages into live documents
 - [clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [togglbit](https://github.com/toggl/togglbit) - A simple Fitbit app for Toggl Track
@@ -861,6 +864,18 @@
 
 ## Jupyter Notebook 
 
+- [codekatas](https://github.com/gudnm/codekatas) - Keep your skills sharp by implementing basic algorithms and data structures
+- [SciComPy](https://github.com/yoavram/SciComPy) - An introduction to Scientific Computing with Python, an advanced course for computer science students at IDC Herzliya
+- [Py4Eng](https://github.com/yoavram/Py4Eng) - Python for Engineers
+- [DataSciPy](https://github.com/yoavram/DataSciPy) - Introduction to Data Science with Python
+- [CS1001.py](https://github.com/yoavram/CS1001.py) - Recitation notebooks for Extended Introduction to Computer Science with Python as Tel-Aviv University
+- [python-for-developers](https://github.com/ricardoduarte/python-for-developers) - This book is geared toward those who already have programming knowledge. It covers topics that include: creation of user interfaces, computer graphics, internet applications, distributed systems, among other issues.
+- [exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
+- [minibook-2nd-code](https://github.com/ipython-books/minibook-2nd-code) - Code of the IPython Minibook, 2nd edition (2015)
+- [dask-tutorial](https://github.com/dask/dask-tutorial) - Dask tutorial
+- [old-dask-examples](https://github.com/dask/old-dask-examples) - Collection of dask example notebooks
+- [pymc3_models](https://github.com/parsing-science/pymc3_models) - 
+- [sage-binder-env](https://github.com/sagemath/sage-binder-env) - A SageMath-based computing environment for binder
 - [jupyter-sos](https://github.com/binder-examples/jupyter-sos) - 
 - [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas
 - [bokeh-notebooks](https://github.com/bokeh/bokeh-notebooks) - Interactive Web Plotting with Bokeh in IPython notebook
@@ -1287,6 +1302,10 @@
 
 ## Python 
 
+- [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
+- [scripts](https://github.com/yoavram/scripts) - Repo for small admin scripts
+- [sampled](https://github.com/ColCarroll/sampled) - Decorator for PyMC3
+- [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
 - [pronto](https://github.com/althonos/pronto) - A Python frontend to Ontologies.
 - [sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
@@ -1585,6 +1604,7 @@
 
 ## R 
 
+- [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods
@@ -1685,6 +1705,7 @@
 
 ## Shell 
 
+- [r-builds](https://github.com/rstudio/r-builds) - an opinionated environment for compiling R
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [linux](https://github.com/clearlinux-pkgs/linux) - 
 - [sage-windows](https://github.com/sagemath/sage-windows) - Build tools for the Sagemath Windows installer
@@ -1753,6 +1774,8 @@
 
 ## TeX 
 
+- [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit) - Main repository for sharing files and documents about OpenDreamKit
+- [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - Slides for the OpenIntro Statistics textbook
 - [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [latex-homework-class](https://github.com/jez/latex-homework-class) - A class for homework assignments written in LaTeX.
