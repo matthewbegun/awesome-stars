@@ -70,6 +70,9 @@
 
 ## C 
 
+- [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
+- [data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
+- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [VcXsvr](https://github.com/Lumak/VcXsvr) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
 - [asm](https://github.com/WindowsNT/asm) - Assembly Tutorial for DOS
 - [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -382,6 +385,11 @@
 
 ## C++ 
 
+- [lean](https://github.com/leanprover/lean) - Lean Theorem Prover
+- [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
+- [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
+- [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [nix-windows](https://github.com/volth/nix-windows) - Nix, the purely functional package manager
 - [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
@@ -421,6 +429,8 @@
 
 ## CSS 
 
+- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
+- [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
@@ -450,6 +460,7 @@
 
 ## Clojure 
 
+- [frontend](https://github.com/circleci/frontend) - CircleCI's frontend
 - [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## Cuda 
@@ -522,6 +533,17 @@
 
 ## HTML 
 
+- [pandas-munging](https://github.com/bsweger/pandas-munging) - Short talk on basic data munging with Python and Pandas
+- [webinars](https://github.com/rstudio/webinars) - Code and slides for RStudio webinars
+- [git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
+- [git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference/
+- [skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
+- [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
+- [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
+- [jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
+- [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+- [python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
+- [snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
@@ -608,6 +630,7 @@
 
 ## Java 
 
+- [rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [intellij-samples](https://github.com/JetBrains/intellij-samples) - Sample projects for IntelliJ IDEA
 - [invesdwin-context-r](https://github.com/subes/invesdwin-context-r) - Integrate R functionality with these modules for invesdwin-context
 - [invesdwin-context](https://github.com/subes/invesdwin-context) - Module system for software product lines
@@ -654,7 +677,6 @@
 - [plantuml-gist](https://github.com/linux-china/plantuml-gist) - PlantUML with Github Gist and Gitlab Support
 - [docosh](https://github.com/rmannibucau/docosh) - 
 - [are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) - Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays
-- [graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [pyterpreter](https://github.com/melkamar/pyterpreter) - Python interpreter built on Truffle and Graal VM
 - [graal-polyglot](https://github.com/gomezrondon/graal-polyglot) - testing graal polyglot capabilities with  java + python
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -696,6 +718,21 @@
 
 ## JavaScript 
 
+- [rmdexamples](https://github.com/rstudio/rmdexamples) - 
+- [learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
+- [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Matplotlib Jupyter Extension
+- [RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
+- [jupyter-desktop-server](https://github.com/yuvipanda/jupyter-desktop-server) - Run a Linux Desktop on a JupyterHub
+- [gitattributes.io](https://github.com/gitattributes/gitattributes.io) - Create .gitattributes files for your project.
+- [jupyter_contrib_nbextensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - A collection of various notebook extensions for Jupyter
+- [multi-monitors-add-on](https://github.com/spin83/multi-monitors-add-on) - 
+- [tweaks-system-menu](https://github.com/F-i-f/tweaks-system-menu) - Gnome Shell Extension to put Gnome Tweaks in the system menu.
+- [gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
+- [gnome-shell-extension-extensions](https://github.com/petres/gnome-shell-extension-extensions) - gnome shell extension to enable/disable extension easily via a panel menu
+- [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
+- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
+- [wintile](https://github.com/Fmstrat/wintile) - Windows 10 window tiling for GNOME
+- [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [thebelab](https://github.com/minrk/thebelab) - ThebeLab: turning static HTML pages into live documents
 - [clear-linux-documentation](https://github.com/clearlinux/clear-linux-documentation) - This repository contains the documentation source files for Clear Linux OS.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
@@ -864,6 +901,25 @@
 
 ## Jupyter Notebook 
 
+- [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
+- [stats-fun](https://github.com/jvns/stats-fun) - 
+- [dabl](https://github.com/amueller/dabl) - Data Analysis Baseline Library
+- [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
+- [data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
+- [Slides-SciPyConf-2018](https://github.com/wesm/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
+- [vldb-2019-apache-arrow-workshop](https://github.com/wesm/vldb-2019-apache-arrow-workshop) - Materials for Apache Arrow workshop at VLDB 2019
+- [notebooks](https://github.com/wesm/notebooks) - Miscellaneous Jupyter notebooks
+- [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+- [deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
+- [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
+- [handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+- [pycon-2018-tutorial](https://github.com/justmarkham/pycon-2018-tutorial) - Using pandas for Better (and Worse) Data Science
+- [pandas-videos](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
+- [effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
+- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
+- [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+- [pandas-binder](https://github.com/pandas-dev/pandas-binder) - 
 - [codekatas](https://github.com/gudnm/codekatas) - Keep your skills sharp by implementing basic algorithms and data structures
 - [SciComPy](https://github.com/yoavram/SciComPy) - An introduction to Scientific Computing with Python, an advanced course for computer science students at IDC Herzliya
 - [Py4Eng](https://github.com/yoavram/Py4Eng) - Python for Engineers
@@ -1029,6 +1085,18 @@
 
 ## Others 
 
+- [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
+- [naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
+- [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
+- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
+- [awesome-jupyterlab-extension](https://github.com/Yogayu/awesome-jupyterlab-extension) - 😎 A curated list of awesome Jupyterlab extension projects. 🌠 Detailed introduction with images.
+- [awesome-jupyterlab](https://github.com/mauhai/awesome-jupyterlab) - A curated list of awesome JupyterLab extensions and resources
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
+- [gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
+- [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
+- [generator-pycli](https://github.com/rgreinho/generator-pycli) - The ultimate generator for Python CLI projects
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
 - [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
@@ -1212,6 +1280,7 @@
 
 ## Perl 
 
+- [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
@@ -1302,6 +1371,38 @@
 
 ## Python 
 
+- [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+- [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
+- [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [ibis](https://github.com/ibis-project/ibis) - A pandas-like deferred expression system, with first-class SQL support
+- [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - A Sphinx Extension for Generating Jupyter Notebooks
+- [appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
+- [githubcommit](https://github.com/sat28/githubcommit) - A jupyter notebook extension enabling users push ipython notebooks to a git repo
+- [jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
+- [PPExtensions](https://github.com/paypal/PPExtensions) - Set of iPython and Jupyter extensions to improve user experience
+- [nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.
+- [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter for JupyterLab.
+- [jupyterlab-dash](https://github.com/plotly/jupyterlab-dash) - An Extension for the Interactive development of Dash apps in JupyterLab
+- [learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
+- [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
+- [patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas
+- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
+- [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
+- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
+- [orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis https://orange.biolab.si
+- [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) - A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Automotives, Retail, Pharma, Medicine, Healthcare by Tarry Singh until at-least 2020 until he finishes his Ph.D. (which might end up being inter-stellar cosmic networks! Who knows! 😀)
+- [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [git-files](https://github.com/Richienb/git-files) - A .gitignore and .gitattributes file containing ignore and attribute code for all programming languages
+- [sacred](https://github.com/IDSIA/sacred) - Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+- [click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
+- [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [python-sample](https://github.com/heroku/python-sample) - 
+- [pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [dnf](https://github.com/rpm-software-management/dnf) - Package manager based on libdnf and libsolv. Replaces YUM.
+- [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
 - [scripts](https://github.com/yoavram/scripts) - Repo for small admin scripts
 - [sampled](https://github.com/ColCarroll/sampled) - Decorator for PyMC3
@@ -1331,7 +1432,6 @@
 - [sagenb](https://github.com/sagemath/sagenb) - Sage Notebook (flask), docs in $SAGE_LOCAL/share/doc/sagenb/index.html
 - [sagecell](https://github.com/sagemath/sagecell) - The Sage Cell Server---providing a way to embed Sage computations into any web page.
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
-- [appmode](https://github.com/oschuett/appmode) - A Jupyter extensions that turns notebooks into web applications.
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [jupyterhub-deploy-hpc](https://github.com/jupyterhub/jupyterhub-deploy-hpc) - Documented examples of Jupyterhub deployment in HPC settings
 - [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Jupyter server extension to sync a git repository one-way to a local path
@@ -1475,7 +1575,6 @@
 - [stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -1498,7 +1597,6 @@
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
-- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
@@ -1542,7 +1640,6 @@
 - [pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
-- [arl](https://github.com/kaxap/arl) - lists of most popular repositories for most favoured programming languages (according to StackOverflow)
 - [awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
@@ -1604,6 +1701,33 @@
 
 ## R 
 
+- [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots
+- [R6](https://github.com/r-lib/R6) - Encapsulated object-oriented programming for R
+- [prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
+- [styler](https://github.com/r-lib/styler) - Non-invasive pretty printing of R code
+- [distill](https://github.com/rstudio/distill) - Distill for R Markdown
+- [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
+- [renv](https://github.com/rstudio/renv) - renv: Project environments for R.
+- [keras](https://github.com/rstudio/keras) - R Interface to Keras
+- [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
+- [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book
+- [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
+- [rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan
+- [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
+- [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible | Problem Set Here &gt;&gt;
+- [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
+- [magrittr](https://github.com/tidyverse/magrittr) - Improve the readability of R code with the pipe
+- [purrr](https://github.com/tidyverse/purrr) - A functional programming toolkit for R
+- [swirl](https://github.com/swirldev/swirl) - :cyclone: Learn R, in R.
+- [drake](https://github.com/ropensci/drake) - An R-focused pipeline toolkit for reproducibility and high-performance computing
+- [rvest](https://github.com/tidyverse/rvest) - Simple web scraping for R
+- [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization using tabular data in R.
+- [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R
+- [DataScienceR](https://github.com/ujjwalkarn/DataScienceR) - a curated list of R tutorials for Data Science, NLP and Machine Learning
+- [plotly](https://github.com/ropensci/plotly) - An interactive graphing library for R
+- [benchm-ml](https://github.com/szilard/benchm-ml) - A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
+- [dplyr](https://github.com/tidyverse/dplyr) - dplyr: A grammar of data manipulation
+- [ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
@@ -1705,6 +1829,10 @@
 
 ## Shell 
 
+- [gabo](https://github.com/jarrodldavis/gabo) - Easy access to gitattributes boilerplates
+- [docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
+- [heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
+- [converter](https://github.com/uup-dump/converter) - Linux UUP converter
 - [r-builds](https://github.com/rstudio/r-builds) - an opinionated environment for compiling R
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [linux](https://github.com/clearlinux-pkgs/linux) - 
@@ -1774,6 +1902,10 @@
 
 ## TeX 
 
+- [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
+- [rmarkdown-book](https://github.com/rstudio/rmarkdown-book) - R Markdown: The Definitive Guide (published by Chapman & Hall/CRC in July 2018)
+- [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
+- [adv-r](https://github.com/hadley/adv-r) - Advanced R: a book
 - [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit) - Main repository for sharing files and documents about OpenDreamKit
 - [happy-git-with-r](https://github.com/jennybc/happy-git-with-r) - Using Git and GitHub with R, Rstudio, and R Markdown
 - [openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - Slides for the OpenIntro Statistics textbook
@@ -1793,7 +1925,6 @@
 - [latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
 - [stats-notes](https://github.com/kuriwaki/stats-notes) - Notes for teaching statistics
 - [paper-template](https://github.com/ivotron/paper-template) - Docker- and Pandoc-based Template for Academic Articles
-- [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
 - [academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautiful academic texts with the distraction-free Pandoc Markdown and typademic.
 - [pammtutorial-smj](https://github.com/adibender/pammtutorial-smj) - Code and materials to reproduce graphics in "A generalized additive model approach to time-to-event analysis"
@@ -1803,6 +1934,12 @@
 
 ## TypeScript 
 
+- [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+- [jupyterlab-google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Cloud storage for JupyterLab using Google Drive
+- [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
+- [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
+- [jupyterlab-variableInspector](https://github.com/lckr/jupyterlab-variableInspector) - Variable Inspector extension for jupyterlab
+- [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [snooty-vscode](https://github.com/mongodb/snooty-vscode) - 
 - [vscode-r-lsp](https://github.com/REditorSupport/vscode-r-lsp) - R LSP Client for Visual Studio Code
 - [vscode-reflow-lines](https://github.com/dontrolle/vscode-reflow-lines) - Reflow paragraph extension for vscode
@@ -1866,6 +2003,7 @@
 
 ## Vala 
 
+- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [web-archives](https://github.com/birros/web-archives) - A web archives reader
 
 ## Vim script 
