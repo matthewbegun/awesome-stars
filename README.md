@@ -1371,6 +1371,7 @@
 
 ## Python 
 
+- [conda-devenv](https://github.com/ESSS/conda-devenv) - A conda tool to work with multiple projects in development mode.
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
@@ -1603,7 +1604,7 @@
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file. Also can optionally unstar all backed up repositories.
 - [ELI5](https://github.com/facebookresearch/ELI5) - Scripts and links to recreate the ELI5 dataset.
-- [rpy2](https://github.com/rpy2/rpy2) - Official mirror for the rpy2 repository
+- [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python
 - [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
 - [diofant](https://github.com/diofant/diofant) - A Python CAS library
 - [sympy_gamma](https://github.com/sympy/sympy_gamma) - A SymPy version of WolframAlpha.
@@ -1701,6 +1702,11 @@
 
 ## R 
 
+- [greta.hmm](https://github.com/greta-dev/greta.hmm) - a greta extension for hidden Markov models
+- [cuckooParasitism](https://github.com/monogenea/cuckooParasitism) - Bayesian modelling tutorial based on rethinking + greta
+- [greta.dynamics](https://github.com/greta-dev/greta.dynamics) - a greta extension for modelling dynamical systems
+- [inlabru](https://github.com/fbachl/inlabru) - inlabru
+- [InformativeCensoring](https://github.com/scientific-computing-solutions/InformativeCensoring) - Multiple Imputation for Informative Censoring
 - [ggpubr](https://github.com/kassambara/ggpubr) - 'ggplot2' Based Publication Ready Plots
 - [R6](https://github.com/r-lib/R6) - Encapsulated object-oriented programming for R
 - [prettycode](https://github.com/r-lib/prettycode) - Syntax highlight R code in the terminal
