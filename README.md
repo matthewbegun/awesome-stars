@@ -505,6 +505,7 @@
 
 ## Go 
 
+- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [singularity](https://github.com/sylabs/singularity) - Singularity: Application containers for Linux
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -1371,6 +1372,7 @@
 
 ## Python 
 
+- [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - A conda tool to work with multiple projects in development mode.
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
@@ -1773,7 +1775,7 @@
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [mcp](https://github.com/lindeloev/mcp) - Regression with Multiple Change Points
 - [matconv](https://github.com/sidjai/matconv) - A Matlab to R translator written in R
-- [dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for authoring reactive web applications
+- [dashR](https://github.com/plotly/dashR) - Dash for R - An R interface to the Dash ecosystem for creating analytic web applications
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
 - [gpflowr](https://github.com/goldingn/gpflowr) - :blossom: Gaussian processes in TensorFlow via R :blossom:
 - [ESEUR-code-data](https://github.com/Derek-Jones/ESEUR-code-data) - Code and data used to create the examples in "Evidence-based Software Engineering based on the publicly available data"
