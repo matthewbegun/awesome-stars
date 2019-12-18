@@ -902,6 +902,7 @@
 
 ## Jupyter Notebook 
 
+- [pandas_basic_data_analysis_tutorial](https://github.com/dom-devel/pandas_basic_data_analysis_tutorial) - A tutorial for basic data analysis with Pandas and Python. Designed to help people move from Excel to Pandas. Uses an SEO example.
 - [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
 - [stats-fun](https://github.com/jvns/stats-fun) - 
 - [dabl](https://github.com/amueller/dabl) - Data Analysis Baseline Library
@@ -1372,6 +1373,7 @@
 
 ## Python 
 
+- [sphinx-gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension for automatic generation of an example gallery
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - A conda tool to work with multiple projects in development mode.
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
@@ -1704,6 +1706,7 @@
 
 ## R 
 
+- [holepunch](https://github.com/karthik/holepunch) - Make your R project Binder ready
 - [greta.hmm](https://github.com/greta-dev/greta.hmm) - a greta extension for hidden Markov models
 - [cuckooParasitism](https://github.com/monogenea/cuckooParasitism) - Bayesian modelling tutorial based on rethinking + greta
 - [greta.dynamics](https://github.com/greta-dev/greta.dynamics) - a greta extension for modelling dynamical systems
