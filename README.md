@@ -473,12 +473,13 @@
 
 ## Dockerfile 
 
+- [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
+- [docker-r-session-complete](https://github.com/rstudio/docker-r-session-complete) - Dockerfiles for R and Python sessions and jobs to be used with RStudio Server Pro, Launcher, and Kubernetes
 - [notebooks](https://github.com/AustinRochford/notebooks) - My Jupyter notebook server
 - [r-docker](https://github.com/rstudio/r-docker) - Docker images for R
 - [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
 - [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
-- [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
@@ -662,7 +663,7 @@
 - [java-extensions](https://github.com/structurizr/java-extensions) - Structurizr for Java extensions
 - [java-quickstart](https://github.com/structurizr/java-quickstart) - A starting point for using Structurizr for Java
 - [java](https://github.com/structurizr/java) - Structurizr for Java
-- [kroki](https://github.com/yuzutech/kroki) - Convert plain text diagrams to images !
+- [kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [plantuml-server](https://github.com/plantuml/plantuml-server) - PlantUML Online Server
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -1290,6 +1291,7 @@
 
 ## PowerShell 
 
+- [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
 - [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
 - [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
@@ -1373,6 +1375,8 @@
 
 ## Python 
 
+- [pip](https://github.com/pypa/pip) - The Python package installer
+- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [sphinx-gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension for automatic generation of an example gallery
 - [scikit-survival](https://github.com/sebp/scikit-survival) - Survival analysis built on top of scikit-learn
 - [conda-devenv](https://github.com/ESSS/conda-devenv) - A conda tool to work with multiple projects in development mode.
@@ -1945,6 +1949,7 @@
 
 ## TypeScript 
 
+- [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, lint, R documantation, R Markdown)
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [jupyterlab-google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Cloud storage for JupyterLab using Google Drive
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
