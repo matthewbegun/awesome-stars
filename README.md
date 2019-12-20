@@ -70,6 +70,7 @@
 
 ## C 
 
+- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -506,6 +507,7 @@
 
 ## Go 
 
+- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [singularity](https://github.com/sylabs/singularity) - Singularity: Application containers for Linux
@@ -903,6 +905,7 @@
 
 ## Jupyter Notebook 
 
+- [public-hosting](https://github.com/brohrer/public-hosting) - A place to publically host files I need a URL for.
 - [pandas_basic_data_analysis_tutorial](https://github.com/dom-devel/pandas_basic_data_analysis_tutorial) - A tutorial for basic data analysis with Pandas and Python. Designed to help people move from Excel to Pandas. Uses an SEO example.
 - [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
 - [stats-fun](https://github.com/jvns/stats-fun) - 
@@ -1375,6 +1378,9 @@
 
 ## Python 
 
+- [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
 - [pip](https://github.com/pypa/pip) - The Python package installer
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [sphinx-gallery](https://github.com/sphinx-gallery/sphinx-gallery) - Sphinx extension for automatic generation of an example gallery
@@ -1844,6 +1850,18 @@
 
 ## Shell 
 
+- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
+- [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
+- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [gabo](https://github.com/jarrodldavis/gabo) - Easy access to gitattributes boilerplates
 - [docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
 - [heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
@@ -2024,6 +2042,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
 
