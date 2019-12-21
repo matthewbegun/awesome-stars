@@ -70,6 +70,8 @@
 
 ## C 
 
+- [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
+- [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
@@ -104,7 +106,6 @@
 - [Rosetta_Project](https://github.com/EricAlcaide/Rosetta_Project) - Algorithms implemented in Python, JS and Go. Feel free to add another language!
 - [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
 - [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
-- [data-tools](https://github.com/clarkgrubb/data-tools) - File format conversion tools
 - [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) - WebRTC package for Unity
 - [cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for libcmark (CommonMark parser)
@@ -1294,6 +1295,7 @@
 
 ## PowerShell 
 
+- [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909
 - [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
 - [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
@@ -1378,6 +1380,7 @@
 
 ## Python 
 
+- [petronia](https://github.com/groboclown/petronia) - A Python Window Tiler for Windows
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
 - [all-repos](https://github.com/asottile/all-repos) - Clone all your repositories and apply sweeping changes.
@@ -1610,7 +1613,7 @@
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
-- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Find usernames across social networks
+- [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
