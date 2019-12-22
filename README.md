@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
@@ -538,6 +539,8 @@
 
 ## HTML 
 
+- [toys](https://github.com/mcandre/toys) - hello world 4 ur stax
+- [builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [pandas-munging](https://github.com/bsweger/pandas-munging) - Short talk on basic data munging with Python and Pandas
 - [webinars](https://github.com/rstudio/webinars) - Code and slides for RStudio webinars
 - [git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
@@ -723,6 +726,7 @@
 
 ## JavaScript 
 
+- [code-kata](https://github.com/jsstrn/code-kata) - :space_invader: Algorithms are a programmer's best friend.
 - [rmdexamples](https://github.com/rstudio/rmdexamples) - 
 - [learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Matplotlib Jupyter Extension
@@ -1092,6 +1096,7 @@
 
 ## Others 
 
+- [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
 - [naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
@@ -1246,8 +1251,8 @@
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [specification](https://github.com/sembr/specification) - Semantic Line Breaks Specification
 - [productivity-pack](https://github.com/geoffstevens8/productivity-pack) - Productivity extension pack for Visual Studio Code
-- [pandoc-example](https://github.com/maxheld83/pandoc-example) - example for using the pandoc action
-- [pandoc](https://github.com/maxheld83/pandoc) - GitHub action to run pandoc
+- [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
+- [pandoc-action](https://github.com/maxheld83/pandoc-action) - github action to run pandoc, soft-deprecated -&gt;
 - [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
 - [math-snippets](https://github.com/thomanq/math-snippets) - Math snippets Visual Studio Code extension for LaTeX and Markdown
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -1295,6 +1300,7 @@
 
 ## PowerShell 
 
+- [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
 - [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909
 - [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
@@ -1380,6 +1386,9 @@
 
 ## Python 
 
+- [random](https://github.com/cactus/random) - random stuff
+- [github-links](https://github.com/Python-Markdown/github-links) - Python-Markdown GitHub Links Extension
+- [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [petronia](https://github.com/groboclown/petronia) - A Python Window Tiler for Windows
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
@@ -1600,7 +1609,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - A collection of surprising Python snippets and lesser-known features.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets.
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
@@ -1719,6 +1728,7 @@
 
 ## R 
 
+- [Hr](https://github.com/thomasp85/Hr) - Easy Access to Uppercase H
 - [holepunch](https://github.com/karthik/holepunch) - Make your R project Binder ready
 - [greta.hmm](https://github.com/greta-dev/greta.hmm) - a greta extension for hidden Markov models
 - [cuckooParasitism](https://github.com/monogenea/cuckooParasitism) - Bayesian modelling tutorial based on rethinking + greta
@@ -1853,6 +1863,7 @@
 
 ## Shell 
 
+- [CO2Aldrin](https://github.com/qjcg/CO2Aldrin) - Fizzing and buzzing along the road to enlightenment.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
