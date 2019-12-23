@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext option.
@@ -431,8 +432,9 @@
 
 ## CSS 
 
-- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+- [zero-to-data-8](https://github.com/data-8/zero-to-data-8) - A quick guide to deploying your own Data 8 course
+- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [open-iconic](https://github.com/iconic/open-iconic) - An open source icon set with 223 marks in SVG, webfont and raster formats
 - [markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
@@ -508,6 +510,7 @@
 
 ## Go 
 
+- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
@@ -910,6 +913,17 @@
 
 ## Jupyter Notebook 
 
+- [mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
+- [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
+- [fa19](https://github.com/DS-100/fa19) - Public repository for course content and ds100.org/fa19.
+- [textbook](https://github.com/data-8/textbook) - The textbook Computational and Inferential Thinking: The Foundations of Data Science
+- [datascience](https://github.com/data-8/datascience) - A Python library for introductory data science
+- [fuzzingbook](https://github.com/uds-se/fuzzingbook) - The Book "Generating Software Tests"
+- [dask-examples](https://github.com/dask/dask-examples) - Easy-to-run example notebooks for Dask
+- [numba-examples](https://github.com/numba/numba-examples) - Example Numba implementations of functions
+- [textbook](https://github.com/DS-100/textbook) - Textbook for Data 100 at UC Berkeley
+- [bamboolib_binder_template](https://github.com/8080labs/bamboolib_binder_template) - bamboolib - template for creating your own binder notebook
+- [ipython-in-depth](https://github.com/ipython/ipython-in-depth) - IPython and Jupyter in-depth Tutorial, first presented at PyCon 2012
 - [public-hosting](https://github.com/brohrer/public-hosting) - A place to publically host files I need a URL for.
 - [pandas_basic_data_analysis_tutorial](https://github.com/dom-devel/pandas_basic_data_analysis_tutorial) - A tutorial for basic data analysis with Pandas and Python. Designed to help people move from Excel to Pandas. Uses an SEO example.
 - [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
@@ -1096,6 +1110,7 @@
 
 ## Others 
 
+- [spacy-io-binder](https://github.com/ines/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
 - [naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
@@ -1292,6 +1307,7 @@
 
 ## Perl 
 
+- [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
@@ -1386,6 +1402,12 @@
 
 ## Python 
 
+- [pangeo-binder](https://github.com/pangeo-data/pangeo-binder) - Pangeo + Binder (dev repo for a binder/pangeo fusion concept)
+- [pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
+- [pipman](https://github.com/sollidsnake/pipman) - Convert pip's packages to Arch Linux's PKGBUILDs
+- [publication](https://github.com/glyph/publication) - 
+- [pyforest](https://github.com/8080labs/pyforest) - Lazy-import of all popular Python Data Science libraries
+- [spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [random](https://github.com/cactus/random) - random stuff
 - [github-links](https://github.com/Python-Markdown/github-links) - Python-Markdown GitHub Links Extension
 - [markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
@@ -1863,6 +1885,8 @@
 
 ## Shell 
 
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
+- [dotfiles](https://github.com/dstufft/dotfiles) - My dotfiles
 - [CO2Aldrin](https://github.com/qjcg/CO2Aldrin) - Fizzing and buzzing along the road to enlightenment.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
