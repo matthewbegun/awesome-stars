@@ -729,6 +729,7 @@
 
 ## JavaScript 
 
+- [play](https://github.com/nteract/play) - The code base for the nteract Play app
 - [code-kata](https://github.com/jsstrn/code-kata) - :space_invader: Algorithms are a programmer's best friend.
 - [rmdexamples](https://github.com/rstudio/rmdexamples) - 
 - [learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
@@ -913,6 +914,10 @@
 
 ## Jupyter Notebook 
 
+- [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
+- [bamboolib_docker_demo_notebook](https://github.com/8080labs/bamboolib_docker_demo_notebook) - bamboolib - binder and Docker demo notebook
+- [binder-workspace-demo](https://github.com/ian-r-rose/binder-workspace-demo) - A demonstration repository showing how to open JupyterLab with a custom layout on mybinder.org
+- [repo2docker-conda](https://github.com/vsoch/repo2docker-conda) - a build-&gt;test-&gt;deploy containershare template for a conda container https://vsoch.github.io/containershare
 - [mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [fa19](https://github.com/DS-100/fa19) - Public repository for course content and ds100.org/fa19.
@@ -1110,6 +1115,7 @@
 
 ## Others 
 
+- [bamboolib](https://github.com/8080labs/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
 - [spacy-io-binder](https://github.com/ines/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
@@ -1402,6 +1408,11 @@
 
 ## Python 
 
+- [qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
+- [edaviz](https://github.com/tkrabel/edaviz) - edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab
+- [container_camp_workshop_2018](https://github.com/CyVerse-learning-materials/container_camp_workshop_2018) - 
+- [mnist-sample](https://github.com/Paperspace/mnist-sample) - An example mnist model for Gradient to demonstrate TensorFlow model parsing, distributed training, and more.
+- [colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [pangeo-binder](https://github.com/pangeo-data/pangeo-binder) - Pangeo + Binder (dev repo for a binder/pangeo fusion concept)
 - [pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [pipman](https://github.com/sollidsnake/pipman) - Convert pip's packages to Arch Linux's PKGBUILDs
@@ -1631,7 +1642,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets.
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
