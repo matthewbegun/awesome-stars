@@ -6,7 +6,6 @@
 ## Contents
 
   - [ANTLR](#antlr)
-  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -54,44 +53,31 @@
   - [Vue](#vue)
   - [Web Ontology Language](#web-ontology-language)
   - [ZIL](#zil)
-  - [sed](#sed)
 
 ## ANTLR 
 
 - [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
 
-## AutoHotkey 
-
-- [CHotkeyControl](https://github.com/evilC/CHotkeyControl) - 
-
 ## Batchfile 
 
+- [offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
 - [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
-- [data.table](https://github.com/Rdatatable/data.table) - R's data.table package extends data.frame:
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [VcXsvr](https://github.com/Lumak/VcXsvr) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
-- [asm](https://github.com/WindowsNT/asm) - Assembly Tutorial for DOS
 - [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
-- [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
-- [Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction](https://github.com/olixbridge/Particle-Markov-Chain-Monte-Carlo-and-Particle-Filtering-for-Disease-Outburst-Prediction) - This is a Summer Research collaboration with professor Nathaniel Osgood's lab on Public Health and Epidimology, University of Saskachewan. PMCMC stands for Particle Markov Chain Monte Carlo. PF stands for Particle Filtering. My two main projects are on "applying PF to predict disease outburst" and "use PMCMC to model remind population"
 - [timereg](https://github.com/scheike/timereg) - timereg R package, survival analysis methods
 - [haven](https://github.com/tidyverse/haven) - Read SPSS, Stata and SAS files from R
 - [subversion](https://github.com/apache/subversion) - Mirror of Apache Subversion
-- [zstdmt](https://github.com/mcmilk/zstdmt) - Multithreading Library for Brotli, Lizard, LZ4, LZ5 and ZStandard
-- [7-Zip-zstd](https://github.com/mcmilk/7-Zip-zstd) - 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
-- [termux-elf-cleaner](https://github.com/termux/termux-elf-cleaner) - Utility to remove unused ELF sections causing warnings.
 - [proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [toybox](https://github.com/landley/toybox) - toybox
 - [node-libpst](https://github.com/rhasson/node-libpst) - Parse MS Outlook PST/OST files from node
@@ -1679,7 +1665,7 @@
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
 - [Termux-Mpv](https://github.com/Neo-Oli/Termux-Mpv) - Wrapper for Mpv on Termux. Displays play controls in the notification
-- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Downloads lightnovels from various online sources and generates ebooks in many formats.
+- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - The app downloads novels from many online sources and generates ebooks.
 - [topydo](https://github.com/bram85/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [cce-python](https://github.com/leonardr/cce-python) - Python tools for processing data from the Catalog of Copyright Entries
 - [sentence-to-clauses](https://github.com/iamrkg31/sentence-to-clauses) - A python script to break a sentence into clauses.
@@ -1896,6 +1882,9 @@
 
 ## Shell 
 
+- [au](https://github.com/SDRausty/au) - You can use au 📲 (auto upgrade) to backup your Termux *.deb packages; This enables rollback in Termux.  https://sdrausty.github.io/au
+- [TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
+- [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
 - [dotfiles](https://github.com/dstufft/dotfiles) - My dotfiles
 - [CO2Aldrin](https://github.com/qjcg/CO2Aldrin) - Fizzing and buzzing along the road to enlightenment.
@@ -2012,7 +2001,6 @@
 - [pammtutorial-smj](https://github.com/adibender/pammtutorial-smj) - Code and materials to reproduce graphics in "A generalized additive model approach to time-to-event analysis"
 - [pandoc-starter](https://github.com/jez/pandoc-starter) - 📄My pandoc markdown templates and makefiles
 - [atom-for-scholarly-writing-with-markdown](https://github.com/benmarwick/atom-for-scholarly-writing-with-markdown) - 
-- [book](https://github.com/openingscience/book) - The Book
 
 ## TypeScript 
 
@@ -2043,19 +2031,16 @@
 - [vsc-pandoc-markdown-preview](https://github.com/kzvi/vsc-pandoc-markdown-preview) - Preview Markdown files with Pandoc syntax in VS Code
 - [dash-table](https://github.com/plotly/dash-table) - A First-Class Interactive DataTable for Dash
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
-- [audio-only-youtube](https://github.com/Ashish-Bansal/audio-only-youtube) - Listen to only audio on youtube.
 - [pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
 - [todotxt-mode](https://github.com/davraamides/todotxt-mode) - 
 - [PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud) - Repo for Power BI Word Cloud custom visual
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [vscode-todo-list](https://github.com/tzachov/vscode-todo-list) - VSCode Extension that lists all of your TODO-type comments in an easy-to-read tree view panel
-- [noty](https://github.com/fabiospampinato/noty) - Autosaving sticky note with support for multiple notes without needing multiple windows.
 - [vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [catex](https://github.com/konn/catex) - YaTeX-like completions for LaTeX in VSCode
 - [vscode-generic-input-method](https://github.com/konn/vscode-generic-input-method) - Generic Input Method for VSCode, mainly focusing on Unicode Symbol input for Theorem Provers, and YaTeX-like image completion for LaTeX
 - [Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
-- [TrelloWIPLimits](https://github.com/NateHark/TrelloWIPLimits) - A Google Chrome extension that adds work-in-progress limits to Trello lists supporting a Kanban workflow.
 - [glo-action-parse-links](https://github.com/Axosoft/glo-action-parse-links) - GitHub action to parse links to Glo Boards cards from a PR or commit description
 - [vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
 - [action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
@@ -2070,7 +2055,6 @@
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - One of the "BEST" markdown preview extensions for Visual Studio Code
 - [vscode-markdown](https://github.com/yzhang-gh/vscode-markdown) - Markdown All in One
-- [vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [zotero-storage-scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography
 - [LaTeX-Utilities](https://github.com/tecosaur/LaTeX-Utilities) - An add-on to LaTeX Workshop that provides some features that go beyond the bare essentials
 - [vscode-xml](https://github.com/DotJoshJohnson/vscode-xml) - XML Tools for Visual Studio Code
@@ -2106,10 +2090,6 @@
 ## ZIL 
 
 - [hitchhikersguide](https://github.com/historicalsource/hitchhikersguide) - The Hitchhiker's Guide to the Galaxy, by Steve Meretzky and Douglas Adams (Infocom)
-
-## sed 
-
-- [misspell-fixer](https://github.com/vlajos/misspell-fixer) - Simple tool for fixing common misspellings, typos in source code
 
 
 ## License
