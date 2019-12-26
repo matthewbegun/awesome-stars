@@ -752,7 +752,6 @@
 - [PanDocElectron](https://github.com/niebert/PanDocElectron) - Atom/Electron Application for calling PanDoc Converter with Shell Commands on Linux Windows Mac
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
-- [DontTouchMyTabs](https://github.com/JeroenSwen/DontTouchMyTabs) - A WebExtension that adds the rel=noopener attribute to all hyperlinks that have the target="_blank" attribute (excluding same-domain hyperlinks).
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
