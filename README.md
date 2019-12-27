@@ -374,6 +374,7 @@
 
 ## C++ 
 
+- [disbayes](https://github.com/chjackson/disbayes) - 
 - [lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
 - [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
@@ -528,6 +529,7 @@
 
 ## HTML 
 
+- [jupyter_latex_envs](https://github.com/jfbercher/jupyter_latex_envs) - (Some) LaTeX environments for Jupyter
 - [toys](https://github.com/mcandre/toys) - hello world 4 ur stax
 - [builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [pandas-munging](https://github.com/bsweger/pandas-munging) - Short talk on basic data munging with Python and Pandas
@@ -899,6 +901,13 @@
 
 ## Jupyter Notebook 
 
+- [course-intro-ml-app](https://github.com/RPI-DATA/course-intro-ml-app) - Introduction to Machine Learning Applications
+- [workshop-jupyterlab](https://github.com/whatevergeek/workshop-jupyterlab) - JupyterLab Workshop Prepared for Pycon APAC 2018
+- [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) - Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
+- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+- [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
+- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+- [automl-workshop](https://github.com/tsikiksr/automl-workshop) - Repository with required files for automated ML worshops
 - [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
 - [bamboolib_docker_demo_notebook](https://github.com/8080labs/bamboolib_docker_demo_notebook) - bamboolib - binder and Docker demo notebook
 - [binder-workspace-demo](https://github.com/ian-r-rose/binder-workspace-demo) - A demonstration repository showing how to open JupyterLab with a custom layout on mybinder.org
@@ -1393,6 +1402,14 @@
 
 ## Python 
 
+- [gitsuggest.com](https://github.com/csurfer/gitsuggest.com) - App to suggest github repositories based on the repositories already starred by the user
+- [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
+- [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
+- [pypette](https://github.com/csurfer/pypette) - Ridiculously simple flow controller for building complex pipelines
+- [pyheatmagic](https://github.com/csurfer/pyheatmagic) - IPython magic command to profile and view your python code as a heat map.
+- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
 - [qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
 - [edaviz](https://github.com/tkrabel/edaviz) - edaviz - Python library for Exploratory Data Analysis and Visualization in Jupyter Notebook or Jupyter Lab
 - [container_camp_workshop_2018](https://github.com/CyVerse-learning-materials/container_camp_workshop_2018) - 
@@ -1582,7 +1599,6 @@
 - [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
 - [pep8-naming](https://github.com/PyCQA/pep8-naming) - Naming Convention checker for Python
 - [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
-- [mccabe](https://github.com/PyCQA/mccabe) - McCabe complexity checker for Python
 - [pydocstyle](https://github.com/PyCQA/pydocstyle) - docstring style checker
 - [flake8](https://github.com/PyCQA/flake8) - The official GitHub mirror of https://gitlab.com/pycqa/flake8
 - [pyflakes](https://github.com/PyCQA/pyflakes) - A simple program which checks Python source files for errors
@@ -1746,6 +1762,9 @@
 
 ## R 
 
+- [msm](https://github.com/chjackson/msm) - The msm R package for continuous-time multi-state modelling of panel data
+- [flexsurv-dev](https://github.com/chjackson/flexsurv-dev) - The flexsurv R package for flexible parametric survival and multi-state modelling
+- [eha](https://github.com/goranbrostrom/eha) - eha
 - [Hr](https://github.com/thomasp85/Hr) - Easy Access to Uppercase H
 - [holepunch](https://github.com/karthik/holepunch) - Make your R project Binder ready
 - [greta.hmm](https://github.com/greta-dev/greta.hmm) - a greta extension for hidden Markov models
@@ -1881,6 +1900,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/csurfer/dotfiles) - Single command setup of all dev-environments.
 - [au](https://github.com/SDRausty/au) - You can use au 📲 (auto upgrade) to backup your Termux *.deb packages; This enables rollback in Termux.  https://sdrausty.github.io/au
 - [TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
@@ -2003,6 +2023,7 @@
 
 ## TypeScript 
 
+- [jupyterlab_formatblack](https://github.com/tobinjones/jupyterlab_formatblack) - Formats cells using the `Black` uncompromising Python code formatter.
 - [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, lint, R documantation, R Markdown)
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [jupyterlab-google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Cloud storage for JupyterLab using Google Drive
