@@ -65,6 +65,8 @@
 
 ## C 
 
+- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL installer / launcher.  (Win10 FCU 64bit or later.)
+- [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
 - [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
@@ -107,6 +109,7 @@
 
 ## C# # 
 
+- [PSUnixUtilCompleters](https://github.com/rjmholt/PSUnixUtilCompleters) - PowerShell native command completers for core utils on *nix
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -529,6 +532,7 @@
 
 ## HTML 
 
+- [docker-reproducible-research](https://github.com/nuest/docker-reproducible-research) - A course on using Docker for reproducible research based on the AuthorCarpentry templage
 - [jupyter_latex_envs](https://github.com/jfbercher/jupyter_latex_envs) - (Some) LaTeX environments for Jupyter
 - [toys](https://github.com/mcandre/toys) - hello world 4 ur stax
 - [builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
@@ -717,6 +721,9 @@
 
 ## JavaScript 
 
+- [documentation](https://github.com/wslutilities/documentation) - The documentation for WSL Utilities(WIP)
+- [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+- [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - [play](https://github.com/nteract/play) - The code base for the nteract Play app
 - [code-kata](https://github.com/jsstrn/code-kata) - :space_invader: Algorithms are a programmer's best friend.
 - [rmdexamples](https://github.com/rstudio/rmdexamples) - 
@@ -901,6 +908,13 @@
 
 ## Jupyter Notebook 
 
+- [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
+- [Code-used-at-BG](https://github.com/felipe0216/Code-used-at-BG) - Some of the code I used at work
+- [data-science-journal](https://github.com/chrisluedtke/data-science-journal) - Personal repository of data science demonstrations and references
+- [data-science-journal](https://github.com/felipe0216/data-science-journal) - Personal repository of data science demonstrations and references
+- [Survival_Analysis](https://github.com/MustafaOguz/Survival_Analysis) - Survival Analysis with non-parametric, semi-parametric, and parametric models
+- [Survival_Analysis](https://github.com/felipe0216/Survival_Analysis) - Survival Analysis with non-parametric, semi-parametric, and parametric models
+- [machinelearning_python](https://github.com/felipe0216/machinelearning_python) - Machine Learning using dummy data - created from scratch using Python
 - [course-intro-ml-app](https://github.com/RPI-DATA/course-intro-ml-app) - Introduction to Machine Learning Applications
 - [workshop-jupyterlab](https://github.com/whatevergeek/workshop-jupyterlab) - JupyterLab Workshop Prepared for Pycon APAC 2018
 - [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) - Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
@@ -1067,6 +1081,7 @@
 
 ## Kotlin 
 
+- [batect](https://github.com/charleskorn/batect) - Build And Testing Environments as Code Tool
 - [termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 
 ## Lua 
@@ -1087,6 +1102,7 @@
 
 ## Makefile 
 
+- [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux
 - [docker-images](https://github.com/sagemath/docker-images) - Dockerfiles for Sage
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -1109,6 +1125,10 @@
 
 ## Others 
 
+- [DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
+- [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
+- [reproducible-research](https://github.com/coderefinery/reproducible-research) - Lesson on reproducible research.
+- [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [bamboolib](https://github.com/8080labs/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
 - [spacy-io-binder](https://github.com/ines/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
@@ -1316,6 +1336,8 @@
 
 ## PowerShell 
 
+- [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
+- [autoCompletion](https://github.com/wubinwilliam/autoCompletion) - Auto completion like BASH with using PowerShell
 - [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
 - [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909
 - [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
@@ -1402,6 +1424,12 @@
 
 ## Python 
 
+- [docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images) - 
+- [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
+- [wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
+- [arch-systemctl-alt](https://github.com/yuk7/arch-systemctl-alt) - systemctl alternative script package for Arch Linux container/WSL environment
+- [pyflashcards](https://github.com/chrisluedtke/pyflashcards) - 🗂️ study and remember Machine Learning with Python
+- [click-completion](https://github.com/click-contrib/click-completion) - Add or enhance bash, fish, zsh and powershell completion in Click
 - [gitsuggest.com](https://github.com/csurfer/gitsuggest.com) - App to suggest github repositories based on the repositories already starred by the user
 - [pyheat](https://github.com/csurfer/pyheat) - pprofile + matplotlib = Python program profiled as an awesome heatmap!
 - [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
@@ -1888,6 +1916,7 @@
 
 ## Rust 
 
+- [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
@@ -1900,6 +1929,13 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/yuk7/dotfiles) - My dotfiles and installation scripts.  for GNU/Linux,WSL,MSYS2 and Windows
+- [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+- [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [docker-fake_wsl_env](https://github.com/wslutilities/docker-fake_wsl_env) - A fake WSL environment for preforming WSL specific tasks in Docker or CI
+- [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
+- [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
+- [zsh-capture-completion](https://github.com/Valodim/zsh-capture-completion) - 
 - [dotfiles](https://github.com/csurfer/dotfiles) - Single command setup of all dev-environments.
 - [au](https://github.com/SDRausty/au) - You can use au 📲 (auto upgrade) to backup your Termux *.deb packages; This enables rollback in Termux.  https://sdrausty.github.io/au
 - [TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
