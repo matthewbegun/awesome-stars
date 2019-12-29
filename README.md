@@ -15,6 +15,7 @@
   - [Cuda](#cuda)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Fortran](#fortran)
   - [GLSL](#glsl)
@@ -36,6 +37,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
+  - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -60,6 +62,7 @@
 
 ## Batchfile 
 
+- [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
 - [offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
@@ -486,6 +489,10 @@
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
+## Emacs Lisp 
+
+- [dotfiles](https://github.com/masasam/dotfiles) - My dotfiles based on Makefile
+
 ## Erlang 
 
 - [knot](https://github.com/mqsoh/knot) - A literate programming tool that uses Markdown.
@@ -616,6 +623,7 @@
 
 ## Haskell 
 
+- [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
 - [markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -721,6 +729,7 @@
 
 ## JavaScript 
 
+- [vscode-json](https://github.com/ZainChen/vscode-json) - Json for Visual Studio Code
 - [documentation](https://github.com/wslutilities/documentation) - The documentation for WSL Utilities(WIP)
 - [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
@@ -1327,6 +1336,7 @@
 
 ## Perl 
 
+- [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
@@ -1334,8 +1344,14 @@
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
 - [termux-stuff](https://github.com/xeffyr/termux-stuff) - Various Termux-related stuff.
 
+## PostScript 
+
+- [powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
+
 ## PowerShell 
 
+- [Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
+- [psfetch](https://github.com/mikepruett3/psfetch) - A PowerShell Implementation of the popular Bash Screenshot System Information utility (i.e. screenFetch)...
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [autoCompletion](https://github.com/wubinwilliam/autoCompletion) - Auto completion like BASH with using PowerShell
 - [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
@@ -1424,6 +1440,15 @@
 
 ## Python 
 
+- [aur](https://github.com/cdown/aur) - Arch User Repository API interface.
+- [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+- [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
+- [pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+- [fontpatcher](https://github.com/powerline/fontpatcher) - Script to patch arrow and symbol glyphs into fonts for usage with  Powerline and other compatible plugins.
+- [pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
+- [pkgbuilder](https://github.com/Kwpolska/pkgbuilder) - An AUR helper (and library) in Python 3.
+- [blessings](https://github.com/erikrose/blessings) - A thin, practical wrapper around terminal capabilities in Python
+- [archey3](https://github.com/lclarkmichalek/archey3) - Simple python script to print the Archlinux logo with basic system information.
 - [docker-systemctl-images](https://github.com/gdraheim/docker-systemctl-images) - 
 - [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [wslpy](https://github.com/wslutilities/wslpy) - A python3 Library for WSL specific tasks
@@ -1916,6 +1941,7 @@
 
 ## Rust 
 
+- [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
 - [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
@@ -1929,6 +1955,15 @@
 
 ## Shell 
 
+- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
+- [git-dropbox](https://github.com/agnoster/git-dropbox) - The easiest way to use a Dropbox for git repositories
+- [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [pacaur](https://github.com/E5ten/pacaur) - An AUR helper that minimizes user interaction
+- [public-bash-scripts](https://github.com/ryanoasis/public-bash-scripts) - Bash Scripts that I can share publicly
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with nearly 1,500 contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
+- [delugia-code](https://github.com/adam7/delugia-code) - Can we add Nerd Fonts to Cascadia Code Font using a GitHub Action
 - [dotfiles](https://github.com/yuk7/dotfiles) - My dotfiles and installation scripts.  for GNU/Linux,WSL,MSYS2 and Windows
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
@@ -2059,6 +2094,7 @@
 
 ## TypeScript 
 
+- [json-tree-view](https://github.com/ChaunceyKiwi/json-tree-view) - Generate a tree view from JSON file
 - [jupyterlab_formatblack](https://github.com/tobinjones/jupyterlab_formatblack) - Formats cells using the `Black` uncompromising Python code formatter.
 - [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, lint, R documantation, R Markdown)
 - [cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
@@ -2131,6 +2167,8 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/dancek/dotfiles) - my dotfiles
+- [dotfiles](https://github.com/ryanoasis/dotfiles) - :page_with_curl: My configuration files: Vim, Bash, JavaScript, tmux
 - [dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
