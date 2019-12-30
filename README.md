@@ -42,6 +42,7 @@
   - [Prolog](#prolog)
   - [Python](#python)
   - [R](#r)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -68,6 +69,9 @@
 
 ## C 
 
+- [scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
+- [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
+- [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL installer / launcher.  (Win10 FCU 64bit or later.)
 - [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
 - [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
@@ -470,6 +474,7 @@
 
 ## Dockerfile 
 
+- [Docker-pandoc](https://github.com/velocitymob/Docker-pandoc) - another pandoc machine with bibliography
 - [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
 - [docker-r-session-complete](https://github.com/rstudio/docker-r-session-complete) - Dockerfiles for R and Python sessions and jobs to be used with RStudio Server Pro, Launcher, and Kubernetes
 - [notebooks](https://github.com/AustinRochford/notebooks) - My Jupyter notebook server
@@ -480,7 +485,6 @@
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
-- [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/pullreminders/slack-action) - GitHub Action for posting Slack messages
 - [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
@@ -507,6 +511,7 @@
 
 ## Go 
 
+- [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -539,6 +544,7 @@
 
 ## HTML 
 
+- [Science.md](https://github.com/mschroen/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
 - [docker-reproducible-research](https://github.com/nuest/docker-reproducible-research) - A course on using Docker for reproducible research based on the AuthorCarpentry templage
 - [jupyter_latex_envs](https://github.com/jfbercher/jupyter_latex_envs) - (Some) LaTeX environments for Jupyter
 - [toys](https://github.com/mcandre/toys) - hello world 4 ur stax
@@ -623,8 +629,11 @@
 
 ## Haskell 
 
+- [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
+- [pandoc-types](https://github.com/jgm/pandoc-types) - types for representing structured documents
+- [doctemplates](https://github.com/jgm/doctemplates) - Pandoc-compatible templating system
+- [texmath](https://github.com/jgm/texmath) - A Haskell library for converting LaTeX math to MathML.
 - [quickcheck](https://github.com/nick8325/quickcheck) - Automatic testing of Haskell programs.
-- [markup.rocks](https://github.com/osener/markup.rocks) - Pandoc based document editor and converter in your browser.
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [hyperpolymorph](https://github.com/betaveros/hyperpolymorph) - A flexible multi-language cheat sheet based on hyperpolyglot.org
@@ -729,6 +738,8 @@
 
 ## JavaScript 
 
+- [mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
+- [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [vscode-json](https://github.com/ZainChen/vscode-json) - Json for Visual Studio Code
 - [documentation](https://github.com/wslutilities/documentation) - The documentation for WSL Utilities(WIP)
 - [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -917,6 +928,7 @@
 
 ## Jupyter Notebook 
 
+- [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
 - [Code-used-at-BG](https://github.com/felipe0216/Code-used-at-BG) - Some of the code I used at work
 - [data-science-journal](https://github.com/chrisluedtke/data-science-journal) - Personal repository of data science demonstrations and references
@@ -1134,6 +1146,7 @@
 
 ## Others 
 
+- [purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
 - [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
 - [reproducible-research](https://github.com/coderefinery/reproducible-research) - Lesson on reproducible research.
@@ -1387,7 +1400,7 @@
 - [PSDesiredStateConfiguration.Reverse](https://github.com/microsoft/PSDesiredStateConfiguration.Reverse) - Extracts a PowerShell DSC Script from an existing environment
 - [ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - 
 - [PSDscResources](https://github.com/PowerShell/PSDscResources) - 
-- [xPSDesiredStateConfiguration](https://github.com/dsccommunity/xPSDesiredStateConfiguration) - 
+- [xPSDesiredStateConfiguration](https://github.com/dsccommunity/xPSDesiredStateConfiguration) - DSC resources for configuring common operating systems features, files and settings.
 - [PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the Package Manager for PowerShell
 - [ReverseDSC](https://github.com/microsoft/ReverseDSC) - Utility Library that Handles the Extraction of a DSC configuration script from an existing environment
 - [Pester](https://github.com/pester/Pester) - Pester is the ubiquitous test and mock framework for PowerShell.
@@ -1440,6 +1453,22 @@
 
 ## Python 
 
+- [pandoc-numbering](https://github.com/chdemko/pandoc-numbering) - A pandoc filter for numbering all kinds of things.
+- [pandoc-codeblock-include](https://github.com/chdemko/pandoc-codeblock-include) - 
+- [pandoc-include](https://github.com/DCsunset/pandoc-include) - Pandoc filter to allow file and header includes
+- [pandoc-latex-admonition](https://github.com/chdemko/pandoc-latex-admonition) - A pandoc filter for setting admonition on specific div or codeblock elements
+- [pandoc-latex-environment](https://github.com/chdemko/pandoc-latex-environment) - Pandoc filter for adding LaTeX environement on specific div
+- [pandoc-mustache](https://github.com/michaelstepner/pandoc-mustache) - Pandoc filter for variable substitution using Mustache syntax
+- [pandoc-minted](https://github.com/nick-ulle/pandoc-minted) - A pandoc filter that has the LaTeX writer use minted for typesetting code.
+- [pantable](https://github.com/ickc/pantable) - CSV Tables in Markdown: Pandoc Filter for CSV Tables
+- [pandocmk](https://github.com/sergiocorreia/pandocmk) - Python library that simplifies running Pandoc
+- [thunderdell](https://github.com/reagle/thunderdell) - Python scripts for bibliographic management using Freeplane mindmapper.
+- [pandoc-wrappers](https://github.com/reagle/pandoc-wrappers) - Various python wrappers I use to build documents using markdown and pandoc.
+- [undo-pandoc-citeproc](https://github.com/Chrismarsh/undo-pandoc-citeproc) - Undoes the pandoc-citeproc citations when converting from md-&gt;docx-&gt;md
+- [packageurl-python](https://github.com/package-url/packageurl-python) - Python implementation of the package url spec
+- [zpkg](https://github.com/ihucos/zpkg) - Install packages from other distributions
+- [plash](https://github.com/ihucos/plash) - Run, build and manage containers
+- [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [aur](https://github.com/cdown/aur) - Arch User Repository API interface.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
@@ -1852,7 +1881,6 @@
 - [benchm-ml](https://github.com/szilard/benchm-ml) - A minimal benchmark for scalability, speed and accuracy of commonly used open source implementations (R packages, Python scikit-learn, H2O, xgboost, Spark MLlib etc.) of the top machine learning algorithms for binary classification (random forests, gradient boosted trees, deep neural networks etc.).
 - [dplyr](https://github.com/tidyverse/dplyr) - dplyr: A grammar of data manipulation
 - [ggplot2](https://github.com/tidyverse/ggplot2) - An implementation of the Grammar of Graphics in R
-- [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [languageserver](https://github.com/REditorSupport/languageserver) - An implementation of the Language Server Protocol for R
 - [prediction](https://github.com/leeper/prediction) - Tidy, Type-Safe 'prediction()' Methods
@@ -1901,7 +1929,6 @@
 - [gpe](https://github.com/goldingn/gpe) - Gaussian process everything - an R package to reimplement and combine common statistical models using GPs
 - [awesome-R](https://github.com/qinwf/awesome-R) - A curated list of awesome R packages, frameworks and software.
 - [blogdown](https://github.com/rstudio/blogdown) - Create Blogs and Websites with R Markdown
-- [pander](https://github.com/Rapporter/pander) - An R Pandoc Writer
 - [xkcd-plots](https://github.com/alice-i-cecile/xkcd-plots) - Silly xkcd style graphs in R
 - [xkcd-graphics](https://github.com/elabuel-o/xkcd-graphics) - xkcd style graphics with ggplot2
 - [pammtools](https://github.com/adibender/pammtools) - Piece-wise exponential Additive Mixed Modeling tools
@@ -1916,8 +1943,15 @@
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
+## Roff 
+
+- [pandoc-templates](https://github.com/jgm/pandoc-templates) - Templates for pandoc, tagged to release
+
 ## Ruby 
 
+- [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
+- [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
@@ -1955,6 +1989,10 @@
 
 ## Shell 
 
+- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
+- [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
+- [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
+- [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [git-dropbox](https://github.com/agnoster/git-dropbox) - The easiest way to use a Dropbox for git repositories
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
@@ -2063,6 +2101,10 @@
 
 ## TeX 
 
+- [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
+- [pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template) - Markdown templates for Pandoc
+- [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template) - IEEE paper template for pandoc
+- [pandoc-latex-barcode](https://github.com/daamien/pandoc-latex-barcode) - A pandoc filter to insert barcodes and QR codes in a latex/pdf document
 - [rticles](https://github.com/rstudio/rticles) - LaTeX Journal Article Templates for R Markdown
 - [rmarkdown-book](https://github.com/rstudio/rmarkdown-book) - R Markdown: The Definitive Guide (published by Chapman & Hall/CRC in July 2018)
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
@@ -2094,6 +2136,7 @@
 
 ## TypeScript 
 
+- [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [json-tree-view](https://github.com/ChaunceyKiwi/json-tree-view) - Generate a tree view from JSON file
 - [jupyterlab_formatblack](https://github.com/tobinjones/jupyterlab_formatblack) - Formats cells using the `Black` uncompromising Python code formatter.
 - [vscode-R](https://github.com/Ikuyadeu/vscode-R) - R Extension for Visual Studio Code (execution, snippet, lint, R documantation, R Markdown)
