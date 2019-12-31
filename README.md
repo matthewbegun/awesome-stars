@@ -69,6 +69,7 @@
 
 ## C 
 
+- [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
 - [scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
 - [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
@@ -474,6 +475,13 @@
 
 ## Dockerfile 
 
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
+- [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
+- [docker-python-black](https://github.com/mozilla/docker-python-black) - 
+- [docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
+- [dockerfile-x11docker-openbox](https://github.com/mviereck/dockerfile-x11docker-openbox) - Window manager openbox
+- [kaptain](https://github.com/mviereck/kaptain) - GUI frontend for shell commands
+- [dockerfile-x11docker-gnome](https://github.com/mviereck/dockerfile-x11docker-gnome) - Gnome 3 desktop. Experimental.
 - [Docker-pandoc](https://github.com/velocitymob/Docker-pandoc) - another pandoc machine with bibliography
 - [rocker-versioned](https://github.com/rocker-org/rocker-versioned) - Run current & prior versions of R using docker
 - [docker-r-session-complete](https://github.com/rstudio/docker-r-session-complete) - Dockerfiles for R and Python sessions and jobs to be used with RStudio Server Pro, Launcher, and Kubernetes
@@ -511,6 +519,8 @@
 
 ## Go 
 
+- [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
+- [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
@@ -738,6 +748,9 @@
 
 ## JavaScript 
 
+- [check-ends-with-period](https://github.com/azu/check-ends-with-period) - Check the text is ends with period mark.
+- [textlint-filter-rule-node-types](https://github.com/textlint/textlint-filter-rule-node-types) - textlint filter rule that ignore node's type if the type is reported.
+- [rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
 - [mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
 - [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [vscode-json](https://github.com/ZainChen/vscode-json) - Json for Visual Studio Code
@@ -1107,6 +1120,7 @@
 
 ## Lua 
 
+- [pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up sources for citations in Zotero.
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (http://pandoc.org/MANUAL.html) using a single source approach.
 - [pandoc-terminal-writer](https://github.com/Orange-OpenSource/pandoc-terminal-writer) - Pretty-print text documents on a terminal using pandoc
@@ -1123,6 +1137,8 @@
 
 ## Makefile 
 
+- [docker-black](https://github.com/cytopia/docker-black) - Alpine-based multistage-build version of Python Black for reproducible usage in CI
+- [makefiles](https://github.com/cytopia/makefiles) - 
 - [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux
 - [docker-images](https://github.com/sagemath/docker-images) - Dockerfiles for Sage
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
@@ -1146,6 +1162,7 @@
 
 ## Others 
 
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
 - [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
@@ -1453,6 +1470,9 @@
 
 ## Python 
 
+- [pygmatic-segmenter](https://github.com/kaine119/pygmatic-segmenter) - A python port of https://github.com/diasks2/pragmatic_segmenter
+- [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
+- [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [pandoc-numbering](https://github.com/chdemko/pandoc-numbering) - A pandoc filter for numbering all kinds of things.
 - [pandoc-codeblock-include](https://github.com/chdemko/pandoc-codeblock-include) - 
 - [pandoc-include](https://github.com/DCsunset/pandoc-include) - Pandoc filter to allow file and header includes
@@ -1949,6 +1969,7 @@
 
 ## Ruby 
 
+- [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 - [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
@@ -1989,6 +2010,17 @@
 
 ## Shell 
 
+- [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
+- [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, tablet and wearable https://termuxarch.github.io/TermuxArch/
+- [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
+- [TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
+- [TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
+- [dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
+- [awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
+- [runx](https://github.com/mviereck/runx) - Provide X server on MS Windows.
+- [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
+- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
+- [ml](https://github.com/rocker-org/ml) - experimental machine learning container
 - [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
@@ -2136,6 +2168,8 @@
 
 ## TypeScript 
 
+- [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
+- [vscode-textlint](https://github.com/taichi/vscode-textlint) - 
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
 - [json-tree-view](https://github.com/ChaunceyKiwi/json-tree-view) - Generate a tree view from JSON file
 - [jupyterlab_formatblack](https://github.com/tobinjones/jupyterlab_formatblack) - Formats cells using the `Black` uncompromising Python code formatter.
