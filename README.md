@@ -69,6 +69,7 @@
 
 ## C 
 
+- [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
 - [scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
 - [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
@@ -385,6 +386,7 @@
 
 ## C++ 
 
+- [World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
 - [disbayes](https://github.com/chjackson/disbayes) - 
 - [lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
@@ -519,6 +521,7 @@
 
 ## Go 
 
+- [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
@@ -748,6 +751,7 @@
 
 ## JavaScript 
 
+- [shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [check-ends-with-period](https://github.com/azu/check-ends-with-period) - Check the text is ends with period mark.
 - [textlint-filter-rule-node-types](https://github.com/textlint/textlint-filter-rule-node-types) - textlint filter rule that ignore node's type if the type is reported.
 - [rcloud](https://github.com/att/rcloud) - Collaborative data analysis and visualization
@@ -941,6 +945,7 @@
 
 ## Jupyter Notebook 
 
+- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics.
 - [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
 - [Code-used-at-BG](https://github.com/felipe0216/Code-used-at-BG) - Some of the code I used at work
@@ -962,7 +967,6 @@
 - [repo2docker-conda](https://github.com/vsoch/repo2docker-conda) - a build-&gt;test-&gt;deploy containershare template for a conda container https://vsoch.github.io/containershare
 - [mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
-- [fa19](https://github.com/DS-100/fa19) - Public repository for course content and ds100.org/fa19.
 - [textbook](https://github.com/data-8/textbook) - The textbook Computational and Inferential Thinking: The Foundations of Data Science
 - [datascience](https://github.com/data-8/datascience) - A Python library for introductory data science
 - [fuzzingbook](https://github.com/uds-se/fuzzingbook) - The Book "Generating Software Tests"
@@ -1162,6 +1166,7 @@
 
 ## Others 
 
+- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
@@ -1470,6 +1475,15 @@
 
 ## Python 
 
+- [duct.py](https://github.com/oconnor663/duct.py) - a library for running child processes
+- [ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
+- [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
+- [poku](https://github.com/shanedabes/poku) - Symmetrical sync between pocket and buku
+- [Buku](https://github.com/jarun/Buku) - :bookmark: Browser-independent bookmark manager
+- [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
+- [docker-utils](https://github.com/a-ba/docker-utils) - 
+- [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [pygmatic-segmenter](https://github.com/kaine119/pygmatic-segmenter) - A python port of https://github.com/diasks2/pragmatic_segmenter
 - [xonsh](https://github.com/xonsh/xonsh) - Python-powered, cross-platform, Unix-gazing shell
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
@@ -2010,6 +2024,9 @@
 
 ## Shell 
 
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
+- [wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
 - [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
@@ -2168,6 +2185,7 @@
 
 ## TypeScript 
 
+- [bukubrow-webext](https://github.com/SamHH/bukubrow-webext) - WebExtension for Buku
 - [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
 - [vscode-textlint](https://github.com/taichi/vscode-textlint) - 
 - [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
