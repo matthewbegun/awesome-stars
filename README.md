@@ -69,6 +69,9 @@
 
 ## C 
 
+- [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
+- [libdivecomputer-for-linus](https://github.com/dirkhh/libdivecomputer-for-linus) - 
+- [libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
 - [scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
@@ -118,6 +121,11 @@
 
 ## C# # 
 
+- [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
+- [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+- [DbgShell](https://github.com/microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
+- [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
+- [PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
 - [PSUnixUtilCompleters](https://github.com/rjmholt/PSUnixUtilCompleters) - PowerShell native command completers for core utils on *nix
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
@@ -386,6 +394,7 @@
 
 ## C++ 
 
+- [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
 - [disbayes](https://github.com/chjackson/disbayes) - 
 - [lean](https://github.com/leanprover/lean) - Lean Theorem Prover
@@ -432,6 +441,7 @@
 
 ## CSS 
 
+- [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [zero-to-data-8](https://github.com/data-8/zero-to-data-8) - A quick guide to deploying your own Data 8 course
 - [source](https://github.com/TutsWiki/source) - A wiki of tutorials
@@ -477,6 +487,8 @@
 
 ## Dockerfile 
 
+- [mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
+- [github-psscript](https://github.com/dfinke/github-psscript) - 
 - [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
 - [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [docker-python-black](https://github.com/mozilla/docker-python-black) - 
@@ -521,6 +533,15 @@
 
 ## Go 
 
+- [1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
+- [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
+- [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
+- [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
+- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
+- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [easy-novnc](https://github.com/geek1011/easy-novnc) - Run a noVNC instance, web UI, and multi-host proxy with a single binary.
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
@@ -557,6 +578,8 @@
 
 ## HTML 
 
+- [pysurvival](https://github.com/square/pysurvival) - Open source package for Survival Analysis modeling
+- [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [Science.md](https://github.com/mschroen/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
 - [docker-reproducible-research](https://github.com/nuest/docker-reproducible-research) - A course on using Docker for reproducible research based on the AuthorCarpentry templage
 - [jupyter_latex_envs](https://github.com/jfbercher/jupyter_latex_envs) - (Some) LaTeX environments for Jupyter
@@ -642,6 +665,7 @@
 
 ## Haskell 
 
+- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [pandoc-types](https://github.com/jgm/pandoc-types) - types for representing structured documents
 - [doctemplates](https://github.com/jgm/doctemplates) - Pandoc-compatible templating system
@@ -663,6 +687,9 @@
 
 ## Java 
 
+- [AURdroid](https://github.com/rascarlo/AURdroid) - Android AUR [Arch Linux user Repository] packages browser
+- [ArchPackages](https://github.com/rascarlo/ArchPackages) - Android Arch Linux packages browser
+- [FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 - [rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [intellij-samples](https://github.com/JetBrains/intellij-samples) - Sample projects for IntelliJ IDEA
 - [invesdwin-context-r](https://github.com/subes/invesdwin-context-r) - Integrate R functionality with these modules for invesdwin-context
@@ -751,6 +778,14 @@
 
 ## JavaScript 
 
+- [unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
+- [bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
+- [labs-tools-bookreader](https://github.com/wikimedia/labs-tools-bookreader) - Github mirror of "labs/tools/bookreader" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [zotero-connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero
+- [translation-server](https://github.com/zotero/translation-server) - A Node.js-based server to run Zotero translators
+- [PomodoroClock-Ionic](https://github.com/johnliu55tw/PomodoroClock-Ionic) - The Pomodoro clockface on Fitbit Ionic.
+- [Pomodoro-Ionic](https://github.com/johnliu55tw/Pomodoro-Ionic) - The Pomodoro clock on Fitbit Ionic.
+- [fitbit-sunrise-sunset-app](https://github.com/neoterix/fitbit-sunrise-sunset-app) - A modest, hacked together Sunrise and Sunset times app for the Fitbit Versa
 - [shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [check-ends-with-period](https://github.com/azu/check-ends-with-period) - Check the text is ends with period mark.
 - [textlint-filter-rule-node-types](https://github.com/textlint/textlint-filter-rule-node-types) - textlint filter rule that ignore node's type if the type is reported.
@@ -945,6 +980,8 @@
 
 ## Jupyter Notebook 
 
+- [survivalvolume](https://github.com/genomematt/survivalvolume) - A set of tools for parsing measurement with threshold over time data (eg tyre wear, tumour treatment studies) and generating interactive and static plots.
+- [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics.
 - [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
@@ -1119,6 +1156,8 @@
 
 ## Kotlin 
 
+- [thepill](https://github.com/manojlds/thepill) - Decision Trees with Neo4J
+- [OneList](https://github.com/lolo-io/OneList) - 
 - [batect](https://github.com/charleskorn/batect) - Build And Testing Environments as Code Tool
 - [termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 
@@ -1141,6 +1180,8 @@
 
 ## Makefile 
 
+- [apk-file](https://github.com/genuinetools/apk-file) - Search apk package contents via the command line.
+- [udict](https://github.com/genuinetools/udict) - A command line urban dictionary.
 - [docker-black](https://github.com/cytopia/docker-black) - Alpine-based multistage-build version of Python Black for reproducible usage in CI
 - [makefiles](https://github.com/cytopia/makefiles) - 
 - [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux
@@ -1166,6 +1207,7 @@
 
 ## Others 
 
+- [PSFSnippets](https://github.com/PowershellFrameworkCollective/PSFSnippets) - Repository for snippets / examples for all PowerShell Framework Collective modules
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
 - [purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
@@ -1249,7 +1291,7 @@
 - [awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [awesome-programming-books](https://github.com/majikarp/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)
+- [awesome-programming-books](https://github.com/zero-equals-false/awesome-programming-books) - 📚 A curated list of awesome programming books (Algorithms and data structures, Artificial intelligence, Software Architecture, Human–computer interaction, Operating Systems, Database Systems, IT Security, Concurrency, Interpreters and Compilers, High-Performance Computing, Distributed Systems, Game Development, Mathematical optimization)
 - [awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
@@ -1366,6 +1408,7 @@
 
 ## PHP 
 
+- [dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
@@ -1385,6 +1428,52 @@
 
 ## PowerShell 
 
+- [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - PSWriteWord is powershell module to create Microsoft Word documents without Microsoft Word installed...
+- [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
+- [PSTeams](https://github.com/EvotecIT/PSTeams) - This PowerShell Module allows to sending notifications to Microsoft Teams. It's pretty flexible and provides a bunch of options. While there are already 2 other modules related to sending notifications to Teams this one takes it a step further.
+- [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration
+- [PSFunctions](https://github.com/dotps1/PSFunctions) - Repository for holding script-functions that are published to the PowerShell Gallery.
+- [WinSCP](https://github.com/dotps1/WinSCP) - WinSCP PowerShell Wrapper Module
+- [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
+- [PSFuzzySearch](https://github.com/dfinke/PSFuzzySearch) - PowerShell Fuzzy search applies fuzzy searching to text
+- [PSProse](https://github.com/dfinke/PSProse) - PowerShell module for the Microsoft Program Synthesis SDK https://github.com/Microsoft/prose
+- [powershell-algorithms](https://github.com/dfinke/powershell-algorithms) - Algorithms and data structures implemented in PowerShell with explanations and links to further readings - port of https://github.com/trekhleb/javascript-algorithms
+- [PowerShellJson](https://github.com/dfinke/PowerShellJson) - Query JSON with PowerShell
+- [ConvertFromMarkdown](https://github.com/dfinke/ConvertFromMarkdown) - From your Markdown to generated chapters, run ScriptAnalyzer on your examples and generate HTML, a Word Doc or PDF. Table of Contents included
+- [InstallModuleFromGitHub](https://github.com/dfinke/InstallModuleFromGitHub) - Install PowerShell Modules from GitHub
+- [PSGitQL](https://github.com/dfinke/PSGitQL) - A PowerShell git query language
+- [PSStringScanner](https://github.com/dfinke/PSStringScanner) - Provides lexical scanning operations on a String
+- [PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
+- [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more.
+- [PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
+- [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
+- [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
+- [Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph [Scatter / Bar / Line] on the PowerShell Console/Terminal
+- [poke](https://github.com/oising/poke) - A powerful reflection module for powershell.
+- [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
+- [Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
+- [PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
+- [Format-Pester](https://github.com/equelin/Format-Pester) - Powershell module for documenting Pester's results
+- [PSDeploy](https://github.com/RamblingCookieMonster/PSDeploy) - Simple PowerShell based deployments
+- [Invoke-Parallel](https://github.com/RamblingCookieMonster/Invoke-Parallel) - Speed up PowerShell with simplified multithreading
+- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background, freeing up the console and allowing throttling on the jobs.
+- [PoshWSUS](https://github.com/proxb/PoshWSUS) - PowerShell module to manage Windows Server Update Services (WSUS)
+- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [Polaris](https://github.com/PowerShell/Polaris) - A cross-platform, minimalist web framework for PowerShell
+- [Whiskey](https://github.com/webmd-health-services/Whiskey) - 
+- [Glob](https://github.com/webmd-health-services/Glob) - PowerShell module for finding files using glob syntax.
+- [GitAutomation](https://github.com/webmd-health-services/GitAutomation) - PowerShell module for libgit2
+- [Carbon](https://github.com/webmd-health-services/Carbon) - 
+- [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - Provides tools that help with module development
+- [psframework](https://github.com/PowershellFrameworkCollective/psframework) - A module that provides tools for other modules and scripts
+- [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil) - A PowerShell Module designed to make life easier
+- [PSCode](https://github.com/wtjones/PSCode) - PSCode launches VS Code in a PowerShell context to avoid the limitations of cmd.exe and UNC paths. The familiar code command is aliased.
+- [PSDirTag](https://github.com/wtjones/PSDirTag) - DirTags are relative paths that appear as variables in the Powershell prompt that update as you navigate. Saves keystrokes when navigating folder structures.
+- [posh-with](https://github.com/JanDeDobbeleer/posh-with) - Command prefixing for continuous workflow using a single tool.
+- [posz](https://github.com/manojlds/posz) - z implementation for Powershell
+- [ZLocation](https://github.com/vors/ZLocation) - ZLocation is the new Jump-Location
+- [ShowPSAst](https://github.com/lzybkr/ShowPSAst) - Simple UI to explore the PowerShell Ast
+- [gistbox](https://github.com/janikvonrotz/gistbox) - My Gist backup repository.
 - [Windows-screenFetch](https://github.com/JulianChow94/Windows-screenFetch) - Powershell port of bash/unix screenfetch.
 - [psfetch](https://github.com/mikepruett3/psfetch) - A PowerShell Implementation of the popular Bash Screenshot System Information utility (i.e. screenFetch)...
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
@@ -1449,7 +1538,6 @@
 - [PowerGit](https://github.com/felixfbecker/PowerGit) - Git with the power of the PowerShell object pipeline. For macOS, Linux and Windows.
 - [unitysetup.powershell](https://github.com/microsoft/unitysetup.powershell) - Powershell module for interfacing with Unity installs and projects.
 - [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
-- [TabExpansionPlusPlus](https://github.com/lzybkr/TabExpansionPlusPlus) - A V3 PowerShell module to improve tab expansion and Intellisense
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
 - [scoop-Ash258](https://github.com/Ash258/scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
@@ -1475,6 +1563,24 @@
 
 ## Python 
 
+- [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
+- [survive](https://github.com/artemmavrin/survive) - Survival analysis in Python 3
+- [survival](https://github.com/ryu577/survival) - All kinds of survival analysis distributions and methods to optimize how long to wait for them.
+- [pycox](https://github.com/havakv/pycox) - Survival analysis with PyTorch
+- [aethos](https://github.com/Ashton-Sidhu/aethos) - Automated Data Science and Machine Learning library to optimize workflow.
+- [weibull](https://github.com/slightlynybbled/weibull) - Weibull analysis, test design, and some Weibayes functionality for Python3.5+
+- [reliability](https://github.com/MatthewReid854/reliability) - reliability engineering toolkit for python
+- [hyperspy](https://github.com/hyperspy/hyperspy) - Multidimensional data analysis
+- [depsy](https://github.com/ourresearch/depsy) - Track the impact of research software.
+- [oadoi](https://github.com/ourresearch/oadoi) - The backend code that powers Unpaywall. support@unpaywall.org
+- [openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
+- [pywikibot](https://github.com/wikimedia/pywikibot) - 🤖 A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing. Do not submit any patches here because they need to be submitted to Gerrit, which is our change control tool. See https://www.mediawiki.org/wiki/Manual:Pywikibot/Gerrit
+- [docker_in_dev](https://github.com/wtjones/docker_in_dev) - Example code for presentation Docker In Development
+- [__transformers__](https://github.com/nvbn/__transformers__) - Experimental module for AST transformations
+- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
+- [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
+- [python-novaclient](https://github.com/openstack/python-novaclient) - OpenStack Compute (Nova) Client
 - [duct.py](https://github.com/oconnor663/duct.py) - a library for running child processes
 - [ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
@@ -1983,6 +2089,8 @@
 
 ## Ruby 
 
+- [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
+- [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 - [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2010,6 +2118,7 @@
 
 ## Rust 
 
+- [fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
@@ -2024,11 +2133,25 @@
 
 ## Shell 
 
+- [dot-bash](https://github.com/pearl-hub/dot-bash) - Awesome Bash/Inputrc dotfiles
+- [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
+- [dotfiles](https://github.com/AndersBallegaard/dotfiles) - A collection of my personal dot files for linux systems
+- [dotfiles](https://github.com/Ace-Cassidy/dotfiles) - dotfiles
+- [conda-zsh-completion](https://github.com/esc/conda-zsh-completion) - zsh completion for conda
+- [dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
+- [pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
+- [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
+- [docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
+- [dotfiles](https://github.com/fgrehm/dotfiles) - Just my dotfiles
+- [passenger-docker](https://github.com/phusion/passenger-docker) - Docker base images for Ruby, Python, Node.js and Meteor web apps
+- [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
+- [PhD-thesis](https://github.com/katrinleinweber/PhD-thesis) - Experimental tech-demo for PhD thesis in Scientific Markdown; official:
+- [z](https://github.com/rupa/z) - z - jump around
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
-- [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, tablet and wearable https://termuxarch.github.io/TermuxArch/
+- [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, tablet, smartTV and wearable https://termuxarch.github.io/TermuxArch/
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
 - [TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
@@ -2262,6 +2385,7 @@
 
 ## Vim script 
 
+- [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [dotfiles](https://github.com/dancek/dotfiles) - my dotfiles
 - [dotfiles](https://github.com/ryanoasis/dotfiles) - :page_with_curl: My configuration files: Vim, Bash, JavaScript, tmux
 - [dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
@@ -2270,6 +2394,7 @@
 
 ## Vue 
 
+- [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 
 ## Web Ontology Language 
