@@ -441,6 +441,7 @@
 
 ## CSS 
 
+- [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [zero-to-data-8](https://github.com/data-8/zero-to-data-8) - A quick guide to deploying your own Data 8 course
@@ -487,6 +488,8 @@
 
 ## Dockerfile 
 
+- [docker-tox](https://github.com/painless-software/docker-tox) - Alternative Docker base image for Python testing with tox.
+- [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [github-psscript](https://github.com/dfinke/github-psscript) - 
 - [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
@@ -578,6 +581,7 @@
 
 ## HTML 
 
+- [djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [pysurvival](https://github.com/square/pysurvival) - Open source package for Survival Analysis modeling
 - [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
 - [Science.md](https://github.com/mschroen/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
@@ -759,6 +763,7 @@
 - [pst-digger](https://github.com/righettod/pst-digger) - Program to analyze mails stored into a Microsoft Outlook PST file and find one based on search keywords.
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [FastHub-Libre](https://github.com/thermatk/FastHub-Libre) - Libre fork of FastHub, the ultimate GitHub client for Android.
 - [netbeans-mmd-plugin](https://github.com/raydac/netbeans-mmd-plugin) - Mind Map editor + plugin for NetBeans and Intellij
 - [asciidoctor-intellij-plugin](https://github.com/asciidoctor/asciidoctor-intellij-plugin) - AsciiDoc plugin for products on the IntelliJ platform (IDEA, RubyMine, etc)
@@ -778,6 +783,7 @@
 
 ## JavaScript 
 
+- [book-example](https://github.com/hjwp/book-example) - Example code for my book on TDD with Python
 - [unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
 - [labs-tools-bookreader](https://github.com/wikimedia/labs-tools-bookreader) - Github mirror of "labs/tools/bookreader" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -891,7 +897,6 @@
 - [webtodotxt](https://github.com/EpocDotFr/webtodotxt) - Web-based GUI to manage a Todo.txt file
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [gscales.github.io](https://github.com/gscales/gscales.github.io) - 
-- [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
@@ -980,6 +985,11 @@
 
 ## Jupyter Notebook 
 
+- [csharp-notebook](https://github.com/tlinnet/csharp-notebook) - C# kernel in Jupyter Notebook
+- [box-plots-sklearn](https://github.com/drivendataorg/box-plots-sklearn) - An implementation of some of the tools used by the winner of the box plots competition using scikit-learn.
+- [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
+- [power-laws-optimization](https://github.com/drivendataorg/power-laws-optimization) - Example repository for the Power Laws: Optimizing Demand-side Strategies competition on DrivenData
+- [data-science-is-software](https://github.com/drivendata/data-science-is-software) - 
 - [survivalvolume](https://github.com/genomematt/survivalvolume) - A set of tools for parsing measurement with threshold over time data (eg tyre wear, tumour treatment studies) and generating interactive and static plots.
 - [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics.
@@ -1180,6 +1190,7 @@
 
 ## Makefile 
 
+- [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [apk-file](https://github.com/genuinetools/apk-file) - Search apk package contents via the command line.
 - [udict](https://github.com/genuinetools/udict) - A command line urban dictionary.
 - [docker-black](https://github.com/cytopia/docker-black) - Alpine-based multistage-build version of Python Black for reproducible usage in CI
@@ -1207,6 +1218,11 @@
 
 ## Others 
 
+- [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+- [coach-manual](https://github.com/DjangoGirls/coach-manual) - Manual for DjangoGirls coaches.
+- [tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
+- [cookiecutter-data-driven-journalism](https://github.com/JAStark/cookiecutter-data-driven-journalism) - boilerplate for standardised, transparent data-driven journalism
+- [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [PSFSnippets](https://github.com/PowershellFrameworkCollective/PSFSnippets) - Repository for snippets / examples for all PowerShell Framework Collective modules
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
@@ -1408,6 +1424,7 @@
 
 ## PHP 
 
+- [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
 - [dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
@@ -1563,6 +1580,40 @@
 
 ## Python 
 
+- [django_girls_complete](https://github.com/NdagiStanley/django_girls_complete) - A complete project based on the @djangogirls tutorial: https://tutorial.djangogirls.org/ Code accompanying: http://bit.ly/2MHirJU
+- [django-docker-box](https://github.com/django/django-docker-box) - Run the Django test suite across all supported databases and python versions
+- [wiki](https://github.com/DjangoGirls/wiki) - Django Girls internal wiki
+- [tools](https://github.com/nf-core/tools) - Python package with helper tools for the nf-core community.
+- [django-docker](https://github.com/evozon/django-docker) - A minimalist but comprehensive template for Docker and Django projects
+- [python](https://github.com/Rainist/python) - 🍪 🐍 Use this template if you love Python
+- [pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter) - A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
+- [cookiecutter-pipenv](https://github.com/elgertam/cookiecutter-pipenv) - Cookiecutter Python Package Template with Pipenv
+- [python-best-practices-cookiecutter](https://github.com/sourceryai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
+- [django-init](https://github.com/Fueled/django-init) - Project template used at Fueled for scaffolding new Django based projects. :dizzy:
+- [python-versioncontrol](https://github.com/painless-software/python-versioncontrol) - Abstraction layer to operate the public APIs of GitHub, GitLab, Bitbucket
+- [pytest-gallery](https://github.com/nedbat/pytest-gallery) - A sampler of tests showing different ways to construct tests for pytest
+- [coveragepy](https://github.com/nedbat/coveragepy) - Code coverage measurement for Python
+- [cog](https://github.com/nedbat/cog) - Cog: A content generator for executing Python snippets in source files.
+- [cookiecutter_dotfile](https://github.com/bdcaf/cookiecutter_dotfile) - template for stowable dotfile dir
+- [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
+- [python-sample-tweeterapp](https://github.com/microsoft/python-sample-tweeterapp) - Sample Django+React+Postgres application for use in Visual Studio Code and Azure
+- [django-docker-bootstrap](https://github.com/legios89/django-docker-bootstrap) - Django development/production environment with docker
+- [cookiecutter-python-cli](https://github.com/xuanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
+- [python-project-template](https://github.com/Kwpolska/python-project-template) - A template for Python Projects.  INSERT TAGLINE HERE.™
+- [cookiecutter-conda-python](https://github.com/conda/cookiecutter-conda-python) - A cookiecutter template for conda packages using Python
+- [cookiecutter-python-app](https://github.com/mdklatt/cookiecutter-python-app) - Cookiecutter template for a Python application project.
+- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
+- [cookiecutter-pipproject](https://github.com/wdm0006/cookiecutter-pipproject) - A(nother) cookiecutter template for pip-installable python projects
+- [cookiecutter-pypackage-minimal](https://github.com/kragniz/cookiecutter-pypackage-minimal) - A minimal template for python packages
+- [cookiecutter-git](https://github.com/NathanUrwin/cookiecutter-git) - Git repo project template using Cookiecutter :cookie:
+- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+- [pytest-picked](https://github.com/anapaulagomes/pytest-picked) - Run the tests related to the changed files (according to Git) 🤓
+- [pytest-instafail](https://github.com/pytest-dev/pytest-instafail) - py.test plugin to show failures instantly
+- [pytest-tldr](https://github.com/freakboy3742/pytest-tldr) - A pytest plugin that limits the output to just the things you need.
+- [icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
+- [pytest-icdiff](https://github.com/hjwp/pytest-icdiff) - better error messages for assert equals in pytest
+- [pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
+- [pytest-black](https://github.com/shopkeep/pytest-black) - pytest plugin to enable formatting checks with black
 - [mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
 - [survive](https://github.com/artemmavrin/survive) - Survival analysis in Python 3
 - [survival](https://github.com/ryu577/survival) - All kinds of survival analysis distributions and methods to optimize how long to wait for them.
@@ -2133,6 +2184,8 @@
 
 ## Shell 
 
+- [dot](https://github.com/nedbat/dot) - Personal dotfiles
+- [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [dot-bash](https://github.com/pearl-hub/dot-bash) - Awesome Bash/Inputrc dotfiles
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [dotfiles](https://github.com/AndersBallegaard/dotfiles) - A collection of my personal dot files for linux systems
@@ -2273,6 +2326,7 @@
 
 ## TeX 
 
+- [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
 - [pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template) - Markdown templates for Pandoc
 - [ieee-pandoc-template](https://github.com/stsewd/ieee-pandoc-template) - IEEE paper template for pandoc
@@ -2308,6 +2362,14 @@
 
 ## TypeScript 
 
+- [vscode-test-explorer](https://github.com/hbenl/vscode-test-explorer) - The VS Code Test Explorer extension
+- [vscode-lcov](https://github.com/alexdima/vscode-lcov) - 
+- [vscode-coverage-highlighter](https://github.com/pilat/vscode-coverage-highlighter) - Reliable code coverage highlighting for VSCode
+- [vscode-code-coverage](https://github.com/markis/vscode-code-coverage) - vscode extension to highlight lines not covered by unit tests
+- [py-coverage-view](https://github.com/rnduldulaojr/py-coverage-view) - VS Code extension for highlighting python code using coverage data generated by coverage.py/pytest-cov
+- [vscode-coverage-gutters](https://github.com/ryanluker/vscode-coverage-gutters) - Display test coverage generated by lcov and xml - works with many languages
+- [vscode-python-test-adapter](https://github.com/kondratyev-nv/vscode-python-test-adapter) - Python Test Adapter for the VS Code Test Explorer
+- [vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
 - [bukubrow-webext](https://github.com/SamHH/bukubrow-webext) - WebExtension for Buku
 - [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
 - [vscode-textlint](https://github.com/taichi/vscode-textlint) - 
@@ -2385,6 +2447,8 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/hjwp/dotfiles) - vimrc, bashrc etc
+- [dotfiles](https://github.com/fatso83/dotfiles) - My dot-files. I use these on Mac, Linux and Windows (CygWin)
 - [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [dotfiles](https://github.com/dancek/dotfiles) - my dotfiles
 - [dotfiles](https://github.com/ryanoasis/dotfiles) - :page_with_curl: My configuration files: Vim, Bash, JavaScript, tmux
