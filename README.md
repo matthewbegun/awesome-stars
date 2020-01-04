@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [starter](https://github.com/emilybache/starter) - empty starting projects in various languages
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [DbgShell](https://github.com/microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
@@ -394,6 +395,7 @@
 
 ## C++ 
 
+- [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
 - [disbayes](https://github.com/chjackson/disbayes) - 
@@ -488,6 +490,11 @@
 
 ## Dockerfile 
 
+- [docker-novnc](https://github.com/oott123/docker-novnc) - tigervnc, websokify, novnc and Nginx with s6-overlay in a docker image.
+- [docker-xpra](https://github.com/tyson-swetnam/docker-xpra) - Ubuntu container with Xpra for running remote desktop applications in browser
+- [turbovnc-virtualgl-docker](https://github.com/tyson-swetnam/turbovnc-virtualgl-docker) - Docker container for TurboVNC and VirtualGL running NVIDIA drivers
+- [codingdojo.org](https://github.com/codingdojo-org/codingdojo.org) - Codingdojo web site
+- [dockerfile-x11docker-xfce](https://github.com/mviereck/dockerfile-x11docker-xfce) - Base image Xfce desktop
 - [docker-tox](https://github.com/painless-software/docker-tox) - Alternative Docker base image for Python testing with tox.
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
@@ -581,6 +588,7 @@
 
 ## HTML 
 
+- [Gallery](https://github.com/noklam/Gallery) - Gallery
 - [djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [pysurvival](https://github.com/square/pysurvival) - Open source package for Survival Analysis modeling
 - [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
@@ -730,7 +738,6 @@
 - [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
 - [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-- [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [jackson-dataformats-text](https://github.com/FasterXML/jackson-dataformats-text) - Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)
 - [vavr](https://github.com/vavr-io/vavr) - VAVR (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.
 - [jackson-databind](https://github.com/FasterXML/jackson-databind) - General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
@@ -783,6 +790,10 @@
 
 ## JavaScript 
 
+- [dotfiles](https://github.com/chmp/dotfiles) - Ensure a common configuration across systems and preserve sanity
+- [octave-x11-novnc-docker](https://github.com/epfl-sti/octave-x11-novnc-docker) - A docker that runs Octave (and a little bit more)
+- [nbdocker](https://github.com/BioDepot/nbdocker) - A Jupyter Notebook extension for Docker
+- [GUIdock-VNC](https://github.com/BioDepot/GUIdock-VNC) - 
 - [book-example](https://github.com/hjwp/book-example) - Example code for my book on TDD with Python
 - [unpaywall](https://github.com/ourresearch/unpaywall) - Firefox/Chrome extension that gives you a link to a free PDF when you view scholarly articles
 - [bookreader](https://github.com/internetarchive/bookreader) - The Internet Archive BookReader
@@ -921,6 +932,7 @@
 - [release-notify-action](https://github.com/bitoiu/release-notify-action) - GitHub Action that triggers e-mails with release notes when these are created
 - [github-actions](https://github.com/zweitag/github-actions) - This repository contains github actions for usage in our build pipeline.
 - [github-actions](https://github.com/cds-snc/github-actions) - Repository for CDS specific GitHub actions
+- [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [bayeux](https://github.com/htck/bayeux) - Historic Tale Construction Kit - opensource and customizable version !
 - [cite2c](https://github.com/takluyver/cite2c) - Citations in the Jupyter Notebook
 - [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
@@ -985,6 +997,8 @@
 
 ## Jupyter Notebook 
 
+- [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
+- [ipytest](https://github.com/chmp/ipytest) - Unit tests in IPython notebooks. Supports pytest.
 - [csharp-notebook](https://github.com/tlinnet/csharp-notebook) - C# kernel in Jupyter Notebook
 - [box-plots-sklearn](https://github.com/drivendataorg/box-plots-sklearn) - An implementation of some of the tools used by the winner of the box plots competition using scikit-learn.
 - [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
@@ -992,6 +1006,7 @@
 - [data-science-is-software](https://github.com/drivendata/data-science-is-software) - 
 - [survivalvolume](https://github.com/genomematt/survivalvolume) - A set of tools for parsing measurement with threshold over time data (eg tyre wear, tumour treatment studies) and generating interactive and static plots.
 - [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
+- [PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics.
 - [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
@@ -1218,6 +1233,10 @@
 
 ## Others 
 
+- [useful-unix](https://github.com/DahlitzFlorian/useful-unix) - A collection of useful unix commands, aliases and functions
+- [docker-novnc](https://github.com/gotget/docker-novnc) - noVNC Docker image that bundles the noVNC client and Websockify proxy.
+- [guiAppInDockerOnWindows](https://github.com/handflucht/guiAppInDockerOnWindows) - Small example shows how to run a gui-App inside docker on a Windows-host
+- [awesome-katas](https://github.com/gamontal/awesome-katas) - A curated list of code katas
 - [geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [coach-manual](https://github.com/DjangoGirls/coach-manual) - Manual for DjangoGirls coaches.
 - [tutorial-extensions](https://github.com/DjangoGirls/tutorial-extensions) - Additional tasks for tutorial
@@ -1462,7 +1481,6 @@
 - [PSStringScanner](https://github.com/dfinke/PSStringScanner) - Provides lexical scanning operations on a String
 - [PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
 - [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more.
-- [PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
 - [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
 - [Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph [Scatter / Bar / Line] on the PowerShell Console/Terminal
@@ -1580,6 +1598,16 @@
 
 ## Python 
 
+- [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
+- [simple-text-summarizer](https://github.com/DahlitzFlorian/simple-text-summarizer) - A simple text summarizer written in Python to learn Natural Language Processing (NLP).
+- [Docker_Python_DataScience](https://github.com/ashish-y/Docker_Python_DataScience) - Some DataScience Test with docker + python + SciKit-learn
+- [five-ways-to-deploy](https://github.com/atbaker/five-ways-to-deploy) - The source code for my PyCon 2017 talk "5 ways to deploy you Python web app in 2017"
+- [uwsgi-nginx-flask-docker](https://github.com/tiangolo/uwsgi-nginx-flask-docker) - Docker image with uWSGI and Nginx for Flask applications in Python running in a single container. Optionally with Alpine Linux.
+- [minimal-docker-python-setup](https://github.com/OrangeTux/minimal-docker-python-setup) - A demo of a minimal Nginx-uWSGI-Flask-Redis stack using Docker in less than 42 mb.
+- [PipelineSimulation](https://github.com/emilybache/PipelineSimulation) - 
+- [neurodocker](https://github.com/ReproNim/neurodocker) - Generate custom Docker and Singularity images, and minimize existing containers
+- [BioDepot-workflow-builder](https://github.com/BioDepot/BioDepot-workflow-builder) - :computer:  GUI for creating bioinformatics workflows from :whale: Docker containers:
+- [wikidot-to-html](https://github.com/clarkgrubb/wikidot-to-html) - Render wikidot.com-style markup as HTML
 - [django_girls_complete](https://github.com/NdagiStanley/django_girls_complete) - A complete project based on the @djangogirls tutorial: https://tutorial.djangogirls.org/ Code accompanying: http://bit.ly/2MHirJU
 - [django-docker-box](https://github.com/django/django-docker-box) - Run the Django test suite across all supported databases and python versions
 - [wiki](https://github.com/DjangoGirls/wiki) - Django Girls internal wiki
@@ -1986,7 +2014,6 @@
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
 - [hyperpolyglot](https://github.com/clarkgrubb/hyperpolyglot) - hyperpolyglot.org
 - [Python_Basics](https://github.com/learnbyexample/Python_Basics) - :snake: Syntax, working with Shell commands, Files, Text Processing, and more...
-- [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) - Unity IL2CPP Disassembler (for apk)
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
 - [unicode-math-vscode](https://github.com/gatapia/unicode-math-vscode) - Easy insertion of unicode math symbols
@@ -2083,7 +2110,7 @@
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
 - [rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
-- [ghactions](https://github.com/r-lib/ghactions) - GitHub actions for R and accompanying R package
+- [ghactions](https://github.com/jimhester/ghactions) - GitHub actions for R and accompanying R package
 - [pkgdepends](https://github.com/r-lib/pkgdepends) - R Package Dependency Resolution -- EXPERIMENTAL, WORK IN PROGRESS!
 - [pak](https://github.com/r-lib/pak) - A fresh approach to package installation
 - [vctrs](https://github.com/r-lib/vctrs) - Vector types
@@ -2184,6 +2211,10 @@
 
 ## Shell 
 
+- [GUIdock-X11](https://github.com/BioDepot/GUIdock-X11) - Graphical GUI for Docker (Bioconductor, R, Cytoscape, NetworkBMA)
+- [ubuntu-xfce-vnc](https://github.com/tyson-swetnam/ubuntu-xfce-vnc) - Ubuntu Bionic XFCE desktop with TurboVNC
+- [docker-virtualgl](https://github.com/yantis/docker-virtualgl) - VirtualGL Server in a Docker Container
+- [docker-java-wrapper](https://github.com/SergeyZh/docker-java-wrapper) - Wrapper to run Java apps
 - [dot](https://github.com/nedbat/dot) - Personal dotfiles
 - [ghwd](https://github.com/github-modules/ghwd) - Open the github URL that matches your shell's current branch and working directory
 - [dot-bash](https://github.com/pearl-hub/dot-bash) - Awesome Bash/Inputrc dotfiles
@@ -2326,6 +2357,7 @@
 
 ## TeX 
 
+- [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
 - [pandoc-markdown-template](https://github.com/lauritzsh/pandoc-markdown-template) - Markdown templates for Pandoc
@@ -2397,6 +2429,7 @@
 - [vscode-java](https://github.com/redhat-developer/vscode-java) - Java Language Support for Visual Studio Code
 - [automutate](https://github.com/automutate/automutate) - Applies waves of mutations provided by other tools, such as linters or codemods.
 - [vscode-plantuml](https://github.com/qjebbs/vscode-plantuml) - Rich PlantUML support for Visual Studio Code.
+- [vscode-java-test](https://github.com/microsoft/vscode-java-test) - Run and debug Java test cases in Visual Studio Code.
 - [prettier-vscode](https://github.com/prettier/prettier-vscode) - Visual Studio Code extension for Prettier
 - [MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
