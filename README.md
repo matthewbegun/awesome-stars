@@ -69,6 +69,8 @@
 
 ## C 
 
+- [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
+- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [libdivecomputer-for-linus](https://github.com/dirkhh/libdivecomputer-for-linus) - 
 - [libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
@@ -395,6 +397,7 @@
 
 ## C++ 
 
+- [WSL-DistroLauncher-Alpine](https://github.com/agowa338/WSL-DistroLauncher-Alpine) - (WIP) Alpine WSL Microsoft Store packages. This is an automatically created mirror of:
 - [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
@@ -443,6 +446,7 @@
 
 ## CSS 
 
+- [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -490,6 +494,10 @@
 
 ## Dockerfile 
 
+- [docker-django-local](https://github.com/jcalazan/docker-django-local) - Dockerfiles to create images for use in local Django development environments
+- [python-sample-anacondacontainer](https://github.com/microsoft/python-sample-anacondacontainer) - Sample Anaconda dev container demo
+- [docker-compose-development-env](https://github.com/larsderidder/docker-compose-development-env) - 
+- [dockerfiles-windows](https://github.com/sixeyed/dockerfiles-windows) - Dockerfiles for Windows containers
 - [docker-novnc](https://github.com/oott123/docker-novnc) - tigervnc, websokify, novnc and Nginx with s6-overlay in a docker image.
 - [docker-xpra](https://github.com/tyson-swetnam/docker-xpra) - Ubuntu container with Xpra for running remote desktop applications in browser
 - [turbovnc-virtualgl-docker](https://github.com/tyson-swetnam/turbovnc-virtualgl-docker) - Docker container for TurboVNC and VirtualGL running NVIDIA drivers
@@ -543,6 +551,9 @@
 
 ## Go 
 
+- [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
+- [cUnit](https://github.com/l0rd/cUnit) - xUnit for your Dockerfiles
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -790,6 +801,10 @@
 
 ## JavaScript 
 
+- [gnome-shell-clock-override](https://github.com/stuartlangridge/gnome-shell-clock-override) - Override the Gnome Shell clock with a new time format or text of your choice. Works with new versions of Shell such as 3.18
+- [gnome-shell-extensions-negesti](https://github.com/negesti/gnome-shell-extensions-negesti) - An gnome-shell extension that makes window movement a lot easier.
+- [dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
+- [devops-project-samples](https://github.com/microsoft/devops-project-samples) - Sample applications for Azure DevOps Project
 - [dotfiles](https://github.com/chmp/dotfiles) - Ensure a common configuration across systems and preserve sanity
 - [octave-x11-novnc-docker](https://github.com/epfl-sti/octave-x11-novnc-docker) - A docker that runs Octave (and a little bit more)
 - [nbdocker](https://github.com/BioDepot/nbdocker) - A Jupyter Notebook extension for Docker
@@ -997,6 +1012,8 @@
 
 ## Jupyter Notebook 
 
+- [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
+- [ipython_binder_magic](https://github.com/innovationOUtside/ipython_binder_magic) - Run commands on a remote MyBinder kernel from a local notebook
 - [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
 - [ipytest](https://github.com/chmp/ipytest) - Unit tests in IPython notebooks. Supports pytest.
 - [csharp-notebook](https://github.com/tlinnet/csharp-notebook) - C# kernel in Jupyter Notebook
@@ -1205,6 +1222,7 @@
 
 ## Makefile 
 
+- [pytest_workshop](https://github.com/lgiordani/pytest_workshop) - Code for the "TDD in Python with pytest workshop"
 - [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [apk-file](https://github.com/genuinetools/apk-file) - Search apk package contents via the command line.
 - [udict](https://github.com/genuinetools/udict) - A command line urban dictionary.
@@ -1233,6 +1251,10 @@
 
 ## Others 
 
+- [canihaznonprivilegedcontainers.info](https://github.com/mhausenblas/canihaznonprivilegedcontainers.info) - Advocacy site for the uptake of using non-privileged containers
+- [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
+- [jupytext-md](https://github.com/ouseful-template-repos/jupytext-md) - Use Jupytext dualled markdown and ipynb files
+- [binder-neo4j](https://github.com/ouseful-template-repos/binder-neo4j) - Example of a Binderised repo running neo4j
 - [useful-unix](https://github.com/DahlitzFlorian/useful-unix) - A collection of useful unix commands, aliases and functions
 - [docker-novnc](https://github.com/gotget/docker-novnc) - noVNC Docker image that bundles the noVNC client and Websockify proxy.
 - [guiAppInDockerOnWindows](https://github.com/handflucht/guiAppInDockerOnWindows) - Small example shows how to run a gui-App inside docker on a Windows-host
@@ -1464,6 +1486,7 @@
 
 ## PowerShell 
 
+- [cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt
 - [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - PSWriteWord is powershell module to create Microsoft Word documents without Microsoft Word installed...
 - [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
 - [PSTeams](https://github.com/EvotecIT/PSTeams) - This PowerShell Module allows to sending notifications to Microsoft Teams. It's pretty flexible and provides a bunch of options. While there are already 2 other modules related to sending notifications to Teams this one takes it a step further.
@@ -1598,6 +1621,12 @@
 
 ## Python 
 
+- [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) - Rewrite of GUI code of QTodoTxt using qml.
+- [realpython-tdd-stack](https://github.com/chyld/realpython-tdd-stack) - 
+- [tdd-pytest](https://github.com/vanzaj/tdd-pytest) - http://vanzaj.github.io/tdd-pytest/
+- [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
+- [youtube-audio-dl](https://github.com/jcalazan/youtube-audio-dl) - A Django web application for converting YouTube videos to MP3 audio.
+- [flake8-unused-arguments](https://github.com/nhoad/flake8-unused-arguments) - Flake8 plugin to warn against unused arguments in functions
 - [pass-rotate](https://github.com/ddevault/pass-rotate) - A tool and library for rotating your password on online services
 - [simple-text-summarizer](https://github.com/DahlitzFlorian/simple-text-summarizer) - A simple text summarizer written in Python to learn Natural Language Processing (NLP).
 - [Docker_Python_DataScience](https://github.com/ashish-y/Docker_Python_DataScience) - Some DataScience Test with docker + python + SciKit-learn
@@ -2062,6 +2091,7 @@
 
 ## R 
 
+- [containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 - [msm](https://github.com/chjackson/msm) - The msm R package for continuous-time multi-state modelling of panel data
 - [flexsurv-dev](https://github.com/chjackson/flexsurv-dev) - The flexsurv R package for flexible parametric survival and multi-state modelling
 - [eha](https://github.com/goranbrostrom/eha) - eha
@@ -2357,6 +2387,7 @@
 
 ## TeX 
 
+- [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for using Dockerfiles for reproducible research
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
@@ -2394,6 +2425,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
 - [vscode-test-explorer](https://github.com/hbenl/vscode-test-explorer) - The VS Code Test Explorer extension
 - [vscode-lcov](https://github.com/alexdima/vscode-lcov) - 
 - [vscode-coverage-highlighter](https://github.com/pilat/vscode-coverage-highlighter) - Reliable code coverage highlighting for VSCode
@@ -2475,7 +2507,6 @@
 
 ## Vala 
 
-- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [web-archives](https://github.com/birros/web-archives) - A web archives reader
 
 ## Vim script 
