@@ -551,6 +551,7 @@
 
 ## Go 
 
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
 - [cUnit](https://github.com/l0rd/cUnit) - xUnit for your Dockerfiles
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -599,6 +600,7 @@
 
 ## HTML 
 
+- [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
 - [Gallery](https://github.com/noklam/Gallery) - Gallery
 - [djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
 - [pysurvival](https://github.com/square/pysurvival) - Open source package for Survival Analysis modeling
@@ -801,6 +803,7 @@
 
 ## JavaScript 
 
+- [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [gnome-shell-clock-override](https://github.com/stuartlangridge/gnome-shell-clock-override) - Override the Gnome Shell clock with a new time format or text of your choice. Works with new versions of Shell such as 3.18
 - [gnome-shell-extensions-negesti](https://github.com/negesti/gnome-shell-extensions-negesti) - An gnome-shell extension that makes window movement a lot easier.
 - [dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
@@ -1012,6 +1015,8 @@
 
 ## Jupyter Notebook 
 
+- [ipy_table](https://github.com/epmoyer/ipy_table) - Richly formatted data tables in IPython
+- [ipython_ferretmagic](https://github.com/PBrockmann/ipython_ferretmagic) - IPython notebook extension for ferret
 - [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
 - [ipython_binder_magic](https://github.com/innovationOUtside/ipython_binder_magic) - Run commands on a remote MyBinder kernel from a local notebook
 - [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
@@ -1621,6 +1626,14 @@
 
 ## Python 
 
+- [Jupyter-skip-extension](https://github.com/RobbeSneyders/Jupyter-skip-extension) - Jupyter notebook extension to skip execution of cells
+- [pprintpp](https://github.com/wolever/pprintpp) - pprint++: a drop-in replacement for pprint that's actually pretty
+- [ipython_extensions](https://github.com/dpsanders/ipython_extensions) - 
+- [inumpy](https://github.com/piti118/inumpy) - Numpy Extension for IPython
+- [magic_markdown](https://github.com/transfluxus/magic_markdown) - IPython cell magic to create markdown cells that contain content from python expressions
+- [ipython-flot](https://github.com/crbates/ipython-flot) - javascript plotting for ipython notebooks using flot
+- [ipython-hierarchymagic](https://github.com/tkf/ipython-hierarchymagic) - `%hierarchy` and `%%dot` magics for IPython
+- [commitment](https://github.com/ngerakines/commitment) - A commit message generator that I use.
 - [QTodoTxt2](https://github.com/QTodoTxt/QTodoTxt2) - Rewrite of GUI code of QTodoTxt using qml.
 - [realpython-tdd-stack](https://github.com/chyld/realpython-tdd-stack) - 
 - [tdd-pytest](https://github.com/vanzaj/tdd-pytest) - http://vanzaj.github.io/tdd-pytest/
@@ -2197,6 +2210,8 @@
 
 ## Ruby 
 
+- [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for https://whatthecommit.com
+- [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
 - [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
@@ -2226,6 +2241,7 @@
 
 ## Rust 
 
+- [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
@@ -2241,6 +2257,14 @@
 
 ## Shell 
 
+- [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
+- [cmd](https://github.com/pearl-hub/cmd) - Store the favourite commands and scripts in one place
+- [txum](https://github.com/pearl-hub/txum) - Smart wrapper for tmux command
+- [template](https://github.com/pearl-core/template) - Template for new Pearl packages
+- [pkg2appimage](https://github.com/AppImage/pkg2appimage) - pkg2appimage tool and some example recipes to build AppImages using AppImageKit and Travis CI
+- [byobu](https://github.com/dustinkirkland/byobu) - git mirror of upstream bzr at http://launchpad.net/byobu
+- [org.zotero.Zotero](https://github.com/flathub/org.zotero.Zotero) - 
 - [GUIdock-X11](https://github.com/BioDepot/GUIdock-X11) - Graphical GUI for Docker (Bioconductor, R, Cytoscape, NetworkBMA)
 - [ubuntu-xfce-vnc](https://github.com/tyson-swetnam/ubuntu-xfce-vnc) - Ubuntu Bionic XFCE desktop with TurboVNC
 - [docker-virtualgl](https://github.com/yantis/docker-virtualgl) - VirtualGL Server in a Docker Container
@@ -2511,6 +2535,7 @@
 
 ## Vim script 
 
+- [bash-profile](https://github.com/maciejzgadzaj/bash-profile) - Bash profile files
 - [dotfiles](https://github.com/hjwp/dotfiles) - vimrc, bashrc etc
 - [dotfiles](https://github.com/fatso83/dotfiles) - My dot-files. I use these on Mac, Linux and Windows (CygWin)
 - [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
