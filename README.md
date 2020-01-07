@@ -69,6 +69,8 @@
 
 ## C 
 
+- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
+- [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
@@ -397,6 +399,7 @@
 
 ## C++ 
 
+- [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [WSL-DistroLauncher-Alpine](https://github.com/agowa338/WSL-DistroLauncher-Alpine) - (WIP) Alpine WSL Microsoft Store packages. This is an automatically created mirror of:
 - [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -600,6 +603,7 @@
 
 ## HTML 
 
+- [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
 - [Gallery](https://github.com/noklam/Gallery) - Gallery
 - [djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
@@ -803,6 +807,7 @@
 
 ## JavaScript 
 
+- [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [gnome-shell-clock-override](https://github.com/stuartlangridge/gnome-shell-clock-override) - Override the Gnome Shell clock with a new time format or text of your choice. Works with new versions of Shell such as 3.18
 - [gnome-shell-extensions-negesti](https://github.com/negesti/gnome-shell-extensions-negesti) - An gnome-shell extension that makes window movement a lot easier.
@@ -1015,6 +1020,11 @@
 
 ## Jupyter Notebook 
 
+- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
+- [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - Minicourse in Deep Learning with PyTorch
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
+- [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
+- [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
 - [ipy_table](https://github.com/epmoyer/ipy_table) - Richly formatted data tables in IPython
 - [ipython_ferretmagic](https://github.com/PBrockmann/ipython_ferretmagic) - IPython notebook extension for ferret
 - [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
@@ -1256,6 +1266,11 @@
 
 ## Others 
 
+- [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
+- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
+- [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
+- [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices".
+- [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [canihaznonprivilegedcontainers.info](https://github.com/mhausenblas/canihaznonprivilegedcontainers.info) - Advocacy site for the uptake of using non-privileged containers
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
 - [jupytext-md](https://github.com/ouseful-template-repos/jupytext-md) - Use Jupytext dualled markdown and ipynb files
@@ -1470,6 +1485,7 @@
 
 ## PHP 
 
+- [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
 - [dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
@@ -1626,6 +1642,17 @@
 
 ## Python 
 
+- [ptvsd](https://github.com/microsoft/ptvsd) - Python debugger package for use with Visual Studio and Visual Studio Code.
+- [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
+- [pockyt](https://github.com/arvindch/pockyt) - Automate & manage your Pocket.com collection.
+- [yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [dot-tmux](https://github.com/svetlyak40wt/dot-tmux) - A dotfiler config files for tmux.
+- [dot-python-dev](https://github.com/svetlyak40wt/dot-python-dev) - Dotfiler configs to setup python development environment.
+- [dotfiler](https://github.com/svetlyak40wt/dotfiler) - Shell agnostic git based dotfiles package manager, written in Python.
+- [jrnl](https://github.com/maebert/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
+- [nlib](https://github.com/mdipierro/nlib) - The book "Annotated Algorithms in Python" and the nlib.py library
+- [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
 - [Jupyter-skip-extension](https://github.com/RobbeSneyders/Jupyter-skip-extension) - Jupyter notebook extension to skip execution of cells
 - [pprintpp](https://github.com/wolever/pprintpp) - pprint++: a drop-in replacement for pprint that's actually pretty
 - [ipython_extensions](https://github.com/dpsanders/ipython_extensions) - 
@@ -2210,6 +2237,7 @@
 
 ## Ruby 
 
+- [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for https://whatthecommit.com
 - [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
 - [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
@@ -2241,6 +2269,7 @@
 
 ## Rust 
 
+- [bukubrow-host](https://github.com/SamHH/bukubrow-host) - Host application for the Bukubrow WebExtension
 - [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
@@ -2257,6 +2286,9 @@
 
 ## Shell 
 
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
+- [buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [buava](https://github.com/fsquillace/buava) - The utility library for Bash you always dreamed of
 - [cmd](https://github.com/pearl-hub/cmd) - Store the favourite commands and scripts in one place
@@ -2449,6 +2481,8 @@
 
 ## TypeScript 
 
+- [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
 - [vscode-test-explorer](https://github.com/hbenl/vscode-test-explorer) - The VS Code Test Explorer extension
 - [vscode-lcov](https://github.com/alexdima/vscode-lcov) - 
