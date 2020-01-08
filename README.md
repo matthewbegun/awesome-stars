@@ -125,6 +125,10 @@
 
 ## C# # 
 
+- [ClassExplorer](https://github.com/SeeminglyScience/ClassExplorer) - ClassExplorer is a PowerShell module that enables quickly searching the AppDomain for classes and members.
+- [ImpliedReflection](https://github.com/SeeminglyScience/ImpliedReflection) - Explore private properties and methods as if they were public.
+- [PSLambda](https://github.com/SeeminglyScience/PSLambda) - A runtime compiler for PowerShell ScriptBlock objects.
+- [PSSyntaxRewriter](https://github.com/SeeminglyScience/PSSyntaxRewriter) - PowerShell abstract syntax tree rewriter library
 - [starter](https://github.com/emilybache/starter) - empty starting projects in various languages
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
@@ -399,6 +403,7 @@
 
 ## C++ 
 
+- [Fedora-Remix-for-WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) - Fedora Remix for Windows Subsystem for Linux.
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [WSL-DistroLauncher-Alpine](https://github.com/agowa338/WSL-DistroLauncher-Alpine) - (WIP) Alpine WSL Microsoft Store packages. This is an automatically created mirror of:
 - [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
@@ -1262,6 +1267,7 @@
 
 ## OCaml 
 
+- [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch
 - [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
 
 ## Others 
@@ -1485,6 +1491,7 @@
 
 ## PHP 
 
+- [suede](https://github.com/cup/suede) - Scripts
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
 - [dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
@@ -1493,6 +1500,7 @@
 
 ## Perl 
 
+- [its-pointless.github.io](https://github.com/its-pointless/its-pointless.github.io) - For info see https://github.com/its-pointless/gcc_termux
 - [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1507,6 +1515,11 @@
 
 ## PowerShell 
 
+- [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
+- [dotfiles](https://github.com/SeeminglyScience/dotfiles) - 
+- [EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
+- [pwsh-transpiler](https://github.com/cspotcode/pwsh-transpiler) - Experimental source-to-source compiler for PowerShell functions.
+- [powershell-goodies](https://github.com/cspotcode/powershell-goodies) - PowerShell modules, my profile, a ton of functions, prototypes, etc.
 - [cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt
 - [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - PSWriteWord is powershell module to create Microsoft Word documents without Microsoft Word installed...
 - [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
@@ -1588,7 +1601,7 @@
 - [extractUserPst](https://github.com/dataweapons/extractUserPst) - Extract user outlook email into a PST with admin creds.
 - [Powershell-Scripts](https://github.com/gscales/Powershell-Scripts) - 
 - [PSDesiredStateConfiguration.Reverse](https://github.com/microsoft/PSDesiredStateConfiguration.Reverse) - Extracts a PowerShell DSC Script from an existing environment
-- [ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - 
+- [ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - DSC resources for for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.
 - [PSDscResources](https://github.com/PowerShell/PSDscResources) - 
 - [xPSDesiredStateConfiguration](https://github.com/dsccommunity/xPSDesiredStateConfiguration) - DSC resources for configuring common operating systems features, files and settings.
 - [PowerShellGet](https://github.com/PowerShell/PowerShellGet) - PowerShellGet is the Package Manager for PowerShell
@@ -1642,6 +1655,7 @@
 
 ## Python 
 
+- [script-collection](https://github.com/anantshri/script-collection) - Collection of my scripts ranging from bash or python or shell. Readme will contain list of which script does what.
 - [ptvsd](https://github.com/microsoft/ptvsd) - Python debugger package for use with Visual Studio and Visual Studio Code.
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
 - [pockyt](https://github.com/arvindch/pockyt) - Automate & manage your Pocket.com collection.
@@ -2237,6 +2251,7 @@
 
 ## Ruby 
 
+- [ruby_ship](https://github.com/stephan-nordnes-eriksen/ruby_ship) - A portable MRI Ruby environment and toolset
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for https://whatthecommit.com
 - [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
@@ -2286,6 +2301,8 @@
 
 ## Shell 
 
+- [x11-packages](https://github.com/termux/x11-packages) - Packages using the X Window System.
+- [unstable-packages](https://github.com/termux/unstable-packages) - A place for new or unstable packages.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 - [oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
