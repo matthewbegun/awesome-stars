@@ -969,7 +969,6 @@
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
 - [marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [github-script](https://github.com/actions/github-script) - 
 - [github-project-automation-plus](https://github.com/alex-page/github-project-automation-plus) - 🤖 Automate GitHub Project cards with any webhook event
 - [tdd-example](https://github.com/mariohoyos92/tdd-example) - Basic example for article
 - [prettier-miscellaneous](https://github.com/arijs/prettier-miscellaneous) - Prettier is an opinionated JavaScript formatter.
@@ -1655,6 +1654,9 @@
 
 ## Python 
 
+- [progress_bar](https://github.com/fnl/progress_bar) - an informative progress bar for Python 2+3 command-line tools
+- [syntok](https://github.com/fnl/syntok) - Text tokenization and sentence segmentation (segtok v2)
+- [sentence_splitter](https://github.com/fnl/sentence_splitter) - check my new spliter - segtok
 - [script-collection](https://github.com/anantshri/script-collection) - Collection of my scripts ranging from bash or python or shell. Readme will contain list of which script does what.
 - [ptvsd](https://github.com/microsoft/ptvsd) - Python debugger package for use with Visual Studio and Visual Studio Code.
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
@@ -1748,7 +1750,7 @@
 - [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
 - [poku](https://github.com/shanedabes/poku) - Symmetrical sync between pocket and buku
-- [Buku](https://github.com/jarun/Buku) - :bookmark: Browser-independent bookmark manager
+- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
 - [docker-utils](https://github.com/a-ba/docker-utils) - 
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
@@ -2558,6 +2560,7 @@
 - [action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [github-script](https://github.com/actions/github-script) - 
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [checkout](https://github.com/actions/checkout) - 
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
