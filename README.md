@@ -257,7 +257,7 @@
 - [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
 - [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [rant](https://github.com/TheBerkin/rant) - Rant – The all-purpose procedural text library
-- [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler
+- [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 - [Marching-Cubes](https://github.com/Scrawk/Marching-Cubes) - Marching cubes in Unity
 - [Unity3D-JobsSystemAndBurstSamples](https://github.com/korzen/Unity3D-JobsSystemAndBurstSamples) - Examples of using the Job System in Unity 2018
@@ -502,6 +502,13 @@
 
 ## Dockerfile 
 
+- [docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
+- [centos-gui](https://github.com/ATTron/centos-gui) - docker image using centos, x11vnc, novnc, and openbox for gui apps inside docker containers
+- [docker-x11-novnc](https://github.com/stackcoder/docker-x11-novnc) - Bridging X11 compatible gui applications using novnc to the browser world.
+- [docker_for_win_gui](https://github.com/fileszero/docker_for_win_gui) - sample environment Docker for windows and GUI application
+- [dockerfile-x11docker-lxqt](https://github.com/mviereck/dockerfile-x11docker-lxqt) - Base image LXQT desktop
+- [dockerfile-x11docker-fluxbox](https://github.com/mviereck/dockerfile-x11docker-fluxbox) - Base image fluxbox window manager
+- [dockerfile-x11docker-lxde](https://github.com/mviereck/dockerfile-x11docker-lxde) - Base image LXDE desktop
 - [docker-django-local](https://github.com/jcalazan/docker-django-local) - Dockerfiles to create images for use in local Django development environments
 - [python-sample-anacondacontainer](https://github.com/microsoft/python-sample-anacondacontainer) - Sample Anaconda dev container demo
 - [docker-compose-development-env](https://github.com/larsderidder/docker-compose-development-env) - 
@@ -1271,6 +1278,8 @@
 
 ## Others 
 
+- [docker-noVNC-base](https://github.com/Anton-Latukha/docker-noVNC-base) - Repository implements a best base for you to build GUI setup upon it.
+- [Docker-GUI-Apps-on-Windows](https://github.com/NaPiZip/Docker-GUI-Apps-on-Windows) - This is a tutorial showing how to run graphical user interface applications inside a Docker container on a Windows 10 host system using Cygwin/X.
 - [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
 - [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
@@ -1490,6 +1499,7 @@
 
 ## PHP 
 
+- [otodo](https://github.com/onovy/otodo) - Powerful TUI for todo.txt
 - [suede](https://github.com/cup/suede) - Scripts
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
@@ -1654,9 +1664,10 @@
 
 ## Python 
 
+- [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [QTodoTxt](https://github.com/QTodoTxt/QTodoTxt) - Cross Platform todo.txt GUI
 - [progress_bar](https://github.com/fnl/progress_bar) - an informative progress bar for Python 2+3 command-line tools
 - [syntok](https://github.com/fnl/syntok) - Text tokenization and sentence segmentation (segtok v2)
-- [sentence_splitter](https://github.com/fnl/sentence_splitter) - check my new spliter - segtok
 - [script-collection](https://github.com/anantshri/script-collection) - Collection of my scripts ranging from bash or python or shell. Readme will contain list of which script does what.
 - [ptvsd](https://github.com/microsoft/ptvsd) - Python debugger package for use with Visual Studio and Visual Studio Code.
 - [dotfiles](https://github.com/jbernard/dotfiles) - Dotfile management made easy
@@ -2303,6 +2314,11 @@
 
 ## Shell 
 
+- [docker](https://github.com/psharkey/docker) - Repository for automated https://hub.docker.com builds.
+- [arch-base](https://github.com/binhex/arch-base) - Docker build script for Arch Linux base
+- [arch-int-gui](https://github.com/binhex/arch-int-gui) - Docker build script for Arch Linux base with TigerVNC, noVNC, and OpenBox
+- [docker.wine](https://github.com/shangmu/docker.wine) - Run Windows programs inside a Docker container with GUI
+- [wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [x11-packages](https://github.com/termux/x11-packages) - Packages using the X Window System.
 - [unstable-packages](https://github.com/termux/unstable-packages) - A place for new or unstable packages.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
