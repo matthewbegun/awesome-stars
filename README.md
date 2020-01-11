@@ -69,6 +69,7 @@
 
 ## C 
 
+- [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -403,6 +404,7 @@
 
 ## C++ 
 
+- [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [Fedora-Remix-for-WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) - Fedora Remix for Windows Subsystem for Linux.
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [WSL-DistroLauncher-Alpine](https://github.com/agowa338/WSL-DistroLauncher-Alpine) - (WIP) Alpine WSL Microsoft Store packages. This is an automatically created mirror of:
@@ -412,6 +414,7 @@
 - [disbayes](https://github.com/chjackson/disbayes) - 
 - [lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [catboost](https://github.com/catboost/catboost) - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
+- [rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan
 - [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
@@ -454,6 +457,7 @@
 
 ## CSS 
 
+- [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
@@ -615,6 +619,7 @@
 
 ## HTML 
 
+- [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
 - [Gallery](https://github.com/noklam/Gallery) - Gallery
@@ -1248,6 +1253,7 @@
 
 ## Makefile 
 
+- [displaylink-rpm](https://github.com/displaylink-rpm/displaylink-rpm) - RPM sources for the DisplayLink USB display adapters
 - [pytest_workshop](https://github.com/lgiordani/pytest_workshop) - Code for the "TDD in Python with pytest workshop"
 - [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [apk-file](https://github.com/genuinetools/apk-file) - Search apk package contents via the command line.
@@ -1664,6 +1670,7 @@
 
 ## Python 
 
+- [pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
 - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [QTodoTxt](https://github.com/QTodoTxt/QTodoTxt) - Cross Platform todo.txt GUI
 - [progress_bar](https://github.com/fnl/progress_bar) - an informative progress bar for Python 2+3 command-line tools
@@ -1907,7 +1914,7 @@
 - [ipyparallel](https://github.com/ipython/ipyparallel) - Interactive Parallel Computing in Python
 - [bokeh](https://github.com/binder-examples/bokeh) - 
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [clr-bundles](https://github.com/clearlinux/clr-bundles) - 
+- [clr-bundles](https://github.com/clearlinux/clr-bundles) - Bundle definitions for Clear Linux OS
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
@@ -2180,7 +2187,6 @@
 - [gt](https://github.com/rstudio/gt) - Easily generate information-rich, publication-quality tables from R
 - [mastering-shiny](https://github.com/hadley/mastering-shiny) - Mastering Shiny: a book
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
-- [rstan](https://github.com/stan-dev/rstan) - RStan, the R interface to Stan
 - [lintr](https://github.com/jimhester/lintr) - Static Code Analysis for R
 - [MLPB](https://github.com/ben519/MLPB) - Machine Learning Problem Bible | Problem Set Here &gt;&gt;
 - [sparklyr](https://github.com/sparklyr/sparklyr) - R interface for Apache Spark
@@ -2578,7 +2584,7 @@
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [github-script](https://github.com/actions/github-script) - 
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
-- [checkout](https://github.com/actions/checkout) - 
+- [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [vscode-core-theme](https://github.com/miqh/vscode-core-theme) - Minimal environment aesthetics for maximum focus.
