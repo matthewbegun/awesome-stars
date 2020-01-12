@@ -1790,6 +1790,7 @@
 - [packageurl-python](https://github.com/package-url/packageurl-python) - Python implementation of the package url spec
 - [zpkg](https://github.com/ihucos/zpkg) - Install packages from other distributions
 - [plash](https://github.com/ihucos/plash) - Run, build and manage containers
+- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [aur](https://github.com/cdown/aur) - Arch User Repository API interface.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
@@ -2372,7 +2373,6 @@
 - [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ml](https://github.com/rocker-org/ml) - experimental machine learning container
-- [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
