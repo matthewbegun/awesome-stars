@@ -2048,7 +2048,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Exploring Python through counter-intuitive snippets. If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
