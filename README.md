@@ -63,12 +63,14 @@
 
 ## Batchfile 
 
+- [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
 - [offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
 - [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
+- [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
@@ -130,7 +132,6 @@
 - [ImpliedReflection](https://github.com/SeeminglyScience/ImpliedReflection) - Explore private properties and methods as if they were public.
 - [PSLambda](https://github.com/SeeminglyScience/PSLambda) - A runtime compiler for PowerShell ScriptBlock objects.
 - [PSSyntaxRewriter](https://github.com/SeeminglyScience/PSSyntaxRewriter) - PowerShell abstract syntax tree rewriter library
-- [starter](https://github.com/emilybache/starter) - empty starting projects in various languages
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
 - [DbgShell](https://github.com/microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
@@ -404,10 +405,13 @@
 
 ## C++ 
 
+- [EMOD](https://github.com/InstituteforDiseaseModeling/EMOD) - Source files for building the IDM EMOD disease transmission model.
+- [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
 - [Fedora-Remix-for-WSL](https://github.com/WhitewaterFoundry/Fedora-Remix-for-WSL) - Fedora Remix for Windows Subsystem for Linux.
 - [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
 - [WSL-DistroLauncher-Alpine](https://github.com/agowa338/WSL-DistroLauncher-Alpine) - (WIP) Alpine WSL Microsoft Store packages. This is an automatically created mirror of:
+- [starter](https://github.com/emilybache/starter) - empty starting projects in various languages
 - [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata) - Starting code for the GildedRose Refactoring Kata in many programming languages.
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [World](https://github.com/mmorise/World) - A high-quality speech analysis, manipulation and synthesis system
@@ -1284,6 +1288,7 @@
 
 ## Others 
 
+- [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [docker-noVNC-base](https://github.com/Anton-Latukha/docker-noVNC-base) - Repository implements a best base for you to build GUI setup upon it.
 - [Docker-GUI-Apps-on-Windows](https://github.com/NaPiZip/Docker-GUI-Apps-on-Windows) - This is a tutorial showing how to run graphical user interface applications inside a Docker container on a Windows 10 host system using Cygwin/X.
 - [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
@@ -1670,6 +1675,7 @@
 
 ## Python 
 
+- [is-wsl](https://github.com/julien-h/is-wsl) - [2018] Python utility to check whether the current script runs inside Windows' WSL
 - [pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
 - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [QTodoTxt](https://github.com/QTodoTxt/QTodoTxt) - Cross Platform todo.txt GUI
@@ -2214,7 +2220,7 @@
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [starters](https://github.com/lockedata/starters) - R Package 📦 for initializing projects for various R activities :nut_and_bolt:
 - [rrtools](https://github.com/benmarwick/rrtools) - rrtools: Tools for Writing Reproducible Research in R
-- [ghactions](https://github.com/jimhester/ghactions) - GitHub actions for R and accompanying R package
+- [ghactions](https://github.com/maxheld83/ghactions) - GitHub actions for R and accompanying R package
 - [pkgdepends](https://github.com/r-lib/pkgdepends) - R Package Dependency Resolution -- EXPERIMENTAL, WORK IN PROGRESS!
 - [pak](https://github.com/r-lib/pak) - A fresh approach to package installation
 - [vctrs](https://github.com/r-lib/vctrs) - Vector types
@@ -2304,6 +2310,7 @@
 
 ## Rust 
 
+- [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [bukubrow-host](https://github.com/SamHH/bukubrow-host) - Host application for the Bukubrow WebExtension
 - [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
@@ -2321,6 +2328,9 @@
 
 ## Shell 
 
+- [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications
+- [Castle-Winbuntu](https://github.com/rodtreweek/Castle-Winbuntu) - Homesick Castle for use on WSL.
+- [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [docker](https://github.com/psharkey/docker) - Repository for automated https://hub.docker.com builds.
 - [arch-base](https://github.com/binhex/arch-base) - Docker build script for Arch Linux base
 - [arch-int-gui](https://github.com/binhex/arch-int-gui) - Docker build script for Arch Linux base with TigerVNC, noVNC, and OpenBox
