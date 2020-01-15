@@ -574,6 +574,7 @@
 
 ## Go 
 
+- [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
 - [cUnit](https://github.com/l0rd/cUnit) - xUnit for your Dockerfiles
@@ -828,6 +829,7 @@
 
 ## JavaScript 
 
+- [vega](https://github.com/vega/vega) - A visualization grammar.
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
 - [gnome-shell-clock-override](https://github.com/stuartlangridge/gnome-shell-clock-override) - Override the Gnome Shell clock with a new time format or text of your choice. Works with new versions of Shell such as 3.18
@@ -1040,6 +1042,8 @@
 
 ## Jupyter Notebook 
 
+- [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
+- [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
 - [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - Minicourse in Deep Learning with PyTorch
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
@@ -1288,6 +1292,7 @@
 
 ## Others 
 
+- [schema](https://github.com/vega/schema) - JSON schema for Vega and Vega-Lite
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [docker-noVNC-base](https://github.com/Anton-Latukha/docker-noVNC-base) - Repository implements a best base for you to build GUI setup upon it.
 - [Docker-GUI-Apps-on-Windows](https://github.com/NaPiZip/Docker-GUI-Apps-on-Windows) - This is a tutorial showing how to run graphical user interface applications inside a Docker container on a Windows 10 host system using Cygwin/X.
@@ -1342,7 +1347,7 @@
 - [stencila-r](https://github.com/binder-examples/stencila-r) - Demo for Stencila & DAR on binder with R code
 - [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
 - [ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
-- [You-Dont-Need.com](https://github.com/you-dont-need/You-Dont-Need.com) - People choose popular projects, often not because it applies to their problems
+- [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [deepdream](https://github.com/google/deepdream) - 
 - [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
@@ -1675,6 +1680,11 @@
 
 ## Python 
 
+- [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
+- [altair_widgets](https://github.com/altair-viz/altair_widgets) - Interactive data exploration with Altair
+- [pdvega](https://github.com/altair-viz/pdvega) - Interactive plotting for Pandas using Vega-Lite
+- [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega_datasets](https://github.com/altair-viz/vega_datasets) - A Python package for online & offline access to vega datasets
 - [is-wsl](https://github.com/julien-h/is-wsl) - [2018] Python utility to check whether the current script runs inside Windows' WSL
 - [pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
 - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
@@ -2172,6 +2182,7 @@
 
 ## R 
 
+- [altair](https://github.com/vegawidget/altair) - R interface to 'Altair'
 - [containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 - [msm](https://github.com/chjackson/msm) - The msm R package for continuous-time multi-state modelling of panel data
 - [flexsurv-dev](https://github.com/chjackson/flexsurv-dev) - The flexsurv R package for flexible parametric survival and multi-state modelling
@@ -2532,6 +2543,10 @@
 
 ## TypeScript 
 
+- [lyra](https://github.com/vega/lyra) - An interactive, graphical Visualization Design Environment (VDE)
+- [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
+- [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
+- [jupyterlab_voyager](https://github.com/altair-viz/jupyterlab_voyager) - JupyterLab extension visualize data with Voyager
 - [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jupyterlab-github](https://github.com/jupyterlab/jupyterlab-github) - GitHub integration for JupyterLab
