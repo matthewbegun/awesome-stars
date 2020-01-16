@@ -70,6 +70,7 @@
 
 ## C 
 
+- [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
@@ -405,6 +406,7 @@
 
 ## C++ 
 
+- [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
 - [EMOD](https://github.com/InstituteforDiseaseModeling/EMOD) - Source files for building the IDM EMOD disease transmission model.
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
@@ -461,6 +463,7 @@
 
 ## CSS 
 
+- [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
@@ -574,6 +577,8 @@
 
 ## Go 
 
+- [k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
+- [gpu-feature-discovery](https://github.com/NVIDIA/gpu-feature-discovery) - GPU plugin to the node feature discovery for Kubernetes
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
@@ -829,6 +834,7 @@
 
 ## JavaScript 
 
+- [prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
 - [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery
@@ -1271,6 +1277,7 @@
 - [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux
 - [docker-images](https://github.com/sagemath/docker-images) - Dockerfiles for Sage
 - [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
+- [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
 ## Matlab 
@@ -1292,6 +1299,7 @@
 
 ## Others 
 
+- [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [schema](https://github.com/vega/schema) - JSON schema for Vega and Vega-Lite
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
 - [docker-noVNC-base](https://github.com/Anton-Latukha/docker-noVNC-base) - Repository implements a best base for you to build GUI setup upon it.
@@ -1680,6 +1688,7 @@
 
 ## Python 
 
+- [numericalunits](https://github.com/sbyrnes321/numericalunits) - numericalunits python package
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [altair_widgets](https://github.com/altair-viz/altair_widgets) - Interactive data exploration with Altair
 - [pdvega](https://github.com/altair-viz/pdvega) - Interactive plotting for Pandas using Vega-Lite
@@ -2339,6 +2348,10 @@
 
 ## Shell 
 
+- [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
+- [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
+- [displaylink.sh](https://github.com/nathantypanski/displaylink.sh) - DisplayLink for Linux startup script
+- [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian) - DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
 - [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications
 - [Castle-Winbuntu](https://github.com/rodtreweek/Castle-Winbuntu) - Homesick Castle for use on WSL.
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
@@ -2486,7 +2499,6 @@
 - [zsh-pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Antigen plugin for pandoc
 - [fish-completion-pandoc](https://github.com/dsanson/fish-completion-pandoc) - fish completion script for pandoc
 - [dockerfiles](https://github.com/clearlinux/dockerfiles) - ClearLinux-based Docker containers
-- [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
 - [matlab-docker](https://github.com/QMROCT/matlab-docker) - Docker Image with Matlab Compiler Runtime and SSHD
 - [rtb-support](https://github.com/RenderToolbox/rtb-support) - Docker image with enough dependencies to support a mounted-in Matlab and RenderToolbox3
 - [DwarfFortressServer](https://github.com/DockerDemos/DwarfFortressServer) - Play [Dwarf Fortress](http://www.bay12games.com/dwarves/) in your browser with Docker and NoVNC!
@@ -2543,6 +2555,7 @@
 
 ## TypeScript 
 
+- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [lyra](https://github.com/vega/lyra) - An interactive, graphical Visualization Design Environment (VDE)
 - [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
