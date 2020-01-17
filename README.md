@@ -834,6 +834,12 @@
 
 ## JavaScript 
 
+- [gnome-shell-extension-shell-clock](https://github.com/murat-cileli/gnome-shell-extension-shell-clock) - Shell Clock - Gnome Shell Extension
+- [gnome-fuzzy-search](https://github.com/fffilo/gnome-fuzzy-search) - Append fuzzy search results to Gnome Search
+- [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
+- [gnome-nvidia-extension](https://github.com/ethanwharris/gnome-nvidia-extension) - A Gnome extension to show NVIDIA GPU information
+- [noannoyance](https://github.com/BjoernDaase/noannoyance) - 
+- [gnome-shell-extensions](https://github.com/eddiefullmetal/gnome-shell-extensions) - Various extensions for the gnome-shell
 - [prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [vega](https://github.com/vega/vega) - A visualization grammar.
 - [git-project-manager](https://github.com/felipecaputo/git-project-manager) - A Git Project Manager extension for vsCode
@@ -949,7 +955,6 @@
 - [tests-as-linear](https://github.com/lindeloev/tests-as-linear) - Common statistical tests are linear models (or: how to teach stats)
 - [matlab-to-julia](https://github.com/lakras/matlab-to-julia) - Translates MATLAB source code into Julia. Can be accessed here: https://lakras.github.io/matlab-to-julia
 - [git-meta](https://github.com/twosigma/git-meta) - Repository for the git-meta project -- build your own monorepo using Git submodules
-- [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [gbdc-ppda-slides](https://github.com/lgautier/gbdc-ppda-slides) - Slides for Big Data Conference / Bootcamp
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [open-in-nbviewer](https://github.com/jiffyclub/open-in-nbviewer) - Easily open your current page in nbviewer
@@ -1299,6 +1304,7 @@
 
 ## Others 
 
+- [wsl-tutorial](https://github.com/QMonkey/wsl-tutorial) - A tutorial about how to run desktop environment inside Windows Subsystem for Linux
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [schema](https://github.com/vega/schema) - JSON schema for Vega and Vega-Lite
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
@@ -1524,7 +1530,6 @@
 ## PHP 
 
 - [otodo](https://github.com/onovy/otodo) - Powerful TUI for todo.txt
-- [suede](https://github.com/cup/suede) - Scripts
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
 - [dataserver](https://github.com/zotero/dataserver) - Zotero Data Server
@@ -1688,6 +1693,8 @@
 
 ## Python 
 
+- [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
+- [conky_colors](https://github.com/helmuthdu/conky_colors) - CONKY-colors is an easier way to configure Conky
 - [numericalunits](https://github.com/sbyrnes321/numericalunits) - numericalunits python package
 - [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
 - [altair_widgets](https://github.com/altair-viz/altair_widgets) - Interactive data exploration with Altair
@@ -2348,6 +2355,7 @@
 
 ## Shell 
 
+- [distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
 - [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
 - [displaylink.sh](https://github.com/nathantypanski/displaylink.sh) - DisplayLink for Linux startup script
@@ -2604,6 +2612,7 @@
 - [vscode-python](https://github.com/microsoft/vscode-python) - Python extension for Visual Studio Code
 - [vsc-pandoc-markdown-preview](https://github.com/kzvi/vsc-pandoc-markdown-preview) - Preview Markdown files with Pandoc syntax in VS Code
 - [dash-table](https://github.com/plotly/dash-table) - A First-Class Interactive DataTable for Dash
+- [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
 - [todotxt-mode](https://github.com/davraamides/todotxt-mode) - 
