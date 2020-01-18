@@ -513,6 +513,8 @@
 
 ## Dockerfile 
 
+- [rpy2-mybinder](https://github.com/rpy2/rpy2-mybinder) - 
+- [rpy2-docker](https://github.com/rpy2/rpy2-docker) - Running rpy2 in Docker containers
 - [docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
 - [centos-gui](https://github.com/ATTron/centos-gui) - docker image using centos, x11vnc, novnc, and openbox for gui apps inside docker containers
 - [docker-x11-novnc](https://github.com/stackcoder/docker-x11-novnc) - Bridging X11 compatible gui applications using novnc to the browser world.
@@ -577,6 +579,7 @@
 
 ## Go 
 
+- [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 - [gpu-feature-discovery](https://github.com/NVIDIA/gpu-feature-discovery) - GPU plugin to the node feature discovery for Kubernetes
 - [container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
@@ -1053,6 +1056,7 @@
 
 ## Jupyter Notebook 
 
+- [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
@@ -1553,6 +1557,7 @@
 
 ## PowerShell 
 
+- [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
 - [dotfiles](https://github.com/SeeminglyScience/dotfiles) - 
 - [EditorServicesCommandSuite](https://github.com/SeeminglyScience/EditorServicesCommandSuite) - Collection of editor commands for use in PowerShell Editor Services.
@@ -1693,6 +1698,9 @@
 
 ## Python 
 
+- [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - Reference deployment of JupyterHub and nbgrader on a single server
+- [rpy2-Matrix](https://github.com/rpy2/rpy2-Matrix) - Mapping of the R package Matrix for rpy2
+- [m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
 - [jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion and static analysis library for python.
 - [conky_colors](https://github.com/helmuthdu/conky_colors) - CONKY-colors is an easier way to configure Conky
 - [numericalunits](https://github.com/sbyrnes321/numericalunits) - numericalunits python package
@@ -2411,7 +2419,7 @@
 - [TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
 - [dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
 - [awesome-ci](https://github.com/cytopia/awesome-ci) - Awesome Continuous Integration - Lot's of tools for git, file and static source code analysis.
-- [runx](https://github.com/mviereck/runx) - Provide X server on MS Windows.
+- [runx](https://github.com/mviereck/runx) - Provide X server on MS Windows with cookie authentication.
 - [x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker. Focus on security.
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [ml](https://github.com/rocker-org/ml) - experimental machine learning container
