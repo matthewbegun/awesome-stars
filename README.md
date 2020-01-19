@@ -142,7 +142,7 @@
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext option.
+- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set UEFI's BootNext option.
 - [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
 - [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
@@ -464,7 +464,6 @@
 ## CSS 
 
 - [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
-- [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
@@ -595,7 +594,7 @@
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [easy-novnc](https://github.com/geek1011/easy-novnc) - Run a noVNC instance, web UI, and multi-host proxy with a single binary.
+- [easy-novnc](https://github.com/geek1011/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
@@ -1056,6 +1055,10 @@
 
 ## Jupyter Notebook 
 
+- [Problem-Solving-with-Python-37-Edition](https://github.com/ProfessorKazarinoff/Problem-Solving-with-Python-37-Edition) - Repo for the book Problem Solving with Python 3.7 Edition by Peter D. Kazarinoff, PhD. The newest edition of Problem Solving with Python book.
+- [ENGR114-2020Q1](https://github.com/ProfessorKazarinoff/ENGR114-2020Q1) - GitHub repo of class notes and examples used in ENGR114 2020Q1 at Portland Community College
+- [mathematical-python](https://github.com/patrickwalls/mathematical-python) - Introduction to Mathematical Computing with Python and Jupyter
+- [sta-663-2017](https://github.com/cliburn/sta-663-2017) - Notebooks, worksheets and homework for STA 663 class
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
@@ -1698,6 +1701,7 @@
 
 ## Python 
 
+- [pyDiffusion](https://github.com/zhangqi-chen/pyDiffusion) - A Python library for diffusion simulation and data analysis
 - [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - Reference deployment of JupyterHub and nbgrader on a single server
 - [rpy2-Matrix](https://github.com/rpy2/rpy2-Matrix) - Mapping of the R package Matrix for rpy2
 - [m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
@@ -2371,6 +2375,7 @@
 - [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications
 - [Castle-Winbuntu](https://github.com/rodtreweek/Castle-Winbuntu) - Homesick Castle for use on WSL.
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
+- [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
 - [docker](https://github.com/psharkey/docker) - Repository for automated https://hub.docker.com builds.
 - [arch-base](https://github.com/binhex/arch-base) - Docker build script for Arch Linux base
 - [arch-int-gui](https://github.com/binhex/arch-int-gui) - Docker build script for Arch Linux base with TigerVNC, noVNC, and OpenBox
