@@ -1055,6 +1055,9 @@
 
 ## Jupyter Notebook 
 
+- [essential_skills_RRC](https://github.com/barbagroup/essential_skills_RRC) - Essential skills for reproducible research computing
+- [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
+- [AeroPython](https://github.com/barbagroup/AeroPython) - Classical Aerodynamics of potential flow using Python and Jupyter Notebooks
 - [Problem-Solving-with-Python-37-Edition](https://github.com/ProfessorKazarinoff/Problem-Solving-with-Python-37-Edition) - Repo for the book Problem Solving with Python 3.7 Edition by Peter D. Kazarinoff, PhD. The newest edition of Problem Solving with Python book.
 - [ENGR114-2020Q1](https://github.com/ProfessorKazarinoff/ENGR114-2020Q1) - GitHub repo of class notes and examples used in ENGR114 2020Q1 at Portland Community College
 - [mathematical-python](https://github.com/patrickwalls/mathematical-python) - Introduction to Mathematical Computing with Python and Jupyter
@@ -1257,7 +1260,7 @@
 
 - [thepill](https://github.com/manojlds/thepill) - Decision Trees with Neo4J
 - [OneList](https://github.com/lolo-io/OneList) - 
-- [batect](https://github.com/charleskorn/batect) - Build And Testing Environments as Code Tool
+- [batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool
 - [termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 
 ## Lua 
