@@ -34,6 +34,7 @@
   - [Matlab](#matlab)
   - [Nix](#nix)
   - [OCaml](#ocaml)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Perl](#perl)
@@ -406,6 +407,8 @@
 
 ## C++ 
 
+- [finite-state-machine](https://github.com/jmckennon/finite-state-machine) - Python state machine that generates compilable C++
+- [typed-earthquakes](https://github.com/typeguard/typed-earthquakes) - USGS Earthquake Data
 - [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
 - [EMOD](https://github.com/InstituteforDiseaseModeling/EMOD) - Source files for building the IDM EMOD disease transmission model.
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
@@ -513,7 +516,6 @@
 ## Dockerfile 
 
 - [rpy2-mybinder](https://github.com/rpy2/rpy2-mybinder) - 
-- [rpy2-docker](https://github.com/rpy2/rpy2-docker) - Running rpy2 in Docker containers
 - [docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
 - [centos-gui](https://github.com/ATTron/centos-gui) - docker image using centos, x11vnc, novnc, and openbox for gui apps inside docker containers
 - [docker-x11-novnc](https://github.com/stackcoder/docker-x11-novnc) - Bridging X11 compatible gui applications using novnc to the browser world.
@@ -570,6 +572,7 @@
 
 ## Fortran 
 
+- [netlib-java](https://github.com/fommil/netlib-java) - :rocket: High Performance Linear Algebra (low level)
 - [lapack](https://github.com/Reference-LAPACK/lapack) - LAPACK development repository
 
 ## GLSL 
@@ -745,6 +748,15 @@
 
 ## Java 
 
+- [symja-parser](https://github.com/axkr/symja-parser) - Evaluate math expressions to double or apache commons-math Complex, Dfp of BigFraction numbers.
+- [javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
+- [sample-projects](https://github.com/bytedeco/sample-projects) - Sample project files for JavaCPP, JavaCPP Presets, and JavaCV
+- [javacpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++
+- [javacpp-presets](https://github.com/bytedeco/javacpp-presets) - The missing Java distribution of native C++ libraries
+- [2D-Heat-Diffusion](https://github.com/jmckennon/2D-Heat-Diffusion) - Parallelized 2D heat diffusion simulation using MPI Java
+- [matrix-toolkits-java](https://github.com/fommil/matrix-toolkits-java) - :rocket: High Performance Linear Algebra OOP
+- [n-body-simulation](https://github.com/manishjoshi394/n-body-simulation) - 2D-particles in a Box, Elastic simulation system.
+- [jackson-jr](https://github.com/FasterXML/jackson-jr) - Stand-alone data-binding module designed as a light-weight (and -featured) alternative to `jackson-databind`: will only deal with "Maps, Lists, Strings, wrappers and Java Beans" (jr-objects), or simple read-only trees (jr-stree)
 - [AURdroid](https://github.com/rascarlo/AURdroid) - Android AUR [Arch Linux user Repository] packages browser
 - [ArchPackages](https://github.com/rascarlo/ArchPackages) - Android Arch Linux packages browser
 - [FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
@@ -1309,8 +1321,12 @@
 
 ## OCaml 
 
-- [Batsh](https://github.com/BYVoid/Batsh) - A language that compiles to Bash and Windows Batch
+- [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 - [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
+
+## Objective-C 
+
+- [typed-astronauts-in-space](https://github.com/typeguard/typed-astronauts-in-space) - Open APIs From Space
 
 ## Others 
 
@@ -1836,7 +1852,7 @@
 - [undo-pandoc-citeproc](https://github.com/Chrismarsh/undo-pandoc-citeproc) - Undoes the pandoc-citeproc citations when converting from md-&gt;docx-&gt;md
 - [packageurl-python](https://github.com/package-url/packageurl-python) - Python implementation of the package url spec
 - [zpkg](https://github.com/ihucos/zpkg) - Install packages from other distributions
-- [plash](https://github.com/ihucos/plash) - Run, build and manage containers
+- [plash](https://github.com/ihucos/plash) - Build and run layered root filesystems.
 - [pearl](https://github.com/pearl-core/pearl) - Pearl is a lightweight package manager for automating reproducible environments between different systems (Linux and OSX). It can be used for dotfiles, plugins, programs and any form of code accessible via git.
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [aur](https://github.com/cdown/aur) - Arch User Repository API interface.
@@ -2365,11 +2381,14 @@
 
 ## Scala 
 
+- [breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
 - [spark](https://github.com/apache/spark) - Apache Spark
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
+- [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
+- [rpy2-docker](https://github.com/rpy2/rpy2-docker) - Running rpy2 in Docker containers
 - [distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
 - [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
@@ -2579,6 +2598,9 @@
 
 ## TypeScript 
 
+- [quicktype-custom-csharp-example](https://github.com/quicktype/quicktype-custom-csharp-example) - An example showing how to extend quicktype via its API
+- [awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
+- [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
 - [lyra](https://github.com/vega/lyra) - An interactive, graphical Visualization Design Environment (VDE)
 - [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
