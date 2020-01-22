@@ -71,6 +71,10 @@
 
 ## C 
 
+- [openbox](https://github.com/zen0bit/openbox) - Openbox Window Manager (OpenboxWM)
+- [openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
+- [jwm](https://github.com/joewing/jwm) - Joe's Window Manager
+- [gentoo-wsl](https://github.com/hungshihhan/gentoo-wsl) - 
 - [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
@@ -407,6 +411,7 @@
 
 ## C++ 
 
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [finite-state-machine](https://github.com/jmckennon/finite-state-machine) - Python state machine that generates compilable C++
 - [typed-earthquakes](https://github.com/typeguard/typed-earthquakes) - USGS Earthquake Data
 - [gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) - Tools for monitoring NVIDIA GPUs on Linux
@@ -581,6 +586,7 @@
 
 ## Go 
 
+- [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 - [gpu-feature-discovery](https://github.com/NVIDIA/gpu-feature-discovery) - GPU plugin to the node feature discovery for Kubernetes
@@ -748,6 +754,7 @@
 
 ## Java 
 
+- [Busybox-Installer-No-Root](https://github.com/EXALAB/Busybox-Installer-No-Root) - 
 - [symja-parser](https://github.com/axkr/symja-parser) - Evaluate math expressions to double or apache commons-math Complex, Dfp of BigFraction numbers.
 - [javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
 - [sample-projects](https://github.com/bytedeco/sample-projects) - Sample project files for JavaCPP, JavaCPP Presets, and JavaCV
@@ -837,7 +844,7 @@
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [dataverse](https://github.com/IQSS/dataverse) - Open source research data repository software
-- [dbuslauncherentry](https://github.com/snqlby/dbuslauncherentry) - Example for com.canonical.Unity.LauncherEntry signal listener
+- [dbuslauncherentry](https://github.com/ruslansin/dbuslauncherentry) - Example for com.canonical.Unity.LauncherEntry signal listener
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [jetbrains-plugin-xsimsel](https://github.com/dsggregory/jetbrains-plugin-xsimsel) - Simulate X middle-button press to paste selection in a JetBrains IDE.
 - [basex](https://github.com/BaseXdb/basex) - BaseX Main Repository.
@@ -848,6 +855,7 @@
 
 ## JavaScript 
 
+- [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [gnome-shell-extension-shell-clock](https://github.com/murat-cileli/gnome-shell-extension-shell-clock) - Shell Clock - Gnome Shell Extension
 - [gnome-fuzzy-search](https://github.com/fffilo/gnome-fuzzy-search) - Append fuzzy search results to Gnome Search
 - [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
@@ -1067,6 +1075,7 @@
 
 ## Jupyter Notebook 
 
+- [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [essential_skills_RRC](https://github.com/barbagroup/essential_skills_RRC) - Essential skills for reproducible research computing
 - [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
 - [AeroPython](https://github.com/barbagroup/AeroPython) - Classical Aerodynamics of potential flow using Python and Jupyter Notebooks
@@ -1294,6 +1303,8 @@
 
 ## Makefile 
 
+- [manjaro-docker](https://github.com/manjaro/manjaro-docker) - Base Docker for Manjaro
+- [gdm3setup](https://github.com/Nano77/gdm3setup) - An interface to configure GDM3, autologin options and change Shell theme
 - [displaylink-rpm](https://github.com/displaylink-rpm/displaylink-rpm) - RPM sources for the DisplayLink USB display adapters
 - [pytest_workshop](https://github.com/lgiordani/pytest_workshop) - Code for the "TDD in Python with pytest workshop"
 - [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
@@ -1330,6 +1341,7 @@
 
 ## Others 
 
+- [gentoo-wsl](https://github.com/cynede/gentoo-wsl) - WSL Overlay (Running Gentoo on Windows Kernel)
 - [wsl-tutorial](https://github.com/QMonkey/wsl-tutorial) - A tutorial about how to run desktop environment inside Windows Subsystem for Linux
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [schema](https://github.com/vega/schema) - JSON schema for Vega and Vega-Lite
@@ -2368,6 +2380,8 @@
 
 ## Rust 
 
+- [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
+- [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [bukubrow-host](https://github.com/SamHH/bukubrow-host) - Host application for the Bukubrow WebExtension
 - [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
@@ -2387,7 +2401,9 @@
 
 ## Shell 
 
+- [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
+- [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - 
 - [rpy2-docker](https://github.com/rpy2/rpy2-docker) - Running rpy2 in Docker containers
 - [distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
@@ -2598,6 +2614,7 @@
 
 ## TypeScript 
 
+- [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [quicktype-custom-csharp-example](https://github.com/quicktype/quicktype-custom-csharp-example) - An example showing how to extend quicktype via its API
 - [awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
@@ -2696,6 +2713,10 @@
 
 ## Vim script 
 
+- [vim-fixkey](https://github.com/drmikehenry/vim-fixkey) - https://github.com/drmikehenry/
+- [vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
+- [vim](https://github.com/vim/vim) - The official Vim repository
+- [novim-mode](https://github.com/tombh/novim-mode) - Plugin to make Vim behave more like a 'normal' editor
 - [bash-profile](https://github.com/maciejzgadzaj/bash-profile) - Bash profile files
 - [dotfiles](https://github.com/hjwp/dotfiles) - vimrc, bashrc etc
 - [dotfiles](https://github.com/fatso83/dotfiles) - My dot-files. I use these on Mac, Linux and Windows (CygWin)
