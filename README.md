@@ -640,6 +640,7 @@
 
 ## HTML 
 
+- [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
@@ -1159,7 +1160,7 @@
 - [codekatas](https://github.com/gudnm/codekatas) - Keep your skills sharp by implementing basic algorithms and data structures
 - [SciComPy](https://github.com/yoavram/SciComPy) - An introduction to Scientific Computing with Python, an advanced course for computer science students at IDC Herzliya
 - [Py4Eng](https://github.com/yoavram/Py4Eng) - Python for Engineers
-- [DataSciPy](https://github.com/yoavram/DataSciPy) - Introduction to Data Science with Python
+- [DataSciPy](https://github.com/yoavram/DataSciPy) - Data Science with Python
 - [CS1001.py](https://github.com/yoavram/CS1001.py) - Recitation notebooks for Extended Introduction to Computer Science with Python as Tel-Aviv University
 - [python-for-developers](https://github.com/ricardoduarte/python-for-developers) - This book is geared toward those who already have programming knowledge. It covers topics that include: creation of user interfaces, computer graphics, internet applications, distributed systems, among other issues.
 - [exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
@@ -2614,6 +2615,9 @@
 
 ## TypeScript 
 
+- [vscode-tslint](https://github.com/microsoft/vscode-tslint) - A tslint integration for vscode
+- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [quicktype-custom-csharp-example](https://github.com/quicktype/quicktype-custom-csharp-example) - An example showing how to extend quicktype via its API
 - [awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
