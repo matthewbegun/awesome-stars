@@ -71,6 +71,8 @@
 
 ## C 
 
+- [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
+- [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [openbox](https://github.com/zen0bit/openbox) - Openbox Window Manager (OpenboxWM)
 - [openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
 - [jwm](https://github.com/joewing/jwm) - Joe's Window Manager
@@ -586,6 +588,7 @@
 
 ## Go 
 
+- [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
@@ -1076,6 +1079,7 @@
 
 ## Jupyter Notebook 
 
+- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [essential_skills_RRC](https://github.com/barbagroup/essential_skills_RRC) - Essential skills for reproducible research computing
 - [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
@@ -1577,6 +1581,7 @@
 
 ## Perl 
 
+- [smt-manager](https://github.com/damentz/smt-manager) - Simultaneous Multithreading (SMT) Manager - enable or disable hyperthreading cores, or display your current CPU topology.
 - [its-pointless.github.io](https://github.com/its-pointless/its-pointless.github.io) - For info see https://github.com/its-pointless/gcc_termux
 - [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
 - [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
@@ -1733,6 +1738,11 @@
 
 ## Python 
 
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [batchspawner](https://github.com/jupyterhub/batchspawner) - Custom Spawner for Jupyterhub to start servers in batch scheduled systems
+- [ipython-cluster-helper](https://github.com/roryk/ipython-cluster-helper) - Tool to easily start up an IPython cluster on different schedulers.
+- [Source-Code-from-Tutorials](https://github.com/buckyroberts/Source-Code-from-Tutorials) - Here is the source code from all of my tutorials.
+- [liquorix-package](https://github.com/damentz/liquorix-package) - Liquorix Debian Package
 - [pyDiffusion](https://github.com/zhangqi-chen/pyDiffusion) - A Python library for diffusion simulation and data analysis
 - [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - Reference deployment of JupyterHub and nbgrader on a single server
 - [rpy2-Matrix](https://github.com/rpy2/rpy2-Matrix) - Mapping of the R package Matrix for rpy2
@@ -2348,6 +2358,7 @@
 
 ## Ruby 
 
+- [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 - [ruby_ship](https://github.com/stephan-nordnes-eriksen/ruby_ship) - A portable MRI Ruby environment and toolset
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for https://whatthecommit.com
@@ -2402,6 +2413,10 @@
 
 ## Shell 
 
+- [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
+- [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets.
+- [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+- [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 - [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
 - [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - 
