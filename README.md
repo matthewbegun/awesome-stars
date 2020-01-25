@@ -136,6 +136,7 @@
 
 ## C# # 
 
+- [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [ClassExplorer](https://github.com/SeeminglyScience/ClassExplorer) - ClassExplorer is a PowerShell module that enables quickly searching the AppDomain for classes and members.
 - [ImpliedReflection](https://github.com/SeeminglyScience/ImpliedReflection) - Explore private properties and methods as if they were public.
 - [PSLambda](https://github.com/SeeminglyScience/PSLambda) - A runtime compiler for PowerShell ScriptBlock objects.
@@ -522,6 +523,7 @@
 
 ## Dockerfile 
 
+- [docker-image](https://github.com/docToolchain/docker-image) - 
 - [rpy2-mybinder](https://github.com/rpy2/rpy2-mybinder) - 
 - [docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
 - [centos-gui](https://github.com/ATTron/centos-gui) - docker image using centos, x11vnc, novnc, and openbox for gui apps inside docker containers
@@ -638,6 +640,7 @@
 
 ## Groovy 
 
+- [docToolchain](https://github.com/docToolchain/docToolchain) - a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
 - [cicon-plantuml-sprites](https://github.com/rabelenda/cicon-plantuml-sprites) - PlantUML sprites generated from Cloudinsight icons (https://github.com/cloudinsight/cicon)
 - [parcl](https://github.com/mini2Dx/parcl) - Gradle plugin for bundling your Java application for distribution on Windows, Mac and Linux
 
@@ -859,6 +862,7 @@
 
 ## JavaScript 
 
+- [gnome-shell-docker-integration](https://github.com/faustor21/gnome-shell-docker-integration) - An extension for managing docker containers
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [gnome-shell-extension-shell-clock](https://github.com/murat-cileli/gnome-shell-extension-shell-clock) - Shell Clock - Gnome Shell Extension
 - [gnome-fuzzy-search](https://github.com/fffilo/gnome-fuzzy-search) - Append fuzzy search results to Gnome Search
@@ -1346,6 +1350,7 @@
 
 ## Others 
 
+- [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [gentoo-wsl](https://github.com/cynede/gentoo-wsl) - WSL Overlay (Running Gentoo on Windows Kernel)
 - [wsl-tutorial](https://github.com/QMonkey/wsl-tutorial) - A tutorial about how to run desktop environment inside Windows Subsystem for Linux
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
@@ -1738,6 +1743,9 @@
 
 ## Python 
 
+- [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
+- [XCompile](https://github.com/Recmo/XCompile) - Specify XCompose sequences in a simple language and compile them to .XCompose files
+- [xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [batchspawner](https://github.com/jupyterhub/batchspawner) - Custom Spawner for Jupyterhub to start servers in batch scheduled systems
 - [ipython-cluster-helper](https://github.com/roryk/ipython-cluster-helper) - Tool to easily start up an IPython cluster on different schedulers.
@@ -2358,6 +2366,8 @@
 
 ## Ruby 
 
+- [asciidoctor-katex](https://github.com/jirutka/asciidoctor-katex) - Asciidoctor extension for converting latexmath using KaTeX at build time
+- [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
 - [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 - [ruby_ship](https://github.com/stephan-nordnes-eriksen/ruby_ship) - A portable MRI Ruby environment and toolset
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
