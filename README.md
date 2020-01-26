@@ -98,7 +98,7 @@
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [VcXsvr](https://github.com/Lumak/VcXsvr) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
+- [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
 - [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
@@ -915,7 +915,7 @@
 - [gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
 - [gnome-shell-extension-extensions](https://github.com/petres/gnome-shell-extension-extensions) - gnome shell extension to enable/disable extension easily via a panel menu
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
-- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window over another one, holding down the Control key, and you'll see the magic! Grouped windows minimize, resize, raise and change workspace together. Maximize a window to remove it from the group.
+- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window to the edges of the screen to create a tiling, otherwise move a window over another one, holding down the Control key. Grouped windows minimize, resize, raise and change workspace together. Move or maximize a window to remove it from the group.
 - [wintile](https://github.com/Fmstrat/wintile) - Windows 10 window tiling for GNOME
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [thebelab](https://github.com/minrk/thebelab) - ThebeLab: turning static HTML pages into live documents
@@ -1420,7 +1420,7 @@
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4700+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4900+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
@@ -1743,6 +1743,8 @@
 
 ## Python 
 
+- [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
+- [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [XCompile](https://github.com/Recmo/XCompile) - Specify XCompose sequences in a simple language and compile them to .XCompose files
 - [xcompose](https://github.com/kragen/xcompose) - for sharing .XCompose keybindings
