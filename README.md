@@ -1743,6 +1743,9 @@
 
 ## Python 
 
+- [xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
+- [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
+- [gspread](https://github.com/burnash/gspread) - Google Sheets Python API
 - [brython](https://github.com/brython-dev/brython) - Brython (Browser Python) is an implementation of Python 3 running in the browser
 - [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
@@ -2604,6 +2607,7 @@
 
 ## TeX 
 
+- [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
 - [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for using Dockerfiles for reproducible research
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
