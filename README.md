@@ -136,6 +136,7 @@
 
 ## C# # 
 
+- [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [ClassExplorer](https://github.com/SeeminglyScience/ClassExplorer) - ClassExplorer is a PowerShell module that enables quickly searching the AppDomain for classes and members.
 - [ImpliedReflection](https://github.com/SeeminglyScience/ImpliedReflection) - Explore private properties and methods as if they were public.
@@ -307,7 +308,7 @@
 - [micro-benchmarks](https://github.com/stella3d/micro-benchmarks) - C# micro benchmarks for Unity
 - [weekend-tracer](https://github.com/stella3d/weekend-tracer) - An implementation of 'Ray Tracing in One Weekend', using C# and Unity's Burst compiler
 - [DotGraph](https://github.com/stella3d/DotGraph) - Basic graph theory constructs implemented via the Unity C# Job System
-- [DOTS-Sprite-Renderer](https://github.com/GilbertoGojira/DOTS-Sprite-Renderer) - Rendering sprites in DOTS
+- [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) - Rendering sprites in DOTS
 - [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing) - This technique is designed to instance Characters(SkinnedMeshRender).
 - [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) - Simple but very fast GPU vertex shader based animation system for Unity.Entities
 - [unitydots_simplecollision](https://github.com/sarkahn/unitydots_simplecollision) - An example of a simple jobified sphere-sphere collision system in DOTS. Uses a spatial map for broadphase.
@@ -502,7 +503,6 @@
 - [vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [gimmemotifs-manuscript](https://github.com/simonvh/gimmemotifs-manuscript) - 
 - [dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including filters and templates for producing multiple outputs for academic content.
-- [vscode-docs-authoring](https://github.com/microsoft/vscode-docs-authoring) - VSCode extension that provides markdown authoring assistance to docs.microsoft.com contributors
 - [ecological_notes](https://github.com/aammd/ecological_notes) - notes I'm taking while reading about ecology
 - [vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
@@ -1083,6 +1083,9 @@
 
 ## Jupyter Notebook 
 
+- [PythonDataScienceHandbook](https://github.com/mwouts/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
+- [nbval](https://github.com/computationalmodelling/nbval) - A py.test plugin to validate Jupyter notebooks
+- [pytest-notebook](https://github.com/chrisjsewell/pytest-notebook) - A pytest plugin for regression testing and regenerating Jupyter Notebooks
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
 - [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
 - [essential_skills_RRC](https://github.com/barbagroup/essential_skills_RRC) - Essential skills for reproducible research computing
@@ -1743,6 +1746,8 @@
 
 ## Python 
 
+- [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018
+- [ipython_pytest](https://github.com/akaihola/ipython_pytest) - Pytest magic for IPython notebooks
 - [xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
 - [pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library
 - [gspread](https://github.com/burnash/gspread) - Google Sheets Python API
@@ -2428,6 +2433,7 @@
 
 ## Shell 
 
+- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
 - [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
 - [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
@@ -2646,6 +2652,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-nbmetadata](https://github.com/yuvipanda/jupyterlab-nbmetadata) - 
 - [vscode-tslint](https://github.com/microsoft/vscode-tslint) - A tslint integration for vscode
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
@@ -2735,6 +2742,7 @@
 - [CDocComments](https://github.com/alexermolov/CDocComments) - Visual Studio Extention
 - [vscode-docomment](https://github.com/kasecato/vscode-docomment) - Generate XML documentation comments for Visual Studio Code
 - [vscode-live-server](https://github.com/ritwickdey/vscode-live-server) - Launch a development local Server with live reload feature for static & dynamic pages.
+- [vscode-docs-authoring](https://github.com/microsoft/vscode-docs-authoring) - VSCode extension that provides markdown authoring assistance to docs.microsoft.com contributors
 - [vscode-pandoc](https://github.com/dfinke/vscode-pandoc) - Visual Studio Code extension lets you render markdown to pdf, word doc or html with pandoc
 - [omnisharp-vscode](https://github.com/OmniSharp/omnisharp-vscode) - Official C# support for Visual Studio Code (powered by OmniSharp)
 - [zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) - Make Zotero effective for us LaTeX holdouts
