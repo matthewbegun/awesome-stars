@@ -73,7 +73,6 @@
 
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
-- [openbox](https://github.com/zen0bit/openbox) - Openbox Window Manager (OpenboxWM)
 - [openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
 - [jwm](https://github.com/joewing/jwm) - Joe's Window Manager
 - [gentoo-wsl](https://github.com/hungshihhan/gentoo-wsl) - 
@@ -308,7 +307,7 @@
 - [micro-benchmarks](https://github.com/stella3d/micro-benchmarks) - C# micro benchmarks for Unity
 - [weekend-tracer](https://github.com/stella3d/weekend-tracer) - An implementation of 'Ray Tracing in One Weekend', using C# and Unity's Burst compiler
 - [DotGraph](https://github.com/stella3d/DotGraph) - Basic graph theory constructs implemented via the Unity C# Job System
-- [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) - Rendering sprites in DOTS
+- [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) - Extendind DOTS
 - [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing) - This technique is designed to instance Characters(SkinnedMeshRender).
 - [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) - Simple but very fast GPU vertex shader based animation system for Unity.Entities
 - [unitydots_simplecollision](https://github.com/sarkahn/unitydots_simplecollision) - An example of a simple jobified sphere-sphere collision system in DOTS. Uses a spatial map for broadphase.
@@ -641,7 +640,6 @@
 ## Groovy 
 
 - [docToolchain](https://github.com/docToolchain/docToolchain) - a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
-- [cicon-plantuml-sprites](https://github.com/rabelenda/cicon-plantuml-sprites) - PlantUML sprites generated from Cloudinsight icons (https://github.com/cloudinsight/cicon)
 - [parcl](https://github.com/mini2Dx/parcl) - Gradle plugin for bundling your Java application for distribution on Windows, Mac and Linux
 
 ## HTML 
@@ -661,7 +659,6 @@
 - [builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
 - [pandas-munging](https://github.com/bsweger/pandas-munging) - Short talk on basic data munging with Python and Pandas
 - [webinars](https://github.com/rstudio/webinars) - Code and slides for RStudio webinars
-- [git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference/
 - [skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
 - [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
@@ -1083,6 +1080,8 @@
 
 ## Jupyter Notebook 
 
+- [hddm](https://github.com/hddm-devs/hddm) - HDDM is a python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
+- [pandas-notebook](https://github.com/henryiii/pandas-notebook) - Simple demo
 - [PythonDataScienceHandbook](https://github.com/mwouts/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [nbval](https://github.com/computationalmodelling/nbval) - A py.test plugin to validate Jupyter notebooks
 - [pytest-notebook](https://github.com/chrisjsewell/pytest-notebook) - A pytest plugin for regression testing and regenerating Jupyter Notebooks
@@ -1353,6 +1352,7 @@
 
 ## Others 
 
+- [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [gentoo-wsl](https://github.com/cynede/gentoo-wsl) - WSL Overlay (Running Gentoo on Windows Kernel)
 - [wsl-tutorial](https://github.com/QMonkey/wsl-tutorial) - A tutorial about how to run desktop environment inside Windows Subsystem for Linux
@@ -1746,6 +1746,7 @@
 
 ## Python 
 
+- [sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018
 - [ipython_pytest](https://github.com/akaihola/ipython_pytest) - Pytest magic for IPython notebooks
 - [xlrd](https://github.com/python-excel/xlrd) - Please use openpyxl where you can...
@@ -1928,7 +1929,7 @@
 - [pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [pipman](https://github.com/sollidsnake/pipman) - Convert pip's packages to Arch Linux's PKGBUILDs
 - [publication](https://github.com/glyph/publication) - 
-- [pyforest](https://github.com/8080labs/pyforest) - Lazy-import of all popular Python Data Science libraries
+- [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [spacy-course](https://github.com/ines/spacy-course) - 👩‍🏫 Advanced NLP with spaCy: A free online course
 - [random](https://github.com/cactus/random) - random stuff
 - [github-links](https://github.com/Python-Markdown/github-links) - Python-Markdown GitHub Links Extension
@@ -2389,6 +2390,7 @@
 - [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [linuxbrew-core](https://github.com/Homebrew/linuxbrew-core) - 🍻🐧 Core formulae for the Homebrew package manager on Linux
+- [git-scm.com](https://github.com/git/git-scm.com) - The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to https://git-scm.com/community.
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
