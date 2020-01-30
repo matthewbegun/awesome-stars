@@ -71,6 +71,7 @@
 
 ## C 
 
+- [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
@@ -522,6 +523,7 @@
 
 ## Dockerfile 
 
+- [matlab-dockerfile](https://github.com/mathworks-ref-arch/matlab-dockerfile) - Create a docker container that contains a MATLAB install
 - [docker-image](https://github.com/docToolchain/docker-image) - 
 - [rpy2-mybinder](https://github.com/rpy2/rpy2-mybinder) - 
 - [docker-novnc](https://github.com/theasp/docker-novnc) - noVNC Display Container for Docker
@@ -1331,6 +1333,7 @@
 
 ## Matlab 
 
+- [VirtualScenes](https://github.com/RenderToolbox/VirtualScenes) - With RenderToolbox3, render scenes with random objects, materials, and lights.
 - [matlab.tmbundle](https://github.com/textmate/matlab.tmbundle) - TextMate support for Matlab / Octave
 - [matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 - [TidyCode](https://github.com/okomarov/TidyCode) - MATLAB utility to justify .m files
