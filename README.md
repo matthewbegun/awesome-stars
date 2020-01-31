@@ -71,6 +71,12 @@
 
 ## C 
 
+- [su-exec](https://github.com/ncopa/su-exec) - switch user and group id and exec
+- [njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.
+- [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
+- [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
+- [bash](https://github.com/tianon/bash) - Mirror of https://git.savannah.gnu.org/cgit/bash.git
+- [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -523,6 +529,9 @@
 
 ## Dockerfile 
 
+- [squignix](https://github.com/tianon/squignix) - NGINX, configured to act like Squid
+- [docker-bash](https://github.com/tianon/docker-bash) - Many versions of Bash, Dockerized
+- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [matlab-dockerfile](https://github.com/mathworks-ref-arch/matlab-dockerfile) - Create a docker container that contains a MATLAB install
 - [docker-image](https://github.com/docToolchain/docker-image) - 
 - [rpy2-mybinder](https://github.com/rpy2/rpy2-mybinder) - 
@@ -591,6 +600,7 @@
 
 ## Go 
 
+- [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
@@ -1152,7 +1162,7 @@
 - [pandas_basic_data_analysis_tutorial](https://github.com/dom-devel/pandas_basic_data_analysis_tutorial) - A tutorial for basic data analysis with Pandas and Python. Designed to help people move from Excel to Pandas. Uses an SEO example.
 - [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
 - [stats-fun](https://github.com/jvns/stats-fun) - 
-- [dabl](https://github.com/amueller/dabl) - Data Analysis Baseline Library
+- [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
 - [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
 - [Slides-SciPyConf-2018](https://github.com/wesm/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
@@ -1195,7 +1205,6 @@
 - [smm_demo](https://github.com/gesiscss/smm_demo) - Examples to complement of the SMM Monitor
 - [notebooks](https://github.com/elegant-scipy/notebooks) - The compiled, clean (not run) Jupyter notebooks for Elegant SciPy
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
-- [documentation](https://github.com/plotly/documentation) - Documentation for Plotly's open-source graphing libraries
 - [Survival-Analysis-on-Machine-Incident-Prediction](https://github.com/christine-ding/Survival-Analysis-on-Machine-Incident-Prediction) - Time-to-Failure Prediction using Coxph Regression Model
 - [Lifelines](https://github.com/shreejitp/Lifelines) - Using Lifelines Package for Survival Analysis
 - [TCGA-lifelines-survival](https://github.com/auberginekenobi/TCGA-lifelines-survival) - Survival analysis on the KIRC cohort of TCGA cancer patients. Done on the lifelines platform.
@@ -1355,6 +1364,7 @@
 
 ## Others 
 
+- [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
 - [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [gentoo-wsl](https://github.com/cynede/gentoo-wsl) - WSL Overlay (Running Gentoo on Windows Kernel)
@@ -1408,6 +1418,7 @@
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
 - [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
+- [documentation](https://github.com/plotly/documentation) - 
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
@@ -1749,6 +1760,9 @@
 
 ## Python 
 
+- [bash_beautify](https://github.com/shakram02/bash_beautify) - A VSCode plugin to beautify shell scripts
+- [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [docker_registry_cli](https://github.com/vivekjuneja/docker_registry_cli) - Docker Registry CLI - Provides search functionality for Docker Registry (UI and CLI)
 - [sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library
 - [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018
 - [ipython_pytest](https://github.com/akaihola/ipython_pytest) - Pytest magic for IPython notebooks
@@ -2438,6 +2452,9 @@
 
 ## Shell 
 
+- [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility
+- [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
+- [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
 - [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
 - [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets.
@@ -2761,6 +2778,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-fixkey](https://github.com/drmikehenry/vim-fixkey) - https://github.com/drmikehenry/
 - [vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
 - [vim](https://github.com/vim/vim) - The official Vim repository
