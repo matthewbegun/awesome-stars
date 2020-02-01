@@ -6,6 +6,7 @@
 ## Contents
 
   - [ANTLR](#antlr)
+  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -61,6 +62,10 @@
 ## ANTLR 
 
 - [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
+
+## AutoHotkey 
+
+- [putty-quake-terminal](https://github.com/oueta/putty-quake-terminal) - Guake style terminal with Putty in Windows
 
 ## Batchfile 
 
@@ -529,6 +534,7 @@
 
 ## Dockerfile 
 
+- [container-images](https://github.com/mathworks-ref-arch/container-images) - MathWorks container images on Docker Hub
 - [squignix](https://github.com/tianon/squignix) - NGINX, configured to act like Squid
 - [docker-bash](https://github.com/tianon/docker-bash) - Many versions of Bash, Dockerized
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
@@ -871,6 +877,8 @@
 
 ## JavaScript 
 
+- [groq-cli](https://github.com/sanity-io/groq-cli) - Run GROQ in your command line
+- [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [gnome-shell-docker-integration](https://github.com/faustor21/gnome-shell-docker-integration) - An extension for managing docker containers
 - [browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [gnome-shell-extension-shell-clock](https://github.com/murat-cileli/gnome-shell-extension-shell-clock) - Shell Clock - Gnome Shell Extension
@@ -1286,7 +1294,6 @@
 - [advance-bayesian-modelling-with-PyMC3](https://github.com/junpenglao/advance-bayesian-modelling-with-PyMC3) - 
 - [sqlworkshops](https://github.com/microsoft/sqlworkshops) - SQL Server Workshops
 - [pragmatic-polyglot-data-analysis](https://github.com/lgautier/pragmatic-polyglot-data-analysis) - Docker container for off-the-shelf jupyter notebook + Python + R + Spark/pyspark + LLVM
-- [Articles](https://github.com/mrdragonbear/Articles) - Miscellaneous repository for code content related to my Medium posts.
 - [pca_demo](https://github.com/mikecroucher/pca_demo) - A demo to show the use of conda environments
 - [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -1841,7 +1848,7 @@
 - [python](https://github.com/Rainist/python) - 🍪 🐍 Use this template if you love Python
 - [pyramid-cookiecutter-starter](https://github.com/Pylons/pyramid-cookiecutter-starter) - A Cookiecutter (project template) for creating a Pyramid starter project with choices for template language (Jinja2, Chameleon, or Mako), persistent backend (none, SQLAlchemy with SQLite, or ZODB), and mapping of URLs to routes (URL dispatch or traversal)
 - [cookiecutter-pipenv](https://github.com/elgertam/cookiecutter-pipenv) - Cookiecutter Python Package Template with Pipenv
-- [python-best-practices-cookiecutter](https://github.com/sourceryai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
+- [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [django-init](https://github.com/Fueled/django-init) - Project template used at Fueled for scaffolding new Django based projects. :dizzy:
 - [python-versioncontrol](https://github.com/painless-software/python-versioncontrol) - Abstraction layer to operate the public APIs of GitHub, GitLab, Bitbucket
 - [pytest-gallery](https://github.com/nedbat/pytest-gallery) - A sampler of tests showing different ways to construct tests for pytest
@@ -2480,7 +2487,7 @@
 - [wslgit](https://github.com/hangxingliu/wslgit) - :candy: Use Git installed in WSL(Windows Subsystem for Linux) from Windows and Visual Studio Code
 - [x11-packages](https://github.com/termux/x11-packages) - Packages using the X Window System.
 - [unstable-packages](https://github.com/termux/unstable-packages) - A place for new or unstable packages.
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [oil](https://github.com/AndreiUlmeyda/oil) - Search-as-you-type cli frontend for the buku bookmarks manager using peco.
 - [buku_run](https://github.com/carnager/buku_run) - rofi frontend for buku bookmarks manager
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
