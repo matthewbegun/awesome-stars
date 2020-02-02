@@ -55,6 +55,7 @@
   - [TypeScript](#typescript)
   - [Vala](#vala)
   - [Vim script](#vim-script)
+  - [VimL](#viml)
   - [Vue](#vue)
   - [Web Ontology Language](#web-ontology-language)
   - [ZIL](#zil)
@@ -65,6 +66,7 @@
 
 ## AutoHotkey 
 
+- [AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
 - [putty-quake-terminal](https://github.com/oueta/putty-quake-terminal) - Guake style terminal with Putty in Windows
 
 ## Batchfile 
@@ -76,6 +78,9 @@
 
 ## C 
 
+- [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
+- [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
+- [xcompose-mappings](https://github.com/mungerd/xcompose-mappings) - XCompose mappings for unicode input
 - [su-exec](https://github.com/ncopa/su-exec) - switch user and group id and exec
 - [njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.
 - [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
@@ -147,6 +152,7 @@
 
 ## C# # 
 
+- [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [ClassExplorer](https://github.com/SeeminglyScience/ClassExplorer) - ClassExplorer is a PowerShell module that enables quickly searching the AppDomain for classes and members.
@@ -606,6 +612,7 @@
 
 ## Go 
 
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh)
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
 - [micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -877,6 +884,10 @@
 
 ## JavaScript 
 
+- [dotseeker](https://github.com/reireias/dotseeker) - Collect dotfiles from GitHub repositories.
+- [webpack-yam-plugin](https://github.com/markfinger/webpack-yam-plugin) - Yet another manifest plugin for webpack
+- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
 - [groq-cli](https://github.com/sanity-io/groq-cli) - Run GROQ in your command line
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
 - [gnome-shell-docker-integration](https://github.com/faustor21/gnome-shell-docker-integration) - An extension for managing docker containers
@@ -1626,6 +1637,7 @@
 
 ## PowerShell 
 
+- [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
 - [dotfiles](https://github.com/SeeminglyScience/dotfiles) - 
@@ -1767,6 +1779,9 @@
 
 ## Python 
 
+- [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
+- [python-webpack-manifest](https://github.com/markfinger/python-webpack-manifest) - Manifest loader for webpack
+- [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with django
 - [bash_beautify](https://github.com/shakram02/bash_beautify) - A VSCode plugin to beautify shell scripts
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [docker_registry_cli](https://github.com/vivekjuneja/docker_registry_cli) - Docker Registry CLI - Provides search functionality for Docker Registry (UI and CLI)
@@ -2401,8 +2416,8 @@
 
 ## Ruby 
 
-- [asciidoctor-katex](https://github.com/jirutka/asciidoctor-katex) - Asciidoctor extension for converting latexmath using KaTeX at build time
 - [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
+- [asciidoctor-katex](https://github.com/jirutka/asciidoctor-katex) - Asciidoctor extension for converting latexmath using KaTeX at build time
 - [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
 - [ruby_ship](https://github.com/stephan-nordnes-eriksen/ruby_ship) - A portable MRI Ruby environment and toolset
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
@@ -2459,6 +2474,7 @@
 
 ## Shell 
 
+- [xcompose](https://github.com/Melvar/xcompose) - A set of compose files for catting together into a .XCompose
 - [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility
 - [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
@@ -2560,7 +2576,7 @@
 - [CO2Aldrin](https://github.com/qjcg/CO2Aldrin) - Fizzing and buzzing along the road to enlightenment.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
-- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A fast reimplementation of Powerlevel9k ZSH theme
+- [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
@@ -2681,6 +2697,7 @@
 
 ## TypeScript 
 
+- [vscode-ahk-manager](https://github.com/Denis-net/vscode-ahk-manager) - VS Code Extension for interacting with ahk executables
 - [jupyterlab-nbmetadata](https://github.com/yuvipanda/jupyterlab-nbmetadata) - 
 - [vscode-tslint](https://github.com/microsoft/vscode-tslint) - A tslint integration for vscode
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2799,6 +2816,10 @@
 - [dotfiles](https://github.com/nicknisi/dotfiles) - vim, zsh, git, homebrew, nvm, neovim - my whole world
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
+
+## VimL 
+
+- [dotfiles](https://github.com/ibab/dotfiles) - :wrench: My configuration files.
 
 ## Vue 
 
