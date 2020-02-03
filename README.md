@@ -21,6 +21,7 @@
   - [Fortran](#fortran)
   - [GLSL](#glsl)
   - [Go](#go)
+  - [Grammatical Framework](#grammatical-framework)
   - [Groovy](#groovy)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -78,6 +79,8 @@
 
 ## C 
 
+- [gf-core](https://github.com/GrammaticalFramework/gf-core) - Grammatical Framework core: compiler, shell & runtimes
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [xcompose-mappings](https://github.com/mungerd/xcompose-mappings) - XCompose mappings for unicode input
@@ -508,7 +511,7 @@
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [design-system-starter](https://github.com/govau/design-system-starter) - 🚀 The Australian Government Design System - Starter
 - [solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 40+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
@@ -662,6 +665,11 @@
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [fzf-bibtex](https://github.com/msprev/fzf-bibtex) - a BibTeX source for fzf
 
+## Grammatical Framework 
+
+- [gf-rgl](https://github.com/GrammaticalFramework/gf-rgl) - Grammatical Framework's Resource Grammar Library (RGL)
+- [gf-contrib](https://github.com/GrammaticalFramework/gf-contrib) - Community contributions to the Grammatical Framework
+
 ## Groovy 
 
 - [docToolchain](https://github.com/docToolchain/docToolchain) - a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
@@ -669,6 +677,7 @@
 
 ## HTML 
 
+- [Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
@@ -783,6 +792,7 @@
 
 ## Java 
 
+- [aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) in the back-end. ACE View has been implemented as a plug-in for Protégé 4
 - [Busybox-Installer-No-Root](https://github.com/EXALAB/Busybox-Installer-No-Root) - 
 - [symja-parser](https://github.com/axkr/symja-parser) - Evaluate math expressions to double or apache commons-math Complex, Dfp of BigFraction numbers.
 - [javacv](https://github.com/bytedeco/javacv) - Java interface to OpenCV, FFmpeg, and more
@@ -884,6 +894,10 @@
 
 ## JavaScript 
 
+- [twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
+- [vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) - The vscode.d.ts node module
+- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - Provides a set of helper functions for setting or getting the content and selection of a Visual Studio Code instance.
+- [vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [dotseeker](https://github.com/reireias/dotseeker) - Collect dotfiles from GitHub repositories.
 - [webpack-yam-plugin](https://github.com/markfinger/webpack-yam-plugin) - Yet another manifest plugin for webpack
 - [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -1264,6 +1278,7 @@
 - [jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
 - [ipynb](https://github.com/ipython/ipynb) - Package / Module importer for importing code from Jupyter Notebook files (.ipynb)
 - [py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
 - [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
 - [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
@@ -1775,10 +1790,13 @@
 
 ## Prolog 
 
+- [Clex](https://github.com/Attempto/Clex) - Large lexicon for APE (~100,000 entries)
+- [APE](https://github.com/Attempto/APE) - Parser for Attempto Controlled English (ACE)
 - [stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 
 ## Python 
 
+- [twine](https://github.com/tweecode/twine) - UI for creating hypertext stories
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [python-webpack-manifest](https://github.com/markfinger/python-webpack-manifest) - Manifest loader for webpack
 - [django-webpack-loader](https://github.com/owais/django-webpack-loader) - Transparently use webpack with django
@@ -2064,7 +2082,6 @@
 - [awesome-scoop](https://github.com/tapannallan/awesome-scoop) - A collection of awesome resources for the scoop package manager for windows
 - [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
 - [dash-bio](https://github.com/plotly/dash-bio) - Open-source bioinformatics components for Dash
-- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [PREOS](https://github.com/CorySimon/PREOS) - Peng-Robinson Equation of State
 - [fugacity](https://github.com/forsterite/fugacity) - 
 - [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
@@ -2453,6 +2470,7 @@
 
 ## Rust 
 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
@@ -2697,6 +2715,7 @@
 
 ## TypeScript 
 
+- [vscode-set-text](https://github.com/SamVerschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method
 - [vscode-ahk-manager](https://github.com/Denis-net/vscode-ahk-manager) - VS Code Extension for interacting with ahk executables
 - [jupyterlab-nbmetadata](https://github.com/yuvipanda/jupyterlab-nbmetadata) - 
 - [vscode-tslint](https://github.com/microsoft/vscode-tslint) - A tslint integration for vscode
