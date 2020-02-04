@@ -31,6 +31,7 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
@@ -79,6 +80,7 @@
 
 ## C 
 
+- [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [gf-core](https://github.com/GrammaticalFramework/gf-core) - Grammatical Framework core: compiler, shell & runtimes
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
@@ -718,7 +720,7 @@
 - [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
 - [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
 - [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the tidyverse
+- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 - [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
@@ -746,7 +748,7 @@
 - [xkcd-chart-sheet](https://github.com/gnufede/xkcd-chart-sheet) - Create xkcd charts from a spreadsheet
 - [d3-burndown](https://github.com/newtonlabs/d3-burndown) - XKCD Burndown chart
 - [velociraptorproblem](https://github.com/infratxt/velociraptorproblem) - Solving the xkcd Velociraptor Problem in JavaScript, graphing in D3
-- [graphtheory](https://github.com/rsrihari/graphtheory) - Webapp to generate xkcd-esque graphs.
+- [graphtheory](https://github.com/sri-rad/graphtheory) - Webapp to generate xkcd-esque graphs.
 - [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown) - Template for writing a PhD thesis in Markdown
 - [text_mined_hetnet_manuscript](https://github.com/greenelab/text_mined_hetnet_manuscript) - Manuscript is on using snorkel to extract Heterogeneous Relationships from Pubmed Abstracts.
 - [meta-review](https://github.com/greenelab/meta-review) - Manuscript describing open collaborative writing with Manubot
@@ -770,6 +772,7 @@
 
 ## Haskell 
 
+- [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [pandoc-types](https://github.com/jgm/pandoc-types) - types for representing structured documents
@@ -894,6 +897,8 @@
 
 ## JavaScript 
 
+- [jupyter-skeleton](https://github.com/EniramLtd/jupyter-skeleton) - A Jupyter extension which causes newly created notebooks to be based on a skeleton instead of a blank notebook
+- [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) - The vscode.d.ts node module
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - Provides a set of helper functions for setting or getting the content and selection of a Visual Studio Code instance.
@@ -1125,6 +1130,8 @@
 
 ## Jupyter Notebook 
 
+- [notebook-templates](https://github.com/callysto/notebook-templates) - Templates, snippets and Callysto banners for Jupyter notebooks
+- [jupyter-notebook-initializer](https://github.com/gregtam/jupyter-notebook-initializer) - Default notebook template and auxiliary files to use for data science analysis.
 - [hddm](https://github.com/hddm-devs/hddm) - HDDM is a python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
 - [pandas-notebook](https://github.com/henryiii/pandas-notebook) - Simple demo
 - [PythonDataScienceHandbook](https://github.com/mwouts/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -1143,7 +1150,7 @@
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
-- [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - Minicourse in Deep Learning with PyTorch
+- [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - Deep Learning with PyTorch
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
 - [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
@@ -1348,6 +1355,10 @@
 - [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 
+## M4 
+
+- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
+
 ## MATLAB 
 
 - [NSV_MILP_assignment](https://github.com/Dymsia/NSV_MILP_assignment) - North West Corner method, MILP assignment with capacity
@@ -1358,6 +1369,7 @@
 
 ## Makefile 
 
+- [python-science-skeleton](https://github.com/audy/python-science-skeleton) - IPython data science project skeleton
 - [manjaro-docker](https://github.com/manjaro/manjaro-docker) - Base Docker for Manjaro
 - [gdm3setup](https://github.com/Nano77/gdm3setup) - An interface to configure GDM3, autologin options and change Shell theme
 - [displaylink-rpm](https://github.com/displaylink-rpm/displaylink-rpm) - RPM sources for the DisplayLink USB display adapters
@@ -1451,7 +1463,7 @@
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
 - [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
-- [documentation](https://github.com/plotly/documentation) - 
+- [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source graphing libraries documentation.
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
@@ -1796,6 +1808,25 @@
 
 ## Python 
 
+- [airports.py](https://github.com/trendct-data/airports.py) - airport codes python dictionary
+- [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+- [httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
+- [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+- [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
+- [tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [gitless](https://github.com/gitless-vcs/gitless) - A version control system built on top of Git
+- [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
+- [hatch](https://github.com/ofek/hatch) - A modern project, package, and virtual env manager for Python
+- [tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [httpie](https://github.com/jakubroztocil/httpie) - As easy as HTTPie /aitch-tee-tee-pie/  🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://twitter.com/clihttp
+- [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
 - [twine](https://github.com/tweecode/twine) - UI for creating hypertext stories
 - [watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [python-webpack-manifest](https://github.com/markfinger/python-webpack-manifest) - Manifest loader for webpack
@@ -2155,7 +2186,6 @@
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [py-sorting](https://github.com/gwtw/py-sorting) - A collection of sorting algorithms written in Python.
 - [readable-pylint-messages](https://github.com/janjur/readable-pylint-messages) - List of pylint human readable message ids and dev readable codes
-- [tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool
 - [blackcellmagic](https://github.com/csurfer/blackcellmagic) - IPython magic command to format python code in cell using black.
 - [pyls-black](https://github.com/rupert/pyls-black) - Black plugin for the Python Language Server
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
@@ -2314,7 +2344,6 @@
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python
 - [grocery-prices](https://github.com/amirbehzad/grocery-prices) - 
-- [woolworths-scraper](https://github.com/tail-recursion/woolworths-scraper) - 
 - [grosaleries-scraper](https://github.com/chehanr/grosaleries-scraper) - Scraping tools made for the SWE20001 project (GroSaleries).
 - [trolley](https://github.com/johnjiang/trolley) - 
 - [Web-Scraping](https://github.com/codingforentrepreneurs/Web-Scraping) - Learn how to leverage Python's amazing tools to scrape data from other websites.  The end goal of this course is to scrape blogs to analyze trending keywords and phrases.  We'll be using Python 3.6, Requests, BeautifulSoup, Asyncio, Pandas, Numpy, and more!
