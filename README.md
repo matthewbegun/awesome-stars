@@ -80,6 +80,9 @@
 
 ## C 
 
+- [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
+- [pyshim](https://github.com/mottosso/pyshim) - A better shim.exe file for Scoop.
+- [scoop-better-shimexe](https://github.com/71/scoop-better-shimexe) - A better shim.exe file for Scoop.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
 - [gf-core](https://github.com/GrammaticalFramework/gf-core) - Grammatical Framework core: compiler, shell & runtimes
 - [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
@@ -152,11 +155,12 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 - [libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
-- [ast](https://github.com/att/ast) - This is the AT&T Software Technology ast software download site from AT&T Research. The AT&T AST OpenSource Software Collection provides an overview and Practical Reusable UNIX Software provides a historical perspective. You can join the ast and uwin mailgroups, or monitor the mail archives. There is also an AT&T internal talk. The man page index contains most of the ast commands and library functions; command man pages are also available at runtime using the --man or --html option of any ast command.
+- [ast](https://github.com/att/ast) - AST - AT&T Software Technology
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 ## C# # 
 
+- [uppercut](https://github.com/chucknorris/uppercut) - UppercuT - Professional builds in moments, not days!
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
@@ -330,7 +334,7 @@
 - [micro-benchmarks](https://github.com/stella3d/micro-benchmarks) - C# micro benchmarks for Unity
 - [weekend-tracer](https://github.com/stella3d/weekend-tracer) - An implementation of 'Ray Tracing in One Weekend', using C# and Unity's Burst compiler
 - [DotGraph](https://github.com/stella3d/DotGraph) - Basic graph theory constructs implemented via the Unity C# Job System
-- [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) - Extendind DOTS
+- [DOTS-Stackray](https://github.com/GilbertoGojira/DOTS-Stackray) - Extending DOTS
 - [Animation-Instancing](https://github.com/Unity-Technologies/Animation-Instancing) - This technique is designed to instance Characters(SkinnedMeshRender).
 - [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) - Simple but very fast GPU vertex shader based animation system for Unity.Entities
 - [unitydots_simplecollision](https://github.com/sarkahn/unitydots_simplecollision) - An example of a simple jobified sphere-sphere collision system in DOTS. Uses a spatial map for broadphase.
@@ -545,6 +549,10 @@
 
 ## Dockerfile 
 
+- [docker-alpine-bash](https://github.com/Docker-Hub-frolvlad/docker-alpine-bash) - Docker image with Bash and complete utils (busybox replacements) (15MB)
+- [docker-alpine-miniconda3](https://github.com/Docker-Hub-frolvlad/docker-alpine-miniconda3) - The smallest Docker image with Miniconda3 (Python 3.7) (~143MB)
+- [docker-alpine-python3](https://github.com/Docker-Hub-frolvlad/docker-alpine-python3) - The smallest Docker image with Python 3.7 (~57MB)
+- [docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [container-images](https://github.com/mathworks-ref-arch/container-images) - MathWorks container images on Docker Hub
 - [squignix](https://github.com/tianon/squignix) - NGINX, configured to act like Squid
 - [docker-bash](https://github.com/tianon/docker-bash) - Many versions of Bash, Dockerized
@@ -617,6 +625,8 @@
 
 ## Go 
 
+- [cli](https://github.com/cli/cli) - the GitHub CLI
+- [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh)
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
@@ -1130,6 +1140,9 @@
 
 ## Jupyter Notebook 
 
+- [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
+- [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
+- [how-to-python-code](https://github.com/TheRenegadeCoder/how-to-python-code) - A collection of Jupyter Notebooks from the How to Python series
 - [notebook-templates](https://github.com/callysto/notebook-templates) - Templates, snippets and Callysto banners for Jupyter notebooks
 - [jupyter-notebook-initializer](https://github.com/gregtam/jupyter-notebook-initializer) - Default notebook template and auxiliary files to use for data science analysis.
 - [hddm](https://github.com/hddm-devs/hddm) - HDDM is a python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
@@ -1409,6 +1422,7 @@
 
 ## Others 
 
+- [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
 - [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -1664,6 +1678,7 @@
 
 ## PowerShell 
 
+- [windows-ps](https://github.com/boxcutter/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
@@ -1808,6 +1823,20 @@
 
 ## Python 
 
+- [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
+- [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
+- [badshell](https://github.com/mottosso/badshell) - 
+- [rez-recipes](https://github.com/nerdvegas/rez-recipes) - Package recipes for the Rez package management system
+- [bleeding-rez](https://github.com/mottosso/bleeding-rez) - Rez - Reproducible software environments for Windows, Linux and MacOS
+- [rez-for-projects](https://github.com/mottosso/rez-for-projects) - An example and exploration of how and whether to use Rez for project configuration management
+- [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze) - Scripts and modules for freezing Python scripts into executables. https://anthony-tuininga.github.io/cx_Freeze/
+- [rez](https://github.com/nerdvegas/rez) - An integrated package configuration, build and deployment system for software
+- [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
+- [hashdist](https://github.com/hashdist/hashdist) - The HashDist environment management system
+- [hashstack](https://github.com/hashdist/hashstack) - Collection of software profiles for HashDist
+- [python-imports](https://github.com/dzeban/python-imports) - Example for the "Hitchhiker's guide to the Python imports" blog post
+- [parso](https://github.com/davidhalter/parso) - A Python Parser
+- [sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 - [airports.py](https://github.com/trendct-data/airports.py) - airport codes python dictionary
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [bullet](https://github.com/Mckinsey666/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
@@ -2521,6 +2550,8 @@
 
 ## Shell 
 
+- [docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) - Official builds of debuerreotype-generated Debian tarballs for use in Docker
+- [termux-reset](https://github.com/saintmalik/termux-reset) - A shell script that makes resetting and formatting of termux easy...
 - [xcompose](https://github.com/Melvar/xcompose) - A set of compose files for catting together into a .XCompose
 - [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility
 - [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
@@ -2585,7 +2616,7 @@
 - [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) - ☑️ A simple and extensible shell script for managing your todo.txt file.
 - [wargames](https://github.com/abs0/wargames) - Shell script to simulate the W.O.P.R. computer from WarGames (wopr)
 - [synth-shell](https://github.com/andresgongora/synth-shell) - Boost your terminal, script by script
-- [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, tablet, smartTV and wearable https://termuxarch.github.io/TermuxArch/
+- [TermuxArch](https://github.com/TermuxArch/TermuxArch) - Experience the pleasure of the Linux command prompt in Android, Chromebook, Fire OS and Windows on smartphone, smartTV, tablet and wearable https://termuxarch.github.io/TermuxArch/
 - [termux-fedora](https://github.com/nmilosev/termux-fedora) - A script to install a Fedora chroot into Termux
 - [TermuxSlack](https://github.com/gwenhael-le-moine/TermuxSlack) - You can use setupTermuxSlack.sh 📲 to install Slackware Linux in Termux on Android and Chrome. This setup script will attempt to set Slackware Linux up in your Termux environment.
 - [TermuxAlpine](https://github.com/Hax4us/TermuxAlpine) - Use TermuxAlpine.sh calling to install Alpine Linux in Termux on Android. This setup script will attempt to set Alpine Linux up in your Termux environment.
@@ -2850,6 +2881,7 @@
 
 ## Vim script 
 
+- [.dot_files](https://github.com/ambv/.dot_files) - My distributed configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-fixkey](https://github.com/drmikehenry/vim-fixkey) - https://github.com/drmikehenry/
 - [vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
@@ -2871,6 +2903,7 @@
 
 ## Vue 
 
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - a regex cheatsheet for the haters
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 
