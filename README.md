@@ -80,6 +80,7 @@
 
 ## C 
 
+- [OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
 - [pyshim](https://github.com/mottosso/pyshim) - A better shim.exe file for Scoop.
 - [scoop-better-shimexe](https://github.com/71/scoop-better-shimexe) - A better shim.exe file for Scoop.
@@ -549,6 +550,10 @@
 
 ## Dockerfile 
 
+- [haskell-hie-devcontainer](https://github.com/hmemcpy/haskell-hie-devcontainer) - A DevContainer for VSCode, for installing GHC 8.6.5, HIE (Haskell IDE Engine) and the required plugins
+- [actions](https://github.com/philoserf/actions) - Github Actions a.k.a. container images
+- [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
+- [docker-skopeo](https://github.com/ananace/docker-skopeo) - Docker container with skopeo in it
 - [docker-alpine-bash](https://github.com/Docker-Hub-frolvlad/docker-alpine-bash) - Docker image with Bash and complete utils (busybox replacements) (15MB)
 - [docker-alpine-miniconda3](https://github.com/Docker-Hub-frolvlad/docker-alpine-miniconda3) - The smallest Docker image with Miniconda3 (Python 3.7) (~143MB)
 - [docker-alpine-python3](https://github.com/Docker-Hub-frolvlad/docker-alpine-python3) - The smallest Docker image with Python 3.7 (~57MB)
@@ -625,6 +630,10 @@
 
 ## Go 
 
+- [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
+- [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
+- [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
+- [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [cli](https://github.com/cli/cli) - the GitHub CLI
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh)
@@ -679,6 +688,7 @@
 
 ## Grammatical Framework 
 
+- [gf-wordnet](https://github.com/GrammaticalFramework/gf-wordnet) - A WordNet in GF
 - [gf-rgl](https://github.com/GrammaticalFramework/gf-rgl) - Grammatical Framework's Resource Grammar Library (RGL)
 - [gf-contrib](https://github.com/GrammaticalFramework/gf-contrib) - Community contributions to the Grammatical Framework
 
@@ -805,6 +815,9 @@
 
 ## Java 
 
+- [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
+- [GF-Java](https://github.com/Kaljurand/GF-Java) - Java front-end to a GF service, modeled after the GF Webservice.
+- [AceWiki](https://github.com/AceWiki/AceWiki) - AceWiki is a semantic wiki based on controlled natural language.
 - [aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) in the back-end. ACE View has been implemented as a plug-in for Protégé 4
 - [Busybox-Installer-No-Root](https://github.com/EXALAB/Busybox-Installer-No-Root) - 
 - [symja-parser](https://github.com/axkr/symja-parser) - Evaluate math expressions to double or apache commons-math Complex, Dfp of BigFraction numbers.
@@ -907,6 +920,7 @@
 
 ## JavaScript 
 
+- [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jupyter-skeleton](https://github.com/EniramLtd/jupyter-skeleton) - A Jupyter extension which causes newly created notebooks to be based on a skeleton instead of a blank notebook
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
 - [twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
@@ -1140,6 +1154,7 @@
 
 ## Jupyter Notebook 
 
+- [MonotoneSplitting](https://github.com/danmackinlay/MonotoneSplitting) - 
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
 - [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
 - [how-to-python-code](https://github.com/TheRenegadeCoder/how-to-python-code) - A collection of Jupyter Notebooks from the How to Python series
@@ -1422,6 +1437,7 @@
 
 ## Others 
 
+- [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
 - [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
 - [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
@@ -1477,7 +1493,7 @@
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
 - [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
-- [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source graphing libraries documentation.
+- [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
 - [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
@@ -1823,6 +1839,7 @@
 
 ## Python 
 
+- [python-fire](https://github.com/jtratner/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
 - [badshell](https://github.com/mottosso/badshell) - 
@@ -2550,6 +2567,11 @@
 
 ## Shell 
 
+- [baselayout](https://github.com/jessfraz/baselayout) - Basic Container Linux filesystem layout and configs
+- [coreos-overlay](https://github.com/jessfraz/coreos-overlay) - Custom ebuilds for Container Linux
+- [init](https://github.com/jessfraz/init) - init system units and configuration for Container Linux
+- [scripts](https://github.com/jessfraz/scripts) - Build and maintenance scripts for Container Linux
+- [java](https://github.com/microsoft/java) - Java Dockerfiles
 - [docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) - Official builds of debuerreotype-generated Debian tarballs for use in Docker
 - [termux-reset](https://github.com/saintmalik/termux-reset) - A shell script that makes resetting and formatting of termux easy...
 - [xcompose](https://github.com/Melvar/xcompose) - A set of compose files for catting together into a .XCompose
@@ -2563,7 +2585,7 @@
 - [fisher](https://github.com/jorgebucaran/fisher) - A package manager for the fish shell.
 - [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [SUDO_KILLER](https://github.com/TH3xACE/SUDO_KILLER) - A tool to identify and exploit sudo rules' misconfigurations and vulnerabilities within sudo
-- [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - 
+- [Anlinux-Resources](https://github.com/EXALAB/Anlinux-Resources) - Scripts, Rootfs and other content for AnLinux
 - [rpy2-docker](https://github.com/rpy2/rpy2-docker) - Running rpy2 in Docker containers
 - [distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
@@ -2699,7 +2721,6 @@
 - [scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [actions](https://github.com/unacast/actions) - Github Actions
 - [actions](https://github.com/lubusIN/actions) - 🧰 Collection of github actions for automation
-- [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
 - [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
@@ -2736,6 +2757,7 @@
 
 ## TeX 
 
+- [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
 - [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for using Dockerfiles for reproducible research
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
@@ -2775,6 +2797,7 @@
 
 ## TypeScript 
 
+- [gf-typescript](https://github.com/GrammaticalFramework/gf-typescript) - TypeScript runtime for Grammatical Framework
 - [vscode-set-text](https://github.com/SamVerschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method
 - [vscode-ahk-manager](https://github.com/Denis-net/vscode-ahk-manager) - VS Code Extension for interacting with ahk executables
 - [jupyterlab-nbmetadata](https://github.com/yuvipanda/jupyterlab-nbmetadata) - 
@@ -2848,6 +2871,7 @@
 - [Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
 - [glo-action-parse-links](https://github.com/Axosoft/glo-action-parse-links) - GitHub action to parse links to Glo Boards cards from a PR or commit description
 - [vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension
+- [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
