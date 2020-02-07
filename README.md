@@ -80,6 +80,8 @@
 
 ## C 
 
+- [tmux](https://github.com/tmux/tmux) - tmux source code
+- [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
 - [pyshim](https://github.com/mottosso/pyshim) - A better shim.exe file for Scoop.
@@ -502,6 +504,7 @@
 
 ## CSS 
 
+- [fairmatrix2019nanopub-talk](https://github.com/tkuhn/fairmatrix2019nanopub-talk) - 
 - [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
@@ -815,6 +818,7 @@
 
 ## Java 
 
+- [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
 - [GF-Java](https://github.com/Kaljurand/GF-Java) - Java front-end to a GF service, modeled after the GF Webservice.
 - [AceWiki](https://github.com/AceWiki/AceWiki) - AceWiki is a semantic wiki based on controlled natural language.
@@ -920,6 +924,7 @@
 
 ## JavaScript 
 
+- [calvin-and-hobbes-quotes](https://github.com/Siilwyn/calvin-and-hobbes-quotes) - :tiger: Get Calvin and Hobbes quotes
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jupyter-skeleton](https://github.com/EniramLtd/jupyter-skeleton) - A Jupyter extension which causes newly created notebooks to be based on a skeleton instead of a blank notebook
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
@@ -1154,6 +1159,12 @@
 
 ## Jupyter Notebook 
 
+- [jupyter-config](https://github.com/GokuMohandas/jupyter-config) - 🌍 Configuration files for Jupyter features.
+- [jupyterlab-config](https://github.com/bhuztez/jupyterlab-config) - example configuration files of JupyterLab
+- [Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis) - Data Science Using Python
+- [notebook-template-generator](https://github.com/jhurley13/notebook-template-generator) - Create Javascript used by Jupyter nbextensions to create new notebooks
+- [paper-template](https://github.com/pinga-lab/paper-template) - Template for a new paper repository with code, data, and a LaTeX manuscript. Use the Github "Import repository" to create a new paper.
+- [mini_hist](https://github.com/henryiii/mini_hist) - GSoC evaluation project
 - [MonotoneSplitting](https://github.com/danmackinlay/MonotoneSplitting) - 
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
 - [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
@@ -1437,6 +1448,7 @@
 
 ## Others 
 
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
 - [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
@@ -1512,7 +1524,7 @@
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒4900+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5000+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
@@ -1686,7 +1698,6 @@
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
-- [termux-stuff](https://github.com/xeffyr/termux-stuff) - Various Termux-related stuff.
 
 ## PostScript 
 
@@ -1833,12 +1844,20 @@
 
 ## Prolog 
 
+- [AceRules](https://github.com/tkuhn/AceRules) - A rule engine based on Attempto Controlled English
 - [Clex](https://github.com/Attempto/Clex) - Large lexicon for APE (~100,000 entries)
 - [APE](https://github.com/Attempto/APE) - Parser for Attempto Controlled English (ACE)
 - [stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 
 ## Python 
 
+- [jupyterlab-configuration](https://github.com/frankzickert/jupyterlab-configuration) - Containerized and Script-controlled JupyterLab Project Environment
+- [flask-by-example](https://github.com/realpython/flask-by-example) - flask, heroku, environment variables, sqlalchemy, flask-migrate, redis
+- [myutils](https://github.com/JiuShiNewBee/myutils) - Simple codes to be initialised during start-up. Better to put them in .ipython/profile_default/startup.
+- [jupyterhub4workshops](https://github.com/benoitmartin88/jupyterhub4workshops) - Dockerized Jupyterhub config for a simple workshop configuration
+- [jupyter](https://github.com/ljagged/jupyter) - config files for running jupyter notebooks
+- [jupyter_config_overview](https://github.com/Zsailer/jupyter_config_overview) - How to navigate Jupyter's configuration system
+- [StartupFiles](https://github.com/CamDavidsonPilon/StartupFiles) - My IPython startup files.
 - [python-fire](https://github.com/jtratner/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
@@ -2508,6 +2527,7 @@
 
 ## Ruby 
 
+- [dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
 - [asciidoctor-katex](https://github.com/jirutka/asciidoctor-katex) - Asciidoctor extension for converting latexmath using KaTeX at build time
 - [tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
@@ -2567,6 +2587,11 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
+- [dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
+- [my-dotfiles](https://github.com/Siilwyn/my-dotfiles) - Tasty selection of dotfiles, with all of git (& the readme) in the .my-dotfiles directory.
+- [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
+- [EditorConfig-Action](https://github.com/zbeekman/EditorConfig-Action) - 🔎A GitHub Action to check, enforce & fix EditorConfig style violations
 - [baselayout](https://github.com/jessfraz/baselayout) - Basic Container Linux filesystem layout and configs
 - [coreos-overlay](https://github.com/jessfraz/coreos-overlay) - Custom ebuilds for Container Linux
 - [init](https://github.com/jessfraz/init) - init system units and configuration for Container Linux
@@ -2905,6 +2930,8 @@
 
 ## Vim script 
 
+- [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
+- [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [.dot_files](https://github.com/ambv/.dot_files) - My distributed configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 - [vim-fixkey](https://github.com/drmikehenry/vim-fixkey) - https://github.com/drmikehenry/
@@ -2923,6 +2950,7 @@
 
 ## VimL 
 
+- [dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 - [dotfiles](https://github.com/ibab/dotfiles) - :wrench: My configuration files.
 
 ## Vue 
