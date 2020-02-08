@@ -163,6 +163,7 @@
 
 ## C# # 
 
+- [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [uppercut](https://github.com/chucknorris/uppercut) - UppercuT - Professional builds in moments, not days!
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
@@ -553,6 +554,7 @@
 
 ## Dockerfile 
 
+- [hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [haskell-hie-devcontainer](https://github.com/hmemcpy/haskell-hie-devcontainer) - A DevContainer for VSCode, for installing GHC 8.6.5, HIE (Haskell IDE Engine) and the required plugins
 - [actions](https://github.com/philoserf/actions) - Github Actions a.k.a. container images
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
@@ -727,7 +729,6 @@
 - [python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
 - [snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
-- [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
 - [cscar.github.io](https://github.com/CSCAR/cscar.github.io) - A website of CSCAR resources for ourselves and those we collaborate and consult with.
 - [projects](https://github.com/NikKrieger/projects) - projects
@@ -924,6 +925,13 @@
 
 ## JavaScript 
 
+- [Glomium](https://github.com/radi-cho/Glomium) - GitKraken Glo Chrome extension
+- [FlowConcierge](https://github.com/kojisaiki/FlowConcierge) - Browser extension for Microsoft Flow
+- [minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
+- [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
+- [github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
+- [create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
+- [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [calvin-and-hobbes-quotes](https://github.com/Siilwyn/calvin-and-hobbes-quotes) - :tiger: Get Calvin and Hobbes quotes
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jupyter-skeleton](https://github.com/EniramLtd/jupyter-skeleton) - A Jupyter extension which causes newly created notebooks to be based on a skeleton instead of a blank notebook
@@ -1039,7 +1047,6 @@
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
-- [asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
 - [vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [svg-crowbar](https://github.com/nytimes/svg-crowbar) - Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.
 - [svg-grabber](https://github.com/ngti/svg-grabber) - Open source chrome extension to quickly preview, download or copy inline or embedded SVG images from a website
@@ -1089,7 +1096,6 @@
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
-- [container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using https://github.com/actions/toolkit/
 - [chrome-rss](https://github.com/justinkelly/chrome-rss) - Chrome RSS Subscription Extension
 - [action-discord](https://github.com/Ilshidur/action-discord) - 🚀 GitHub Action that sends a Discord message.
 - [release-notify-action](https://github.com/bitoiu/release-notify-action) - GitHub Action that triggers e-mails with release notes when these are created
@@ -1448,6 +1454,7 @@
 
 ## Others 
 
+- [virtual-environments-packages](https://github.com/actions/virtual-environments-packages) - Code and scripts used to automate delivery of tool packages used in virtual-environments.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
 - [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
@@ -1648,6 +1655,7 @@
 - [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [pandoc-action](https://github.com/maxheld83/pandoc-action) - github action to run pandoc, soft-deprecated -&gt;
 - [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
+- [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
 - [math-snippets](https://github.com/thomanq/math-snippets) - Math snippets Visual Studio Code extension for LaTeX and Markdown
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
@@ -1705,6 +1713,7 @@
 
 ## PowerShell 
 
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows-ps](https://github.com/boxcutter/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
@@ -1851,6 +1860,7 @@
 
 ## Python 
 
+- [cocos](https://github.com/michaelnowotny/cocos) - Numeric and scientific computing on GPUs for Python with a NumPy-like API
 - [jupyterlab-configuration](https://github.com/frankzickert/jupyterlab-configuration) - Containerized and Script-controlled JupyterLab Project Environment
 - [flask-by-example](https://github.com/realpython/flask-by-example) - flask, heroku, environment variables, sqlalchemy, flask-migrate, redis
 - [myutils](https://github.com/JiuShiNewBee/myutils) - Simple codes to be initialised during start-up. Better to put them in .ipython/profile_default/startup.
@@ -2143,6 +2153,7 @@
 - [ggpy](https://github.com/yhat/ggpy) - ggplot port for python
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts
 - [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
+- [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [voc](https://github.com/beeware/voc) - A transpiler that converts Python code into Java bytecode
@@ -2587,6 +2598,7 @@
 
 ## Shell 
 
+- [assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action) - Automatically add an issue or pull request to specific GitHub Project when you create them.
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
 - [my-dotfiles](https://github.com/Siilwyn/my-dotfiles) - Tasty selection of dotfiles, with all of git (& the readme) in the .my-dotfiles directory.
@@ -2822,6 +2834,12 @@
 
 ## TypeScript 
 
+- [labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
+- [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
+- [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
+- [assign-author](https://github.com/technote-space/assign-author) - GitHub Action to assign author to issue or PR
+- [create-project-card-action](https://github.com/technote-space/create-project-card-action) - GitHub actions to create project card
+- [vscode-github-issues-prs](https://github.com/microsoft/vscode-github-issues-prs) - VSCode Extension for GitHub Issues and PRs
 - [gf-typescript](https://github.com/GrammaticalFramework/gf-typescript) - TypeScript runtime for Grammatical Framework
 - [vscode-set-text](https://github.com/SamVerschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method
 - [vscode-ahk-manager](https://github.com/Denis-net/vscode-ahk-manager) - VS Code Extension for interacting with ahk executables
