@@ -445,6 +445,8 @@
 
 ## C++ 
 
+- [spams-devel-fork](https://github.com/demonzyj56/spams-devel-fork) - My fork of the SPAMS library from https://gitlab.inria.fr/thoth/spams-devel.git
+- [Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [finite-state-machine](https://github.com/jmckennon/finite-state-machine) - Python state machine that generates compilable C++
 - [typed-earthquakes](https://github.com/typeguard/typed-earthquakes) - USGS Earthquake Data
@@ -635,6 +637,7 @@
 
 ## Go 
 
+- [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
@@ -819,6 +822,7 @@
 
 ## Java 
 
+- [jdotxt](https://github.com/chms/jdotxt) - another open source, cross-platform GUI for the todo.txt file format
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
 - [GF-Java](https://github.com/Kaljurand/GF-Java) - Java front-end to a GF service, modeled after the GF Webservice.
@@ -925,6 +929,11 @@
 
 ## JavaScript 
 
+- [trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
+- [dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
+- [nbextension-todo-highlight](https://github.com/tfors/nbextension-todo-highlight) - TODO comment highlighting extension for Jupyter notebook
+- [todotxtpp](https://github.com/trestletech/todotxtpp) - NodeJS Application with Dropbox Integration for Managing a Todo.txt File
+- [bulldog](https://github.com/infews/bulldog) - HTML5 task manager, built on todo.txt
 - [Glomium](https://github.com/radi-cho/Glomium) - GitKraken Glo Chrome extension
 - [FlowConcierge](https://github.com/kojisaiki/FlowConcierge) - Browser extension for Microsoft Flow
 - [minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
@@ -1165,6 +1174,8 @@
 
 ## Jupyter Notebook 
 
+- [showcases](https://github.com/8080labs/showcases) - A collection of Python scripts
+- [scipy-2019-rapids-tutorial](https://github.com/Quansight/scipy-2019-rapids-tutorial) - Materials for the SciPy 2019 RAPIDS tutorial
 - [jupyter-config](https://github.com/GokuMohandas/jupyter-config) - 🌍 Configuration files for Jupyter features.
 - [jupyterlab-config](https://github.com/bhuztez/jupyterlab-config) - example configuration files of JupyterLab
 - [Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis) - Data Science Using Python
@@ -1454,6 +1465,11 @@
 
 ## Others 
 
+- [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
+- [ama](https://github.com/holman/ama) - Ask @holman anything!
+- [dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
+- [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
+- [getting-started](https://github.com/kjsauer/getting-started) - Getting started guides
 - [virtual-environments-packages](https://github.com/actions/virtual-environments-packages) - Code and scripts used to automate delivery of tool packages used in virtual-environments.
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
@@ -1654,7 +1670,6 @@
 - [productivity-pack](https://github.com/geoffstevens8/productivity-pack) - Productivity extension pack for Visual Studio Code
 - [pandoc-action-example](https://github.com/pandoc/pandoc-action-example) - using the pandoc document converter on GitHub Actions
 - [pandoc-action](https://github.com/maxheld83/pandoc-action) - github action to run pandoc, soft-deprecated -&gt;
-- [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
 - [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
 - [math-snippets](https://github.com/thomanq/math-snippets) - Math snippets Visual Studio Code extension for LaTeX and Markdown
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
@@ -1860,6 +1875,15 @@
 
 ## Python 
 
+- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
+- [hashtag-goals](https://github.com/ginatrapani/hashtag-goals) - 🏆 A goal progress reporter for todo.txt + Google calendar users.
+- [todo.txt-python](https://github.com/tristil/todo.txt-python) - Yet another script for reading/writing todo.txt files
+- [Todo.txt-python](https://github.com/sigmavirus24/Todo.txt-python) - Python port of Gina Trapani's popular todo.txt-cli project
+- [todo.txt-graph](https://github.com/timpulver/todo.txt-graph) - A todo.txt plugin which visualizes the amount of done tasks per day
+- [todotxt-birdseye](https://github.com/karbassi/todotxt-birdseye) - TODO.TXT Bird's Eye View Reporter
+- [emilerl](https://github.com/emilerl/emilerl) - Site
+- [todotxt-study-suite](https://github.com/xzys/todotxt-study-suite) - a collection of scripts for todotxt
+- [pyflyby](https://github.com/pyflyby/pyflyby) - 
 - [cocos](https://github.com/michaelnowotny/cocos) - Numeric and scientific computing on GPUs for Python with a NumPy-like API
 - [jupyterlab-configuration](https://github.com/frankzickert/jupyterlab-configuration) - Containerized and Script-controlled JupyterLab Project Environment
 - [flask-by-example](https://github.com/realpython/flask-by-example) - flask, heroku, environment variables, sqlalchemy, flask-migrate, redis
@@ -2080,7 +2104,6 @@
 - [gitsuggest](https://github.com/csurfer/gitsuggest) - A tool to suggest github repositories based on the repositories you have shown interest in.
 - [pypette](https://github.com/csurfer/pypette) - Ridiculously simple flow controller for building complex pipelines
 - [pyheatmagic](https://github.com/csurfer/pyheatmagic) - IPython magic command to profile and view your python code as a heat map.
-- [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
 - [qgrid](https://github.com/quantopian/qgrid) - An interactive grid for sorting, filtering, and editing DataFrames in Jupyter notebooks
@@ -2432,6 +2455,7 @@
 
 ## R 
 
+- [stringb](https://github.com/hadley/stringb) - A dependency-free version of stringr
 - [altair](https://github.com/vegawidget/altair) - R interface to 'Altair'
 - [containerit](https://github.com/o2r-project/containerit) - Package an R workspace and all dependencies as a Docker container
 - [msm](https://github.com/chjackson/msm) - The msm R package for continuous-time multi-state modelling of panel data
@@ -2538,6 +2562,9 @@
 
 ## Ruby 
 
+- [3llo](https://github.com/qcam/3llo) - 3llo - Trello interactive CLI aplication
+- [boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
+- [pomodori-todo.txt](https://github.com/metalelf0/pomodori-todo.txt) - A pomodoro counter implementation for todo.txt.
 - [dotfiles](https://github.com/skwp/dotfiles) - YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen
 - [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
 - [asciidoctor-katex](https://github.com/jirutka/asciidoctor-katex) - Asciidoctor extension for converting latexmath using KaTeX at build time
@@ -2576,6 +2603,7 @@
 
 ## Rust 
 
+- [effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
 - [tokenizers](https://github.com/huggingface/tokenizers) - 💥Fast State-of-the-Art Tokenizers optimized for Research and Production
@@ -2598,6 +2626,15 @@
 
 ## Shell 
 
+- [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
+- [dotfiles](https://github.com/ginatrapani/dotfiles) - 🗂 my dotfiles
+- [todo.txt-addu](https://github.com/markcaudill/todo.txt-addu) - A todo.txt addon for adding tasks if they don't already exist
+- [todo-cli-plugins](https://github.com/markwu/todo-cli-plugins) - Plugins for Todo.txt CLI
+- [todo.txt-cli-again-addon](https://github.com/nthorne/todo.txt-cli-again-addon) - An addon for the todo.txt CLI that allows for easy creation of recurring tasks
+- [todo-cli-plugins](https://github.com/Thann/todo-cli-plugins) - Plugins for Todo.txt CLI
+- [xp](https://github.com/gr0undzer0/xp) - XP - A todo.txt module designed to print a redable guide of your acomplishments.
+- [next-todo.txt](https://github.com/samuelsnyder/next-todo.txt) - Identifies and labels next actions in in a tab indented todo.txt file
+- [outline-todo.txt](https://github.com/samuelsnyder/outline-todo.txt) - Extension for command line todo.text that allows you to manage and sync next actions from an outline to todo.txt
 - [assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action) - Automatically add an issue or pull request to specific GitHub Project when you create them.
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
@@ -2794,6 +2831,8 @@
 
 ## TeX 
 
+- [Writing-seminar](https://github.com/robjhyndman/Writing-seminar) - Academic writing for different audiences
+- [Researchplus](https://github.com/robjhyndman/Researchplus) - 
 - [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
 - [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for using Dockerfiles for reproducible research
@@ -2834,6 +2873,10 @@
 
 ## TypeScript 
 
+- [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
+- [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
+- [mindstream](https://github.com/xuhcc/mindstream) - Task management app, built on todo.txt.
+- [todoTxtWebUi](https://github.com/bicarbon8/todoTxtWebUi) - A web UI to use with a todo.txt file
 - [labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [setup-python](https://github.com/actions/setup-python) - Set up your GitHub Actions workflow with a specific version of python
 - [typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
@@ -2973,7 +3016,7 @@
 
 ## Vue 
 
-- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - a regex cheatsheet for the haters
+- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 
