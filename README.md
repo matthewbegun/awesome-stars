@@ -80,6 +80,7 @@
 
 ## C 
 
+- [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
 - [OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
@@ -445,6 +446,7 @@
 
 ## C++ 
 
+- [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [spams-devel-fork](https://github.com/demonzyj56/spams-devel-fork) - My fork of the SPAMS library from https://gitlab.inria.fr/thoth/spams-devel.git
 - [Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -637,6 +639,9 @@
 
 ## Go 
 
+- [jiq](https://github.com/fiatjaf/jiq) - jid on jq
+- [jid](https://github.com/simeji/jid) - json incremental digger
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
 - [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
@@ -929,6 +934,7 @@
 
 ## JavaScript 
 
+- [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
 - [trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
 - [nbextension-todo-highlight](https://github.com/tfors/nbextension-todo-highlight) - TODO comment highlighting extension for Jupyter notebook
@@ -1465,6 +1471,8 @@
 
 ## Others 
 
+- [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
+- [api-gateway-service-proxy](https://github.com/PokaInc/api-gateway-service-proxy) - Credentials-less service access using an IAM authenticated API Gateway as a proxy™
 - [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
 - [ama](https://github.com/holman/ama) - Ask @holman anything!
 - [dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
@@ -1875,6 +1883,22 @@
 
 ## Python 
 
+- [mir.qualia](https://github.com/darkfeline/mir.qualia) - Automatically comment and uncomment config file sections.
+- [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [dots](https://github.com/EvanPurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
+- [prodmodel](https://github.com/prodmodel/prodmodel) - Build, test, deploy, iterate - Dev and prod tool for data science pipelines
+- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [jmespath.py](https://github.com/jmespath/jmespath.py) - JMESPath is a query language for JSON.
+- [jp](https://github.com/jmespath/jp) - Command line interface to JMESPath - http://jmespath.org
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers. :tada:
+- [dotsecrets](https://github.com/oohlaf/dotsecrets) - DotSecrets is a tool to facilitate keeping your dotfiles in Git, including those with private information. The private information is filtered before committing to the repository. DotSecrets is able to symlink your dotfiles into your home directory.
+- [shhh](https://github.com/smallwat3r/shhh) - Flask app to encrypt secrets and share them securely using unique links with passphrases and expiration dates.
+- [vault](https://github.com/gabfl/vault) - Python password manager
+- [secret-keeper-python](https://github.com/ridi/secret-keeper-python) - Manage your application secrets safe & easy
+- [python_secrets](https://github.com/davedittrich/python_secrets) - Python CLI for managing secrets and eliminating default passwords in FOSS
+- [python-update-dotdee](https://github.com/xolox/python-update-dotdee) - Generic modularized configuration file manager
+- [cliff](https://github.com/openstack/cliff) - Command Line Interface Formulation Framework
+- [git-crecord](https://github.com/andrewshadura/git-crecord) - Git subcommand to interactively select changes to commit or stage
 - [isort](https://github.com/timothycrosley/isort) - A Python utility / library to sort imports.
 - [hashtag-goals](https://github.com/ginatrapani/hashtag-goals) - 🏆 A goal progress reporter for todo.txt + Google calendar users.
 - [todo.txt-python](https://github.com/tristil/todo.txt-python) - Yet another script for reading/writing todo.txt files
@@ -2562,6 +2586,7 @@
 
 ## Ruby 
 
+- [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [3llo](https://github.com/qcam/3llo) - 3llo - Trello interactive CLI aplication
 - [boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
 - [pomodori-todo.txt](https://github.com/metalelf0/pomodori-todo.txt) - A pomodoro counter implementation for todo.txt.
@@ -2626,6 +2651,13 @@
 
 ## Shell 
 
+- [dots-personal](https://github.com/EvanPurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
+- [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
+- [zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
+- [zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - Simple ZSH quickstart for using ZSH and zgen
+- [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
+- [dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: zsh, brew, vscode, python, node, elixir
+- [dotfiles](https://github.com/driesvints/dotfiles) - Get started with your own dotfiles
 - [spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [dotfiles](https://github.com/ginatrapani/dotfiles) - 🗂 my dotfiles
 - [todo.txt-addu](https://github.com/markcaudill/todo.txt-addu) - A todo.txt addon for adding tasks if they don't already exist
@@ -2873,6 +2905,7 @@
 
 ## TypeScript 
 
+- [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent commit secret/credential file.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [mindstream](https://github.com/xuhcc/mindstream) - Task management app, built on todo.txt.
