@@ -647,7 +647,7 @@
 - [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [cli](https://github.com/cli/cli) - the GitHub CLI
+- [cli](https://github.com/cli/cli) - The GitHub CLI
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh)
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
@@ -934,6 +934,7 @@
 
 ## JavaScript 
 
+- [server](https://github.com/backstrokeapp/server) - :swimmer: A Github bot to keep repository forks up to date with their upstream.
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
 - [trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [dear-github-2.0](https://github.com/drop-ice/dear-github-2.0) - 📨 An open letter to GitHub from the maintainers of open source projects
@@ -1180,6 +1181,14 @@
 
 ## Jupyter Notebook 
 
+- [jupyterdayATL_2018_template](https://github.com/patanijo/jupyterdayATL_2018_template) - CookieCutter template for Presentation at JupyterDay Atlanta 2018
+- [cookiecutter](https://github.com/emcleer/cookiecutter) - Sourced from PBP -- Chris Moffitt
+- [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
+- [CookieCutter](https://github.com/coolum001/CookieCutter) - Holds CookieCutter config for Jupyter Notebook Setup
+- [datasciencemvp](https://github.com/cliffclive/datasciencemvp) - Data Science template for quickly setting up a project workflow; lightweight version of cookiecutter datascience.
+- [cookiecutter-kaggle](https://github.com/uberwach/cookiecutter-kaggle) - A cookiecutter-based project template for starting kaggle projects with Python. Take a cookie, relax, and enjoy kaggling!
+- [pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
+- [pbp_cookiecutter](https://github.com/chris1610/pbp_cookiecutter) - Cookiecutter template for data analysis
 - [showcases](https://github.com/8080labs/showcases) - A collection of Python scripts
 - [scipy-2019-rapids-tutorial](https://github.com/Quansight/scipy-2019-rapids-tutorial) - Materials for the SciPy 2019 RAPIDS tutorial
 - [jupyter-config](https://github.com/GokuMohandas/jupyter-config) - 🌍 Configuration files for Jupyter features.
@@ -1403,6 +1412,7 @@
 
 ## Kotlin 
 
+- [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [thepill](https://github.com/manojlds/thepill) - Decision Trees with Neo4J
 - [OneList](https://github.com/lolo-io/OneList) - 
 - [batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool
@@ -1883,6 +1893,8 @@
 
 ## Python 
 
+- [code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
+- [pyxdg](https://github.com/takluyver/pyxdg) - PyXDG provides Python implementations of various freedesktop.org specifications. This is the Giithub mirror.
 - [mir.qualia](https://github.com/darkfeline/mir.qualia) - Automatically comment and uncomment config file sections.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [dots](https://github.com/EvanPurkhiser/dots) - A portable tool for managing a single set of dotfiles in an organized fashion
@@ -2651,6 +2663,9 @@
 
 ## Shell 
 
+- [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
+- [bin](https://github.com/grawity/bin) - ~/bin – tools only useful locally (and therefore not part of ~/code)
+- [dotfiles](https://github.com/pawelgrzybek/dotfiles) - 
 - [dots-personal](https://github.com/EvanPurkhiser/dots-personal) - My personal dotfiles. Uses the dots utility to manage installation and organization.
 - [dotdrop](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
 - [zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
@@ -3024,6 +3039,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/grawity/dotfiles) - 
 - [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [.dot_files](https://github.com/ambv/.dot_files) - My distributed configuration
