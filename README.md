@@ -5,7 +5,6 @@
 
 ## Contents
 
-  - [ANTLR](#antlr)
   - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
@@ -14,6 +13,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Cuda](#cuda)
+  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -62,13 +62,8 @@
   - [Web Ontology Language](#web-ontology-language)
   - [ZIL](#zil)
 
-## ANTLR 
-
-- [grammars-v4](https://github.com/antlr/grammars-v4) - Grammars written for ANTLR v4; expectation that the grammars are free of actions.
-
 ## AutoHotkey 
 
-- [AutoHotkey_L-Docs](https://github.com/Lexikos/AutoHotkey_L-Docs) - Documentation for AutoHotkey
 - [putty-quake-terminal](https://github.com/oueta/putty-quake-terminal) - Guake style terminal with Putty in Windows
 
 ## Batchfile 
@@ -80,44 +75,33 @@
 
 ## C 
 
+- [terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
+- [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [tmux](https://github.com/tmux/tmux) - tmux source code
-- [lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
-- [OpenDoas](https://github.com/Duncaen/OpenDoas) - A portable fork of the OpenBSD `doas` command
 - [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
 - [pyshim](https://github.com/mottosso/pyshim) - A better shim.exe file for Scoop.
 - [scoop-better-shimexe](https://github.com/71/scoop-better-shimexe) - A better shim.exe file for Scoop.
 - [numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
-- [gf-core](https://github.com/GrammaticalFramework/gf-core) - Grammatical Framework core: compiler, shell & runtimes
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [xcompose-mappings](https://github.com/mungerd/xcompose-mappings) - XCompose mappings for unicode input
 - [su-exec](https://github.com/ncopa/su-exec) - switch user and group id and exec
-- [njs](https://github.com/nginx/njs) - An official read-only mirror of http://hg.nginx.org/njs/ which is updated hourly.
-- [unit](https://github.com/nginx/unit) - An official read-only mirror of http://hg.nginx.org/unit/
-- [nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html
 - [bash](https://github.com/tianon/bash) - Mirror of https://git.savannah.gnu.org/cgit/bash.git
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [openbox](https://github.com/danakj/openbox) - Openbox Window Manager (OpenboxWM)
-- [jwm](https://github.com/joewing/jwm) - Joe's Window Manager
-- [gentoo-wsl](https://github.com/hungshihhan/gentoo-wsl) - 
 - [PackageKit](https://github.com/hughsie/PackageKit) - A D-BUS abstraction layer that allows the user to manage packages in a secure way using a cross-distro, cross-architecture API.
 - [WSL](https://github.com/MicrosoftDocs/WSL) - Source code behind the Windows Subsystem for Linux documentation.
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
-- [nnn](https://github.com/jarun/nnn) - :dolphin: The missing terminal file manager for X.
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
 - [libdivecomputer-for-linus](https://github.com/dirkhh/libdivecomputer-for-linus) - 
-- [libvncserver](https://github.com/LibVNC/libvncserver) - LibVNCServer/LibVNCClient are cross-platform C libraries that allow you to easily implement VNC server or client functionality in your program.
 - [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [mksh](https://github.com/MirBSD/mksh) - MirBSD Korn Shell Source Code Mirror – This is a publish-only repository and all pull requests are ignored. This repository is a mirror and may receive forced (non-fast-forward) updates. Please contribute to the CVS repository of The MirOS Project instead.
-- [scidown](https://github.com/Mandarancio/scidown) - SciDown processing library in C
 - [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL installer / launcher.  (Win10 FCU 64bit or later.)
@@ -130,31 +114,20 @@
 - [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
 - [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
-- [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [timereg](https://github.com/scheike/timereg) - timereg R package, survival analysis methods
 - [haven](https://github.com/tidyverse/haven) - Read SPSS, Stata and SAS files from R
 - [subversion](https://github.com/apache/subversion) - Mirror of Apache Subversion
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [toybox](https://github.com/landley/toybox) - toybox
-- [node-libpst](https://github.com/rhasson/node-libpst) - Parse MS Outlook PST/OST files from node
 - [openssh-portable](https://github.com/PowerShell/openssh-portable) - Portable OpenSSH, all Win32-OpenSSH releases and wiki are managed at https://github.com/powershell/Win32-OpenSSH
-- [libpff](https://github.com/libyal/libpff) - Library and tools to access the Personal Folder File (PFF) and the Offline Folder File (OFF) format
 - [proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [c_koans](https://github.com/c-koans/c_koans) - C Koans
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [heat_equation](https://github.com/iwhoppock/heat_equation) - A solution, written in C, to the heat equation using Crank-Nicholson and finite differences.
-- [2d_diffusion_equation](https://github.com/abhiy91/2d_diffusion_equation) - Solving the 2D diffusion equation using the FTCS explicit and Crank-Nicolson implicit scheme with Alternate Direction Implicit method on uniform square grid
 - [hiperc](https://github.com/usnistgov/hiperc) - High Performance Computing Strategies for Boundary Value Problems
 - [Rosetta_Project](https://github.com/EricAlcaide/Rosetta_Project) - Algorithms implemented in Python, JS and Go. Feel free to add another language!
 - [C](https://github.com/TheAlgorithms/C) - All Algorithms implemented in C
 - [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
-- [com.unity.webrtc](https://github.com/Unity-Technologies/com.unity.webrtc) - WebRTC package for Unity
-- [cmark-gfm](https://github.com/github/cmark-gfm) - GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
-- [commonmarker](https://github.com/gjtorikian/commonmarker) - Ruby wrapper for libcmark (CommonMark parser)
-- [wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
-- [LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
-- [MultiMarkdown-6](https://github.com/fletcher/MultiMarkdown-6) - Lightweight markup processor to produce HTML, LaTeX, and more.
 - [git](https://github.com/git-for-windows/git) - A fork of Git containing Windows-specific patches.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
@@ -164,18 +137,12 @@
 
 ## C# # 
 
+- [interactive](https://github.com/mwouts/interactive) - 
 - [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [uppercut](https://github.com/chucknorris/uppercut) - UppercuT - Professional builds in moments, not days!
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
-- [ClassExplorer](https://github.com/SeeminglyScience/ClassExplorer) - ClassExplorer is a PowerShell module that enables quickly searching the AppDomain for classes and members.
-- [ImpliedReflection](https://github.com/SeeminglyScience/ImpliedReflection) - Explore private properties and methods as if they were public.
-- [PSLambda](https://github.com/SeeminglyScience/PSLambda) - A runtime compiler for PowerShell ScriptBlock objects.
-- [PSSyntaxRewriter](https://github.com/SeeminglyScience/PSSyntaxRewriter) - PowerShell abstract syntax tree rewriter library
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
-- [Humanizer](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-- [DbgShell](https://github.com/microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
 - [PSUnixUtilCompleters](https://github.com/rjmholt/PSUnixUtilCompleters) - PowerShell native command completers for core utils on *nix
@@ -183,122 +150,35 @@
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set UEFI's BootNext option.
-- [mobileapp](https://github.com/toggl/mobileapp) - Toggl's mobile apps
-- [sharpkeys](https://github.com/randyrants/sharpkeys) - SharpKeys is a utility that manages a Registry key that allows Windows to remap one key to any other key.
 - [PTVS](https://github.com/microsoft/PTVS) - Python Tools for Visual Studio
-- [plantuml-office](https://github.com/Roemer/plantuml-office) - Office Icons for PlantUML
 - [PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
-- [mpv.net](https://github.com/stax76/mpv.net) - 🎞 mpv.net is a modern media player for Windows that works just like mpv.
 - [ExpressionEvaluator](https://github.com/codingseb/ExpressionEvaluator) - A Simple Math and Pseudo C# Expression Evaluator in One C# File. Can also execute small C# like scripts
-- [karma](https://github.com/cgarciae/karma) - An MVC framework for Unity3D
-- [Projeny](https://github.com/modesttree/Projeny) - A project and package manager for Unity
-- [UnityDarkThemePatch](https://github.com/ejlv/UnityDarkThemePatch) - Patch that switches Unity theme from light to dark
-- [Ocean_Community_Next_Gen](https://github.com/eliasts/Ocean_Community_Next_Gen) - Next gen iteration of the unity community ocean shader
-- [PST](https://github.com/tghanem/PST) - .NET library that supports processing Microsoft PST files written entirely in C#
-- [EWU-OIT-SSN-Scanner](https://github.com/mtotheikle/EWU-OIT-SSN-Scanner) - 
-- [pstextractor](https://github.com/macghriogair/pstextractor) - A simple C# console app that extracts failed recipient email addresses from Outlook .pst files
-- [PSTFileFormat](https://github.com/ROM-Knowledgeware/PSTFileFormat) - Read and write to Outlook Personal Folders (.pst) file
-- [XstReader](https://github.com/Dijji/XstReader) - Xst Reader is an open source viewer for Microsoft Outlook’s .ost and .pst files, written entirely in C#.   To download an executable of the current version, go to the releases tab.
 - [platyPS](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown
 - [SHiPS](https://github.com/PowerShell/SHiPS) - Simple Hierarchy in PowerShell - developing PowerShell provider got so much easier
 - [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows
-- [ReadMsgFile](https://github.com/datenteiler/ReadMsgFile) - Read Outlook MSG files with this PowerShell cmdlet without the need for Outlook
 - [SS.PowerShell](https://github.com/SimplerSoftware/SS.PowerShell) - Useful PowerShell cmdlets.
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
-- [ChocolateyGUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey
-- [todotxt.net](https://github.com/benrhughes/todotxt.net) - An implementation of todo.txt for Windows using the .NET framework
-- [gpu-particles](https://github.com/Robert-K/gpu-particles) - A GPU Particle System for Unity
 - [DotNetKoans](https://github.com/CoryFoy/DotNetKoans) - A set of Koans to teach the DotNet language. Based off of EdgeCase's RubyKoans
 - [DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
 - [PSWordCloud](https://github.com/vexx32/PSWordCloud) - Create pretty word clouds with PowerShell!
-- [EasingFunction-Unity](https://github.com/gamereat/EasingFunction-Unity) - Implementation of Easing Functions within unity in c#
-- [Dithering](https://github.com/cyotek/Dithering) - Image dithering techniques using C#
-- [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
-- [Particle_Simulation](https://github.com/ilyakom/Particle_Simulation) - Stochastic particle method for the nonlinear diffusion equation.
 - [ReactionDiffusionAlgorithm_Unity](https://github.com/andr3wdown/ReactionDiffusionAlgorithm_Unity) - Reaction diffusion algorithm example I translated from a p5.js javaScript tutorial by the YouTube channel coding train to C# in Unity3d
-- [unity-reaction-diffusion](https://github.com/andydbc/unity-reaction-diffusion) - (WIP) :pencil2: Test of a Reaction-Diffusion simulated with a compute shader in Unity.
-- [RDSystem](https://github.com/keijiro/RDSystem) - Reaction-diffusion system with CustomRenderTexture.
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 - [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-- [resharper-ultimate-whatsnew](https://github.com/JetBrains/resharper-ultimate-whatsnew) - Code samples to illustrate changes in new ReSharper Ultimate releases
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [RuntimeContracts](https://github.com/SergeyTeplyakov/RuntimeContracts) - Library-based implementation of Code Contracts-like API
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
-- [ILMerge](https://github.com/dotnet/ILMerge) - ILMerge is a static linker for .NET Assemblies.
-- [Should](https://github.com/erichexter/Should) - Should Assertion Library
-- [NUnit.Should](https://github.com/beccasaurus/NUnit.Should) - BDD style assertions for NUnit
-- [shouldly](https://github.com/shouldly/shouldly) - Should testing for .NET - the way Asserting *Should* be!
-- [Calculator](https://github.com/erikdietrich/Calculator) - Code for following along with the Easy Introduction to Unit Testing whitepaper.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
-- [SharpLab](https://github.com/ashmind/SharpLab) - SharpLab (previously known as TryRoslyn)
-- [bugsnag-unity](https://github.com/bugsnag/bugsnag-unity) - Automatic error reporting for Unity games
-- [CandyCoded](https://github.com/CandyCoded/CandyCoded) - 🍭 Custom Unity Components that are delightful
-- [Learning-Unity-ECS](https://github.com/starikcetin/Learning-Unity-ECS) - A bunch of small Unity projects where I explore and learn Unity's new ECS and Job System.
-- [NSubstitute.Elevated](https://github.com/Unity-Technologies/NSubstitute.Elevated) - Extension to NSubstitute that provides mocking of concrete methods and statics
-- [LibgenServer](https://github.com/libgenapps/LibgenServer) - 
-- [LibgenDesktop](https://github.com/libgenapps/LibgenDesktop) - 
-- [NExpect](https://github.com/fluffynuts/NExpect) - An assertions framework for .NET with a BDD-like feel, inspired by Chai and Jasmine, designed to be user-extensible
-- [AzureSamples-Unity](https://github.com/BrianPeek/AzureSamples-Unity) - Samples for Azure Services with Unity
-- [nunit-csharp-samples](https://github.com/nunit/nunit-csharp-samples) - Samples of NUnit Usage in C#
-- [NuGetForUnity](https://github.com/GlitchEnzo/NuGetForUnity) - A NuGet Package Manager for Unity
-- [TddPlatformer](https://github.com/Pyroka/TddPlatformer) - 
-- [FluentAssertions.Unity](https://github.com/Pyroka/FluentAssertions.Unity) - 
-- [mv-c_example](https://github.com/jacksondunstan/mv-c_example) - MV-C Example
-- [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-- [ggo16-byter](https://github.com/KyleBanks/ggo16-byter) - Byter, Open Source Clicker Game
-- [nunitv3](https://github.com/Unity-Technologies/nunitv3) - NUnit 3.0 Framework
-- [unity-terrain-example](https://github.com/tangrams/unity-terrain-example) - A single tile from the Mapzen Terrain Tile Service in Unity3D
-- [giles](https://github.com/Unity-Technologies/giles) - GILES: A Runtime Level Editor for Unity3D
-- [UniversalRenderingExamples](https://github.com/Unity-Technologies/UniversalRenderingExamples) - This project contains a collection of Custom Renderer examples. This will be updated as we refine the feature and add more options.
 - [EndlessRunnerSampleGame](https://github.com/Unity-Technologies/EndlessRunnerSampleGame) - Repository for the Endless Runner Game Sample (Trash Dash)
 - [gametune-example-game](https://github.com/Unity-Technologies/gametune-example-game) - Contains an example game with GameTune integrated
-- [GettingStartedWithBurst-Unite2019](https://github.com/Unity-Technologies/GettingStartedWithBurst-Unite2019) - Companion to the "Getting Started With Burst" talk from Unite 2019
-- [DOTS-Shmup3D-sample](https://github.com/Unity-Technologies/DOTS-Shmup3D-sample) - A demo with Unity DOTS and Unity Physics.
 - [unite2019-scenedatatodots](https://github.com/Unity-Technologies/unite2019-scenedatatodots) - Unite 2019 - Converting Scene Data to DOTS (samples)
-- [ArcadeSpaceFlightExample](https://github.com/brihernandez/ArcadeSpaceFlightExample) - Simple example of arcade style space sim flight physics.
-- [BurstBenchmarks](https://github.com/nxrighthere/BurstBenchmarks) - Benchmarking Burst/IL2CPP against GCC/Clang machine code
-- [FreelancerFlightExample](https://github.com/brihernandez/FreelancerFlightExample) - Spaceship flight in a similar style to Freelancer
-- [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - An implementation of StyleCop rules using the .NET Compiler Platform
-- [StyleCop.ReSharper](https://github.com/StyleCop/StyleCop.ReSharper) - Official ReSharper extension for StyleCop
-- [StyleCop](https://github.com/StyleCop/StyleCop) - Analyzes C# source code to enforce a set of style and consistency rules.
-- [Sharpen](https://github.com/sharpenrocks/Sharpen) - Visual Studio extension that intelligently introduces new C# features into your existing code base
-- [sonar-dotnet](https://github.com/SonarSource/sonar-dotnet) - Code analyzer for C# and VB.NET projects https://redirect.sonarsource.com/plugins/vbnet.html
-- [UnitTestsTutorial](https://github.com/xjjon/UnitTestsTutorial) - Code samples for Unit Testing for Unity tutorial.
-- [ScriptableRenderPipeline](https://github.com/Unity-Technologies/ScriptableRenderPipeline) - Scriptable Render Pipeline
-- [GildRoseCore](https://github.com/dennisdoomen/GildRoseCore) - 
-- [EffectiveTddDemo](https://github.com/dennisdoomen/EffectiveTddDemo) - Examples of how to refactor unit tests
-- [fluentassertions](https://github.com/dennisdoomen/fluentassertions) - Fluent Assertions is a set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test. We currently use it in all our internal and client projects, and it is used in many open-source projects. It runs on .NET 4.0, 4.5, 4.6, CoreClr, .NET Native, Windows 8.1, Silverlight 5, Windows Phone 8.0 and UWP. It supports the unit test frameworks MSTest, MSTest2, NUnit, XUnit, MBUnit, Gallio, NSpec and MSpec.
-- [mono](https://github.com/Unity-Technologies/mono) - Mono open source ECMA CLI, C# and .NET implementation.
-- [mono](https://github.com/mono/mono) - Mono open source ECMA CLI, C# and .NET implementation.
 - [Graphics-Test-Framework-Examples](https://github.com/Unity-Technologies/Graphics-Test-Framework-Examples) - Example project for https://github.com/Unity-Technologies/Graphics-Test-Framework
 - [com.unity.testframework.graphics](https://github.com/Unity-Technologies/com.unity.testframework.graphics) - 
 - [fluentassertions](https://github.com/fluentassertions/fluentassertions) - Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
-- [UnityOptions](https://github.com/Unity-Technologies/UnityOptions) - 
-- [GitPad](https://github.com/github/GitPad) - Notepad.exe as Git commit editor
-- [XRAutomatedTests](https://github.com/Unity-Technologies/XRAutomatedTests) - XRAutomatedTests is where you can find functional, graphics, performance, and other types of automated tests for your XR Unity development.
-- [HierachySection](https://github.com/CSaratakij/HierachySection) - Unity custom menu item to create section in Hierachy (empty Game Object with a name "--- Section ---")
-- [netcoredbg](https://github.com/Samsung/netcoredbg) - NetCoreDbg is a managed code debugger with MI interface for CoreCLR.
-- [xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
-- [nunit](https://github.com/nunit/nunit) - NUnit 3 Framework
-- [Imagine_bee-control](https://github.com/microsoft/Imagine_bee-control) - Get the assets and code here, and then follow our Bee Control tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com
-- [Imagine_street-racing](https://github.com/microsoft/Imagine_street-racing) - Get the assets and code here, and then follow our Street Racing tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com
-- [Imagine_binary-break-in](https://github.com/microsoft/Imagine_binary-break-in) - Get the assets and code here, and then follow our Binary Break-In tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
-- [Imagine_planetary-pool](https://github.com/microsoft/Imagine_planetary-pool) - Get the assets and code here, and then follow our Planetary Pool tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
-- [Imagine_rocket-launch-sim](https://github.com/microsoft/Imagine_rocket-launch-sim) - Get the assets and code here, and then follow our Rocket Launch Sim tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas. http://imagine.microsoft.com
-- [Imagine_block-knock](https://github.com/microsoft/Imagine_block-knock) - Get the assets and code here, and then follow our Block Knock tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
-- [Imagine_stealthbot](https://github.com/microsoft/Imagine_stealthbot) - Get the assets and code here, and then follow our Stealthbot tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
-- [Imagine_diamond-miner](https://github.com/microsoft/Imagine_diamond-miner) - Get the assets and code here, and then follow our Diamond Miner tutorial to learn more about how to work with Unity, C#, and Visual Studio to complete this game! Microsoft Imagine connects you with the tools and knowledge you need to create, code, and develop your ideas.
-- [Unity-Xaml-Sample](https://github.com/microsoft/Unity-Xaml-Sample) - Unity sample project showing a XAML webview and interaction with a Unity application.
-- [unity-scripting-upgrade](https://github.com/microsoft/unity-scripting-upgrade) - Samples demonstrating what's possible with Unity 2017.x (and newer) scripting runtime upgrades
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [abrigo-pinos](https://github.com/luisparravicini/abrigo-pinos) - Demo of procedural caves generation (in Unity) using a cellular automata
-- [animation-jobs-samples](https://github.com/Unity-Technologies/animation-jobs-samples) - Code samples using the animation C# jobs feature.
-- [Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
-- [wavefunctioncollapse](https://github.com/marian42/wavefunctioncollapse) - Walk through an infinite, procedurally generated city
 - [rant](https://github.com/TheBerkin/rant) - Rant – The all-purpose procedural text library
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
@@ -446,6 +326,10 @@
 
 ## C++ 
 
+- [yakuake](https://github.com/KDE/yakuake) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
+- [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
+- [Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset) - The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .
+- [habitat-sim](https://github.com/facebookresearch/habitat-sim) - A flexible, high-performance 3D simulator for Embodied AI research.
 - [watchman](https://github.com/facebook/watchman) - Watches files and records, or triggers actions, when they change.
 - [spams-devel-fork](https://github.com/demonzyj56/spams-devel-fork) - My fork of the SPAMS library from https://gitlab.inria.fr/thoth/spams-devel.git
 - [Todour](https://github.com/SverrirValgeirsson/Todour) - The todo.txt application Todour
@@ -509,6 +393,7 @@
 
 ## CSS 
 
+- [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [fairmatrix2019nanopub-talk](https://github.com/tkuhn/fairmatrix2019nanopub-talk) - 
 - [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
@@ -551,6 +436,10 @@
 ## Cuda 
 
 - [cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
+
+## D 
+
+- [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
 
 ## Dart 
 
@@ -639,7 +528,6 @@
 
 ## Go 
 
-- [jiq](https://github.com/fiatjaf/jiq) - jid on jq
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
@@ -712,6 +600,7 @@
 
 ## HTML 
 
+- [mdtest](https://github.com/michelf/mdtest) - Test suite for Markdown implementations
 - [Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
@@ -827,7 +716,6 @@
 
 ## Java 
 
-- [jdotxt](https://github.com/chms/jdotxt) - another open source, cross-platform GUI for the todo.txt file format
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
 - [GF-Java](https://github.com/Kaljurand/GF-Java) - Java front-end to a GF service, modeled after the GF Webservice.
@@ -934,6 +822,7 @@
 
 ## JavaScript 
 
+- [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [server](https://github.com/backstrokeapp/server) - :swimmer: A Github bot to keep repository forks up to date with their upstream.
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
 - [trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
@@ -1481,9 +1370,11 @@
 
 ## Others 
 
+- [tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [api-gateway-service-proxy](https://github.com/PokaInc/api-gateway-service-proxy) - Credentials-less service access using an IAM authenticated API Gateway as a proxy™
-- [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
+- [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - :page_facing_up: List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
 - [ama](https://github.com/holman/ama) - Ask @holman anything!
 - [dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
@@ -1893,6 +1784,11 @@
 
 ## Python 
 
+- [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
+- [intake](https://github.com/intake/intake) - Intake is a lightweight package for finding, investigating, loading and disseminating data.
 - [code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
 - [pyxdg](https://github.com/takluyver/pyxdg) - PyXDG provides Python implementations of various freedesktop.org specifications. This is the Giithub mirror.
 - [mir.qualia](https://github.com/darkfeline/mir.qualia) - Automatically comment and uncomment config file sections.
@@ -2651,7 +2547,7 @@
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
-- [starship](https://github.com/starship/starship) - ☄🌌️ The cross-shell prompt for astronauts
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell.
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 
@@ -2663,6 +2559,9 @@
 
 ## Shell 
 
+- [agnoster-bash](https://github.com/speedenator/agnoster-bash) - Agnoster Theme for Bash
+- [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [bin](https://github.com/grawity/bin) - ~/bin – tools only useful locally (and therefore not part of ~/code)
 - [dotfiles](https://github.com/pawelgrzybek/dotfiles) - 
@@ -2686,7 +2585,6 @@
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
 - [dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
 - [my-dotfiles](https://github.com/Siilwyn/my-dotfiles) - Tasty selection of dotfiles, with all of git (& the readme) in the .my-dotfiles directory.
-- [bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [EditorConfig-Action](https://github.com/zbeekman/EditorConfig-Action) - 🔎A GitHub Action to check, enforce & fix EditorConfig style violations
 - [baselayout](https://github.com/jessfraz/baselayout) - Basic Container Linux filesystem layout and configs
 - [coreos-overlay](https://github.com/jessfraz/coreos-overlay) - Custom ebuilds for Container Linux
@@ -2920,6 +2818,8 @@
 
 ## TypeScript 
 
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
+- [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent commit secret/credential file.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
