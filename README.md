@@ -75,7 +75,8 @@
 
 ## C 
 
-- [terminology](https://github.com/billiob/terminology) - The best terminal emulator based on the Enlightenment Foundation Libraries
+- [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
+- [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
 - [tmux](https://github.com/tmux/tmux) - tmux source code
@@ -115,7 +116,6 @@
 - [jep](https://github.com/ninia/jep) - Embed Python in Java
 - [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [timereg](https://github.com/scheike/timereg) - timereg R package, survival analysis methods
-- [haven](https://github.com/tidyverse/haven) - Read SPSS, Stata and SAS files from R
 - [subversion](https://github.com/apache/subversion) - Mirror of Apache Subversion
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
@@ -132,20 +132,18 @@
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 - [libyaml](https://github.com/yaml/libyaml) - Canonical source repository for LibYAML
-- [ast](https://github.com/att/ast) - AST - AT&T Software Technology
 - [redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 ## C# # 
 
+- [interactive](https://github.com/dotnet/interactive) - 
+- [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [interactive](https://github.com/mwouts/interactive) - 
-- [runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [wincompose](https://github.com/samhocevar/wincompose) - 🔣 Compose Key for Windows
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
-- [PowerShellEditorServices](https://github.com/PowerShell/PowerShellEditorServices) - A common platform for PowerShell development support in any editor or application!
-- [PSUnixUtilCompleters](https://github.com/rjmholt/PSUnixUtilCompleters) - PowerShell native command completers for core utils on *nix
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -157,46 +155,21 @@
 - [SHiPS](https://github.com/PowerShell/SHiPS) - Simple Hierarchy in PowerShell - developing PowerShell provider got so much easier
 - [PSScriptAnalyzer](https://github.com/PowerShell/PSScriptAnalyzer) - Download ScriptAnalyzer from PowerShellGallery
 - [oneget](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows
-- [SS.PowerShell](https://github.com/SimplerSoftware/SS.PowerShell) - Useful PowerShell cmdlets.
 - [Pscx](https://github.com/Pscx/Pscx) - PowerShell Community Extensions module repository
 - [DotNetKoans](https://github.com/CoryFoy/DotNetKoans) - A set of Koans to teach the DotNet language. Based off of EdgeCase's RubyKoans
 - [DotNetCoreKoans](https://github.com/NotMyself/DotNetCoreKoans) - A set of Koans to teach the C# language on .NET Core.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
 - [PSWordCloud](https://github.com/vexx32/PSWordCloud) - Create pretty word clouds with PowerShell!
-- [ReactionDiffusionAlgorithm_Unity](https://github.com/andr3wdown/ReactionDiffusionAlgorithm_Unity) - Reaction diffusion algorithm example I translated from a p5.js javaScript tutorial by the YouTube channel coding train to C# in Unity3d
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
 - [C-Sharp](https://github.com/TheAlgorithms/C-Sharp) - All algorithms implemented in C#.
 - [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-- [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
-- [RuntimeContracts](https://github.com/SergeyTeplyakov/RuntimeContracts) - Library-based implementation of Code Contracts-like API
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
-- [EndlessRunnerSampleGame](https://github.com/Unity-Technologies/EndlessRunnerSampleGame) - Repository for the Endless Runner Game Sample (Trash Dash)
-- [gametune-example-game](https://github.com/Unity-Technologies/gametune-example-game) - Contains an example game with GameTune integrated
-- [unite2019-scenedatatodots](https://github.com/Unity-Technologies/unite2019-scenedatatodots) - Unite 2019 - Converting Scene Data to DOTS (samples)
-- [Graphics-Test-Framework-Examples](https://github.com/Unity-Technologies/Graphics-Test-Framework-Examples) - Example project for https://github.com/Unity-Technologies/Graphics-Test-Framework
-- [com.unity.testframework.graphics](https://github.com/Unity-Technologies/com.unity.testframework.graphics) - 
-- [fluentassertions](https://github.com/fluentassertions/fluentassertions) - Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [rant](https://github.com/TheBerkin/rant) - Rant – The all-purpose procedural text library
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- [Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
-- [Marching-Cubes](https://github.com/Scrawk/Marching-Cubes) - Marching cubes in Unity
-- [Unity3D-JobsSystemAndBurstSamples](https://github.com/korzen/Unity3D-JobsSystemAndBurstSamples) - Examples of using the Job System in Unity 2018
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
-- [timeline](https://github.com/huailiang/timeline) - timeline of unity2019
-- [osc_swift_unity](https://github.com/GeorgeFedoseev/osc_swift_unity) - OSC signals from Swift iOS app to Unity for controlling 3d model
-- [cc-signals](https://github.com/texone/cc-signals) - Unity package to generate noise and other signals procedurally
-- [com.nebukam.signals](https://github.com/Nebukam/com.nebukam.signals) - Micro signals library for Unity
-- [UnityTimelineTutorial](https://github.com/ajingu/UnityTimelineTutorial) - Unity Timeline(Signals, Self-made Marker) Tutorial
-- [UnitySignals](https://github.com/Kalinovych/UnitySignals) - 
-- [Signals](https://github.com/paulhayes/Signals) - Small Unity library that allows decoupled scripts to communicate events to each other easily.
-- [Unity3d-Signals](https://github.com/PixeyeHQ/Unity3d-Signals) - Signals are in-memory publish/subscribe system and effectively replace Unity3d SendMessage
-- [Relay](https://github.com/SixWays/Relay) - Fast, powerful, GC-friendly C# signals/events for Unity.
-- [signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity.
-- [unity-signals](https://github.com/jheiling/unity-signals) - Signals for Unity3D
-- [UIWidgets](https://github.com/UnityTech/UIWidgets) - UIWidget is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.
 - [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
 - [LiterateCS](https://github.com/johtela/LiterateCS) - Literate programming tool for C# and .NET Core
 - [yuml-dotnet](https://github.com/chrisjowen/yuml-dotnet) - YUML adaptor for dotnet
@@ -447,6 +420,7 @@
 
 ## Dockerfile 
 
+- [docker-images](https://github.com/nbgallery/docker-images) - Docker images with Jupyter and nbgallery integration
 - [hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [haskell-hie-devcontainer](https://github.com/hmemcpy/haskell-hie-devcontainer) - A DevContainer for VSCode, for installing GHC 8.6.5, HIE (Haskell IDE Engine) and the required plugins
 - [actions](https://github.com/philoserf/actions) - Github Actions a.k.a. container images
@@ -822,6 +796,11 @@
 
 ## JavaScript 
 
+- [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
+- [ordo](https://github.com/nbgallery/ordo) - A lightweight feedback tool for Jupyter
+- [wrattler-examples](https://github.com/wrattler/wrattler-examples) - Easy-to-setup local deployment of the Wrattler notebook, using pre-built docker images pulled from dockerhub.
+- [wrattler-binder](https://github.com/wrattler/wrattler-binder) - 
+- [Jupyter-multi_outputs](https://github.com/NII-cloud-operation/Jupyter-multi_outputs) - Jupyter notebook extension - accumulate multiple outputs from a code cell into tabs
 - [PaperWM](https://github.com/paperwm/PaperWM) - Tiled scrollable window management for Gnome Shell
 - [server](https://github.com/backstrokeapp/server) - :swimmer: A Github bot to keep repository forks up to date with their upstream.
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
@@ -1070,6 +1049,17 @@
 
 ## Jupyter Notebook 
 
+- [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
+- [jupyter-forchaps](https://github.com/alugowski/jupyter-forchaps) - Tooling and examples for using Jupyter Notebooks to write chapters that explain mathematical and engineering calculations.
+- [-Managing-Messes-Study-Materials](https://github.com/andrewhead/-Managing-Messes-Study-Materials) - Materials for running the usability study for the technical paper, "Managing Messes in Computational Notebooks".
+- [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
+- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
+- [ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
+- [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
+- [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
+- [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
+- [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
+- [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [jupyterdayATL_2018_template](https://github.com/patanijo/jupyterdayATL_2018_template) - CookieCutter template for Presentation at JupyterDay Atlanta 2018
 - [cookiecutter](https://github.com/emcleer/cookiecutter) - Sourced from PBP -- Chris Moffitt
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
@@ -1370,6 +1360,7 @@
 
 ## Others 
 
+- [ioc-infrastructure-review](https://github.com/innovationOUtside/ioc-infrastructure-review) - Public repo reviewing infrastructure approaches used to deliver coding courses
 - [tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -1622,6 +1613,8 @@
 
 ## Perl 
 
+- [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
+- [jupyterflame](https://github.com/H4dr1en/jupyterflame) - Bringing flamegraphs into jupyter notebooks for performance diagnosis
 - [smt-manager](https://github.com/damentz/smt-manager) - Simultaneous Multithreading (SMT) Manager - enable or disable hyperthreading cores, or display your current CPU topology.
 - [its-pointless.github.io](https://github.com/its-pointless/its-pointless.github.io) - For info see https://github.com/its-pointless/gcc_termux
 - [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
@@ -1784,6 +1777,27 @@
 
 ## Python 
 
+- [nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels) - Package for managing conda environment-based kernels inside of Jupyter
+- [pyganja](https://github.com/pygae/pyganja) - Visualisation library for geometric algebra with cefpython and ganja.js
+- [clifford](https://github.com/pygae/clifford) - Numeric Geometric Algebra module for Python
+- [jupyter-manim](https://github.com/krassowski/jupyter-manim) - manim cell magic for IPython/Jupyter to show the output video
+- [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [pangeo-stacks](https://github.com/pangeo-data/pangeo-stacks) - Curated Docker images for use with Jupyter and Pangeo
+- [dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples
+- [nbcomet](https://github.com/activityhistory/nbcomet) - Jupyter Notebook extension to track notebook history
+- [nb_workflow_tools](https://github.com/innovationOUtside/nb_workflow_tools) - Repository collating tools to support the processing of Jupyter notebooks
+- [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
+- [wrattler](https://github.com/wrattler/wrattler) - 
+- [jupyterlab-quickopen](https://github.com/parente/jupyterlab-quickopen) - Quickly open a file in JupyterLab by typing part of its name
+- [jupyter-powershell](https://github.com/pcgeek86/jupyter-powershell) - PowerShell language kernel for Jupyter
+- [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
+- [jupyter-pyfilesystem](https://github.com/manics/jupyter-pyfilesystem) - Jupyter Notebook OMERO Contents Manager
+- [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
+- [hybridcontents](https://github.com/viaduct-ai/hybridcontents) - A ContentsManager wrapper for using multiple ContentsManager in Jupyter
+- [nbbrowserpdf](https://github.com/Anaconda-Platform/nbbrowserpdf) - LaTeX-free PDF generation from Jupyter Notebooks
+- [nbpdfexport](https://github.com/yuvipanda/nbpdfexport) - Export Jupyter Notebooks to PDF without LaTeX
+- [jupyterlab-nvdashboard](https://github.com/rapidsai/jupyterlab-nvdashboard) - A JupyterLab extension for displaying dashboards of GPU usage.
 - [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
@@ -1987,7 +2001,7 @@
 - [pyaf](https://github.com/antoinecarme/pyaf) - PyAF is an Open Source Python library for Automatic Time Series Forecasting built on top of popular pydata modules.
 - [kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator
 - [python-novaclient](https://github.com/openstack/python-novaclient) - OpenStack Compute (Nova) Client
-- [duct.py](https://github.com/oconnor663/duct.py) - a library for running child processes
+- [duct.py](https://github.com/oconnor663/duct.py) - a Python library for running child processes
 - [ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
@@ -2494,6 +2508,7 @@
 
 ## Ruby 
 
+- [nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [fresh](https://github.com/freshshell/fresh) - Keep your dotfiles fresh.
 - [3llo](https://github.com/qcam/3llo) - 3llo - Trello interactive CLI aplication
 - [boom](https://github.com/holman/boom) - Motherfucking TEXT SNIPPETS! On the COMMAND LINE!
@@ -2506,8 +2521,6 @@
 - [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [whatthecommit](https://github.com/lwe/whatthecommit) - Unoffical command line client for https://whatthecommit.com
 - [docker-sync](https://github.com/EugenMayer/docker-sync) - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/*Linux
-- [homesick](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind.
-- [vagrant-lxc](https://github.com/fgrehm/vagrant-lxc) - LXC provider for Vagrant
 - [pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 - [Open-Publisher](https://github.com/chrisanthropic/Open-Publisher) - Using Jekyll to create outputs that can be used as Pandoc inputs. In short - input markdown, output mobi, epub, pdf, and print-ready pdf. With a focus on fiction.
 - [brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
@@ -2516,23 +2529,12 @@
 - [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [docverter](https://github.com/Docverter/docverter) - Docverter Server
 - [progit](https://github.com/progit/progit) - Pro Git Book Content, 1st Edition - This content is deprecated. See 2nd edition at [progit2](https://github.com/progit/progit2)
-- [truffleruby](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 - [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [email_reply_parser](https://github.com/github/email_reply_parser) - Small library to parse plain text email content
-- [pdd](https://github.com/yegor256/pdd) - Puzzle Driven Development (PDD) Collector
-- [gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-- [asciidoctor-bibliography](https://github.com/riboseinc/asciidoctor-bibliography) - Citations in AsciiDoc
 - [markdownlint](https://github.com/markdownlint/markdownlint) - Markdown lint tool
-- [asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
-- [markup](https://github.com/github/markup) - Determines which markup library to use to render a content file (e.g. README) on GitHub
-- [linguist](https://github.com/github/linguist) - Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
 - [pandocomatic](https://github.com/htdebeer/pandocomatic) - Automate the use of pandoc
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
-- [liquid](https://github.com/Shopify/liquid) - Liquid markup language. Safe, customer facing template language for flexible web apps.
-- [resharper-devguide](https://github.com/JetBrains/resharper-devguide) - Developer guide for the ReSharper Platform
-- [mustache](https://github.com/mustache/mustache) - Logic-less Ruby templates.
-- [jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Rust 
 
@@ -2547,7 +2549,7 @@
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, fast, and customizable prompt for any shell.
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 
@@ -2559,6 +2561,10 @@
 
 ## Shell 
 
+- [shellrc](https://github.com/chr4/shellrc) - Shell dotfiles, conf.d stype, for multiple shells (bash, zsh)
+- [repo2docker-githubci](https://github.com/scottyhq/repo2docker-githubci) - a template for building jupyterhub-compatible docker images with repo2docker and github actions
+- [repo2docker-action](https://github.com/machine-learning-apps/repo2docker-action) - GitHub Action for repo2docker
+- [repo2docker-action](https://github.com/ouseful-PR/repo2docker-action) - GitHub Action for repo2docker
 - [agnoster-bash](https://github.com/speedenator/agnoster-bash) - Agnoster Theme for Bash
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
@@ -2741,7 +2747,7 @@
 - [actions](https://github.com/unacast/actions) - Github Actions
 - [actions](https://github.com/lubusIN/actions) - 🧰 Collection of github actions for automation
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
-- [wsl-terminal](https://github.com/goreliu/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
+- [wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
@@ -2818,6 +2824,7 @@
 
 ## TypeScript 
 
+- [Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
 - [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent commit secret/credential file.
@@ -2960,11 +2967,14 @@
 
 ## VimL 
 
+- [dotfiles](https://github.com/michaeljsmalley/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 - [dotfiles](https://github.com/ibab/dotfiles) - :wrench: My configuration files.
 
 ## Vue 
 
+- [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
+- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
 - [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
