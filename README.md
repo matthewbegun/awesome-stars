@@ -49,6 +49,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SAS](#sas)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stan](#stan)
@@ -137,6 +138,7 @@
 
 ## C# # 
 
+- [example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
 - [interactive](https://github.com/dotnet/interactive) - 
 - [csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
@@ -252,7 +254,7 @@
 - [MSBuildForUnity](https://github.com/microsoft/MSBuildForUnity) - MSBuild integration in Unity
 - [ccsm-unity-tanks](https://github.com/ccsm-unity/ccsm-unity-tanks) - Open source implementation of Command-Constrained State Machines in Unity using Tanks demo game for CCSM capability demonstration purposes.
 - [SuperScience](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for our user-base.
-- [omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp based on roslyn workspaces
+- [omnisharp-roslyn](https://github.com/OmniSharp/omnisharp-roslyn) - OmniSharp server (HTTP, STDIO) based on Roslyn workspaces
 - [resharper-unity](https://github.com/JetBrains/resharper-unity) - Unity support for both ReSharper and Rider
 - [PrefabWorkflows_SpiderRobots](https://github.com/UnityTechnologies/PrefabWorkflows_SpiderRobots) - Demo Project showing the new Prefab Workflows: Prefab Mode, Editing and Nesting!
 - [UnityGameplayAbilitySystem](https://github.com/sjai013/UnityGameplayAbilitySystem) - A unified framework for implementing ability systems in Unity
@@ -423,6 +425,7 @@
 
 ## Dockerfile 
 
+- [docker-examples](https://github.com/verdaccio/docker-examples) - 🐳 ⛴A collection of Docker and Kubernetes examples for verdaccio
 - [dockerfiles](https://github.com/datascienceworkshops/dockerfiles) - Various Dockerfiles that we use in our workshops
 - [docker-images](https://github.com/nbgallery/docker-images) - Docker images with Jupyter and nbgallery integration
 - [hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
@@ -506,10 +509,10 @@
 
 ## Go 
 
+- [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
 - [sourcegraph](https://github.com/sourcegraph/sourcegraph) - Universal code search and navigation tool (self-hosted)
-- [pepper](https://github.com/genuinetools/pepper) - A tool for performing actions on GitHub repos or a single repo.
 - [distribution](https://github.com/docker/distribution) - The Docker toolset to pack, ship, store, and deliver content
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
@@ -1053,6 +1056,8 @@
 
 ## Jupyter Notebook 
 
+- [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
+- [histogram-tutorial](https://github.com/henryiii/histogram-tutorial) - Tutorials for boost-histogram
 - [r4ds-python-plotnine](https://github.com/datascienceworkshops/r4ds-python-plotnine) - A translation of the visualisation chapters from "R for Data Science" to Python using Plotnine and Pandas.
 - [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) - A collection of Bayesian data analysis recipes using PyMC3
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
@@ -1627,6 +1632,7 @@
 
 ## PHP 
 
+- [docker-compose-volumes-v3](https://github.com/robballou/docker-compose-volumes-v3) - Trying to work out how to do volumes with v3 compose files
 - [otodo](https://github.com/onovy/otodo) - Powerful TUI for todo.txt
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
 - [painless-continuous-delivery](https://github.com/painless-software/painless-continuous-delivery) - A cookiecutter for projects with continuous delivery baked in.
@@ -1636,6 +1642,7 @@
 
 ## Perl 
 
+- [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [jupyterflame](https://github.com/H4dr1en/jupyterflame) - Bringing flamegraphs into jupyter notebooks for performance diagnosis
 - [smt-manager](https://github.com/damentz/smt-manager) - Simultaneous Multithreading (SMT) Manager - enable or disable hyperthreading cores, or display your current CPU topology.
@@ -1714,7 +1721,6 @@
 - [autoCompletion](https://github.com/wubinwilliam/autoCompletion) - Auto completion like BASH with using PowerShell
 - [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
 - [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909
-- [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
 - [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
 - [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
@@ -1800,6 +1806,11 @@
 
 ## Python 
 
+- [wstool](https://github.com/vcstools/wstool) - A tool for managing a workspace of multiple heterogenous SCM repositories
+- [mu-repo](https://github.com/fabioz/mu-repo) - Tool to help in dealing with multiple git repositories
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity 不疯了似地管理多个git库
+- [ALG-Bot](https://github.com/haunt-hcm2015/ALG-Bot) - An awesome list Github crawler all the curated list on Github (programming research purposes)
+- [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control
 - [libtmux](https://github.com/tmux-python/libtmux) - ⚙️ python api for tmux
 - [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
 - [libvcs](https://github.com/vcs-python/libvcs) - ⚙️ vcs abstraction layer
@@ -2440,6 +2451,8 @@
 
 ## R 
 
+- [CompetingEvents_Young_SIM_2020](https://github.com/CausalInference/CompetingEvents_Young_SIM_2020) - R Code used in https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8471
+- [gfoRmula](https://github.com/CausalInference/gfoRmula) - Parametric G-formula for R
 - [tidynaivebayes](https://github.com/datascienceworkshops/tidynaivebayes) - A tidy implementation of the Naive Bayes classifier
 - [Miscellaneous-R-Code](https://github.com/m-clark/Miscellaneous-R-Code) - Code that might be useful to others for learning/demonstration purposes, specifically along the lines of modeling and various algorithms.
 - [mlr](https://github.com/mlr-org/mlr) - Machine Learning in R
@@ -2582,6 +2595,11 @@
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
+
+## SAS 
+
+- [GFORMULA-SAS](https://github.com/CausalInference/GFORMULA-SAS) - The GFORMULA macro implements the parametric g-formula in SAS to estimate the risk or the mean of an outcome under sustained treatment strategies specified by the user
+- [IV-Bounds](https://github.com/CausalInference/IV-Bounds) - 
 
 ## Scala 
 
@@ -2741,6 +2759,7 @@
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
 - [gabo](https://github.com/jarrodldavis/gabo) - Easy access to gitattributes boilerplates
 - [docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
 - [heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
@@ -2816,6 +2835,7 @@
 
 ## TeX 
 
+- [cibookex-r](https://github.com/remlapmot/cibookex-r) - Causal Inference: What If. R and Stata code for Exercises
 - [bayesian-surprise](https://github.com/uwdata/bayesian-surprise) - Bayesian Weighting for De-Biasing Thematic Maps
 - [Writing-seminar](https://github.com/robjhyndman/Writing-seminar) - Academic writing for different audiences
 - [Researchplus](https://github.com/robjhyndman/Researchplus) - 
