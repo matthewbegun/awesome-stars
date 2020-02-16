@@ -77,6 +77,7 @@
 
 ## C 
 
+- [openbox](https://github.com/Mikachu/openbox) - mirror of the openbox repo
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
@@ -425,6 +426,7 @@
 
 ## Dockerfile 
 
+- [docker-githubaction](https://github.com/nabilnalakath/docker-githubaction) - A sample project that demonstrates the use of github actions with docker.
 - [docker-examples](https://github.com/verdaccio/docker-examples) - 🐳 ⛴A collection of Docker and Kubernetes examples for verdaccio
 - [dockerfiles](https://github.com/datascienceworkshops/dockerfiles) - Various Dockerfiles that we use in our workshops
 - [docker-images](https://github.com/nbgallery/docker-images) - Docker images with Jupyter and nbgallery integration
@@ -509,6 +511,7 @@
 
 ## Go 
 
+- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [jid](https://github.com/simeji/jid) - json incremental digger
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
@@ -581,6 +584,8 @@
 
 ## HTML 
 
+- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
+- [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
 - [mdtest](https://github.com/michelf/mdtest) - Test suite for Markdown implementations
 - [Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
@@ -696,6 +701,7 @@
 
 ## Java 
 
+- [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
@@ -1056,6 +1062,7 @@
 
 ## Jupyter Notebook 
 
+- [matlab-with-python](https://github.com/mathworks/matlab-with-python) - Files demonstrating MATLAB and Python interoperability
 - [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
 - [histogram-tutorial](https://github.com/henryiii/histogram-tutorial) - Tutorials for boost-histogram
 - [r4ds-python-plotnine](https://github.com/datascienceworkshops/r4ds-python-plotnine) - A translation of the visualisation chapters from "R for Data Science" to Python using Plotnine and Pandas.
@@ -1336,6 +1343,10 @@
 
 ## MATLAB 
 
+- [Apollo_11_Moon_Landing_-_50th_Anniversary_Model](https://github.com/mathworks/Apollo_11_Moon_Landing_-_50th_Anniversary_Model) - This example shows how Richard Gran and the other engineers who worked on the Apollo Lunar Module digital autopilot design team could have done it using Simulink®, Stateflow®, Aerospace Blockset™ and Simulink 3D Animation if they had been available in 1961.
+- [matlab-color-tools](https://github.com/mathworks/matlab-color-tools) - 
+- [dotenv-for-MATLAB](https://github.com/mathworks/dotenv-for-MATLAB) - Load environment variables from a .env file.
+- [NumericEfficiencyExamples](https://github.com/mathworks/NumericEfficiencyExamples) - Examples of crafting numeric efficienct embedded designs using mixtures of fixed-point, floating-point and approximations.
 - [NSV_MILP_assignment](https://github.com/Dymsia/NSV_MILP_assignment) - North West Corner method, MILP assignment with capacity
 - [MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
 - [matlab-snippets](https://github.com/trnkap/matlab-snippets) - Code snippets for the Matlab editor.
@@ -1642,6 +1653,7 @@
 
 ## Perl 
 
+- [OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
 - [jupyterflame](https://github.com/H4dr1en/jupyterflame) - Bringing flamegraphs into jupyter notebooks for performance diagnosis
@@ -1806,6 +1818,11 @@
 
 ## Python 
 
+- [laziest](https://github.com/xnuinside/laziest) - Work in Progress: Package that trying to generate unit tests from code
+- [airflow_in_docker_compose](https://github.com/xnuinside/airflow_in_docker_compose) - Apache Airflow in Docker Compose
+- [bionic](https://github.com/square/bionic) - A Python framework for data science.
+- [energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
+- [pycox](https://github.com/havakv/pycox) - Survival analysis with PyTorch
 - [wstool](https://github.com/vcstools/wstool) - A tool for managing a workspace of multiple heterogenous SCM repositories
 - [mu-repo](https://github.com/fabioz/mu-repo) - Tool to help in dealing with multiple git repositories
 - [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity 不疯了似地管理多个git库
@@ -2878,6 +2895,9 @@
 
 ## TypeScript 
 
+- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+- [jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
+- [vscode-matlab](https://github.com/Gimly/vscode-matlab) - MATLAB support for Visual Studio Code
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
 - [Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
@@ -2997,6 +3017,7 @@
 
 ## Vala 
 
+- [conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-18, Mint 18&19 and more.
 - [web-archives](https://github.com/birros/web-archives) - A web archives reader
 
 ## Vim script 
