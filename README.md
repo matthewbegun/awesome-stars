@@ -426,6 +426,10 @@
 
 ## Dockerfile 
 
+- [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
+- [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
+- [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
+- [pypy](https://github.com/docker-library/pypy) - Docker Official Image packaging for pypy
 - [docker-githubaction](https://github.com/nabilnalakath/docker-githubaction) - A sample project that demonstrates the use of github actions with docker.
 - [docker-examples](https://github.com/verdaccio/docker-examples) - 🐳 ⛴A collection of Docker and Kubernetes examples for verdaccio
 - [dockerfiles](https://github.com/datascienceworkshops/dockerfiles) - Various Dockerfiles that we use in our workshops
@@ -584,6 +588,7 @@
 
 ## HTML 
 
+- [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
 - [mdtest](https://github.com/michelf/mdtest) - Test suite for Markdown implementations
@@ -809,6 +814,7 @@
 
 ## JavaScript 
 
+- [md-jupyter-html](https://github.com/nathancarter/md-jupyter-html) - Run Markdown with Jupyter and preview side-by-side in Atom
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ordo](https://github.com/nbgallery/ordo) - A lightweight feedback tool for Jupyter
 - [wrattler-examples](https://github.com/wrattler/wrattler-examples) - Easy-to-setup local deployment of the Wrattler notebook, using pre-built docker images pulled from dockerhub.
@@ -1396,6 +1402,7 @@
 
 ## Others 
 
+- [agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [datascience-anthology-pydata](https://github.com/DataTau/datascience-anthology-pydata) - PyData, The Complete Works of
@@ -1698,7 +1705,7 @@
 - [PSGitQL](https://github.com/dfinke/PSGitQL) - A PowerShell git query language
 - [PSStringScanner](https://github.com/dfinke/PSStringScanner) - Provides lexical scanning operations on a String
 - [PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
-- [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more.
+- [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more. On the gallery
 - [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
 - [Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell
 - [Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph [Scatter / Bar / Line] on the PowerShell Console/Terminal
@@ -2468,6 +2475,8 @@
 
 ## R 
 
+- [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
+- [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [CompetingEvents_Young_SIM_2020](https://github.com/CausalInference/CompetingEvents_Young_SIM_2020) - R Code used in https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8471
 - [gfoRmula](https://github.com/CausalInference/gfoRmula) - Parametric G-formula for R
 - [tidynaivebayes](https://github.com/datascienceworkshops/tidynaivebayes) - A tidy implementation of the Naive Bayes classifier
@@ -2625,6 +2634,7 @@
 
 ## Shell 
 
+- [agnoster-bash](https://github.com/maddeye/agnoster-bash) - Agnoster Theme for Bash with a twist
 - [dot-fonts](https://github.com/tony/dot-fonts) - Programmer and CJK / Unicode fonts.
 - [.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
 - [shellrc](https://github.com/chr4/shellrc) - Shell dotfiles, conf.d stype, for multiple shells (bash, zsh)
@@ -2796,7 +2806,7 @@
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
 - [plantuml-kubernetes-sprites](https://github.com/michiel/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
-- [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
+- [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
@@ -2852,6 +2862,7 @@
 
 ## TeX 
 
+- [rmarkdown-cookbook](https://github.com/yihui/rmarkdown-cookbook) - [WIP] R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.
 - [cibookex-r](https://github.com/remlapmot/cibookex-r) - Causal Inference: What If. R and Stata code for Exercises
 - [bayesian-surprise](https://github.com/uwdata/bayesian-surprise) - Bayesian Weighting for De-Biasing Thematic Maps
 - [Writing-seminar](https://github.com/robjhyndman/Writing-seminar) - Academic writing for different audiences
