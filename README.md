@@ -53,6 +53,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stan](#stan)
+  - [Starlark](#starlark)
   - [Stata](#stata)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -515,6 +516,9 @@
 
 ## Go 
 
+- [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [lstags](https://github.com/ivanilves/lstags) - Manipulate Docker images across different registries
+- [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [jid](https://github.com/simeji/jid) - json incremental digger
@@ -588,6 +592,8 @@
 
 ## HTML 
 
+- [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
+- [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
 - [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
 - [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
@@ -706,6 +712,8 @@
 
 ## Java 
 
+- [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+- [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - [ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
@@ -814,6 +822,7 @@
 
 ## JavaScript 
 
+- [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
 - [md-jupyter-html](https://github.com/nathancarter/md-jupyter-html) - Run Markdown with Jupyter and preview side-by-side in Atom
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ordo](https://github.com/nbgallery/ordo) - A lightweight feedback tool for Jupyter
@@ -1068,6 +1077,7 @@
 
 ## Jupyter Notebook 
 
+- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform that supports Jupyter Notebooks.
 - [matlab-with-python](https://github.com/mathworks/matlab-with-python) - Files demonstrating MATLAB and Python interoperability
 - [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
 - [histogram-tutorial](https://github.com/henryiii/histogram-tutorial) - Tutorials for boost-histogram
@@ -1650,6 +1660,8 @@
 
 ## PHP 
 
+- [dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
+- [Docker-Arch](https://github.com/Ph3nol/Docker-Arch) - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file.
 - [docker-compose-volumes-v3](https://github.com/robballou/docker-compose-volumes-v3) - Trying to work out how to do volumes with v3 compose files
 - [otodo](https://github.com/onovy/otodo) - Powerful TUI for todo.txt
 - [Shaarli](https://github.com/shaarli/Shaarli) - The personal, minimalist, super-fast, database free, bookmarking service - community repo
@@ -1825,6 +1837,9 @@
 
 ## Python 
 
+- [dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date with the latest version
+- [derrick](https://github.com/alibaba/derrick) - 🐳A tool to help you containerize application in seconds
+- [subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 - [laziest](https://github.com/xnuinside/laziest) - Work in Progress: Package that trying to generate unit tests from code
 - [airflow_in_docker_compose](https://github.com/xnuinside/airflow_in_docker_compose) - Apache Airflow in Docker Compose
 - [bionic](https://github.com/square/bionic) - A Python framework for data science.
@@ -1920,7 +1935,7 @@
 - [StartupFiles](https://github.com/CamDavidsonPilon/StartupFiles) - My IPython startup files.
 - [python-fire](https://github.com/jtratner/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
-- [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
+- [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
 - [badshell](https://github.com/mottosso/badshell) - 
 - [rez-recipes](https://github.com/nerdvegas/rez-recipes) - Package recipes for the Rez package management system
 - [bleeding-rez](https://github.com/mottosso/bleeding-rez) - Rez - Reproducible software environments for Windows, Linux and MacOS
@@ -2584,6 +2599,7 @@
 
 ## Ruby 
 
+- [whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [pomodori-todo.txt](https://github.com/metalelf0/pomodori-todo.txt) - A pomodoro counter implementation for todo.txt.
 - [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
@@ -2634,6 +2650,8 @@
 
 ## Shell 
 
+- [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
+- [redisplanet](https://github.com/collabnix/redisplanet) - Redisplanet - An Ultimate Hands-on Labs on Redis
 - [agnoster-bash](https://github.com/maddeye/agnoster-bash) - Agnoster Theme for Bash with a twist
 - [dot-fonts](https://github.com/tony/dot-fonts) - Programmer and CJK / Unicode fonts.
 - [.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
@@ -2851,6 +2869,10 @@
 ## Stan 
 
 - [stan](https://github.com/stan-dev/stan) - Stan development repository. The master branch contains the current release. The develop branch contains the latest stable development.  See the Developer Process Wiki for details.
+
+## Starlark 
+
+- [base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers.
 
 ## Stata 
 
