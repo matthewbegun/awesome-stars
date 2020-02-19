@@ -140,6 +140,7 @@
 
 ## C# # 
 
+- [parallel-change](https://github.com/unclejamal/parallel-change) - 
 - [example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
 - [interactive](https://github.com/dotnet/interactive) - 
@@ -592,6 +593,7 @@
 
 ## HTML 
 
+- [trivia](https://github.com/caradojo/trivia) - Legacy Code Retreat - Grenoble 2011
 - [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
 - [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
@@ -712,6 +714,7 @@
 
 ## Java 
 
+- [code-dojo-39](https://github.com/sleepyfox/code-dojo-39) - Code for the 39th London Code Dojo meetup in Oct 2016, Song refactoring kata
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -822,6 +825,12 @@
 
 ## JavaScript 
 
+- [timepp__gnome](https://github.com/zagortenay333/timepp__gnome) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarms gnome-shell extension.
+- [gnome-shell-extension-services-systemd](https://github.com/petres/gnome-shell-extension-services-systemd) - Gnome Shell Extension that allows to start and stop systemd services
+- [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - containers is a gnome-shell extension to manage linux container, run by libpod
+- [KeepAwake](https://github.com/jenspfahl/KeepAwake) - Gnome Shell Extension "Keep Awake"
+- [gnome-shell-extension-caffeine](https://github.com/eonpatapon/gnome-shell-extension-caffeine) - Disable screensaver and auto suspend
+- [nteract.io](https://github.com/nteract/nteract.io) - :mega: Our site! :mega:
 - [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
 - [md-jupyter-html](https://github.com/nathancarter/md-jupyter-html) - Run Markdown with Jupyter and preview side-by-side in Atom
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
@@ -1148,7 +1157,7 @@
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
-- [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse) - Deep Learning with PyTorch
+- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning with PyTorch
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
 - [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
@@ -1412,6 +1421,7 @@
 
 ## Others 
 
+- [meeting-minutes](https://github.com/nteract/meeting-minutes) - :memo: Minutes from nteract weekly contributor meeting; reports and metrics
 - [agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
@@ -1837,6 +1847,12 @@
 
 ## Python 
 
+- [wrapspawner](https://github.com/jupyterhub/wrapspawner) - Mechanism for runtime configuration of spawners for JupyterHub
+- [hanythingondemand](https://github.com/hpcugent/hanythingondemand) - hanythingondemand provides a set of scripts to easily set up an ad-hoc Hadoop cluster through PBS jobs
+- [remotespawner](https://github.com/zonca/remotespawner) - Remote Spawner class for JupyterHub to spawn IPython notebooks and a remote server and tunnel the port via SSH
+- [records](https://github.com/kennethreitz/records) - SQL for Humans™
+- [scrapbook](https://github.com/nteract/scrapbook) - A library for recording and reading data in notebooks.
+- [bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses
 - [dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date with the latest version
 - [derrick](https://github.com/alibaba/derrick) - 🐳A tool to help you containerize application in seconds
 - [subpar](https://github.com/google/subpar) - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
@@ -2475,7 +2491,6 @@
 - [MatlabSnippets](https://github.com/Slaier/MatlabSnippets) - matlab command autocomplete on vscode
 - [course-activity-planner](https://github.com/fuhrmanator/course-activity-planner) - Tool for instructors to plan course activities and synchronize the data with syllabus, LMS, etc.
 - [articles](https://github.com/Dobiasd/articles) - thoughts on programming
-- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [mesa](https://github.com/projectmesa/mesa) - Mesa is an agent-based modeling framework in Python
 - [grocery-prices](https://github.com/amirbehzad/grocery-prices) - 
 - [grosaleries-scraper](https://github.com/chehanr/grosaleries-scraper) - Scraping tools made for the SWE20001 project (GroSaleries).
@@ -2650,6 +2665,7 @@
 
 ## Shell 
 
+- [potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
 - [redisplanet](https://github.com/collabnix/redisplanet) - Redisplanet - An Ultimate Hands-on Labs on Redis
 - [agnoster-bash](https://github.com/maddeye/agnoster-bash) - Agnoster Theme for Bash with a twist
@@ -2873,6 +2889,7 @@
 ## Starlark 
 
 - [base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers.
+- [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Stata 
 
@@ -2928,6 +2945,7 @@
 
 ## TypeScript 
 
+- [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
 - [vscode-matlab](https://github.com/Gimly/vscode-matlab) - MATLAB support for Visual Studio Code
@@ -3050,11 +3068,14 @@
 
 ## Vala 
 
+- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-18, Mint 18&19 and more.
 - [web-archives](https://github.com/birros/web-archives) - A web archives reader
 
 ## Vim script 
 
+- [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
+- [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [dotfiles](https://github.com/grawity/dotfiles) - 
 - [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
