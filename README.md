@@ -40,6 +40,7 @@
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
+  - [Pep8](#pep8)
   - [Perl](#perl)
   - [PostScript](#postscript)
   - [PowerShell](#powershell)
@@ -51,6 +52,7 @@
   - [Rust](#rust)
   - [SAS](#sas)
   - [Scala](#scala)
+  - [ShaderLab](#shaderlab)
   - [Shell](#shell)
   - [Stan](#stan)
   - [Starlark](#starlark)
@@ -78,6 +80,7 @@
 
 ## C 
 
+- [package-query](https://github.com/archlinuxfr/package-query) - Query alpm database and AUR
 - [openbox](https://github.com/Mikachu/openbox) - mirror of the openbox repo
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
 - [h3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system
@@ -204,7 +207,6 @@
 - [Unity.GPUAnimation](https://github.com/joeante/Unity.GPUAnimation) - Simple but very fast GPU vertex shader based animation system for Unity.Entities
 - [unitydots_simplecollision](https://github.com/sarkahn/unitydots_simplecollision) - An example of a simple jobified sphere-sphere collision system in DOTS. Uses a spatial map for broadphase.
 - [SpriteSheetRenderer](https://github.com/sarkahn/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites.
-- [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites.
 - [com.bovinelabs.entities](https://github.com/tertle/com.bovinelabs.entities) - A collection of extensions, systems and jobs for Unity ECS.
 - [Firefly](https://github.com/keijiro/Firefly) - Unity ECS example for special effects
 - [Presentation](https://github.com/UnityTechnologies/Presentation) - No need to switch to Power Point anymore.
@@ -306,6 +308,7 @@
 
 ## C++ 
 
+- [auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [miniparquet](https://github.com/hannesmuehleisen/miniparquet) - Library to read a subset of Parquet files
 - [yakuake](https://github.com/KDE/yakuake) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
 - [qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
@@ -486,7 +489,6 @@
 - [r-docker](https://github.com/rstudio/r-docker) - Docker images for R
 - [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
-- [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
@@ -517,6 +519,7 @@
 
 ## Go 
 
+- [yup](https://github.com/ericm/yup) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [lstags](https://github.com/ivanilves/lstags) - Manipulate Docker images across different registries
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
@@ -1133,7 +1136,7 @@
 - [notebook-template-generator](https://github.com/jhurley13/notebook-template-generator) - Create Javascript used by Jupyter nbextensions to create new notebooks
 - [paper-template](https://github.com/pinga-lab/paper-template) - Template for a new paper repository with code, data, and a LaTeX manuscript. Use the Github "Import repository" to create a new paper.
 - [mini_hist](https://github.com/henryiii/mini_hist) - GSoC evaluation project
-- [MonotoneSplitting](https://github.com/danmackinlay/MonotoneSplitting) - 
+- [MonotoneSampling](https://github.com/danmackinlay/MonotoneSampling) - 
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
 - [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
 - [how-to-python-code](https://github.com/TheRenegadeCoder/how-to-python-code) - A collection of Jupyter Notebooks from the How to Python series
@@ -1421,6 +1424,8 @@
 
 ## Others 
 
+- [docs](https://github.com/snakemake-workflows/docs) - Documentation of the Snakemake-Workflows project
+- [doc](https://github.com/Snakemake-Profiles/doc) - Documentation of the Snakemake-Profiles project.
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) - :memo: Minutes from nteract weekly contributor meeting; reports and metrics
 - [agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
@@ -1680,6 +1685,10 @@
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
+## Pep8 
+
+- [snakemake-wrappers](https://github.com/snakemake/snakemake-wrappers) - This is the development home of the Snakemake wrapper repository, see
+
 ## Perl 
 
 - [OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
@@ -1847,6 +1856,9 @@
 
 ## Python 
 
+- [cookiecutter-docker-stacks](https://github.com/jupyter/cookiecutter-docker-stacks) - Cookiecutter for community-maintained Jupyter Docker images
+- [pbs-torque](https://github.com/Snakemake-Profiles/pbs-torque) - 
+- [pipfile](https://github.com/pypa/pipfile) - 
 - [wrapspawner](https://github.com/jupyterhub/wrapspawner) - Mechanism for runtime configuration of spawners for JupyterHub
 - [hanythingondemand](https://github.com/hpcugent/hanythingondemand) - hanythingondemand provides a set of scripts to easily set up an ad-hoc Hadoop cluster through PBS jobs
 - [remotespawner](https://github.com/zonca/remotespawner) - Remote Spawner class for JupyterHub to spawn IPython notebooks and a remote server and tunnel the port via SSH
@@ -2249,6 +2261,7 @@
 - [dockerspawner](https://github.com/jupyterhub/dockerspawner) - Spawns JupyterHub single user servers in Docker containers
 - [the-littlest-jupyterhub](https://github.com/jupyterhub/the-littlest-jupyterhub) - Simple JupyterHub distribution for 1-100 users on a single server
 - [examples](https://github.com/IntelPython/examples) - Examples and sample code showcasing features of the Intel(R) Distribution for Python
+- [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [sage-notebook](https://github.com/sharpTrick/sage-notebook) - sage-notebook is a community maintained Jupyter Docker Stack image with the sagemath kernel.
 - [java-notebook](https://github.com/jbindinga/java-notebook) - ijava-jupyter-stack is a Jupyter Docker Stack image that's including the IJAVA Kernel to Jupyter notebook.
 - [education-notebook](https://github.com/umsi-mads/education-notebook) - education notebook is a community maintained Jupyter Docker Stack image
@@ -2663,8 +2676,13 @@
 - [breeze](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
+## ShaderLab 
+
+- [SpriteSheetRenderer](https://github.com/fabriziospadaro/SpriteSheetRenderer) - A powerful Unity ECS system to render massive numbers of animated sprites.
+
 ## Shell 
 
+- [hello-world](https://github.com/docker-library/hello-world) - 
 - [potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
 - [redisplanet](https://github.com/collabnix/redisplanet) - Redisplanet - An Ultimate Hands-on Labs on Redis
