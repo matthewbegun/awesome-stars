@@ -308,6 +308,7 @@
 
 ## C++ 
 
+- [LBTService](https://github.com/night199uk/LBTService) - Windows Service to convert HID proxy devices to HCI mode, forked from http://code.google.com/p/lbtservice/
 - [auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [miniparquet](https://github.com/hannesmuehleisen/miniparquet) - Library to read a subset of Parquet files
 - [yakuake](https://github.com/KDE/yakuake) - Yakuake is a drop-down terminal emulator based on KDE Konsole technology.
@@ -377,6 +378,7 @@
 
 ## CSS 
 
+- [theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [fairmatrix2019nanopub-talk](https://github.com/tkuhn/fairmatrix2019nanopub-talk) - 
 - [starter](https://github.com/prose/starter) - A starter site for Jekyll + Prose
@@ -431,6 +433,7 @@
 
 ## Dockerfile 
 
+- [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
 - [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
@@ -596,6 +599,7 @@
 
 ## HTML 
 
+- [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
 - [trivia](https://github.com/caradojo/trivia) - Legacy Code Retreat - Grenoble 2011
 - [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
@@ -828,6 +832,7 @@
 
 ## JavaScript 
 
+- [extension-cookiecutter-js](https://github.com/jupyterlab/extension-cookiecutter-js) - A cookiecutter recipe for building JupyterLab extensions.
 - [timepp__gnome](https://github.com/zagortenay333/timepp__gnome) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarms gnome-shell extension.
 - [gnome-shell-extension-services-systemd](https://github.com/petres/gnome-shell-extension-services-systemd) - Gnome Shell Extension that allows to start and stop systemd services
 - [gnome-shell-extension-containers](https://github.com/rgolangh/gnome-shell-extension-containers) - containers is a gnome-shell extension to manage linux container, run by libpod
@@ -1089,6 +1094,13 @@
 
 ## Jupyter Notebook 
 
+- [ThinkBayes](https://github.com/rlabbe/ThinkBayes) - Jupyter Notebooks derived from Allen Downey's book Think Bayes.
+- [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) - Text and supporting code for Think Stats, 2nd Edition
+- [ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2) - Text and code for the forthcoming second edition of Think Bayes, by Allen Downey.
+- [scipy2018-jupyterlab-tutorial](https://github.com/jupyterlab/scipy2018-jupyterlab-tutorial) - Tutorial material and instruction for scipy 2018 jupyterlab tutorial
+- [scipy2019-jupyterlab-tutorial](https://github.com/jupyterlab/scipy2019-jupyterlab-tutorial) - Scipy 2019 JupyterLab tutorial
+- [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab
+- [jupyterlab-commenting](https://github.com/jupyterlab/jupyterlab-commenting) - Commenting and annotation for JupyterLab
 - [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform that supports Jupyter Notebooks.
 - [matlab-with-python](https://github.com/mathworks/matlab-with-python) - Files demonstrating MATLAB and Python interoperability
 - [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
@@ -1424,6 +1436,9 @@
 
 ## Others 
 
+- [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI  ✨ 🌟 ✨
+- [Datasets-of-Master-Data-Science-with-Python](https://github.com/TrainingByPackt/Datasets-of-Master-Data-Science-with-Python) - Datasets of Master Data Science with Python, published by Packt. For the complete code files, visit https://github.com/TrainingByPackt/Data-Science-with-Python
+- [Datasets-of-Master-Data-Science-with-Python](https://github.com/PacktPublishing/Datasets-of-Master-Data-Science-with-Python) - Visit: https://github.com/TrainingByPackt/Master-Data-Science-with-Python
 - [docs](https://github.com/snakemake-workflows/docs) - Documentation of the Snakemake-Workflows project
 - [doc](https://github.com/Snakemake-Profiles/doc) - Documentation of the Snakemake-Profiles project.
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) - :memo: Minutes from nteract weekly contributor meeting; reports and metrics
@@ -1444,6 +1459,7 @@
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
 - [getting-started](https://github.com/kjsauer/getting-started) - Getting started guides
 - [virtual-environments-packages](https://github.com/actions/virtual-environments-packages) - Code and scripts used to automate delivery of tool packages used in virtual-environments.
+- [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
 - [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
@@ -1607,7 +1623,7 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer:  An awesome & curated list of best applications and tools for Windows.
+- [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -1691,6 +1707,7 @@
 
 ## Perl 
 
+- [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [FlameGraph](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer
@@ -1856,6 +1873,15 @@
 
 ## Python 
 
+- [jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
+- [jupyterlab_server](https://github.com/jupyterlab/jupyterlab_server) - A set of server components for JupyterLab and JupyterLab like applications
+- [cookiecutter-snakemake-workflow](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow) - A cookiecutter template for Snakemake workflows
+- [cookiecutter-tornado](https://github.com/hkage/cookiecutter-tornado) - Cookiecutter template for Tornado based projects
+- [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
+- [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for a wide range of Logitech devices
+- [powerline-kubernetes](https://github.com/so0k/powerline-kubernetes) - A Powerline segment to show your current Kubernetes context
+- [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [cookiecutter-docker-stacks](https://github.com/jupyter/cookiecutter-docker-stacks) - Cookiecutter for community-maintained Jupyter Docker images
 - [pbs-torque](https://github.com/Snakemake-Profiles/pbs-torque) - 
 - [pipfile](https://github.com/pypa/pipfile) - 
@@ -2089,7 +2115,6 @@
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [python-sample-tweeterapp](https://github.com/microsoft/python-sample-tweeterapp) - Sample Django+React+Postgres application for use in Visual Studio Code and Azure
 - [django-docker-bootstrap](https://github.com/legios89/django-docker-bootstrap) - Django development/production environment with docker
-- [cookiecutter-python-cli](https://github.com/xuanluong/cookiecutter-python-cli) - A cookiecutter template for creating a Python CLI application using click
 - [python-project-template](https://github.com/Kwpolska/python-project-template) - A template for Python Projects.  INSERT TAGLINE HERE.™
 - [cookiecutter-conda-python](https://github.com/conda/cookiecutter-conda-python) - A cookiecutter template for conda packages using Python
 - [cookiecutter-python-app](https://github.com/mdklatt/cookiecutter-python-app) - Cookiecutter template for a Python application project.
@@ -2439,7 +2464,7 @@
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [panflute](https://github.com/sergiocorreia/panflute) - An Pythonic alternative to John MacFarlane's pandocfilters, with extra helper functions
 - [Termux-Mpv](https://github.com/Neo-Oli/Termux-Mpv) - Wrapper for Mpv on Termux. Displays play controls in the notification
-- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - The app downloads novels from many online sources and generates ebooks.
+- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - An app to download novels from online sources and generate e-books.
 - [topydo](https://github.com/bram85/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [cce-python](https://github.com/leonardr/cce-python) - Python tools for processing data from the Catalog of Copyright Entries
 - [sentence-to-clauses](https://github.com/iamrkg31/sentence-to-clauses) - A python script to break a sentence into clauses.
@@ -2651,6 +2676,7 @@
 
 ## Rust 
 
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
 - [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
@@ -2682,6 +2708,14 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/madnight/dotfiles) - Personal set of vim, zsh, git configs and scripts.
+- [dotfiles](https://github.com/nhooyr/dotfiles) - Configuration files for my setup
+- [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
+- [tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
+- [conda_template](https://github.com/dazza-codes/conda_template) - Template for a conda project
+- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
+- [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
+- [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and IRC bot for backups, automatic updates, installation, and shutdown warnings
 - [hello-world](https://github.com/docker-library/hello-world) - 
 - [potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
@@ -2919,6 +2953,8 @@
 
 ## TeX 
 
+- [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
+- [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [rmarkdown-cookbook](https://github.com/yihui/rmarkdown-cookbook) - [WIP] R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.
 - [cibookex-r](https://github.com/remlapmot/cibookex-r) - Causal Inference: What If. R and Stata code for Exercises
 - [bayesian-surprise](https://github.com/uwdata/bayesian-surprise) - Bayesian Weighting for De-Biasing Thematic Maps
@@ -2963,6 +2999,11 @@
 
 ## TypeScript 
 
+- [jupyterlab_xkcd](https://github.com/jupyterlab/jupyterlab_xkcd) - Random xkcd comic in a JupyterLab panel
+- [pull-requests](https://github.com/jupyterlab/pull-requests) - A JupyterLab extension for reviewing GitHub pull requests
+- [jupyterlab-data-explorer](https://github.com/jupyterlab/jupyterlab-data-explorer) - First class datasets in JupyterLab
+- [jupyterlab_app](https://github.com/jupyterlab/jupyterlab_app) - A desktop application for JupyterLab, based on Electron.
+- [lumino](https://github.com/jupyterlab/lumino) - Lumino is a library for building interactive web applications
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
@@ -3092,10 +3133,10 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [dotfiles](https://github.com/grawity/dotfiles) - 
-- [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
 - [.dot_files](https://github.com/ambv/.dot_files) - My distributed configuration
 - [dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
