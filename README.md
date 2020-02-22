@@ -69,6 +69,14 @@
 
 ## AutoHotkey 
 
+- [ahk-caps-ctrl-esc](https://github.com/fenwar/ahk-caps-ctrl-esc) - Autohotkey script that maps Capslock to Esc *and* Ctrl
+- [CapsLocKeys.ahk](https://github.com/Liu233w/CapsLocKeys.ahk) - An autohotkey's script which makes your capslock more powerful
+- [ahk-swap-esc-caps-lock](https://github.com/fr3fou/ahk-swap-esc-caps-lock) - :arrows_counterclockwise: Simple AHK script to swap Esc with Caps-Lock (and binding caps to Scroll Lock). Used primarily by vim users.
+- [capsmode-ahk](https://github.com/enturn/capsmode-ahk) - Script for AutoHotkey to provide a command layer on the keyboard using caps lock.
+- [able_brown](https://github.com/mcginnisa/able_brown) - AHK script with mouse gestures as caps lock layer
+- [CapsLockKilla](https://github.com/Bforsyth1234/CapsLockKilla) - Kills Caps Lock Key with AHK and adds hot keys
+- [AhkCapsLocksRemap](https://github.com/KyleScharnhorst/AhkCapsLocksRemap) - remap capslock to esc
+- [CapsUnlocked](https://github.com/kshenoy/CapsUnlocked) - Use CapsLock as Control + Escape
 - [putty-quake-terminal](https://github.com/oueta/putty-quake-terminal) - Guake style terminal with Putty in Windows
 
 ## Batchfile 
@@ -80,6 +88,8 @@
 
 ## C 
 
+- [uncap](https://github.com/susam/uncap) - Map Caps Lock to Escape, or any key to any key
+- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [package-query](https://github.com/archlinuxfr/package-query) - Query alpm database and AUR
 - [openbox](https://github.com/Mikachu/openbox) - mirror of the openbox repo
 - [redis](https://github.com/microsoftarchive/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes
@@ -1147,7 +1157,6 @@
 - [Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis) - Data Science Using Python
 - [notebook-template-generator](https://github.com/jhurley13/notebook-template-generator) - Create Javascript used by Jupyter nbextensions to create new notebooks
 - [paper-template](https://github.com/pinga-lab/paper-template) - Template for a new paper repository with code, data, and a LaTeX manuscript. Use the Github "Import repository" to create a new paper.
-- [mini_hist](https://github.com/henryiii/mini_hist) - GSoC evaluation project
 - [MonotoneSampling](https://github.com/danmackinlay/MonotoneSampling) - 
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
 - [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
@@ -1370,6 +1379,7 @@
 
 ## Lua 
 
+- [awesome](https://github.com/sandermarechal/awesome) - My Awesome WM configuration
 - [pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up sources for citations in Zotero.
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 - [pandoc-lecture](https://github.com/cagix/pandoc-lecture) - This project defines a skeleton repo for creating lecture slides and handouts including lecture notes out of Pandoc Markdown (http://pandoc.org/MANUAL.html) using a single source approach.
@@ -1873,13 +1883,15 @@
 
 ## Python 
 
+- [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
+- [qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
 - [jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
 - [jupyterlab_server](https://github.com/jupyterlab/jupyterlab_server) - A set of server components for JupyterLab and JupyterLab like applications
 - [cookiecutter-snakemake-workflow](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow) - A cookiecutter template for Snakemake workflows
 - [cookiecutter-tornado](https://github.com/hkage/cookiecutter-tornado) - Cookiecutter template for Tornado based projects
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
 - [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
-- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for a wide range of Logitech devices
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [powerline-kubernetes](https://github.com/so0k/powerline-kubernetes) - A Powerline segment to show your current Kubernetes context
 - [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
 - [cookiecutter-docker-stacks](https://github.com/jupyter/cookiecutter-docker-stacks) - Cookiecutter for community-maintained Jupyter Docker images
@@ -1987,6 +1999,7 @@
 - [jupyter](https://github.com/ljagged/jupyter) - config files for running jupyter notebooks
 - [jupyter_config_overview](https://github.com/Zsailer/jupyter_config_overview) - How to navigate Jupyter's configuration system
 - [StartupFiles](https://github.com/CamDavidsonPilon/StartupFiles) - My IPython startup files.
+- [mini_hist](https://github.com/henryiii/mini_hist) - GSoC evaluation project
 - [python-fire](https://github.com/jtratner/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
@@ -2150,7 +2163,7 @@
 - [duct.py](https://github.com/oconnor663/duct.py) - a Python library for running child processes
 - [ergonomica](https://github.com/ergonomica/ergonomica) - 🖥️ a cross-platform modern shell.
 - [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
-- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, jQuery plugin projects.
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [poku](https://github.com/shanedabes/poku) - Symmetrical sync between pocket and buku
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
@@ -2676,6 +2689,7 @@
 
 ## Rust 
 
+- [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
@@ -2708,6 +2722,12 @@
 
 ## Shell 
 
+- [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
+- [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
+- [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
+- [tmux-yank](https://github.com/tmux-plugins/tmux-yank) - Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+- [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [dotfiles](https://github.com/madnight/dotfiles) - Personal set of vim, zsh, git configs and scripts.
 - [dotfiles](https://github.com/nhooyr/dotfiles) - Configuration files for my setup
 - [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
@@ -2729,7 +2749,6 @@
 - [repo2docker-action](https://github.com/ouseful-PR/repo2docker-action) - GitHub Action for repo2docker
 - [agnoster-bash](https://github.com/speedenator/agnoster-bash) - Agnoster Theme for Bash
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [bin](https://github.com/grawity/bin) - ~/bin – tools only useful locally (and therefore not part of ~/code)
 - [dotfiles](https://github.com/pawelgrzybek/dotfiles) - 
