@@ -69,6 +69,7 @@
 
 ## AutoHotkey 
 
+- [capslock-plus-plus](https://github.com/matrix1001/capslock-plus-plus) - ⌨Amazing, extendable, readable autohotkey scripts framework utilized by Capslock.
 - [ahk-caps-ctrl-esc](https://github.com/fenwar/ahk-caps-ctrl-esc) - Autohotkey script that maps Capslock to Esc *and* Ctrl
 - [CapsLocKeys.ahk](https://github.com/Liu233w/CapsLocKeys.ahk) - An autohotkey's script which makes your capslock more powerful
 - [ahk-swap-esc-caps-lock](https://github.com/fr3fou/ahk-swap-esc-caps-lock) - :arrows_counterclockwise: Simple AHK script to swap Esc with Caps-Lock (and binding caps to Scroll Lock). Used primarily by vim users.
@@ -153,6 +154,8 @@
 
 ## C# # 
 
+- [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
+- [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [parallel-change](https://github.com/unclejamal/parallel-change) - 
 - [example-voting-app](https://github.com/dockersamples/example-voting-app) - Example Docker Compose app
 - [infer](https://github.com/dotnet/infer) - Infer.NET is a framework for running Bayesian inference in graphical models
@@ -532,6 +535,7 @@
 
 ## Go 
 
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [yup](https://github.com/ericm/yup) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [lstags](https://github.com/ivanilves/lstags) - Manipulate Docker images across different registries
@@ -708,6 +712,7 @@
 
 ## Haskell 
 
+- [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -1181,7 +1186,7 @@
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
 - [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
-- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning with PyTorch
+- [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
 - [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
@@ -1446,6 +1451,8 @@
 
 ## Others 
 
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+- [bread](https://github.com/samclifford/bread) - Bread recipes
 - [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI  ✨ 🌟 ✨
 - [Datasets-of-Master-Data-Science-with-Python](https://github.com/TrainingByPackt/Datasets-of-Master-Data-Science-with-Python) - Datasets of Master Data Science with Python, published by Packt. For the complete code files, visit https://github.com/TrainingByPackt/Data-Science-with-Python
 - [Datasets-of-Master-Data-Science-with-Python](https://github.com/PacktPublishing/Datasets-of-Master-Data-Science-with-Python) - Visit: https://github.com/TrainingByPackt/Master-Data-Science-with-Python
@@ -1883,6 +1890,11 @@
 
 ## Python 
 
+- [Scripts](https://github.com/lahwaacz/Scripts) - 
+- [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
+- [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
+- [pypager](https://github.com/prompt-toolkit/pypager) - A $PAGER in pure Python, similar to "less".
+- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 Terminal Pomodoro Timer
 - [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
 - [qtile-examples](https://github.com/qtile/qtile-examples) - Example configurations and scripts for Qtile
 - [jupyterlab-latex](https://github.com/jupyterlab/jupyterlab-latex) - JupyterLab extension for live editing of LaTeX documents
@@ -2328,7 +2340,7 @@
 - [data-validation](https://github.com/tensorflow/data-validation) - Library for exploring and validating machine learning data
 - [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
 - [model-optimization](https://github.com/tensorflow/model-optimization) - A suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution.
-- [datasets](https://github.com/tensorflow/datasets) - A collection of datasets ready to use with TensorFlow
+- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow
 - [hub](https://github.com/tensorflow/hub) - A library for transfer learning by reusing parts of TensorFlow models.
 - [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
@@ -2972,6 +2984,7 @@
 
 ## TeX 
 
+- [r_viz](https://github.com/samclifford/r_viz) - 
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [rmarkdown-cookbook](https://github.com/yihui/rmarkdown-cookbook) - [WIP] R Markdown Cookbook. A range of tips and tricks to make better use of R Markdown.
@@ -3152,6 +3165,7 @@
 
 ## Vim script 
 
+- [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
