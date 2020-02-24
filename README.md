@@ -446,6 +446,8 @@
 
 ## Dockerfile 
 
+- [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
+- [xxh-dev](https://github.com/xonssh/xxh-dev) - Development and test environment for xxh
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
@@ -943,7 +945,7 @@
 - [gnome-shell-extension-clipboard-indicator](https://github.com/Tudmotu/gnome-shell-extension-clipboard-indicator) - Clipboard Manager extension for Gnome-Shell - Adds a clipboard indicator to the top panel, and saves clipboard history.
 - [gnome-shell-extension-extensions](https://github.com/petres/gnome-shell-extension-extensions) - gnome shell extension to enable/disable extension easily via a panel menu
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension.
-- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell. Just move a window to the edges of the screen to create a tiling, otherwise move a window over another one, holding down the Control key. Grouped windows minimize, resize, raise and change workspace together. Move or maximize a window to remove it from the group.
+- [shelltile](https://github.com/emasab/shelltile) - A tiling window extension for GNOME Shell
 - [wintile](https://github.com/Fmstrat/wintile) - Windows 10 window tiling for GNOME
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [thebelab](https://github.com/minrk/thebelab) - ThebeLab: turning static HTML pages into live documents
@@ -1116,7 +1118,7 @@
 - [scipy2019-jupyterlab-tutorial](https://github.com/jupyterlab/scipy2019-jupyterlab-tutorial) - Scipy 2019 JupyterLab tutorial
 - [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab
 - [jupyterlab-commenting](https://github.com/jupyterlab/jupyterlab-commenting) - Commenting and annotation for JupyterLab
-- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform that supports Jupyter Notebooks.
+- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [matlab-with-python](https://github.com/mathworks/matlab-with-python) - Files demonstrating MATLAB and Python interoperability
 - [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
 - [histogram-tutorial](https://github.com/henryiii/histogram-tutorial) - Tutorials for boost-histogram
@@ -1890,6 +1892,15 @@
 
 ## Python 
 
+- [xontrib-avox](https://github.com/astronouth7303/xontrib-avox) - autovox policy based on project directories
+- [xontrib-kitty](https://github.com/scopatz/xontrib-kitty) - Xonsh hooks for the Kitty terminal emulator
+- [xontrib-powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell
+- [distro](https://github.com/nir0s/distro) - A much more elaborate, renewed alternative implementation for Python's platform.linux_distribution()
+- [backtrace](https://github.com/nir0s/backtrace) - Makes Python tracebacks human friendly
+- [xontrib-readable-traceback](https://github.com/vaaaaanquish/xontrib-readable-traceback) - xonsh readable traceback
+- [xo](https://github.com/scopatz/xo) - exofrills text editor
+- [xontrib-z](https://github.com/astronouth7303/xontrib-z) - Tracks your most used directories, based on 'frecency'.
+- [xxh](https://github.com/xonssh/xxh) - Python-powered shell wherever you go through the ssh
 - [Scripts](https://github.com/lahwaacz/Scripts) - 
 - [ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
 - [python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit) - Library for building powerful interactive command line applications in Python
@@ -2701,6 +2712,7 @@
 
 ## Rust 
 
+- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
@@ -2734,6 +2746,10 @@
 
 ## Shell 
 
+- [shwain](https://github.com/strigo/shwain) - A Mark Twain for your bash. https://github.com/strigo/wryte logger clone
+- [dotfiles](https://github.com/nir0s/dotfiles) - 
+- [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
