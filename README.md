@@ -12,8 +12,6 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
-  - [Cuda](#cuda)
-  - [D](#d)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
@@ -89,6 +87,9 @@
 
 ## C 
 
+- [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
+- [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
+- [c4](https://github.com/rswier/c4) - C in four functions
 - [uncap](https://github.com/susam/uncap) - Map Caps Lock to Escape, or any key to any key
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [package-query](https://github.com/archlinuxfr/package-query) - Query alpm database and AUR
@@ -432,20 +433,13 @@
 - [frontend](https://github.com/circleci/frontend) - CircleCI's frontend
 - [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
-## Cuda 
-
-- [cutlass](https://github.com/NVIDIA/cutlass) - CUDA Templates for Linear Algebra Subroutines
-
-## D 
-
-- [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
-
 ## Dart 
 
 - [plotFun](https://github.com/wzhd/plotFun) - Instant XKCD-style Graphs created in Javascript D3 for your enjoyment  http://xkcdgraphs.com/
 
 ## Dockerfile 
 
+- [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [xxh-dev](https://github.com/xonssh/xxh-dev) - Development and test environment for xxh
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
@@ -537,6 +531,7 @@
 
 ## Go 
 
+- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [yup](https://github.com/ericm/yup) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -615,6 +610,7 @@
 
 ## HTML 
 
+- [Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) - 
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
 - [trivia](https://github.com/caradojo/trivia) - Legacy Code Retreat - Grenoble 2011
 - [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
@@ -714,6 +710,7 @@
 
 ## Haskell 
 
+- [applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
 - [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1111,6 +1108,7 @@
 
 ## Jupyter Notebook 
 
+- [testing-scientific-code](https://github.com/ProfessorKazarinoff/testing-scientific-code) - A repo with example scientific code and tests to go along with it
 - [ThinkBayes](https://github.com/rlabbe/ThinkBayes) - Jupyter Notebooks derived from Allen Downey's book Think Bayes.
 - [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) - Text and supporting code for Think Stats, 2nd Edition
 - [ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2) - Text and code for the forthcoming second edition of Think Bayes, by Allen Downey.
@@ -1379,9 +1377,6 @@
 ## Kotlin 
 
 - [JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
-- [thepill](https://github.com/manojlds/thepill) - Decision Trees with Neo4J
-- [OneList](https://github.com/lolo-io/OneList) - 
-- [batect](https://github.com/batect/batect) - Build And Testing Environments as Code Tool
 - [termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
 
 ## Lua 
@@ -1892,6 +1887,8 @@
 
 ## Python 
 
+- [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
+- [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [xontrib-avox](https://github.com/astronouth7303/xontrib-avox) - autovox policy based on project directories
 - [xontrib-kitty](https://github.com/scopatz/xontrib-kitty) - Xonsh hooks for the Kitty terminal emulator
 - [xontrib-powerline](https://github.com/santagada/xontrib-powerline) - Powerline for Xonsh shell
@@ -1923,7 +1920,7 @@
 - [wrapspawner](https://github.com/jupyterhub/wrapspawner) - Mechanism for runtime configuration of spawners for JupyterHub
 - [hanythingondemand](https://github.com/hpcugent/hanythingondemand) - hanythingondemand provides a set of scripts to easily set up an ad-hoc Hadoop cluster through PBS jobs
 - [remotespawner](https://github.com/zonca/remotespawner) - Remote Spawner class for JupyterHub to spawn IPython notebooks and a remote server and tunnel the port via SSH
-- [records](https://github.com/kennethreitz/records) - SQL for Humans™
+- [records](https://github.com/kennethreitz-archive/records) - SQL for Humans™
 - [scrapbook](https://github.com/nteract/scrapbook) - A library for recording and reading data in notebooks.
 - [bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses
 - [dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date with the latest version
@@ -1963,7 +1960,7 @@
 - [powerline-docker](https://github.com/adrianmo/powerline-docker) - A Powerline segment for showing the status of your Docker containers
 - [nb_conda_kernels](https://github.com/Anaconda-Platform/nb_conda_kernels) - Package for managing conda environment-based kernels inside of Jupyter
 - [pyganja](https://github.com/pygae/pyganja) - Visualisation library for geometric algebra with cefpython and ganja.js
-- [clifford](https://github.com/pygae/clifford) - Numeric Geometric Algebra module for Python
+- [clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
 - [jupyter-manim](https://github.com/krassowski/jupyter-manim) - manim cell magic for IPython/Jupyter to show the output video
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [pangeo-stacks](https://github.com/pangeo-data/pangeo-stacks) - Curated Docker images for use with Jupyter and Pangeo
@@ -2022,7 +2019,7 @@
 - [jupyter](https://github.com/ljagged/jupyter) - config files for running jupyter notebooks
 - [jupyter_config_overview](https://github.com/Zsailer/jupyter_config_overview) - How to navigate Jupyter's configuration system
 - [StartupFiles](https://github.com/CamDavidsonPilon/StartupFiles) - My IPython startup files.
-- [mini_hist](https://github.com/henryiii/mini_hist) - GSoC evaluation project
+- [mini_hist](https://github.com/henryiii/mini_hist) - GSoC 2020 evaluation project
 - [python-fire](https://github.com/jtratner/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [docker-registry-list](https://github.com/al4/docker-registry-list) - List the tags in a docker registry
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
@@ -2478,7 +2475,7 @@
 - [python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples) - Code samples used on cloud.google.com
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
-- [bake](https://github.com/kennethreitz/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [quay](https://github.com/quay/quay) - Build, Store, and Distribute your Applications and Containers
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -2579,6 +2576,7 @@
 
 ## R 
 
+- [readstata13](https://github.com/sjewo/readstata13) - Package to read the Stata 13 (and newer) file format into a R data.frame
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [CompetingEvents_Young_SIM_2020](https://github.com/CausalInference/CompetingEvents_Young_SIM_2020) - R Code used in https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8471
@@ -2746,6 +2744,9 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/ramnes/dotfiles) - :arrow_up::arrow_up::arrow_down::arrow_down::arrow_left::arrow_right::arrow_left::arrow_right::b::a:
+- [docker-bedrockserver](https://github.com/BoxOfSnoo/docker-bedrockserver) - 
+- [docker_bedrockserver](https://github.com/karlrees/docker_bedrockserver) - Native Bedrock Minecraft Server Docker Project
 - [shwain](https://github.com/strigo/shwain) - A Mark Twain for your bash. https://github.com/strigo/wryte logger clone
 - [dotfiles](https://github.com/nir0s/dotfiles) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
