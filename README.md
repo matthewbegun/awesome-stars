@@ -80,6 +80,7 @@
 
 ## Batchfile 
 
+- [scoop-bucket](https://github.com/dodorz/scoop-bucket) - 
 - [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
 - [offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
@@ -531,6 +532,8 @@
 
 ## Go 
 
+- [docui](https://github.com/skanehira/docui) - TUI Client for Docker
+- [cli](https://github.com/docker/cli) - The Docker CLI
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [yup](https://github.com/ericm/yup) - Arch Linux AUR Helper with ncurses functionality and better searching and sorting
@@ -846,6 +849,7 @@
 
 ## JavaScript 
 
+- [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 - [extension-cookiecutter-js](https://github.com/jupyterlab/extension-cookiecutter-js) - A cookiecutter recipe for building JupyterLab extensions.
 - [timepp__gnome](https://github.com/zagortenay333/timepp__gnome) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarms gnome-shell extension.
 - [gnome-shell-extension-services-systemd](https://github.com/petres/gnome-shell-extension-services-systemd) - Gnome Shell Extension that allows to start and stop systemd services
@@ -1448,6 +1452,8 @@
 
 ## Others 
 
+- [scoop-bear](https://github.com/AStupidBear/scoop-bear) - Scoop bucket for niche apps
+- [scoop-user](https://github.com/excitoon/scoop-user) - User Scoop repository
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [bread](https://github.com/samclifford/bread) - Bread recipes
 - [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI  ✨ 🌟 ✨
@@ -1741,6 +1747,10 @@
 
 ## PowerShell 
 
+- [Scripts](https://github.com/Torxed/Scripts) - A boundle of useful scripts
+- [scoop-bucket](https://github.com/MCOfficer/scoop-bucket) - My personal scoop bucket.
+- [scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts.
+- [scoop-bucket](https://github.com/wangzq/scoop-bucket) - A bucket for http://scoop.sh
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows-ps](https://github.com/boxcutter/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
@@ -1887,6 +1897,8 @@
 
 ## Python 
 
+- [archinstall_gui](https://github.com/Torxed/archinstall_gui) - Guided Arch Linux graphical installer
+- [archinstall](https://github.com/Torxed/archinstall) - Arch Linux installer - guided, templates etc.
 - [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [xontrib-avox](https://github.com/astronouth7303/xontrib-avox) - autovox policy based on project directories
@@ -2687,6 +2699,7 @@
 ## Ruby 
 
 - [whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
+- [redisplanet](https://github.com/collabnix/redisplanet) - Redisplanet - An Ultimate Hands-on Labs on Redis
 - [nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [pomodori-todo.txt](https://github.com/metalelf0/pomodori-todo.txt) - A pomodoro counter implementation for todo.txt.
 - [pointless-xcompose](https://github.com/rrthomas/pointless-xcompose) - Extra Compose mappings to input an irritatingly large number of Unicode symbols under X.
@@ -2710,6 +2723,7 @@
 
 ## Rust 
 
+- [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
@@ -2744,6 +2758,7 @@
 
 ## Shell 
 
+- [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [dotfiles](https://github.com/ramnes/dotfiles) - :arrow_up::arrow_up::arrow_down::arrow_down::arrow_left::arrow_right::arrow_left::arrow_right::b::a:
 - [docker-bedrockserver](https://github.com/BoxOfSnoo/docker-bedrockserver) - 
 - [docker_bedrockserver](https://github.com/karlrees/docker_bedrockserver) - Native Bedrock Minecraft Server Docker Project
@@ -2768,7 +2783,6 @@
 - [hello-world](https://github.com/docker-library/hello-world) - 
 - [potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
-- [redisplanet](https://github.com/collabnix/redisplanet) - Redisplanet - An Ultimate Hands-on Labs on Redis
 - [agnoster-bash](https://github.com/maddeye/agnoster-bash) - Agnoster Theme for Bash with a twist
 - [dot-fonts](https://github.com/tony/dot-fonts) - Programmer and CJK / Unicode fonts.
 - [.dot-config](https://github.com/tony/.dot-config) - :books: Example dot configs for tmux, tmuxp, vim, vcspull, i3 and awesome
@@ -3011,7 +3025,7 @@
 - [Researchplus](https://github.com/robjhyndman/Researchplus) - 
 - [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
-- [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for using Dockerfiles for reproducible research
+- [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for writing Dockerfiles for reproducible research
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [cookiecutter-r-data-analysis](https://github.com/bdcaf/cookiecutter-r-data-analysis) - cookie cutter template for my r workflow
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
