@@ -45,6 +45,7 @@
   - [Prolog](#prolog)
   - [Python](#python)
   - [R](#r)
+  - [Racket](#racket)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -88,6 +89,7 @@
 
 ## C 
 
+- [multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [c4](https://github.com/rswier/c4) - C in four functions
@@ -1385,6 +1387,7 @@
 
 ## Lua 
 
+- [config](https://github.com/mawww/config) - dotfiles
 - [awesome](https://github.com/sandermarechal/awesome) - My Awesome WM configuration
 - [pandoc-zotxt.lua](https://github.com/odkr/pandoc-zotxt.lua) - Pandoc filter that looks up sources for citations in Zotero.
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -1897,6 +1900,7 @@
 
 ## Python 
 
+- [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [archinstall_gui](https://github.com/Torxed/archinstall_gui) - Guided Arch Linux graphical installer
 - [archinstall](https://github.com/Torxed/archinstall) - Arch Linux installer - guided, templates etc.
 - [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
@@ -2692,6 +2696,10 @@
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
+## Racket 
+
+- [macrotypes](https://github.com/stchang/macrotypes) - 
+
 ## Roff 
 
 - [pandoc-templates](https://github.com/jgm/pandoc-templates) - Templates for pandoc, tagged to release
@@ -2929,7 +2937,7 @@
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - The most awesome Powerline theme for ZSH around!
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -3015,6 +3023,7 @@
 
 ## TeX 
 
+- [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 - [r_viz](https://github.com/samclifford/r_viz) - 
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
@@ -3196,6 +3205,11 @@
 
 ## Vim script 
 
+- [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
+- [dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
+- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+- [vimpager](https://github.com/rkitover/vimpager) - Use Vim as PAGER
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
 - [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
