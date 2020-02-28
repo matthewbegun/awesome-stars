@@ -158,6 +158,7 @@
 
 ## C# # 
 
+- [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [parallel-change](https://github.com/unclejamal/parallel-change) - 
@@ -325,6 +326,7 @@
 
 ## C++ 
 
+- [minixonsh](https://github.com/xonsh/minixonsh) - Subset of Xonsh, that can be statically compiled, implemented in C++
 - [LBTService](https://github.com/night199uk/LBTService) - Windows Service to convert HID proxy devices to HCI mode, forked from http://code.google.com/p/lbtservice/
 - [auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
 - [miniparquet](https://github.com/hannesmuehleisen/miniparquet) - Library to read a subset of Parquet files
@@ -395,6 +397,7 @@
 
 ## CSS 
 
+- [scipy-2019-tutorial](https://github.com/xonsh/scipy-2019-tutorial) - xonsh - bringing Python data science to your shell
 - [theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [fairmatrix2019nanopub-talk](https://github.com/tkuhn/fairmatrix2019nanopub-talk) - 
@@ -534,6 +537,7 @@
 
 ## Go 
 
+- [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [cli](https://github.com/docker/cli) - The Docker CLI
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -715,6 +719,7 @@
 
 ## Haskell 
 
+- [ArchLinuxPkgStatsScraper](https://github.com/chrissound/ArchLinuxPkgStatsScraper) - A project to scrape the contents of Arch Package Statistics as there is no API.
 - [applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
 - [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
@@ -1455,6 +1460,7 @@
 
 ## Others 
 
+- [scipy2019_tutorial](https://github.com/xonsh/scipy2019_tutorial) - 
 - [scoop-bear](https://github.com/AStupidBear/scoop-bear) - Scoop bucket for niche apps
 - [scoop-user](https://github.com/excitoon/scoop-user) - User Scoop repository
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
@@ -1473,7 +1479,6 @@
 - [notebooks_in_vscode_and_pycharm_jan_2020](https://github.com/mwouts/notebooks_in_vscode_and_pycharm_jan_2020) - Working with Jupyter Notebooks in Visual Studio Code and PyCharm (January 2020)
 - [ioc-infrastructure-review](https://github.com/innovationOUtside/ioc-infrastructure-review) - Public repo reviewing infrastructure approaches used to deliver coding courses
 - [tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [api-gateway-service-proxy](https://github.com/PokaInc/api-gateway-service-proxy) - Credentials-less service access using an IAM authenticated API Gateway as a proxy™
 - [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - :page_facing_up: List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
@@ -1730,6 +1735,7 @@
 
 ## Perl 
 
+- [...](https://github.com/ingydotnet/...) - Dot Dot Dot
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [OpenBox-addons-collection](https://github.com/ilnanny/OpenBox-addons-collection) - OpenBox addons collection
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
@@ -1750,6 +1756,9 @@
 
 ## PowerShell 
 
+- [DockerComposeCompletion](https://github.com/matt9ucci/DockerComposeCompletion) - Docker Compose command completion for PowerShell.
+- [dotfiles](https://github.com/samneirinck/dotfiles) - Preferences & settings of my toolbox
+- [Posh-Sysmon](https://github.com/darkoperator/Posh-Sysmon) - PowerShell module for creating and managing Sysinternals Sysmon config files.
 - [Scripts](https://github.com/Torxed/Scripts) - A boundle of useful scripts
 - [scoop-bucket](https://github.com/MCOfficer/scoop-bucket) - My personal scoop bucket.
 - [scoop-nerd-fonts](https://github.com/matthewjberger/scoop-nerd-fonts) - A scoop bucket for installing nerd fonts.
@@ -1900,6 +1909,8 @@
 
 ## Python 
 
+- [coral](https://github.com/xonsh/coral) - The animating and life-affirming code formatter for Xonsh & Python
+- [container](https://github.com/xonsh/container) - xonsh on docker
 - [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [archinstall_gui](https://github.com/Torxed/archinstall_gui) - Guided Arch Linux graphical installer
 - [archinstall](https://github.com/Torxed/archinstall) - Arch Linux installer - guided, templates etc.
@@ -2731,6 +2742,7 @@
 
 ## Rust 
 
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
@@ -2746,7 +2758,6 @@
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 
@@ -2766,6 +2777,8 @@
 
 ## Shell 
 
+- [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
+- [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
 - [dotfiles](https://github.com/ramnes/dotfiles) - :arrow_up::arrow_up::arrow_down::arrow_down::arrow_left::arrow_right::arrow_left::arrow_right::b::a:
 - [docker-bedrockserver](https://github.com/BoxOfSnoo/docker-bedrockserver) - 
@@ -2800,6 +2813,7 @@
 - [repo2docker-action](https://github.com/ouseful-PR/repo2docker-action) - GitHub Action for repo2docker
 - [agnoster-bash](https://github.com/speedenator/agnoster-bash) - Agnoster Theme for Bash
 - [tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [cryptboot](https://github.com/xmikos/cryptboot) - Encrypted boot partition manager with UEFI Secure Boot support
 - [bin](https://github.com/grawity/bin) - ~/bin – tools only useful locally (and therefore not part of ~/code)
 - [dotfiles](https://github.com/pawelgrzybek/dotfiles) - 
