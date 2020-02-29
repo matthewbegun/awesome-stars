@@ -89,6 +89,7 @@
 
 ## C 
 
+- [i-use-arch-btw](https://github.com/OverMighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 - [multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
@@ -326,6 +327,7 @@
 
 ## C++ 
 
+- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
 - [minixonsh](https://github.com/xonsh/minixonsh) - Subset of Xonsh, that can be statically compiled, implemented in C++
 - [LBTService](https://github.com/night199uk/LBTService) - Windows Service to convert HID proxy devices to HCI mode, forked from http://code.google.com/p/lbtservice/
 - [auracle](https://github.com/falconindy/auracle) - A flexible command line client for Arch Linux's User Repository
@@ -581,7 +583,6 @@
 - [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
-- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
@@ -599,7 +600,7 @@
 - [lfs-test-server](https://github.com/git-lfs/lfs-test-server) - Standalone Git LFS server
 - [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [actions](https://github.com/apex/actions) - GitHub Actions
-- [act](https://github.com/nektos/act) - Run your GitHub Actions locally
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -631,6 +632,7 @@
 - [Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
+- [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
 - [Gallery](https://github.com/noklam/Gallery) - Gallery
@@ -745,6 +747,7 @@
 
 ## Java 
 
+- [AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
 - [code-dojo-39](https://github.com/sleepyfox/code-dojo-39) - Code for the 39th London Code Dojo meetup in Oct 2016, Song refactoring kata
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -856,6 +859,11 @@
 
 ## JavaScript 
 
+- [chrome-mathjax-injector](https://github.com/sisp/chrome-mathjax-injector) - A Chrome extension to render math expressions on any page, even if it does not supported math rendering, using MathJAX.
+- [wiki-mathjax](https://github.com/bgromov/wiki-mathjax) - Chrome extension that renders Wikipedia equations with MathJax
+- [github-mathjax](https://github.com/orsharir/github-mathjax) - Chrome extension for rendering LaTeX equations in GitHub with MathJax
+- [texthings](https://github.com/emichael/texthings) - Tex All the Things: Chrome extension which typesets LaTeX in webpages using MathJax
+- [TrelloExport](https://github.com/trapias/TrelloExport) - Chrome extension to export Trello boards to Excel, Markdown, HTML and OPML
 - [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 - [extension-cookiecutter-js](https://github.com/jupyterlab/extension-cookiecutter-js) - A cookiecutter recipe for building JupyterLab extensions.
 - [timepp__gnome](https://github.com/zagortenay333/timepp__gnome) - A todo.txt manager, time tracker, timer, stopwatch, pomodoro, and alarms gnome-shell extension.
@@ -1460,6 +1468,8 @@
 
 ## Others 
 
+- [an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
+- [Raspberry-Pi-Setup-Guide](https://github.com/phortx/Raspberry-Pi-Setup-Guide) - A really opionionated guide how to setup a Raspberry Pi 4 with Arch Linux including WiringPi, NTP, Wi-Fi, SSH, Ruby (asdf), ZSH and more.
 - [scipy2019_tutorial](https://github.com/xonsh/scipy2019_tutorial) - 
 - [scoop-bear](https://github.com/AStupidBear/scoop-bear) - Scoop bucket for niche apps
 - [scoop-user](https://github.com/excitoon/scoop-user) - User Scoop repository
@@ -1504,7 +1514,6 @@
 - [awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
 - [Tiny-Python-3.6-Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - This repository contains the text for the Tiny Python 3.6 Notebook.
-- [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and "worst practices".
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [canihaznonprivilegedcontainers.info](https://github.com/mhausenblas/canihaznonprivilegedcontainers.info) - Advocacy site for the uptake of using non-privileged containers
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
@@ -1744,7 +1753,6 @@
 - [smt-manager](https://github.com/damentz/smt-manager) - Simultaneous Multithreading (SMT) Manager - enable or disable hyperthreading cores, or display your current CPU topology.
 - [its-pointless.github.io](https://github.com/its-pointless/its-pointless.github.io) - For info see https://github.com/its-pointless/gcc_termux
 - [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) - Autoenv for zsh
-- [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
@@ -1909,6 +1917,9 @@
 
 ## Python 
 
+- [atilo](https://github.com/YadominJinta/atilo) - Linux installer for termux
+- [py-trello](https://github.com/sarumont/py-trello) - Python API wrapper around Trello's API
+- [Trello_Util](https://github.com/avinash010/Trello_Util) - Trello utility to create board, cards using Python Requests Module
 - [coral](https://github.com/xonsh/coral) - The animating and life-affirming code formatter for Xonsh & Python
 - [container](https://github.com/xonsh/container) - xonsh on docker
 - [calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -2239,7 +2250,6 @@
 - [aur](https://github.com/cdown/aur) - Arch User Repository API interface.
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Continous test runner when used with pytest-watch.
-- [pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [fontpatcher](https://github.com/powerline/fontpatcher) - Script to patch arrow and symbol glyphs into fonts for usage with  Powerline and other compatible plugins.
 - [pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [pkgbuilder](https://github.com/Kwpolska/pkgbuilder) - An AUR helper (and library) in Python 3.
@@ -2758,7 +2768,7 @@
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [r13y.com](https://github.com/grahamc/r13y.com) - NixOS Reproducibility Checker
 - [termux-packaging](https://github.com/termux/termux-packaging) - Termux packaging tools.
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 - [coaster](https://github.com/spearow/coaster) - Extendable HPC-Framework for CUDA, OpenCL and common CPU
 
 ## SAS 
@@ -2777,6 +2787,26 @@
 
 ## Shell 
 
+- [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
+- [zen_installer](https://github.com/spookykidmm/zen_installer) - Graphical installer for Arch Linux
+- [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
+- [Archlinux-Installer](https://github.com/si9ma/Archlinux-Installer) - Arch Linux Installer,Install your Arch Linux more quickly
+- [postinstall](https://github.com/Cyclenerd/postinstall) - 💻 Bash Script to automate post-installation steps
+- [dotfiles_ikigai](https://github.com/yedhink/dotfiles_ikigai) - dotfiles 🔥 includes scripts that makes my life easier!
+- [cylon](https://github.com/gavinlyonsrepo/cylon) - Updates, maintenance, backups and system checks in a TUI menu driven  bash shell  script for an Arch based Linux distro
+- [archlinux](https://github.com/adi1090x/archlinux) - An Arch Linux Based Custom ISO Made With "Archiso"
+- [compute-archlinux-image-builder](https://github.com/GoogleCloudPlatform/compute-archlinux-image-builder) - A tool to build a Arch Linux Image for GCE
+- [Arch-Linux-Installer](https://github.com/YangMame/Arch-Linux-Installer) - Arch-Linux-Install-Script/Arch Linux 安装脚本
+- [archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
+- [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, i3, kitty, kakoune, zsh and more + installation guide
+- [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
+- [packer-arch](https://github.com/elasticdog/packer-arch) - packer.io template for building an Arch Linux base box
+- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, fish, Neovim and more
+- [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
+- [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
+- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
+- [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
@@ -2786,7 +2816,6 @@
 - [shwain](https://github.com/strigo/shwain) - A Mark Twain for your bash. https://github.com/strigo/wryte logger clone
 - [dotfiles](https://github.com/nir0s/dotfiles) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
-- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
@@ -2922,7 +2951,6 @@
 - [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX
 - [junest](https://github.com/fsquillace/junest) - The lightweight Arch Linux based distro that runs upon any Linux distros without root access
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
-- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [git-dropbox](https://github.com/agnoster/git-dropbox) - The easiest way to use a Dropbox for git repositories
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -2934,14 +2962,12 @@
 - [screenFetch](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [docker-fake_wsl_env](https://github.com/wslutilities/docker-fake_wsl_env) - A fake WSL environment for preforming WSL specific tasks in Docker or CI
-- [wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [contrib](https://github.com/archlinux/contrib) - Arch contrib scripts
 - [zsh-capture-completion](https://github.com/Valodim/zsh-capture-completion) - 
 - [dotfiles](https://github.com/csurfer/dotfiles) - Single command setup of all dev-environments.
 - [au](https://github.com/SDRausty/au) - You can use au 📲 (auto upgrade) to backup your Termux *.deb packages; This enables rollback in Termux.  https://sdrausty.github.io/au
 - [TermuxArch](https://github.com/SDRausty/TermuxArch) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/TermuxArch/docs/install
 - [termux-packages](https://github.com/termux/termux-packages) - Android terminal and Linux environment - packages repository.
-- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
 - [dotfiles](https://github.com/dstufft/dotfiles) - My dotfiles
 - [CO2Aldrin](https://github.com/qjcg/CO2Aldrin) - Fizzing and buzzing along the road to enlightenment.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -3219,6 +3245,11 @@
 
 ## Vim script 
 
+- [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
+- [vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
+- [dotfiles](https://github.com/isaacmorneau/dotfiles) - Look at your vim, now look back at mine, now back to your vim, now back to mine. Sadly it isn't mine, but if you stopped using your own dotfiles and switch to my dotfiles, it could look like mine.
+- [.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
+- [k-vim](https://github.com/wklken/k-vim) - vim配置
 - [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
