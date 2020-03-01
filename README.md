@@ -29,18 +29,15 @@
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
-  - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
   - [Nix](#nix)
   - [OCaml](#ocaml)
-  - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
   - [Pep8](#pep8)
   - [Perl](#perl)
-  - [PostScript](#postscript)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -159,6 +156,7 @@
 
 ## C# # 
 
+- [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
@@ -399,6 +397,7 @@
 
 ## CSS 
 
+- [google-api-javascript-client](https://github.com/google/google-api-javascript-client) - Google APIs Client Library for browser JavaScript, aka gapi.
 - [scipy-2019-tutorial](https://github.com/xonsh/scipy-2019-tutorial) - xonsh - bringing Python data science to your shell
 - [theme-cookiecutter](https://github.com/jupyterlab/theme-cookiecutter) - A cookiecutter template to help you make new JupyterLab theme extensions
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
@@ -1127,6 +1126,7 @@
 
 ## Jupyter Notebook 
 
+- [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [testing-scientific-code](https://github.com/ProfessorKazarinoff/testing-scientific-code) - A repo with example scientific code and tests to go along with it
 - [ThinkBayes](https://github.com/rlabbe/ThinkBayes) - Jupyter Notebooks derived from Allen Downey's book Think Bayes.
 - [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) - Text and supporting code for Think Stats, 2nd Edition
@@ -1409,10 +1409,6 @@
 - [lua-filters](https://github.com/pandoc/lua-filters) - A collection of lua filters for pandoc
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 
-## M4 
-
-- [argbash](https://github.com/matejak/argbash) - Bash argument parsing code generator
-
 ## MATLAB 
 
 - [Apollo_11_Moon_Landing_-_50th_Anniversary_Model](https://github.com/mathworks/Apollo_11_Moon_Landing_-_50th_Anniversary_Model) - This example shows how Richard Gran and the other engineers who worked on the Apollo Lunar Module digital autopilot design team could have done it using Simulink®, Stateflow®, Aerospace Blockset™ and Simulink 3D Animation if they had been available in 1961.
@@ -1440,7 +1436,6 @@
 - [makefiles](https://github.com/cytopia/makefiles) - 
 - [archlinux-docker](https://github.com/archlinux/archlinux-docker) - Docker Base Image for Arch Linux
 - [docker-images](https://github.com/sagemath/docker-images) - Dockerfiles for Sage
-- [awesome-web-scraping](https://github.com/lorien/awesome-web-scraping) - List of libraries, tools and APIs for web scraping and data processing.
 - [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 
@@ -1460,11 +1455,6 @@
 ## OCaml 
 
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
-- [tldr.jsx](https://github.com/ostera/tldr.jsx) - 📚 A Reactive web client for tldr-pages
-
-## Objective-C 
-
-- [typed-astronauts-in-space](https://github.com/typeguard/typed-astronauts-in-space) - Open APIs From Space
 
 ## Others 
 
@@ -1491,7 +1481,7 @@
 - [tao-of-tmux](https://github.com/git-pull/tao-of-tmux) - Spin-off book for tmuxp's documentation of "The Tao of Tmux"
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [api-gateway-service-proxy](https://github.com/PokaInc/api-gateway-service-proxy) - Credentials-less service access using an IAM authenticated API Gateway as a proxy™
-- [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - :page_facing_up: List of coronavirus applications built in response to the 2019-nCov virus from Dec 2019
+- [coronavirus-apps](https://github.com/abuuzayr/coronavirus-apps) - :page_facing_up: List of coronavirus applications built in response to the COVID-19 virus from Dec 2019
 - [ama](https://github.com/holman/ama) - Ask @holman anything!
 - [dear-github](https://github.com/dear-github/dear-github) - :incoming_envelope: An open letter to GitHub from the maintainers of open source projects
 - [github](https://github.com/isaacs/github) - Just a place to track issues and feature requests that I have for github
@@ -1758,10 +1748,6 @@
 - [everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and everything related to this.
 - [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
 
-## PostScript 
-
-- [powerline-extra-symbols](https://github.com/ryanoasis/powerline-extra-symbols) - :arrow_forward: Extra glyphs for your powerline separators
-
 ## PowerShell 
 
 - [DockerComposeCompletion](https://github.com/matt9ucci/DockerComposeCompletion) - Docker Compose command completion for PowerShell.
@@ -1773,7 +1759,6 @@
 - [scoop-bucket](https://github.com/wangzq/scoop-bucket) - A bucket for http://scoop.sh
 - [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [windows-ps](https://github.com/boxcutter/windows-ps) - Next generation Windows templates based on PowerShell scripts
-- [Catesta](https://github.com/techthoughts2/Catesta) - Catesta is a PowerShell module project generator. It uses templates to rapidly scaffold test and build integration for a variety of CI/CD platforms.
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
 - [dotfiles](https://github.com/SeeminglyScience/dotfiles) - 
@@ -3063,6 +3048,7 @@
 
 ## TeX 
 
+- [stat-cookbook](https://github.com/mavam/stat-cookbook) - :orange_book: The probability and statistics cookbook
 - [AlgoXY](https://github.com/liuxinyu95/AlgoXY) - Book of Elementary Algorithms and Data structures
 - [r_viz](https://github.com/samclifford/r_viz) - 
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
@@ -3124,7 +3110,7 @@
 - [Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [Parsr](https://github.com/axa-group/Parsr) - Transforms PDF, Documents and Images into Enriched Structured Data
-- [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent commit secret/credential file.
+- [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [mindstream](https://github.com/xuhcc/mindstream) - Task management app, built on todo.txt.
@@ -3239,13 +3225,10 @@
 
 ## Vala 
 
-- [gnome-pomodoro](https://github.com/codito/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique!
 - [conky-manager2](https://github.com/zcot/conky-manager2) - Fork of GUI for managing Conky widgets. Support added for latest conky config version, and works with Ubuntu 16-18, Mint 18&19 and more.
-- [web-archives](https://github.com/birros/web-archives) - A web archives reader
 
 ## Vim script 
 
-- [idiomatic-vimrc](https://github.com/romainl/idiomatic-vimrc) - Guidelines for sculpting your very own ~/.vimrc.
 - [vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [dotfiles](https://github.com/isaacmorneau/dotfiles) - Look at your vim, now look back at mine, now back to your vim, now back to mine. Sadly it isn't mine, but if you stopped using your own dotfiles and switch to my dotfiles, it could look like mine.
 - [.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
@@ -3287,9 +3270,7 @@
 
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
-- [i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
-- [plantuml-editor](https://github.com/kkeisuke/plantuml-editor) - PlantUML online demo client
 
 ## Web Ontology Language 
 
