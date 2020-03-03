@@ -63,6 +63,11 @@
 
 ## C 
 
+- [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
+- [i3](https://github.com/i3/i3) - A tiling window manager
+- [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
+- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
 - [i-use-arch-btw](https://github.com/OverMighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
@@ -197,6 +202,9 @@
 
 ## C++ 
 
+- [blackboxwm](https://github.com/bbidulock/blackboxwm) - A window manager for X11
+- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
+- [icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -516,6 +524,7 @@
 
 ## JavaScript 
 
+- [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
 - [texthings](https://github.com/emichael/texthings) - Tex All the Things: Chrome extension which typesets LaTeX in webpages using MathJax
@@ -665,6 +674,14 @@
 
 ## Jupyter Notebook 
 
+- [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
+- [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
+- [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
+- [Survival-Analysis-on-Machine-Incident-Prediction](https://github.com/christine-ding/Survival-Analysis-on-Machine-Incident-Prediction) - Time-to-Failure Prediction using Coxph Regression Model
+- [iris_python](https://github.com/gesiscss/iris_python) - Example python repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
+- [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
+- [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
+- [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
 - [testing-scientific-code](https://github.com/ProfessorKazarinoff/testing-scientific-code) - A repo with example scientific code and tests to go along with it
 - [ThinkBayes](https://github.com/rlabbe/ThinkBayes) - Jupyter Notebooks derived from Allen Downey's book Think Bayes.
@@ -674,17 +691,13 @@
 - [scipy2019-jupyterlab-tutorial](https://github.com/jupyterlab/scipy2019-jupyterlab-tutorial) - Scipy 2019 JupyterLab tutorial
 - [jupyter-renderers](https://github.com/jupyterlab/jupyter-renderers) - Renderers and renderer extensions for JupyterLab
 - [jupyterlab-commenting](https://github.com/jupyterlab/jupyterlab-commenting) - Commenting and annotation for JupyterLab
-- [fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks.
 - [matlab-with-python](https://github.com/mathworks/matlab-with-python) - Files demonstrating MATLAB and Python interoperability
 - [causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins
-- [histogram-tutorial](https://github.com/henryiii/histogram-tutorial) - Tutorials for boost-histogram
 - [r4ds-python-plotnine](https://github.com/datascienceworkshops/r4ds-python-plotnine) - A translation of the visualisation chapters from "R for Data Science" to Python using Plotnine and Pandas.
 - [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) - A collection of Bayesian data analysis recipes using PyMC3
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
 - [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
-- [BDA_py_demos](https://github.com/avehtari/BDA_py_demos) - Bayesian Data Analysis demos for Python
-- [bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) - Notebooks related to Bayesian methods for machine learning
 - [improve-writing](https://github.com/FavioVazquez/improve-writing) - Using textstat to write better blogs and improve readability.
 - [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [notebooks](https://github.com/Naereen/notebooks) - :notebook: A growing collection of Jupyter Notebooks written in Python, OCaml and Julia for science examples, algorithms, visualizations etc
@@ -693,7 +706,6 @@
 - [data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks) - Data science Python notebooks—a collection of Jupyter notebooks on machine learning, deep learning, statistical inference, data analysis and visualization.
 - [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories
 - [papers-as-modules](https://github.com/andreas-zeller/papers-as-modules) - Software Papers as Software Modules: Towards a Culture of Reusable Results
-- [jupyter-guide](https://github.com/jupyter-guide/jupyter-guide) - Guide for Reproducible Research and Data Science in Jupyter Notebooks
 - [ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [jupyter-forchaps](https://github.com/alugowski/jupyter-forchaps) - Tooling and examples for using Jupyter Notebooks to write chapters that explain mathematical and engineering calculations.
@@ -703,223 +715,118 @@
 - [ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
-- [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
-- [dea-notebooks](https://github.com/GeoscienceAustralia/dea-notebooks) - Repository for Digital Earth Australia Jupyter Notebooks: tools and workflows for geospatial analysis with Open Data Cube and xarray
 - [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
-- [jupyterdayATL_2018_template](https://github.com/patanijo/jupyterdayATL_2018_template) - CookieCutter template for Presentation at JupyterDay Atlanta 2018
-- [cookiecutter](https://github.com/emcleer/cookiecutter) - Sourced from PBP -- Chris Moffitt
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
 - [CookieCutter](https://github.com/coolum001/CookieCutter) - Holds CookieCutter config for Jupyter Notebook Setup
 - [datasciencemvp](https://github.com/cliffclive/datasciencemvp) - Data Science template for quickly setting up a project workflow; lightweight version of cookiecutter datascience.
-- [cookiecutter-kaggle](https://github.com/uberwach/cookiecutter-kaggle) - A cookiecutter-based project template for starting kaggle projects with Python. Take a cookie, relax, and enjoy kaggling!
-- [pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
-- [pbp_cookiecutter](https://github.com/chris1610/pbp_cookiecutter) - Cookiecutter template for data analysis
 - [showcases](https://github.com/8080labs/showcases) - A collection of Python scripts
 - [scipy-2019-rapids-tutorial](https://github.com/Quansight/scipy-2019-rapids-tutorial) - Materials for the SciPy 2019 RAPIDS tutorial
 - [jupyter-config](https://github.com/GokuMohandas/jupyter-config) - 🌍 Configuration files for Jupyter features.
 - [jupyterlab-config](https://github.com/bhuztez/jupyterlab-config) - example configuration files of JupyterLab
-- [Data-Analysis](https://github.com/WillKoehrsen/Data-Analysis) - Data Science Using Python
 - [notebook-template-generator](https://github.com/jhurley13/notebook-template-generator) - Create Javascript used by Jupyter nbextensions to create new notebooks
-- [paper-template](https://github.com/pinga-lab/paper-template) - Template for a new paper repository with code, data, and a LaTeX manuscript. Use the Github "Import repository" to create a new paper.
-- [MonotoneSampling](https://github.com/danmackinlay/MonotoneSampling) - 
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
-- [nbplus](https://github.com/callysto/nbplus) - Layouts, magics and visualization tools for Callysto Creators
 - [how-to-python-code](https://github.com/TheRenegadeCoder/how-to-python-code) - A collection of Jupyter Notebooks from the How to Python series
-- [notebook-templates](https://github.com/callysto/notebook-templates) - Templates, snippets and Callysto banners for Jupyter notebooks
 - [jupyter-notebook-initializer](https://github.com/gregtam/jupyter-notebook-initializer) - Default notebook template and auxiliary files to use for data science analysis.
-- [hddm](https://github.com/hddm-devs/hddm) - HDDM is a python module that implements Hierarchical Bayesian parameter estimation of Drift Diffusion Models (via PyMC).
 - [pandas-notebook](https://github.com/henryiii/pandas-notebook) - Simple demo
 - [PythonDataScienceHandbook](https://github.com/mwouts/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [nbval](https://github.com/computationalmodelling/nbval) - A py.test plugin to validate Jupyter notebooks
 - [pytest-notebook](https://github.com/chrisjsewell/pytest-notebook) - A pytest plugin for regression testing and regenerating Jupyter Notebooks
-- [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and tutorials
-- [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl) - Awesome Artificial Intelligence, Machine Learning and Deep Learning as we learn it. Study notes and a curated list of awesome resources of such topics.
-- [essential_skills_RRC](https://github.com/barbagroup/essential_skills_RRC) - Essential skills for reproducible research computing
 - [numba_tutorial_scipy2016](https://github.com/barbagroup/numba_tutorial_scipy2016) - Numba tutorial materials for Scipy 2016
-- [AeroPython](https://github.com/barbagroup/AeroPython) - Classical Aerodynamics of potential flow using Python and Jupyter Notebooks
 - [Problem-Solving-with-Python-37-Edition](https://github.com/ProfessorKazarinoff/Problem-Solving-with-Python-37-Edition) - Repo for the book Problem Solving with Python 3.7 Edition by Peter D. Kazarinoff, PhD. The newest edition of Problem Solving with Python book.
 - [ENGR114-2020Q1](https://github.com/ProfessorKazarinoff/ENGR114-2020Q1) - GitHub repo of class notes and examples used in ENGR114 2020Q1 at Portland Community College
 - [mathematical-python](https://github.com/patrickwalls/mathematical-python) - Introduction to Mathematical Computing with Python and Jupyter
-- [sta-663-2017](https://github.com/cliburn/sta-663-2017) - Notebooks, worksheets and homework for STA 663 class
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [ipyvega](https://github.com/vega/ipyvega) - IPython/Jupyter notebook module for Vega and Vega-Lite
 - [altair_notebooks](https://github.com/altair-viz/altair_notebooks) - Tutorial and Examples Jupyter Notebooks for Altair
-- [lectures-labs](https://github.com/m2dsupsdlclass/lectures-labs) - Slides and Jupyter notebooks for the Deep Learning lectures at M2 Data Science Université Paris Saclay
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
 - [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
-- [ipy_table](https://github.com/epmoyer/ipy_table) - Richly formatted data tables in IPython
-- [ipython_ferretmagic](https://github.com/PBrockmann/ipython_ferretmagic) - IPython notebook extension for ferret
 - [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
 - [ipython_binder_magic](https://github.com/innovationOUtside/ipython_binder_magic) - Run commands on a remote MyBinder kernel from a local notebook
-- [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
 - [ipytest](https://github.com/chmp/ipytest) - Unit tests in IPython notebooks. Supports pytest.
-- [csharp-notebook](https://github.com/tlinnet/csharp-notebook) - C# kernel in Jupyter Notebook
-- [box-plots-sklearn](https://github.com/drivendataorg/box-plots-sklearn) - An implementation of some of the tools used by the winner of the box plots competition using scikit-learn.
-- [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
 - [power-laws-optimization](https://github.com/drivendataorg/power-laws-optimization) - Example repository for the Power Laws: Optimizing Demand-side Strategies competition on DrivenData
 - [data-science-is-software](https://github.com/drivendata/data-science-is-software) - 
 - [survivalvolume](https://github.com/genomematt/survivalvolume) - A set of tools for parsing measurement with threshold over time data (eg tyre wear, tumour treatment studies) and generating interactive and static plots.
 - [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
-- [PowerShellHumanizer](https://github.com/dfinke/PowerShellHumanizer) - PowerShell Humanizer wraps Humanizer: meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities
-- [ipython-notebooks](https://github.com/jdwittenauer/ipython-notebooks) - A collection of IPython notebooks covering various topics.
 - [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [divvy-data](https://github.com/chrisluedtke/divvy-data) - Python API and analysis of Chicago's bikeshare
-- [Code-used-at-BG](https://github.com/felipe0216/Code-used-at-BG) - Some of the code I used at work
-- [data-science-journal](https://github.com/chrisluedtke/data-science-journal) - Personal repository of data science demonstrations and references
-- [data-science-journal](https://github.com/felipe0216/data-science-journal) - Personal repository of data science demonstrations and references
-- [Survival_Analysis](https://github.com/MustafaOguz/Survival_Analysis) - Survival Analysis with non-parametric, semi-parametric, and parametric models
-- [Survival_Analysis](https://github.com/felipe0216/Survival_Analysis) - Survival Analysis with non-parametric, semi-parametric, and parametric models
-- [machinelearning_python](https://github.com/felipe0216/machinelearning_python) - Machine Learning using dummy data - created from scratch using Python
-- [course-intro-ml-app](https://github.com/RPI-DATA/course-intro-ml-app) - Introduction to Machine Learning Applications
-- [workshop-jupyterlab](https://github.com/whatevergeek/workshop-jupyterlab) - JupyterLab Workshop Prepared for Pycon APAC 2018
 - [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) - Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
-- [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
-- [automl-workshop](https://github.com/tsikiksr/automl-workshop) - Repository with required files for automated ML worshops
-- [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
 - [bamboolib_docker_demo_notebook](https://github.com/8080labs/bamboolib_docker_demo_notebook) - bamboolib - binder and Docker demo notebook
 - [binder-workspace-demo](https://github.com/ian-r-rose/binder-workspace-demo) - A demonstration repository showing how to open JupyterLab with a custom layout on mybinder.org
-- [repo2docker-conda](https://github.com/vsoch/repo2docker-conda) - a build-&gt;test-&gt;deploy containershare template for a conda container https://vsoch.github.io/containershare
 - [mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
 - [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [textbook](https://github.com/data-8/textbook) - The textbook Computational and Inferential Thinking: The Foundations of Data Science
 - [datascience](https://github.com/data-8/datascience) - A Python library for introductory data science
 - [fuzzingbook](https://github.com/uds-se/fuzzingbook) - The Book "Generating Software Tests"
-- [dask-examples](https://github.com/dask/dask-examples) - Easy-to-run example notebooks for Dask
 - [numba-examples](https://github.com/numba/numba-examples) - Example Numba implementations of functions
-- [textbook](https://github.com/DS-100/textbook) - Textbook for Data 100 at UC Berkeley
 - [bamboolib_binder_template](https://github.com/8080labs/bamboolib_binder_template) - bamboolib - template for creating your own binder notebook
-- [ipython-in-depth](https://github.com/ipython/ipython-in-depth) - IPython and Jupyter in-depth Tutorial, first presented at PyCon 2012
-- [public-hosting](https://github.com/brohrer/public-hosting) - A place to publically host files I need a URL for.
-- [pandas_basic_data_analysis_tutorial](https://github.com/dom-devel/pandas_basic_data_analysis_tutorial) - A tutorial for basic data analysis with Pandas and Python. Designed to help people move from Excel to Pandas. Uses an SEO example.
-- [PyDataSeattle](https://github.com/TomAugspurger/PyDataSeattle) - For the pandas tutorial at PyData Seattle: https://www.youtube.com/watch?v=otCriSKVV_8
 - [stats-fun](https://github.com/jvns/stats-fun) - 
-- [dabl](https://github.com/dabl/dabl) - Data Analysis Baseline Library
-- [introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
 - [Slides-SciPyConf-2018](https://github.com/wesm/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
-- [vldb-2019-apache-arrow-workshop](https://github.com/wesm/vldb-2019-apache-arrow-workshop) - Materials for Apache Arrow workshop at VLDB 2019
 - [notebooks](https://github.com/wesm/notebooks) - Miscellaneous Jupyter notebooks
 - [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
-- [scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos) - Jupyter notebooks from the scikit-learn video series
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 - [pycon-2018-tutorial](https://github.com/justmarkham/pycon-2018-tutorial) - Using pandas for Better (and Worse) Data Science
-- [pandas-videos](https://github.com/justmarkham/pandas-videos) - Jupyter notebook and datasets from the pandas Q&A video series
 - [effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
-- [pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
-- [pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
-- [pandas-binder](https://github.com/pandas-dev/pandas-binder) - 
 - [codekatas](https://github.com/gudnm/codekatas) - Keep your skills sharp by implementing basic algorithms and data structures
-- [SciComPy](https://github.com/yoavram/SciComPy) - An introduction to Scientific Computing with Python, an advanced course for computer science students at IDC Herzliya
 - [Py4Eng](https://github.com/yoavram/Py4Eng) - Python for Engineers
 - [DataSciPy](https://github.com/yoavram/DataSciPy) - Data Science with Python
 - [CS1001.py](https://github.com/yoavram/CS1001.py) - Recitation notebooks for Extended Introduction to Computer Science with Python as Tel-Aviv University
-- [python-for-developers](https://github.com/ricardoduarte/python-for-developers) - This book is geared toward those who already have programming knowledge. It covers topics that include: creation of user interfaces, computer graphics, internet applications, distributed systems, among other issues.
 - [exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
 - [minibook-2nd-code](https://github.com/ipython-books/minibook-2nd-code) - Code of the IPython Minibook, 2nd edition (2015)
-- [dask-tutorial](https://github.com/dask/dask-tutorial) - Dask tutorial
 - [old-dask-examples](https://github.com/dask/old-dask-examples) - Collection of dask example notebooks
-- [pymc3_models](https://github.com/parsing-science/pymc3_models) - 
 - [sage-binder-env](https://github.com/sagemath/sage-binder-env) - A SageMath-based computing environment for binder
 - [jupyter-sos](https://github.com/binder-examples/jupyter-sos) - 
 - [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas
-- [bokeh-notebooks](https://github.com/bokeh/bokeh-notebooks) - Interactive Web Plotting with Bokeh in IPython notebook
-- [binder_builder_gui](https://github.com/choldgraf/binder_builder_gui) - 
-- [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
 - [iris_r](https://github.com/gesiscss/iris_r) - Example R repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
-- [iris_python](https://github.com/gesiscss/iris_python) - Example python repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
 - [methods_seminar_2019](https://github.com/gesiscss/methods_seminar_2019) - Jupyter Notebooks to be used in the 39th GESIS Methods Seminar
-- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll
 - [jupytext_pyparis_2018](https://github.com/mwouts/jupytext_pyparis_2018) - Jupytext talk at PyParis 2018
 - [data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
-- [smm_demo](https://github.com/gesiscss/smm_demo) - Examples to complement of the SMM Monitor
 - [notebooks](https://github.com/elegant-scipy/notebooks) - The compiled, clean (not run) Jupyter notebooks for Elegant SciPy
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
-- [Survival-Analysis-on-Machine-Incident-Prediction](https://github.com/christine-ding/Survival-Analysis-on-Machine-Incident-Prediction) - Time-to-Failure Prediction using Coxph Regression Model
 - [Lifelines](https://github.com/shreejitp/Lifelines) - Using Lifelines Package for Survival Analysis
 - [TCGA-lifelines-survival](https://github.com/auberginekenobi/TCGA-lifelines-survival) - Survival analysis on the KIRC cohort of TCGA cancer patients. Done on the lifelines platform.
 - [WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython) - The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"
 - [survival_analysis](https://github.com/tarunaditya/survival_analysis) - kaplan meier & lifelines based
-- [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [Lifelines-notes-and-examples](https://github.com/felipe0216/Lifelines-notes-and-examples) - Information extracted from Lifelines official documentation
 - [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
-- [2017-davis-ggg201a-day1](https://github.com/ngs-docs/2017-davis-ggg201a-day1) - 
-- [more-sagemath-tutorials](https://github.com/sagemath/more-sagemath-tutorials) - More SageMath Tutorials: A place to share and evolve tutorials for Sage, with the aim to contribute them to Sage
-- [rocker](https://github.com/binder-examples/rocker) - Using a pre-existing rocker image on mybinder.org
-- [quilt](https://github.com/quiltdata/quilt) - Quilt is a versioned data portal for AWS
-- [data-quilt](https://github.com/binder-examples/data-quilt) - Install quilt data packages and use them in Binder notebooks
 - [multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
-- [geopandas-tutorial](https://github.com/jorisvandenbossche/geopandas-tutorial) - Tutorial on geospatial data manipulation with Python
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
-- [resonance](https://github.com/moorepants/resonance) - Learning Mechanical Vibration Engineering Through Computation
 - [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
 - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [dl-workshop](https://github.com/pacm/dl-workshop) - Intro to deep learning workshop.
-- [Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs.  Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.
-- [binder-data](https://github.com/jupyterhub/binder-data) - A place to store data for Binder
 - [data-exploration-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter) - The Data Exploration lesson in the Reproducible Science using Jupyter Notebooks curriculum
-- [conx-notebooks](https://github.com/Calysto/conx-notebooks) - Notebooks for Conx, Deep Learning software
 - [nix-binder-example](https://github.com/costrouc/nix-binder-example) - BinderHub example using Nix
 - [IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
-- [r](https://github.com/binder-examples/r) - Using R with Jupyter / RStudio on Binder
-- [zero-to-binder](https://github.com/binder-examples/zero-to-binder) - 
 - [getting-data](https://github.com/binder-examples/getting-data) - How to get data into your Binder
-- [continuous-build](https://github.com/binder-examples/continuous-build) - Show how to use continuous integration to test your dependency specifications
 - [binder-r-description](https://github.com/binder-examples/binder-r-description) - 
-- [appmode](https://github.com/binder-examples/appmode) - Creating web applications with Jupyter and Binder
 - [jupyter-rise](https://github.com/binder-examples/jupyter-rise) - Auto-launching the RISE plugin for Binder presentations.
-- [remote_storage](https://github.com/binder-examples/remote_storage) - Connecting a Binder repository with data stored remotely.
-- [latex](https://github.com/binder-examples/latex) - Using `apt.txt` to install latex for use in notebooks.
 - [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
-- [jupyterlab-demo](https://github.com/jupyterlab/jupyterlab-demo) - Demonstrations of JupyterLab
-- [ipynb](https://github.com/ipython/ipynb) - Package / Module importer for importing code from Jupyter Notebook files (.ipynb)
-- [py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
-- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
 - [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
-- [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
-- [DeepLearningExamples](https://github.com/NVIDIA/DeepLearningExamples) - Deep Learning Examples
-- [examples](https://github.com/tensorflow/examples) - TensorFlow examples
-- [docs](https://github.com/tensorflow/docs) - TensorFlow documentation
-- [tutorials](https://github.com/pytorch/tutorials) - PyTorch tutorials.
 - [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
-- [edward2](https://github.com/google/edward2) - A simple probabilistic programming language.
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [lab-workshops](https://github.com/YaleDHLab/lab-workshops) - Materials for workshops on text mining, machine learning, and data visualization
 - [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability
 - [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
-- [sustainable-energy-transitions](https://github.com/csaladenes/sustainable-energy-transitions) - Code behind the Sustainable Energy Transitions (SET) model + Project Website
-- [r_with_python](https://github.com/binder-examples/r_with_python) - Minimal working example for a binder with both R and Python Jupyter and RMarkdown notebooks
 - [python-conda_pip](https://github.com/binder-examples/python-conda_pip) - Installing packages with pip and conda
-- [conda](https://github.com/binder-examples/conda) - Specifying a conda environment with `environment.yml`
-- [nix](https://github.com/binder-examples/nix) - Simplest Nix Binderhub example
-- [jupyter-extension](https://github.com/binder-examples/jupyter-extension) - Enabling jupyter extensions for use in Binder
-- [requirements](https://github.com/binder-examples/requirements) - Simple requirements.txt based example
 - [ligo-binder](https://github.com/minrk/ligo-binder) - Black holes!
-- [julia-python](https://github.com/binder-examples/julia-python) - Installing Julia and Python environments
-- [wikiwho_demo](https://github.com/gesiscss/wikiwho_demo) - A demonstration of how to use the wikiwho service to complement other external tools
-- [scipy-2016-tutorial](https://github.com/sympy/scipy-2016-tutorial) - SymPy tutorial materials for SciPy 2016
-- [scipy-2017-codegen-tutorial](https://github.com/sympy/scipy-2017-codegen-tutorial) - SymPy code generation tutorial at SciPy 2017
-- [quantum_notebooks](https://github.com/sympy/quantum_notebooks) - Jupyter Notebooks that demonstrate SymPy's symbolic quantum mechanics package.
 - [surveys](https://github.com/jupyter/surveys) - Surveys and datasets collected by Project Jupyter
 - [matlab_kernel](https://github.com/Calysto/matlab_kernel) - Jupyter Kernel for Matlab
 - [Python-for-Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial in Python targeted at Epidemiologists. Will discuss the basics of analysis in Python 3
 - [PyDataNY_2019_tutorial](https://github.com/CamDavidsonPilon/PyDataNY_2019_tutorial) - Repo for PyData 2019 Tutorial - New Trends in Estimation and Inference
 - [BAP](https://github.com/aloctavodia/BAP) - Bayesian Analysis with Python (Second Edition)
 - [DBDA-python](https://github.com/JWarmenhoven/DBDA-python) - Doing Bayesian Data Analysis, 2nd Edition (Kruschke, 2015): Python/PyMC3 code
-- [PrecisionWorkshop1_Prep](https://github.com/junpenglao/PrecisionWorkshop1_Prep) - Preparation materials for CEAi Precision Workshop #1 on Bayesian modelling
-- [advance-bayesian-modelling-with-PyMC3](https://github.com/junpenglao/advance-bayesian-modelling-with-PyMC3) - 
 - [sqlworkshops](https://github.com/microsoft/sqlworkshops) - SQL Server Workshops
 - [pragmatic-polyglot-data-analysis](https://github.com/lgautier/pragmatic-polyglot-data-analysis) - Docker container for off-the-shelf jupyter notebook + Python + R + Spark/pyspark + LLVM
 - [pca_demo](https://github.com/mikecroucher/pca_demo) - A demo to show the use of conda environments
@@ -927,15 +834,13 @@
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [binder-gensim-mallet](https://github.com/polsci/binder-gensim-mallet) - This repository is designed for students in DIGI405 at the University of Canterbury to do topic modeling through their browser using Binder. It is relevant for others who want to do topic modeling through a browser with their own corpus.
-- [xkcd-graphs](https://github.com/dkav/xkcd-graphs) - xkcd styled graphs
 - [XKCDstyle](https://github.com/muneebalam/XKCDstyle) - Code for comic graphs I post on Twitter.
-- [survivalstan](https://github.com/hammerlab/survivalstan) - Library of Stan Models for Survival Analysis
 - [IA-maths-Jupyter](https://github.com/garth-wells/IA-maths-Jupyter) - Notebooks in support of of the Part IA (Michaelmas Term) mathematics course at the Department of  Engineering at University of Cambridge
 - [Jupyter-Matrix-Matrix](https://github.com/mikecroucher/Jupyter-Matrix-Matrix) - A benchmark to see how many flops your kit can do
-- [r-jupyter](https://github.com/goyder/r-jupyter) - R and Jupyter Docker environment, for the Data Scientist on the go.
 
 ## Lua 
 
+- [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [config](https://github.com/mawww/config) - dotfiles
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -975,6 +880,8 @@
 
 ## Others 
 
+- [screenshots](https://github.com/ice-wm/screenshots) - The IceWM Screenshots Collection
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [regfiles](https://github.com/yuk7/regfiles) - Windows Registry Files
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
 - [an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
@@ -1246,6 +1153,8 @@
 
 ## PowerShell 
 
+- [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+- [PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
 - [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
 - [PSTodoWarrior](https://github.com/pauby/PSTodoWarrior) - This is a powershell CLI to the Todo.txt todo file format with some PowerShell like features and also taking inspiration from Taskwarrior.
 - [posh-sshell](https://github.com/dahlbyk/posh-sshell) - PowerShell helpers for SSH (previously part of posh-git.)
@@ -1339,6 +1248,9 @@
 
 ## Python 
 
+- [saspy](https://github.com/sassoftware/saspy) - A Python interface module to the SAS System. It works with Linux, Windows, and mainframe SAS.  It  supports the sas_kernel project (a Jupyter Notebook kernel for SAS) or can be used on its own.
+- [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
+- [xpywm](https://github.com/h-ohsaki/xpywm) - a simple but extensible X11 window manager written in Python
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.
 - [poku](https://github.com/shanedabes/poku) - Symmetrical sync between pocket and buku
 - [dot-python-dev](https://github.com/svetlyak40wt/dot-python-dev) - Dotfiler configs to setup python development environment.
@@ -1846,6 +1758,7 @@
 
 ## Rust 
 
+- [wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
@@ -1862,6 +1775,9 @@
 
 ## Shell 
 
+- [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
+- [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
+- [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
 - [dosh](https://github.com/gportay/dosh) - Docker Shell
 - [scbuilder](https://github.com/koalaman/scbuilder) - Docker image for autobuilding statically linked ShellCheck binaries for Linux
 - [dotfiles](https://github.com/mavam/dotfiles) - :desktop_computer: The very heart of an efficient work environment
