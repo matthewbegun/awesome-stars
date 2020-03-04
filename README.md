@@ -63,6 +63,7 @@
 
 ## C 
 
+- [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [i3](https://github.com/i3/i3) - A tiling window manager
 - [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
@@ -241,6 +242,7 @@
 
 ## CSS 
 
+- [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
@@ -488,6 +490,7 @@
 
 ## Java 
 
+- [termuxlauncher](https://github.com/amsitlab/termuxlauncher) - TermuxLauncher : Android application
 - [termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
@@ -880,6 +883,7 @@
 
 ## Others 
 
+- [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [screenshots](https://github.com/ice-wm/screenshots) - The IceWM Screenshots Collection
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [regfiles](https://github.com/yuk7/regfiles) - Windows Registry Files
@@ -1248,6 +1252,11 @@
 
 ## Python 
 
+- [pandocker-filters](https://github.com/K4zuki/pandocker-filters) - Yet another Pandoc filter package
+- [Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
+- [termux-gui](https://github.com/qidiso/termux-gui) - We provide the gui for termux . it is a Linux system with gui running on Android for AI programming without root.Ai framework: tensorflow,caffe,MXNet,keras,torch,ncnn,opencv already build in . All in one! !
+- [termux-create-package](https://github.com/termux/termux-create-package) - Python script to create Termux packages easily.
+- [Termux-Lazyscript](https://github.com/TechnicalMujeeb/Termux-Lazyscript) - This tool for Termux Beginner users .
 - [saspy](https://github.com/sassoftware/saspy) - A Python interface module to the SAS System. It works with Linux, Windows, and mainframe SAS.  It  supports the sas_kernel project (a Jupyter Notebook kernel for SAS) or can be used on its own.
 - [qtile](https://github.com/qtile/qtile) - :cookie: A small, flexible, scriptable tiling window manager written in Python
 - [xpywm](https://github.com/h-ohsaki/xpywm) - a simple but extensible X11 window manager written in Python
@@ -1775,6 +1784,19 @@
 
 ## Shell 
 
+- [fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
+- [fish-prompt-mono](https://github.com/fishpkg/fish-prompt-mono) - No bells and whistles, true minimal prompt for the fish shell
+- [fish-prompt-metro](https://github.com/fishpkg/fish-prompt-metro) - Fast, git-aware, space-conscious, powerline prompt
+- [theme-bobthefish](https://github.com/oh-my-fish/theme-bobthefish) - A Powerline-style, Git-aware fish theme optimized for awesome.
+- [pure](https://github.com/rafaelrinaldi/pure) - Port of the `pure` ZSH prompt to Fish 🐟
+- [stack-images](https://github.com/heroku/stack-images) - Heroku stack images
+- [oh-my-termux](https://github.com/4679/oh-my-termux) - oh-my-termux
+- [Termux-Sudo](https://github.com/Bhai4You/Termux-Sudo) - Lazy Script For install Sudo in Termux
+- [termux-config](https://github.com/alexs77/termux-config) - Configuration of the Android Termux App.
+- [termux-omz](https://github.com/adi1090x/termux-omz) - Setup oh-my-zsh in termux with awesome colors and font ...
+- [termux-services](https://github.com/Neo-Oli/termux-services) - How to run services with runit on Termux
+- [Termux-packages](https://github.com/Technoashofficial/Termux-packages) - This is an easy script to install some basic termux packages.
+- [termux-dotfiles](https://github.com/xeffyr/termux-dotfiles) - Scripts & dotfiles I use in Termux.
 - [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
 - [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
@@ -2152,6 +2174,7 @@
 
 ## Vim script 
 
+- [termux](https://github.com/onlurking/termux) - Dotfiles for Termux (tmux, zsh, and neovim)
 - [dotfiles](https://github.com/nojhan/dotfiles) - My config files
 - [vimconfig](https://github.com/sahensley/vimconfig) - The ever evolving VIM configuration
 - [dotfiles](https://github.com/sahensley/dotfiles) - Various configuration files
