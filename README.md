@@ -63,6 +63,8 @@
 
 ## C 
 
+- [r2lrn](https://github.com/0ki/r2lrn) - 
+- [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [i3](https://github.com/i3/i3) - A tiling window manager
@@ -118,6 +120,7 @@
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set UEFI's BootNext option.
@@ -270,7 +273,7 @@
 
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
-- [xxh-dev](https://github.com/xonssh/xxh-dev) - Development and test environment for xxh
+- [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
@@ -316,7 +319,6 @@
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [github-psscript](https://github.com/dfinke/github-psscript) - 
-- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
 - [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [docker-python-black](https://github.com/mozilla/docker-python-black) - 
 - [docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
@@ -343,6 +345,10 @@
 
 ## Go 
 
+- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
+- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
@@ -356,7 +362,6 @@
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
@@ -527,6 +532,9 @@
 
 ## JavaScript 
 
+- [gbck](https://github.com/jukben/gbck) - 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository
+- [radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
+- [store.js](https://github.com/StevenBlack/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
@@ -883,6 +891,13 @@
 
 ## Others 
 
+- [kakoune-wiki](https://github.com/TeddyDD/kakoune-wiki) - Personal wiki plugin for Kakoune
+- [kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
+- [fzf.kak](https://github.com/andreyorst/fzf.kak) - FZF  for Kakoune. Mirror of https://gitlab.com/andreyorst/fzf.kak
+- [plug.kak](https://github.com/andreyorst/plug.kak) - Plugin manager for Kakoune editor. This is a mirror of https://gitlab.com/andreyorst/plug.kak
+- [packages-main](https://github.com/oh-my-fish/packages-main) - Primary Oh My Fish package repository.
+- [fish-cookbook](https://github.com/jorgebucaran/fish-cookbook) - Tips and recipes for fish, from shell to plate.
+- [dotfiles-syntax-highlighting-st2](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [screenshots](https://github.com/ice-wm/screenshots) - The IceWM Screenshots Collection
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
@@ -1252,6 +1267,8 @@
 
 ## Python 
 
+- [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
+- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
 - [pandocker-filters](https://github.com/K4zuki/pandocker-filters) - Yet another Pandoc filter package
 - [Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [termux-gui](https://github.com/qidiso/termux-gui) - We provide the gui for termux . it is a Linux system with gui running on Android for AI programming without root.Ai framework: tensorflow,caffe,MXNet,keras,torch,ncnn,opencv already build in . All in one! !
@@ -1502,7 +1519,7 @@
 - [jupyterlab-dash](https://github.com/plotly/jupyterlab-dash) - An Extension for the Interactive development of Dash apps in JupyterLab
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas
-- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
+- [python-cheat-sheet](https://github.com/funkythings/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
@@ -1548,6 +1565,7 @@
 - [clr-bundles](https://github.com/clearlinux/clr-bundles) - Bundle definitions for Clear Linux OS
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
+- [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
@@ -1767,6 +1785,8 @@
 
 ## Rust 
 
+- [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
+- [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client
 - [wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1784,6 +1804,23 @@
 
 ## Shell 
 
+- [k](https://github.com/supercrabtree/k) - k is the new l, yo
+- [dotfiles](https://github.com/clvv/dotfiles) - My dotfiles
+- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
+- [plugin-archlinux](https://github.com/oh-my-fish/plugin-archlinux) - Provides a number of plugins to make using Arch Linux easier.
+- [plugin-foreign-env](https://github.com/oh-my-fish/plugin-foreign-env) - Run foreign bash scripts and capture exported environment variables
+- [pisces](https://github.com/laughedelic/pisces) - ♓️Fish shell plugin that helps you to work with paired symbols in the command line
+- [fish-bax](https://github.com/jorgebucaran/fish-bax) - Run bash utilities right from your fish shell.
+- [fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
+- [plugin-z](https://github.com/oh-my-fish/plugin-z) - Integration with z (autojump alternative).
+- [done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
+- [dotfiles](https://github.com/jukben/dotfiles) - 🎩 Just my dotfiles. There is no black magic.  Basically backup for me. But you can take a look...
+- [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [omf-asdf](https://github.com/doughsay/omf-asdf) - Oh My Fish plugin for asdf
+- [gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
+- [radare2-pm](https://github.com/radareorg/radare2-pm) - Package Manager for Radare2
+- [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
+- [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
 - [fish-prompt-mono](https://github.com/fishpkg/fish-prompt-mono) - No bells and whistles, true minimal prompt for the fish shell
 - [fish-prompt-metro](https://github.com/fishpkg/fish-prompt-metro) - Fast, git-aware, space-conscious, powerline prompt
@@ -1969,7 +2006,6 @@
 - [SystemImageKit](https://github.com/probonopd/SystemImageKit) - Run (multiple) operating systems directly from image files. Add extensions, apps and configuration, which are one file each.
 - [git-dropbox](https://github.com/agnoster/git-dropbox) - The easiest way to use a Dropbox for git repositories
 - [fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
-- [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [pacaur](https://github.com/E5ten/pacaur) - An AUR helper that minimizes user interaction
 - [public-bash-scripts](https://github.com/ryanoasis/public-bash-scripts) - Bash Scripts that I can share publicly
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
@@ -2051,7 +2087,7 @@
 - [pandoc-thesis](https://github.com/mabl/pandoc-thesis) - Simple example on how to write a thesis in markdown with Pandoc
 - [zsh-pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Antigen plugin for pandoc
 - [fish-completion-pandoc](https://github.com/dsanson/fish-completion-pandoc) - fish completion script for pandoc
-- [dockerfiles](https://github.com/clearlinux/dockerfiles) - ClearLinux-based Docker containers
+- [dockerfiles](https://github.com/clearlinux/dockerfiles) - Clear Linux-based Docker containers
 - [matlab-docker](https://github.com/QMROCT/matlab-docker) - Docker Image with Matlab Compiler Runtime and SSHD
 - [rtb-support](https://github.com/RenderToolbox/rtb-support) - Docker image with enough dependencies to support a mounted-in Matlab and RenderToolbox3
 - [DwarfFortressServer](https://github.com/DockerDemos/DwarfFortressServer) - Play [Dwarf Fortress](http://www.bay12games.com/dwarves/) in your browser with Docker and NoVNC!
@@ -2174,6 +2210,11 @@
 
 ## Vim script 
 
+- [gitsessions.vim](https://github.com/wting/gitsessions.vim) - Auto save/load vim sessions based on directory and git branch.
+- [dotvim](https://github.com/wting/dotvim) - Personalized configuration for vim including rc, plugins, scripts.
+- [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
+- [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
+- [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [termux](https://github.com/onlurking/termux) - Dotfiles for Termux (tmux, zsh, and neovim)
 - [dotfiles](https://github.com/nojhan/dotfiles) - My config files
 - [vimconfig](https://github.com/sahensley/vimconfig) - The ever evolving VIM configuration
