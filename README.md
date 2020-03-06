@@ -13,6 +13,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [Dockerfile](#dockerfile)
+  - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -23,6 +24,7 @@
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
+  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -63,6 +65,8 @@
 
 ## C 
 
+- [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
+- [sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset.
 - [r2lrn](https://github.com/0ki/r2lrn) - 
 - [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
@@ -206,6 +210,7 @@
 
 ## C++ 
 
+- [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [blackboxwm](https://github.com/bbidulock/blackboxwm) - A window manager for X11
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
 - [icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency
@@ -343,10 +348,15 @@
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
+## Emacs Lisp 
+
+- [homedir](https://github.com/h-youhei/homedir) - config files, misc tools
+- [dotfiles](https://github.com/andreyorst/dotfiles) - This is a mirror from https://gitlab.com/andreyorst/dotfiles
+
 ## Go 
 
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
-- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
+- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
@@ -384,6 +394,7 @@
 
 ## HTML 
 
+- [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) - 
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
 - [trivia](https://github.com/caradojo/trivia) - Legacy Code Retreat - Grenoble 2011
@@ -485,6 +496,7 @@
 
 ## Haskell 
 
+- [dotfiles](https://github.com/danr/dotfiles) - My dotfiles
 - [applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -532,6 +544,7 @@
 
 ## JavaScript 
 
+- [VSNotes](https://github.com/patleeman/VSNotes) - Simple VS Code extension for plain text note taking.
 - [gbck](https://github.com/jukben/gbck) - 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository
 - [radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [store.js](https://github.com/StevenBlack/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
@@ -851,6 +864,7 @@
 
 ## Lua 
 
+- [config](https://github.com/occivink/config) - My dotfiles
 - [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [config](https://github.com/mawww/config) - dotfiles
@@ -885,12 +899,35 @@
 
 - [jupyter-hub-oauth-matlab](https://github.com/benjamin-heasly/jupyter-hub-oauth-matlab) - JupyterHub plus Google OAuth, plus support for a mounted-in Matlab, plus the Jypyter matlab_kernel.
 
+## Nix 
+
+- [configuration](https://github.com/alexherbo2/configuration) - Personal configuration files
+
 ## OCaml 
 
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Others 
 
+- [entr-kak](https://github.com/jwhett/entr-kak) - Entr plugin for Kakoune
+- [kakoune-todo.txt](https://github.com/nkoehring/kakoune-todo.txt) - Todo.txt Colorscheme and Helper commands for Kakoune
+- [out-of-the-box](https://github.com/lenormf/out-of-the-box) - A single-file collection of useful configuration options/mappings/commands for Kakoune users
+- [kakdown](https://github.com/whereswaldon/kakdown) - Kakoune editor markdown tools (live preview and more)
+- [kakoune-expand-region](https://github.com/Delapouite/kakoune-expand-region) - Select increasingly larger regions of text using the same key
+- [kakoune-best-practices](https://github.com/alexherbo2/kakoune-best-practices) - Learn Kakoune by example
+- [kakoune-livedown](https://github.com/Delapouite/kakoune-livedown) - Live preview markdown files with livedown
+- [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) - A collection of handy user modes for kakoune
+- [kakwiki](https://github.com/alyssais/kakwiki) - Vimwiki compatible personal wiki for Kakoune.
+- [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized) - Selenized themes for Kakoune
+- [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
+- [kakoune-easymotion](https://github.com/danr/kakoune-easymotion) - kakoune plugin for navigating like the easymotion vim mode
+- [auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-paired characters for Kakoune
+- [kakoune-extra](https://github.com/casimir/kakoune-extra) - 
+- [KakounePlugins](https://github.com/WhatNodyn/KakounePlugins) - Little plugins I made for Kakoune.
+- [armoury](https://github.com/leemachin/armoury) - Package management for the Kakoune editor
+- [jq.kak](https://github.com/alexherbo2/jq.kak) - jq integration for Kakoune
+- [urtext-docs](https://github.com/nbeversl/urtext-docs) - Urtext : Documentation
+- [10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) - 10,000 markdown files. Useful for stress testing note-taking tools.
 - [kakoune-wiki](https://github.com/TeddyDD/kakoune-wiki) - Personal wiki plugin for Kakoune
 - [kakoune-extra](https://github.com/lenormf/kakoune-extra) - Extra scripts that implement experimental features, highlight custom files/languages
 - [fzf.kak](https://github.com/andreyorst/fzf.kak) - FZF  for Kakoune. Mirror of https://gitlab.com/andreyorst/fzf.kak
@@ -1165,6 +1202,8 @@
 
 ## Perl 
 
+- [dotfiles](https://github.com/lammermann/dotfiles) - 
+- [kaktree](https://github.com/andreyorst/kaktree) - File explorer side panel for Kakoune editor. Mirror of https://gitlab.com/andreyorst/kaktree
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1172,6 +1211,7 @@
 
 ## PowerShell 
 
+- [scoop-Ash258](https://github.com/Ash258/scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
 - [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
@@ -1267,6 +1307,11 @@
 
 ## Python 
 
+- [neptyne](https://github.com/danr/neptyne) - editor-agnostic jupyter kernel communication (+ kakoune integration)
+- [dot](https://github.com/SolitudeSF/dot) - heh, configs
+- [libkak](https://github.com/danr/libkak) - Configure and control Kakoune from python | Hosts a Kakoune Language Server Protocol implementation too for now
+- [knowledge-base](https://github.com/JoelLau/knowledge-base) - Personal collection of notes written in an attempt to build a Zettelkasten. Built to take advantage of free resources such as Sphinx, Read The Docs (theme), Github Actions, and Github Pages
+- [sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) - A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄
 - [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
 - [pandocker-filters](https://github.com/K4zuki/pandocker-filters) - Yet another Pandoc filter package
@@ -1566,7 +1611,6 @@
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
 - [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
 - [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
-- [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
 - [autograph](https://github.com/tensorflow/autograph) - 
@@ -1804,6 +1848,15 @@
 
 ## Shell 
 
+- [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
+- [dotfiles](https://github.com/chambln/dotfiles) - 
+- [kakoune-config](https://github.com/JJK96/kakoune-config) - My kakoune configuration files
+- [dotfiles](https://github.com/rlofc/dotfiles) - 
+- [connect.kak](https://github.com/alexherbo2/connect.kak) - Connect a program to Kakoune clients
+- [kakoune-dotfiles](https://github.com/TeddyDD/kakoune-dotfiles) - My personal Kakoune dotfiles
+- [myworkingenv](https://github.com/SkarDude/myworkingenv) - Contains, sublime text settings, bash conf, terminal settings, etc.
+- [dotfiles](https://github.com/elasticdog/dotfiles) - collection of home directory configuration files used across multiple unix-based systems
+- [dotfiles](https://github.com/sirupsen/dotfiles) - Personal UNIX toolbox
 - [k](https://github.com/supercrabtree/k) - k is the new l, yo
 - [dotfiles](https://github.com/clvv/dotfiles) - My dotfiles
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
@@ -2142,6 +2195,7 @@
 
 ## TypeScript 
 
+- [dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like keybindings for VS Code.
 - [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck) - shellcheck linter for vscode
 - [jupyterlab_xkcd](https://github.com/jupyterlab/jupyterlab_xkcd) - Random xkcd comic in a JupyterLab panel
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
@@ -2210,6 +2264,10 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
+- [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
+- [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
+- [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [gitsessions.vim](https://github.com/wting/gitsessions.vim) - Auto save/load vim sessions based on directory and git branch.
 - [dotvim](https://github.com/wting/dotvim) - Personalized configuration for vim including rc, plugins, scripts.
 - [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
