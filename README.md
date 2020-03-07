@@ -21,6 +21,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
+  - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
@@ -65,6 +66,7 @@
 
 ## C 
 
+- [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
 - [sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset.
 - [r2lrn](https://github.com/0ki/r2lrn) - 
@@ -276,6 +278,7 @@
 
 ## Dockerfile 
 
+- [docker-brew-clearlinux](https://github.com/clearlinux/docker-brew-clearlinux) - Dockerhub image snapshots for Clear Linux
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
@@ -355,6 +358,8 @@
 
 ## Go 
 
+- [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
+- [clr-installer](https://github.com/clearlinux/clr-installer) - Clear Linux* OS Installer
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -739,7 +744,6 @@
 - [ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
-- [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
 - [CookieCutter](https://github.com/coolum001/CookieCutter) - Holds CookieCutter config for Jupyter Notebook Setup
 - [datasciencemvp](https://github.com/cliffclive/datasciencemvp) - Data Science template for quickly setting up a project workflow; lightweight version of cookiecutter datascience.
@@ -869,6 +873,10 @@
 - [pandoc-scholar](https://github.com/pandoc-scholar/pandoc-scholar) - Create beautiful and semantically meaningful articles with pandoc.
 - [config](https://github.com/mawww/config) - dotfiles
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
+
+## M4 
+
+- [clr-man-pages](https://github.com/clearlinux/clr-man-pages) - 
 
 ## MATLAB 
 
@@ -1307,6 +1315,12 @@
 
 ## Python 
 
+- [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
+- [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
+- [fMBT](https://github.com/intel/fMBT) - Free Model Based tool
+- [dffml](https://github.com/intel/dffml) - The easiest way to use Machine Learning
+- [autospec](https://github.com/clearlinux/autospec) - RPM packaging automation tool
+- [ister](https://github.com/bryteise/ister) - Minimal Linux Installer
 - [neptyne](https://github.com/danr/neptyne) - editor-agnostic jupyter kernel communication (+ kakoune integration)
 - [dot](https://github.com/SolitudeSF/dot) - heh, configs
 - [libkak](https://github.com/danr/libkak) - Configure and control Kakoune from python | Hosts a Kakoune Language Server Protocol implementation too for now
@@ -1398,6 +1412,7 @@
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [hybridcontents](https://github.com/viaduct-ai/hybridcontents) - A ContentsManager wrapper for using multiple ContentsManager in Jupyter
+- [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
@@ -1848,6 +1863,10 @@
 
 ## Shell 
 
+- [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
+- [fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
+- [stacks](https://github.com/intel/stacks) - Intel System Stacks are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
+- [clr-desktop-defaults](https://github.com/clearlinux/clr-desktop-defaults) - Default configuration items for os-utils-gui
 - [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
 - [dotfiles](https://github.com/chambln/dotfiles) - 
 - [kakoune-config](https://github.com/JJK96/kakoune-config) - My kakoune configuration files
@@ -2029,7 +2048,6 @@
 - [dot-bash](https://github.com/pearl-hub/dot-bash) - Awesome Bash/Inputrc dotfiles
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [dotfiles](https://github.com/AndersBallegaard/dotfiles) - A collection of my personal dot files for linux systems
-- [dotfiles](https://github.com/Ace-Cassidy/dotfiles) - dotfiles
 - [conda-zsh-completion](https://github.com/esc/conda-zsh-completion) - zsh completion for conda
 - [dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
 - [pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
@@ -2302,6 +2320,7 @@
 - [bash-profile](https://github.com/maciejzgadzaj/bash-profile) - Bash profile files
 - [dotfiles](https://github.com/hjwp/dotfiles) - vimrc, bashrc etc
 - [dotfiles](https://github.com/fatso83/dotfiles) - My dot-files. I use these on Mac, Linux and Windows (CygWin)
+- [dotfiles](https://github.com/Ace-Cassidy/dotfiles) - dotfiles
 - [.vim](https://github.com/jessfraz/.vim) - My .vim dotfiles and configurations.
 - [dotfiles](https://github.com/dancek/dotfiles) - my dotfiles
 - [dotfiles](https://github.com/ryanoasis/dotfiles) - :page_with_curl: My configuration files: Vim, Bash, JavaScript, tmux
