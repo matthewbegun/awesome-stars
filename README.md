@@ -17,6 +17,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -29,6 +30,7 @@
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
@@ -118,6 +120,7 @@
 
 ## C# # 
 
+- [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
@@ -358,6 +361,7 @@
 
 ## Go 
 
+- [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS
 - [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
 - [clr-installer](https://github.com/clearlinux/clr-installer) - Clear Linux* OS Installer
 - [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
@@ -509,6 +513,11 @@
 - [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
 - [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
+
+## Haxe 
+
+- [haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
+- [haxe-language-server](https://github.com/vshaxe/haxe-language-server) - Language Server Protocol implementation for the Haxe language
 
 ## Java 
 
@@ -1208,6 +1217,10 @@
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
+## Pascal 
+
+- [pyscripter](https://github.com/pyscripter/pyscripter) - Pyscripter is a feature-rich but lightweight Python IDE
+
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
@@ -1315,6 +1328,8 @@
 
 ## Python 
 
+- [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
+- [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
 - [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
 - [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
 - [fMBT](https://github.com/intel/fMBT) - Free Model Based tool
@@ -1863,6 +1878,7 @@
 
 ## Shell 
 
+- [command-not-found](https://github.com/kaniini/command-not-found) - apk-based friendly command not found handler
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
 - [fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [stacks](https://github.com/intel/stacks) - Intel System Stacks are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
@@ -2213,6 +2229,10 @@
 
 ## TypeScript 
 
+- [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
+- [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
+- [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
+- [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
 - [dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like keybindings for VS Code.
 - [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck) - shellcheck linter for vscode
 - [jupyterlab_xkcd](https://github.com/jupyterlab/jupyterlab_xkcd) - Random xkcd comic in a JupyterLab panel
