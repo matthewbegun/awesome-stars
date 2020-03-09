@@ -15,6 +15,7 @@
   - [Dockerfile](#dockerfile)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
+  - [Groovy](#groovy)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
@@ -22,7 +23,6 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
-  - [M4](#m4)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
@@ -69,10 +69,6 @@
 ## C 
 
 - [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
-- [arcan](https://github.com/letoram/arcan) - Arcan - [Display Server, Multimedia Framework, Game Engine] -&gt; "Desktop Engine"
-- [sara](https://github.com/gitluin/sara) - Originally a fork of catwm, now an offspring of dwm with a streamlined featureset.
-- [r2lrn](https://github.com/0ki/r2lrn) - 
-- [radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [i3](https://github.com/i3/i3) - A tiling window manager
@@ -120,7 +116,6 @@
 
 ## C# # 
 
-- [python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
@@ -281,7 +276,6 @@
 
 ## Dockerfile 
 
-- [docker-brew-clearlinux](https://github.com/clearlinux/docker-brew-clearlinux) - Dockerhub image snapshots for Clear Linux
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
@@ -356,15 +350,11 @@
 
 ## Emacs Lisp 
 
-- [homedir](https://github.com/h-youhei/homedir) - config files, misc tools
 - [dotfiles](https://github.com/andreyorst/dotfiles) - This is a mirror from https://gitlab.com/andreyorst/dotfiles
 
 ## Go 
 
-- [faas-cli](https://github.com/openfaas/faas-cli) - Official CLI for OpenFaaS
-- [mixer-tools](https://github.com/clearlinux/mixer-tools) - 
-- [clr-installer](https://github.com/clearlinux/clr-installer) - Clear Linux* OS Installer
-- [logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -400,6 +390,10 @@
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+
+## Groovy 
+
+- [jenkins-dsl](https://github.com/jessfraz/jenkins-dsl) - Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.
 
 ## HTML 
 
@@ -517,7 +511,6 @@
 ## Haxe 
 
 - [haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
-- [haxe-language-server](https://github.com/vshaxe/haxe-language-server) - Language Server Protocol implementation for the Haxe language
 
 ## Java 
 
@@ -560,7 +553,6 @@
 
 - [VSNotes](https://github.com/patleeman/VSNotes) - Simple VS Code extension for plain text note taking.
 - [gbck](https://github.com/jukben/gbck) - 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository
-- [radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [store.js](https://github.com/StevenBlack/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
@@ -883,10 +875,6 @@
 - [config](https://github.com/mawww/config) - dotfiles
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 
-## M4 
-
-- [clr-man-pages](https://github.com/clearlinux/clr-man-pages) - 
-
 ## MATLAB 
 
 - [MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
@@ -926,6 +914,8 @@
 
 ## Others 
 
+- [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
+- [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) - A collection of handy user modes for kakoune
 - [entr-kak](https://github.com/jwhett/entr-kak) - Entr plugin for Kakoune
 - [kakoune-todo.txt](https://github.com/nkoehring/kakoune-todo.txt) - Todo.txt Colorscheme and Helper commands for Kakoune
 - [out-of-the-box](https://github.com/lenormf/out-of-the-box) - A single-file collection of useful configuration options/mappings/commands for Kakoune users
@@ -933,11 +923,9 @@
 - [kakoune-expand-region](https://github.com/Delapouite/kakoune-expand-region) - Select increasingly larger regions of text using the same key
 - [kakoune-best-practices](https://github.com/alexherbo2/kakoune-best-practices) - Learn Kakoune by example
 - [kakoune-livedown](https://github.com/Delapouite/kakoune-livedown) - Live preview markdown files with livedown
-- [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) - A collection of handy user modes for kakoune
 - [kakwiki](https://github.com/alyssais/kakwiki) - Vimwiki compatible personal wiki for Kakoune.
 - [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized) - Selenized themes for Kakoune
 - [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
-- [kakoune-easymotion](https://github.com/danr/kakoune-easymotion) - kakoune plugin for navigating like the easymotion vim mode
 - [auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-paired characters for Kakoune
 - [kakoune-extra](https://github.com/casimir/kakoune-extra) - 
 - [KakounePlugins](https://github.com/WhatNodyn/KakounePlugins) - Little plugins I made for Kakoune.
@@ -954,7 +942,6 @@
 - [dotfiles-syntax-highlighting-st2](https://github.com/mattbanks/dotfiles-syntax-highlighting-st2) - User settings to bring ShellScript (Bash) syntax highlighting to dotfiles
 - [docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
 - [screenshots](https://github.com/ice-wm/screenshots) - The IceWM Screenshots Collection
-- [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [regfiles](https://github.com/yuk7/regfiles) - Windows Registry Files
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
 - [an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6](https://github.com/ejmg/an-idiots-guide-to-installing-arch-on-a-lenovo-carbon-x1-gen-6) - so you wanted to install arch huh
@@ -1232,9 +1219,7 @@
 
 ## PowerShell 
 
-- [scoop-Ash258](https://github.com/Ash258/scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-- [PowerLine](https://github.com/Jaykul/PowerLine) - A more PowerShell prompt
 - [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
 - [PSTodoWarrior](https://github.com/pauby/PSTodoWarrior) - This is a powershell CLI to the Todo.txt todo file format with some PowerShell like features and also taking inspiration from Taskwarrior.
 - [posh-sshell](https://github.com/dahlbyk/posh-sshell) - PowerShell helpers for SSH (previously part of posh-git.)
@@ -1328,19 +1313,17 @@
 
 ## Python 
 
-- [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
+- [statifier](https://github.com/marook/statifier) - collects dynamically linked libraries for an elf binary
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
 - [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
 - [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
 - [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
 - [fMBT](https://github.com/intel/fMBT) - Free Model Based tool
 - [dffml](https://github.com/intel/dffml) - The easiest way to use Machine Learning
-- [autospec](https://github.com/clearlinux/autospec) - RPM packaging automation tool
 - [ister](https://github.com/bryteise/ister) - Minimal Linux Installer
-- [neptyne](https://github.com/danr/neptyne) - editor-agnostic jupyter kernel communication (+ kakoune integration)
 - [dot](https://github.com/SolitudeSF/dot) - heh, configs
 - [libkak](https://github.com/danr/libkak) - Configure and control Kakoune from python | Hosts a Kakoune Language Server Protocol implementation too for now
 - [knowledge-base](https://github.com/JoelLau/knowledge-base) - Personal collection of notes written in an attempt to build a Zettelkasten. Built to take advantage of free resources such as Sphinx, Read The Docs (theme), Github Actions, and Github Pages
-- [sublimeless_zk](https://github.com/renerocksai/sublimeless_zk) - A note taking app, Markdown editor, and text browser, featuring ID based wiki style links, and #tags, intended for zettelkasten method users. Loaded with tons of features like sophisticated tag search, note transclusion, support for note templates, bibliography support, etc. to make working in your Zettelkasten a joy 😄
 - [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
 - [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
 - [pandocker-filters](https://github.com/K4zuki/pandocker-filters) - Yet another Pandoc filter package
@@ -1878,11 +1861,20 @@
 
 ## Shell 
 
-- [command-not-found](https://github.com/kaniini/command-not-found) - apk-based friendly command not found handler
+- [buildbench](https://github.com/AkihiroSuda/buildbench) - benchmark tool for Docker, BuildKit, img, Buildah, and Kaniko
+- [dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
+- [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
+- [devtools](https://github.com/eli-schwartz/devtools) - Experiments in extending the Arch Linux devtools
+- [pkgbuilds](https://github.com/eli-schwartz/pkgbuilds) - PKGBUILDs for Arch Linux
+- [pkgbuilds](https://github.com/Earnestly/pkgbuilds) - Personal packages
+- [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
+- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
+- [dotfiles](https://github.com/AladW/dotfiles) - 
+- [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - Xxh entrypoint for fish shell appimage
+- [archlinux-packages](https://github.com/felixonmars/archlinux-packages) - Arch Linux Packages, git clone of the 'packages' repository. (Mirror of projects.archlinux.org/svntogit/packages.git)
+- [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
-- [fakepkg](https://github.com/Edenhofer/fakepkg) - reassemble Arch Linux packages
 - [stacks](https://github.com/intel/stacks) - Intel System Stacks are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
-- [clr-desktop-defaults](https://github.com/clearlinux/clr-desktop-defaults) - Default configuration items for os-utils-gui
 - [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
 - [dotfiles](https://github.com/chambln/dotfiles) - 
 - [kakoune-config](https://github.com/JJK96/kakoune-config) - My kakoune configuration files
@@ -1906,7 +1898,6 @@
 - [asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [omf-asdf](https://github.com/doughsay/omf-asdf) - Oh My Fish plugin for asdf
 - [gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
-- [radare2-pm](https://github.com/radareorg/radare2-pm) - Package Manager for Radare2
 - [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous.
@@ -1925,8 +1916,6 @@
 - [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
 - [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
-- [dosh](https://github.com/gportay/dosh) - Docker Shell
-- [scbuilder](https://github.com/koalaman/scbuilder) - Docker image for autobuilding statically linked ShellCheck binaries for Linux
 - [dotfiles](https://github.com/mavam/dotfiles) - :desktop_computer: The very heart of an efficient work environment
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -2229,7 +2218,6 @@
 
 ## TypeScript 
 
-- [dockerfile-language-server-nodejs](https://github.com/rcjsuen/dockerfile-language-server-nodejs) - A language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies.
 - [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
 - [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
 - [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
@@ -2306,8 +2294,6 @@
 - [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
 - [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
-- [gitsessions.vim](https://github.com/wting/gitsessions.vim) - Auto save/load vim sessions based on directory and git branch.
-- [dotvim](https://github.com/wting/dotvim) - Personalized configuration for vim including rc, plugins, scripts.
 - [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
 - [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
