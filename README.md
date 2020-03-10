@@ -34,6 +34,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
+  - [PureScript](#purescript)
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
@@ -68,6 +69,19 @@
 
 ## C 
 
+- [swupd-client](https://github.com/clearlinux/swupd-client) - Software update client
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator
+- [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal
+- [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
+- [ciopfs](https://github.com/martanne/ciopfs) - ciopfs is a fuse file system that mounts a directory on a regular file system in case insensitive fashion.
+- [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
+- [dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
+- [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
+- [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
+- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
+- [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
 - [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
@@ -354,6 +368,7 @@
 
 ## Go 
 
+- [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -373,7 +388,6 @@
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
 - [1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
-- [buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -499,6 +513,7 @@
 
 ## Haskell 
 
+- [purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [dotfiles](https://github.com/danr/dotfiles) - My dotfiles
 - [applied-fp-course](https://github.com/qfpl/applied-fp-course) - Applied Functional Programming Course - Move from exercises to a working app!
 - [compleat](https://github.com/mbrubeck/compleat) - Generate command-line completions using a simple DSL.
@@ -884,6 +899,7 @@
 
 ## Makefile 
 
+- [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [python-science-skeleton](https://github.com/audy/python-science-skeleton) - IPython data science project skeleton
 - [manjaro-docker](https://github.com/manjaro/manjaro-docker) - Base Docker for Manjaro
@@ -914,6 +930,7 @@
 
 ## Others 
 
+- [documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
 - [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) - A collection of handy user modes for kakoune
 - [entr-kak](https://github.com/jwhett/entr-kak) - Entr plugin for Kakoune
@@ -1311,8 +1328,17 @@
 - [APE](https://github.com/Attempto/APE) - Parser for Attempto Controlled English (ACE)
 - [stixfonts](https://github.com/stipub/stixfonts) - OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
 
+## PureScript 
+
+- [insect](https://github.com/sharkdp/insect) - High precision scientific calculator with support for physical units
+
 ## Python 
 
+- [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
+- [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
+- [runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
+- [contracts](https://github.com/deadpixi/contracts) - An implementation of contracts for Python.
+- [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - unittest subTest() support and subtests fixture
 - [statifier](https://github.com/marook/statifier) - collects dynamically linked libraries for an elf binary
 - [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
 - [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
@@ -1842,6 +1868,10 @@
 
 ## Rust 
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client
 - [wtftw](https://github.com/Kintaro/wtftw) - Window Tiling For The Win. A tiling window manager written in Rust
@@ -1861,6 +1891,8 @@
 
 ## Shell 
 
+- [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
+- [install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [buildbench](https://github.com/AkihiroSuda/buildbench) - benchmark tool for Docker, BuildKit, img, Buildah, and Kaniko
 - [dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
 - [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
