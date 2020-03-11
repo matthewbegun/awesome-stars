@@ -130,6 +130,7 @@
 
 ## C# # 
 
+- [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
@@ -224,6 +225,7 @@
 
 ## C++ 
 
+- [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [blackboxwm](https://github.com/bbidulock/blackboxwm) - A window manager for X11
 - [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
@@ -238,7 +240,6 @@
 - [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [nix-windows](https://github.com/volth/nix-windows) - Nix, the purely functional package manager
-- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
 - [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
@@ -368,6 +369,8 @@
 
 ## Go 
 
+- [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
+- [clr-installer](https://github.com/clearlinux/clr-installer) - Clear Linux* OS Installer
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
@@ -566,6 +569,9 @@
 
 ## JavaScript 
 
+- [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
+- [kacl](https://github.com/brightcove/kacl) - Keep a Changelog tooling for automating changelog releases
+- [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
 - [VSNotes](https://github.com/patleeman/VSNotes) - Simple VS Code extension for plain text note taking.
 - [gbck](https://github.com/jukben/gbck) - 🗳 Intuitive lightweight tool for an easy and seamless backup of your files into Git repository
 - [store.js](https://github.com/StevenBlack/store.js) - Cross-browser storage for all use cases • Used across the web • See below for v2.0 news!
@@ -624,7 +630,7 @@
 - [code-kata](https://github.com/jsstrn/code-kata) - :space_invader: Algorithms are a programmer's best friend.
 - [rmdexamples](https://github.com/rstudio/rmdexamples) - 
 - [learnr](https://github.com/rstudio/learnr) - Interactive Tutorials with R Markdown
-- [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib) - Matplotlib Jupyter Extension
+- [ipympl](https://github.com/matplotlib/ipympl) - Matplotlib Jupyter Integration
 - [RISE](https://github.com/damianavila/RISE) - RISE: "Live" Reveal.js Jupyter/IPython Slideshow Extension
 - [jupyter-desktop-server](https://github.com/yuvipanda/jupyter-desktop-server) - Run a Linux Desktop on a JupyterHub
 - [gitattributes.io](https://github.com/gitattributes/gitattributes.io) - Create .gitattributes files for your project.
@@ -899,6 +905,7 @@
 
 ## Makefile 
 
+- [FedoraWSL](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL Instance. Supports multiple install.
 - [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
 - [python-science-skeleton](https://github.com/audy/python-science-skeleton) - IPython data science project skeleton
@@ -1236,6 +1243,7 @@
 
 ## PowerShell 
 
+- [scoop-persist](https://github.com/xfournet/scoop-persist) - 
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
 - [PSTodoWarrior](https://github.com/pauby/PSTodoWarrior) - This is a powershell CLI to the Todo.txt todo file format with some PowerShell like features and also taking inspiration from Taskwarrior.
@@ -1334,6 +1342,8 @@
 
 ## Python 
 
+- [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
+- [clear-linux-torrent](https://github.com/eeeple/clear-linux-torrent) - Automatically creates torrent files for the latest Clear Linux iso
 - [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
 - [plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
@@ -1625,6 +1635,7 @@
 - [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
+- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [python-javabridge](https://github.com/CellProfiler/python-javabridge) - Python wrapper for the Java Native Interface
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
@@ -1891,6 +1902,7 @@
 
 ## Shell 
 
+- [dots](https://github.com/Batoshu/dots) - My configuration files for Arch Linux, i3, vim and more...
 - [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
 - [install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
 - [buildbench](https://github.com/AkihiroSuda/buildbench) - benchmark tool for Docker, BuildKit, img, Buildah, and Kaniko
@@ -2250,6 +2262,7 @@
 
 ## TypeScript 
 
+- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
 - [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
 - [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
