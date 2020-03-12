@@ -225,6 +225,7 @@
 
 ## C++ 
 
+- [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Development of awkward 1.0, to replace scikit-hep/awkward-array in 2020.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [blackboxwm](https://github.com/bbidulock/blackboxwm) - A window manager for X11
@@ -532,6 +533,7 @@
 
 ## Java 
 
+- [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [termuxlauncher](https://github.com/amsitlab/termuxlauncher) - TermuxLauncher : Android application
 - [termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
 - [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
@@ -725,6 +727,9 @@
 
 ## Jupyter Notebook 
 
+- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
+- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
+- [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
@@ -937,6 +942,7 @@
 
 ## Others 
 
+- [kakfiles](https://github.com/robertmeta/kakfiles) - Kakoune config
 - [documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
 - [kakoune-user-modes](https://github.com/Delapouite/kakoune-user-modes) - A collection of handy user modes for kakoune
@@ -1243,6 +1249,7 @@
 
 ## PowerShell 
 
+- [dotfiles](https://github.com/robertmeta/dotfiles) - My dangerous dotfiles, don't touch :)
 - [scoop-persist](https://github.com/xfournet/scoop-persist) - 
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
@@ -1342,6 +1349,8 @@
 
 ## Python 
 
+- [condax](https://github.com/mariusvniekerk/condax) - Install and run applications packaged with conda in isolated environments
+- [conda-lock](https://github.com/mariusvniekerk/conda-lock) - Lightweight lockfile for conda environments
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [clear-linux-torrent](https://github.com/eeeple/clear-linux-torrent) - Automatically creates torrent files for the latest Clear Linux iso
 - [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
@@ -1446,7 +1455,7 @@
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [hybridcontents](https://github.com/viaduct-ai/hybridcontents) - A ContentsManager wrapper for using multiple ContentsManager in Jupyter
-- [jupyterlab_celltests](https://github.com/timkpaine/jupyterlab_celltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
+- [nbcelltests](https://github.com/timkpaine/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
@@ -1879,6 +1888,7 @@
 
 ## Rust 
 
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1902,6 +1912,7 @@
 
 ## Shell 
 
+- [awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
 - [dots](https://github.com/Batoshu/dots) - My configuration files for Arch Linux, i3, vim and more...
 - [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
 - [install](https://github.com/Homebrew/install) - 📥 Homebrew (un)installer
