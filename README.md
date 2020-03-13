@@ -1349,6 +1349,9 @@
 
 ## Python 
 
+- [parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
+- [booksbot](https://github.com/scrapy/booksbot) - A crawler for http://books.toscrape.com
+- [quotesbot](https://github.com/scrapy/quotesbot) - This is a sample Scrapy project for educational purposes
 - [condax](https://github.com/mariusvniekerk/condax) - Install and run applications packaged with conda in isolated environments
 - [conda-lock](https://github.com/mariusvniekerk/conda-lock) - Lightweight lockfile for conda environments
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
@@ -1888,6 +1891,7 @@
 
 ## Rust 
 
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
