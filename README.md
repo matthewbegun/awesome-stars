@@ -21,6 +21,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [MATLAB](#matlab)
@@ -39,6 +40,7 @@
   - [R](#r)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SAS](#sas)
   - [Shell](#shell)
   - [Starlark](#starlark)
   - [Swift](#swift)
@@ -266,6 +268,7 @@
 
 ## CSS 
 
+- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help Data Science teams share and review their jupyter notebooks
 - [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
@@ -415,6 +418,7 @@
 
 ## HTML 
 
+- [pydata-bootstrap-sphinx-theme](https://github.com/pandas-dev/pydata-bootstrap-sphinx-theme) - Bootstrap-based sphinx theme from the PyData community
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) - 
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
@@ -571,6 +575,9 @@
 
 ## JavaScript 
 
+- [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
+- [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
+- [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
 - [kacl](https://github.com/brightcove/kacl) - Keep a Changelog tooling for automating changelog releases
 - [etcdkeeper](https://github.com/evildecay/etcdkeeper) - web ui client for etcd
@@ -725,8 +732,16 @@
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
+## Jsonnet 
+
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+
 ## Jupyter Notebook 
 
+- [treebeard](https://github.com/treebeardtech/treebeard) - Example for Treebeard notebook cloud deployment CLI
+- [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
+- [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
+- [pidgy](https://github.com/deathbeds/pidgy) - Writing programs in markdown and python
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science
@@ -942,6 +957,7 @@
 
 ## Others 
 
+- [sphinx-jupyter-book-theme](https://github.com/choldgraf/sphinx-jupyter-book-theme) - An experimental Sphinx theme for Jupyter Book
 - [kakfiles](https://github.com/robertmeta/kakfiles) - Kakoune config
 - [documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
@@ -1349,6 +1365,26 @@
 
 ## Python 
 
+- [jupyter-lab-serverless](https://github.com/u2takey/jupyter-lab-serverless) - Run and Manager ServerLess Functions in JupyterLab
+- [zimports](https://github.com/sqlalchemyorg/zimports) - Python import rewriter
+- [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
+- [GitMiller](https://github.com/UtrechtUniversity/GitMiller) - 
+- [paperboy](https://github.com/timkpaine/paperboy) - A web frontend for scheduling Jupyter notebook reports
+- [run_jnb](https://github.com/hz-inova/run_jnb) - Parametrise (python3 only) and execute Jupyter notebooks
+- [importanize](https://github.com/miki725/importanize) - Utility for organizing Python imports using PEP8 or custom rules
+- [jupytui](https://github.com/mosiman/jupytui) - Terminal jupyter client
+- [neptyne](https://github.com/danr/neptyne) - editor-agnostic jupyter kernel communication (+ kakoune integration)
+- [oer-md-publish-sphinx-actions](https://github.com/ouseful-testing/oer-md-publish-sphinx-actions) - Github Action powered nbsphinx publishing route
+- [openlearn-publish-test](https://github.com/psychemedia/openlearn-publish-test) - TEst of OpenLearn publishing route
+- [jhsingle-native-proxy](https://github.com/ideonate/jhsingle-native-proxy) - Wrap an arbitrary webapp so it can be used in place of jupyter-singleuser in a JupyterHub setting
+- [sphinx-copybutton](https://github.com/choldgraf/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
+- [jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
+- [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
+- [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
+- [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
+- [notebook_restified](https://github.com/kafonek/notebook_restified) - 
+- [kale](https://github.com/kubeflow-kale/kale) - Convert a JupyterNotebook to a Kubeflow Pipeline deployment.
+- [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
 - [parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [booksbot](https://github.com/scrapy/booksbot) - A crawler for http://books.toscrape.com
 - [quotesbot](https://github.com/scrapy/quotesbot) - This is a sample Scrapy project for educational purposes
@@ -1362,7 +1398,6 @@
 - [contracts](https://github.com/deadpixi/contracts) - An implementation of contracts for Python.
 - [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - unittest subTest() support and subtests fixture
 - [statifier](https://github.com/marook/statifier) - collects dynamically linked libraries for an elf binary
-- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
 - [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
 - [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
 - [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
@@ -1876,6 +1911,7 @@
 
 ## Ruby 
 
+- [selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
 - [whales](https://github.com/Gueils/whales) - :whale: Tool to automatically dockerize your application.
 - [nbgallery](https://github.com/nbgallery/nbgallery) - Enterprise Jupyter notebook sharing and collaboration app
 - [pomodori-todo.txt](https://github.com/metalelf0/pomodori-todo.txt) - A pomodoro counter implementation for todo.txt.
@@ -1891,6 +1927,7 @@
 
 ## Rust 
 
+- [heatseeker](https://github.com/rschmitt/heatseeker) - A high-performance Selecta clone, written in Rust.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1914,6 +1951,10 @@
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 
+## SAS 
+
+- [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
+
 ## Shell 
 
 - [awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
@@ -1929,7 +1970,8 @@
 - [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [dotfiles](https://github.com/AladW/dotfiles) - 
-- [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - Xxh entrypoint for fish shell appimage
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
+- [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - fish xxh shell entrypoint
 - [archlinux-packages](https://github.com/felixonmars/archlinux-packages) - Arch Linux Packages, git clone of the 'packages' repository. (Mirror of projects.archlinux.org/svntogit/packages.git)
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
@@ -2277,6 +2319,7 @@
 
 ## TypeScript 
 
+- [callisto](https://github.com/LittleAprilFool/callisto) - 
 - [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
 - [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
