@@ -11,9 +11,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [Clojure](#clojure)
   - [Dockerfile](#dockerfile)
-  - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -21,13 +19,11 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
-  - [Nix](#nix)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -71,32 +67,20 @@
 
 ## C 
 
-- [swupd-client](https://github.com/clearlinux/swupd-client) - Software update client
+- [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
+- [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
+- [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
+- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal
-- [abduco](https://github.com/martanne/abduco) - abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
-- [ciopfs](https://github.com/martanne/ciopfs) - ciopfs is a fuse file system that mounts a directory on a regular file system in case insensitive fashion.
-- [vis](https://github.com/martanne/vis) - A vi-like editor based on Plan 9's structural regular expressions
-- [dvtm](https://github.com/martanne/dvtm) - dvtm brings the concept of tiling window management, popularized by X11-window managers like dwm to the console. As a console window manager it tries to make it easy to work with multiple console based programs.
-- [dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
-- [tine](https://github.com/deadpixi/tine) - tine - a modern clone of the AmigaDOS/TRIPOS ED display editor
-- [mtm](https://github.com/deadpixi/mtm) - Perhaps the smallest useful terminal multiplexer in the world.
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
-- [gcc_termux](https://github.com/its-pointless/gcc_termux) - Gcc for termux with fortran scipy etc... Use apt for newest updates instructions in README.txt
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [i3](https://github.com/i3/i3) - A tiling window manager
-- [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [fvwm3](https://github.com/fvwmorg/fvwm3) - FVWM version 3 -- the successor to fvwm2
-- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
-- [i-use-arch-btw](https://github.com/OverMighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 - [multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
-- [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
-- [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [c4](https://github.com/rswier/c4) - C in four functions
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
@@ -114,27 +98,16 @@
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
 - [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL installer / launcher.  (Win10 FCU 64bit or later.)
 - [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
-- [openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
-- [libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
-- [jep](https://github.com/ninia/jep) - Embed Python in Java
-- [asymptote](https://github.com/vectorgraphics/asymptote) - 2D & 3D TeX-Aware Vector Graphics Language
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
-- [proot](https://github.com/termux/proot) - An chroot-like implementation using ptrace.
 - [toybox](https://github.com/landley/toybox) - toybox
-- [proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
-- [c_koans](https://github.com/c-koans/c_koans) - C Koans
-- [Rosetta_Project](https://github.com/EricAlcaide/Rosetta_Project) - Algorithms implemented in Python, JS and Go. Feel free to add another language!
-- [windows-curses](https://github.com/zephyrproject-rtos/windows-curses) - Windows Curses Python module
 - [WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
 
 ## C# # 
 
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
-- [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
 - [interactive](https://github.com/dotnet/interactive) - 
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
@@ -230,35 +203,11 @@
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Development of awkward 1.0, to replace scikit-hep/awkward-array in 2020.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
-- [blackboxwm](https://github.com/bbidulock/blackboxwm) - A window manager for X11
-- [herbstluftwm](https://github.com/herbstluftwm/herbstluftwm) - A manual tiling window manager for X11
-- [icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
-- [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
-- [LightGBM](https://github.com/microsoft/LightGBM) - A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
-- [arrow](https://github.com/apache/arrow) - Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and Ruby.
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [nix-windows](https://github.com/volth/nix-windows) - Nix, the purely functional package manager
-- [nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
-- [serving](https://github.com/tensorflow/serving) - A flexible, high-performance serving system for machine learning models
-- [flatbuffers](https://github.com/google/flatbuffers) - FlatBuffers: Memory Efficient Serialization Library
-- [pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
-- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [XmlDiff](https://github.com/acforu/XmlDiff) - xml diff tool based on data instead of text
-- [ghostwriter](https://github.com/wereturtle/ghostwriter) - ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor.
-- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
-- [qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
-- [visualtext3](https://github.com/VisualText/visualtext3) - VisualText Version 3 with new Codejock libraries including using the Codejock text editor
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [CppKoans](https://github.com/torbjoernk/CppKoans) - Inspired by RubyKoans and JavaScript-Koans, this is an attemt to write such koans for C/C++.
-- [Finite-Difference-Method](https://github.com/ThomasThelen/Finite-Difference-Method) - A Finite Difference Method Engine in C++
-- [C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - All Algorithms implemented in C++
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
 - [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -268,30 +217,14 @@
 
 ## CSS 
 
+- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
 - [koopera](https://github.com/rsn491/koopera) - Collaboration app to help Data Science teams share and review their jupyter notebooks
-- [termux-desktop](https://github.com/adi1090x/termux-desktop) - Setup A Beautiful Desktop/GUI In Termux
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
-- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
-- [markdeck](https://github.com/arnehilmann/markdeck) - presentations as code - author cool slide decks, text-only, offline-ready, collaborative
-- [xsite](https://github.com/x-stream/xsite) - 
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
-- [solarized-everything-css](https://github.com/alphapapa/solarized-everything-css) - A collection of Solarized user-stylesheets for...everything?
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
-- [pubcss](https://github.com/thomaspark/pubcss) - Format academic publications in HTML & CSS
-- [vscode-markdown-style](https://github.com/raycon/vscode-markdown-style) - Markdown styles for vscode
-- [vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
-- [gimmemotifs-manuscript](https://github.com/simonvh/gimmemotifs-manuscript) - 
-- [dotpandoc](https://github.com/iandol/dotpandoc) - Pandoc Data directory, including filters and templates for producing multiple outputs for academic content.
-- [ecological_notes](https://github.com/aammd/ecological_notes) - notes I'm taking while reading about ecology
-- [vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
-- [jekyll-now](https://github.com/barryclark/jekyll-now) - Build a Jekyll blog in minutes, without touching the command line.
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
-
-## Clojure 
-
-- [FiraCode](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures
 
 ## Dockerfile 
 
@@ -367,20 +300,14 @@
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
-## Emacs Lisp 
-
-- [dotfiles](https://github.com/andreyorst/dotfiles) - This is a mirror from https://gitlab.com/andreyorst/dotfiles
-
 ## Go 
 
-- [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
-- [clr-installer](https://github.com/clearlinux/clr-installer) - Clear Linux* OS Installer
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
+- [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
-- [grumpy](https://github.com/google/grumpy) - Grumpy is a Python to Go source code transcompiler and runtime.
 - [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -393,16 +320,13 @@
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
-- [1up](https://github.com/genuinetools/1up) - A custom Gmail spam filter bot.
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
-- [moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [easy-novnc](https://github.com/geek1011/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [powerline-go](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt for your shell, written in go
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
@@ -418,34 +342,16 @@
 
 ## HTML 
 
-- [pydata-bootstrap-sphinx-theme](https://github.com/pandas-dev/pydata-bootstrap-sphinx-theme) - Bootstrap-based sphinx theme from the PyData community
+- [liberal-arts-epidemiology](https://github.com/dtkaplan/liberal-arts-epidemiology) - Materials for teaching epidemiology as a liberal arts topic.
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
-- [Minecraft-Nintendo-Switch-Private-Server](https://github.com/ConnorGraham/Minecraft-Nintendo-Switch-Private-Server) - 
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
-- [trivia](https://github.com/caradojo/trivia) - Legacy Code Retreat - Grenoble 2011
 - [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
-- [kubelabs](https://github.com/collabnix/kubelabs) - Kubernetes - Beginners | Intermediate | Advanced
 - [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
-- [portainer](https://github.com/portainer/portainer) - Making Docker management easy.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
-- [mdtest](https://github.com/michelf/mdtest) - Test suite for Markdown implementations
-- [Inform](https://github.com/TobyLobster/Inform) - Inform is a design system for interactive fiction based on natural language
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
-- [nx-software-center](https://github.com/Nitrux/nx-software-center) - NX Software Center. A GUI to install and manage AppImages.
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
-- [docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync
 - [Gallery](https://github.com/noklam/Gallery) - Gallery
-- [djangogirls](https://github.com/DjangoGirls/djangogirls) - Website for DjangoGirls.org
-- [tools](https://github.com/googlecodelabs/tools) - Codelabs management & hosting tools
-- [Science.md](https://github.com/mschroen/Science.md) - An easy framework for drafting scientific documents: Write (Markdown), Compile (PDF, Word, HTML), Share.
-- [docker-reproducible-research](https://github.com/nuest/docker-reproducible-research) - A course on using Docker for reproducible research based on the AuthorCarpentry templage
-- [jupyter_latex_envs](https://github.com/jfbercher/jupyter_latex_envs) - (Some) LaTeX environments for Jupyter
-- [toys](https://github.com/mcandre/toys) - hello world 4 ur stax
-- [builtwithnix.org](https://github.com/nix-community/builtwithnix.org) - Share the love of Nix [maintainer=@zimbatm]
-- [pandas-munging](https://github.com/bsweger/pandas-munging) - Short talk on basic data munging with Python and Pandas
-- [webinars](https://github.com/rstudio/webinars) - Code and slides for RStudio webinars
-- [git-reference](https://github.com/git/git-reference) - Online Git Reference at http://git.github.io/git-reference/
 - [skimr](https://github.com/ropensci/skimr) - A frictionless, pipeable approach to dealing with summary statistics
 - [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -466,36 +372,10 @@
 - [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
-- [fonts](https://github.com/google/fonts) - Font files available from Google Fonts
-- [web-starter-kit](https://github.com/google/web-starter-kit) - Web Starter Kit - a workflow for multi-device websites
-- [material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
-- [dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
-- [c4-draw.io](https://github.com/tobiashochguertel/c4-draw.io) - C4 Modelling little bit easier
-- [website](https://github.com/swcarpentry/website) - Software Carpentry website
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
-- [hairdressers](https://github.com/zeionara/hairdressers) - Kursach for 'modeling' discipline
-- [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
-- [mathblogging.org](https://github.com/mathblogging/mathblogging.org) - The new home for mathblogging.org
-- [design](https://github.com/jupyter/design) - Design related materials for Project Jupyter
-- [shiny-rt](https://github.com/lindeloev/shiny-rt) - Reaction Time Distributions - An Interactive Overview
-- [jpd-pdapr-slides](https://github.com/lgautier/jpd-pdapr-slides) - 
-- [hyperpoly](https://github.com/christianrubiales/hyperpoly) - Interactive technology comparison based on hyperpolyglot.org and influenced by github.com/betaveros/hyperpolymorph.
-- [awesome-resources](https://github.com/lyfeyaj/awesome-resources) - Awesome resources for coding and learning: open source projects, websites, books e.g.
-- [mnmotebook](https://github.com/danmackinlay/mnmotebook) - Themes for pelican
-- [strangeioc](https://github.com/strangeioc/strangeioc) - The IoC/Binding Framework for Unity3D and C#
-- [webrtc-org](https://github.com/webrtc/webrtc-org) - WebRTC.org website
-- [styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
-- [Tools4RR](https://github.com/kbroman/Tools4RR) - Materials for a one-credit course on reproducible research
-- [Paper_DataOrg](https://github.com/kbroman/Paper_DataOrg) - Source for paper, "Data organization in spreadsheets"
-- [CSharpGuidelines](https://github.com/dennisdoomen/CSharpGuidelines) - A set of coding guidelines for C# 5.0, C# 6.0 and C# 7.0, design principles and layout rules for improving the overall quality of your code development.
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
-- [phd_thesis_markdown](https://github.com/danmackinlay/phd_thesis_markdown) - Template for writing a PhD thesis in Markdown
-- [markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-- [InOneWeekend](https://github.com/RayTracing/InOneWeekend) - DEPRECATED — Head to the raytracing.github.io repo for the new home
-- [xkcd-chart-sheet](https://github.com/gnufede/xkcd-chart-sheet) - Create xkcd charts from a spreadsheet
-- [d3-burndown](https://github.com/newtonlabs/d3-burndown) - XKCD Burndown chart
 - [velociraptorproblem](https://github.com/infratxt/velociraptorproblem) - Solving the xkcd Velociraptor Problem in JavaScript, graphing in D3
 - [graphtheory](https://github.com/sri-rad/graphtheory) - Webapp to generate xkcd-esque graphs.
 - [phd_thesis_markdown](https://github.com/tompollard/phd_thesis_markdown) - Template for writing a PhD thesis in Markdown
@@ -537,36 +417,13 @@
 
 ## Java 
 
-- [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
-- [termuxlauncher](https://github.com/amsitlab/termuxlauncher) - TermuxLauncher : Android application
-- [termux-boot](https://github.com/termux/termux-boot) - Termux add-on app allowing programs to be run at boot.
-- [linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-- [bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
-- [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
-- [gf-eclipse-plugin](https://github.com/GrammaticalFramework/gf-eclipse-plugin) - GF Eclipse Plugin
 - [AceWiki](https://github.com/AceWiki/AceWiki) - AceWiki is a semantic wiki based on controlled natural language.
+- [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
+- [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
 - [aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) in the back-end. ACE View has been implemented as a plug-in for Protégé 4
-- [ArchPackages](https://github.com/rascarlo/ArchPackages) - Android Arch Linux packages browser
-- [rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
-- [invesdwin-context-python](https://github.com/subes/invesdwin-context-python) - Integrate python functionality with these modules for invesdwin-context
-- [tensorflow-example-java](https://github.com/szaza/tensorflow-example-java) - This is a Tensorflow Java example application what uses YOLOv2 model and Gradle for build and dependency management.
-- [java](https://github.com/tensorflow/java) - Java bindings for TensorFlow
 - [mug](https://github.com/google/mug) - 
-- [flamegrapher](https://github.com/flamegrapher/flamegrapher) - Web frontend and REST API for Java Flight Recorder with Flamegraphs 🔥
-- [birdseye-pycharm](https://github.com/alexmojaki/birdseye-pycharm) - IntelliJ IDE plugin for the Python debugger birdseye
-- [cucumber](https://github.com/cucumber/cucumber) - Cucumber monorepo - building blocks for Cucumber in various languages
-- [java-quickstart](https://github.com/structurizr/java-quickstart) - A starting point for using Structurizr for Java
-- [kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
-- [plantuml](https://github.com/plantuml/plantuml) - Generate UML diagram from textual description
-- [languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
-- [jackson-dataformat-xml](https://github.com/FasterXML/jackson-dataformat-xml) - Extension for Jackson JSON processor that adds support for serializing POJOs as XML (and deserializing from XML) as an alternative to JSON
-- [are-we-fast-yet](https://github.com/smarr/are-we-fast-yet) - Are We Fast Yet? Comparing Language Implementations with Objects, Closures, and Arrays
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
-- [TDDIntro](https://github.com/BillSchofield/TDDIntro) - 
-- [opengrok](https://github.com/oracle/opengrok) - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [jetbrains-plugin-xsimsel](https://github.com/dsggregory/jetbrains-plugin-xsimsel) - Simulate X middle-button press to paste selection in a JetBrains IDE.
@@ -587,7 +444,6 @@
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
-- [texthings](https://github.com/emichael/texthings) - Tex All the Things: Chrome extension which typesets LaTeX in webpages using MathJax
 - [TrelloExport](https://github.com/trapias/TrelloExport) - Chrome extension to export Trello boards to Excel, Markdown, HTML and OPML
 - [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
@@ -611,7 +467,6 @@
 - [vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [dotseeker](https://github.com/reireias/dotseeker) - Collect dotfiles from GitHub repositories.
 - [webpack-yam-plugin](https://github.com/markfinger/webpack-yam-plugin) - Yet another manifest plugin for webpack
-- [webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
 - [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
 - [groq-cli](https://github.com/sanity-io/groq-cli) - Run GROQ in your command line
 - [snippet-generator](https://github.com/pawelgrzybek/snippet-generator) - Snippet generator for Visual Studio Code, Sublime Text and Atom
@@ -666,7 +521,6 @@
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
 - [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
-- [prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
@@ -704,7 +558,6 @@
 - [create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [bayeux](https://github.com/htck/bayeux) - Historic Tale Construction Kit - opensource and customizable version !
 - [cite2c](https://github.com/takluyver/cite2c) - Citations in the Jupyter Notebook
-- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [semantic-linebreaker](https://github.com/waldyrious/semantic-linebreaker) - A utility to help you apply semantic linebreaks to any text
 - [stpihkal](https://github.com/buttplugio/stpihkal) - Sex Toys Protocols I Have Known And Loved - Documentation of Reverse Engineered Protocols for Commercial Sex Hardware
 - [zalo.github.io](https://github.com/zalo/zalo.github.io) - A home for knowledge that is hard to find elsewhere
@@ -732,12 +585,9 @@
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
-## Jsonnet 
-
-- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-
 ## Jupyter Notebook 
 
+- [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
 - [treebeard](https://github.com/treebeardtech/treebeard) - Example for Treebeard notebook cloud deployment CLI
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
@@ -748,7 +598,6 @@
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
-- [Survival-Analysis-on-Machine-Incident-Prediction](https://github.com/christine-ding/Survival-Analysis-on-Machine-Incident-Prediction) - Time-to-Failure Prediction using Coxph Regression Model
 - [iris_python](https://github.com/gesiscss/iris_python) - Example python repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
 - [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
 - [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
@@ -770,7 +619,6 @@
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
 - [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
 - [improve-writing](https://github.com/FavioVazquez/improve-writing) - Using textstat to write better blogs and improve readability.
-- [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [notebooks](https://github.com/Naereen/notebooks) - :notebook: A growing collection of Jupyter Notebooks written in Python, OCaml and Julia for science examples, algorithms, visualizations etc
 - [notebooks](https://github.com/spacetelescope/notebooks) - Curated Notebooks from STScI
 - [xlines](https://github.com/agile-geoscience/xlines) - X lines of Python
@@ -925,6 +773,7 @@
 
 ## Makefile 
 
+- [sphinxtr](https://github.com/jterrace/sphinxtr) - The Sphinx Thesis Resource
 - [FedoraWSL](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL Instance. Supports multiple install.
 - [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
 - [ports](https://github.com/openbsd/ports) - Public git conversion mirror of OpenBSD's official cvs ports repository. Pull requests not accepted - send diffs to the ports@ mailing list.
@@ -947,17 +796,12 @@
 
 - [jupyter-hub-oauth-matlab](https://github.com/benjamin-heasly/jupyter-hub-oauth-matlab) - JupyterHub plus Google OAuth, plus support for a mounted-in Matlab, plus the Jypyter matlab_kernel.
 
-## Nix 
-
-- [configuration](https://github.com/alexherbo2/configuration) - Personal configuration files
-
 ## OCaml 
 
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Others 
 
-- [sphinx-jupyter-book-theme](https://github.com/choldgraf/sphinx-jupyter-book-theme) - An experimental Sphinx theme for Jupyter Book
 - [kakfiles](https://github.com/robertmeta/kakfiles) - Kakoune config
 - [documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
@@ -1020,7 +864,6 @@
 - [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
 - [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
-- [windows-ps](https://github.com/rasa/windows-ps) - Next generation Windows templates based on PowerShell scripts
 - [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
 - [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
@@ -1188,9 +1031,7 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 - [DevEvents](https://github.com/Readify/DevEvents) - List of conferences and events of interest to developers
 - [opensource-candies](https://github.com/velikanov/opensource-candies) - Free stuff for open source projects
@@ -1257,43 +1098,26 @@
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
-- [kaktree](https://github.com/andreyorst/kaktree) - File explorer side panel for Kakoune editor. Mirror of https://gitlab.com/andreyorst/kaktree
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
-- [amazon-polly-batch](https://github.com/agentzh/amazon-polly-batch) - Convert large plain text files to MP3 files via Amazon Polly
 
 ## PowerShell 
 
+- [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
+- [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
+- [Sovereign](https://github.com/nspencer16/Sovereign) - 
+- [oh-my-windows](https://github.com/XuHaoJun/oh-my-windows) - 
+- [PowerShell-Youtube-dl](https://github.com/mpb10/PowerShell-Youtube-dl) - A PowerShell script interface used to operate the youtube-dl command line program.
 - [dotfiles](https://github.com/robertmeta/dotfiles) - My dangerous dotfiles, don't touch :)
 - [scoop-persist](https://github.com/xfournet/scoop-persist) - 
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-- [psutils](https://github.com/jtc42/psutils) - Command line utilities written in Powershell
-- [PSTodoWarrior](https://github.com/pauby/PSTodoWarrior) - This is a powershell CLI to the Todo.txt todo file format with some PowerShell like features and also taking inspiration from Taskwarrior.
-- [posh-sshell](https://github.com/dahlbyk/posh-sshell) - PowerShell helpers for SSH (previously part of posh-git.)
-- [Set-Privacy](https://github.com/hahndorf/Set-Privacy) - PowerShell script to batch-change privacy settings in Windows 10
 - [BRU](https://github.com/arcadesdude/BRU) - Bloatware Removal Utility, for automating removal of pre-installed, factory bloatware from devices running Windows 7-10 and newer. Silently removes items selected if possible. Preselects common bloatware. Can remove Win10 UWP/Metro/Modern/Windows Store apps and provisioned apps.
-- [PoshRSJob](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background, freeing up the console and allowing throttling on the jobs.
-- [DockerComposeCompletion](https://github.com/matt9ucci/DockerComposeCompletion) - Docker Compose command completion for PowerShell.
 - [dotfiles](https://github.com/samneirinck/dotfiles) - Preferences & settings of my toolbox
-- [Posh-Sysmon](https://github.com/darkoperator/Posh-Sysmon) - PowerShell module for creating and managing Sysinternals Sysmon config files.
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
-- [PowerShell-Tests](https://github.com/PowerShell/PowerShell-Tests) - Pester based tests for testing PowerShell
 - [dotfiles](https://github.com/SeeminglyScience/dotfiles) - 
 - [powershell-goodies](https://github.com/cspotcode/powershell-goodies) - PowerShell modules, my profile, a ton of functions, prototypes, etc.
-- [PSWriteWord](https://github.com/EvotecIT/PSWriteWord) - PSWriteWord is powershell module to create Microsoft Word documents without Microsoft Word installed...
-- [PSWinDocumentation](https://github.com/EvotecIT/PSWinDocumentation) - PowerShell Module that creates Word/Excel/SQL documentation from Active Directory (AD), AWS, Office 365 and others. It's a work in progress!
 - [PSTeams](https://github.com/EvotecIT/PSTeams) - This PowerShell Module allows to sending notifications to Microsoft Teams. It's pretty flexible and provides a bunch of options. While there are already 2 other modules related to sending notifications to Teams this one takes it a step further.
-- [PSFunctions](https://github.com/dotps1/PSFunctions) - Repository for holding script-functions that are published to the PowerShell Gallery.
-- [PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
-- [PSProse](https://github.com/dfinke/PSProse) - PowerShell module for the Microsoft Program Synthesis SDK https://github.com/Microsoft/prose
-- [PowerShellJson](https://github.com/dfinke/PowerShellJson) - Query JSON with PowerShell
-- [ConvertFromMarkdown](https://github.com/dfinke/ConvertFromMarkdown) - From your Markdown to generated chapters, run ScriptAnalyzer on your examples and generate HTML, a Word Doc or PDF. Table of Contents included
-- [PSKit](https://github.com/dfinke/PSKit) - A suite of command-line tools for working with PowerShell Arrays. From querying to doing array statistics.
-- [PowerShellNotebook](https://github.com/dfinke/PowerShellNotebook) - Let's you automate PowerShell Notebooks with PowerShell at the command line, exports to Excel and more. On the gallery
-- [BuildHelpers](https://github.com/RamblingCookieMonster/BuildHelpers) - Helper functions for PowerShell CI/CD scenarios
-- [Graphical](https://github.com/PrateekKumarSingh/Graphical) - Open-Source, Platform independent module that consumes data points as input and plots them on a 2D graph [Scatter / Bar / Line] on the PowerShell Console/Terminal
-- [ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 - [Configuration](https://github.com/PoshCode/Configuration) - A module to help other modules have settings
 - [PoshWSUS](https://github.com/proxb/PoshWSUS) - PowerShell module to manage Windows Server Update Services (WSUS)
 - [Whiskey](https://github.com/webmd-health-services/Whiskey) - 
@@ -1315,36 +1139,16 @@
 - [WLOADER](https://github.com/wuseman/WLOADER) - Windows 10 PRO Activator - No more backdoors via loaders from China and neither you will need any crack anymore that is valid for a week or two. This is script is written for powershell/cmd. This script will also removing all bloatware from Windows 10. Edit the script after your needs.
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) - A collection of Scripts which disable / remove Windows 10 Features and Apps
-- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - Azure Quickstart Templates
-- [PowerShell-Youtube-dl](https://github.com/mpb10/PowerShell-Youtube-dl) - A PowerShell script interface used to operate the youtube-dl command line program.
-- [DevOpsKitDsc](https://github.com/BernieWhite/DevOpsKitDsc) - Automation resources for working with PowerShell Desired State Configuration (DSC).
-- [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
-- [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
-- [Sovereign](https://github.com/nspencer16/Sovereign) - 
-- [oh-my-windows](https://github.com/XuHaoJun/oh-my-windows) - 
 - [scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
-- [powershell-word](https://github.com/fingersonfire/powershell-word) - Microsoft Word related Powershell Scripts
 - [PowerShellScripts](https://github.com/bsteil/PowerShellScripts) - Snippets & Scripts
-- [extractUserPst](https://github.com/dataweapons/extractUserPst) - Extract user outlook email into a PST with admin creds.
-- [PSDesiredStateConfiguration.Reverse](https://github.com/microsoft/PSDesiredStateConfiguration.Reverse) - Extracts a PowerShell DSC Script from an existing environment
-- [ComputerManagementDsc](https://github.com/dsccommunity/ComputerManagementDsc) - DSC resources for for configuration of a Windows computer. These DSC resources allow you to perform computer management tasks, such as renaming the computer, joining a domain and scheduling tasks as well as configuring items such as virtual memory, event logs, time zones and power settings.
-- [xPSDesiredStateConfiguration](https://github.com/dsccommunity/xPSDesiredStateConfiguration) - DSC resources for configuring common operating systems features, files and settings.
 - [PowerShell](https://github.com/JeremyTBradshaw/PowerShell) - The resting place for my PowerShell scripting work
-- [MsftGraph](https://github.com/jhoneill/MsftGraph) - A PowerShell module for interacting with the Microsoft Graph API for Directory, OneNote, OneDrive, Outlook, Planner, Teams and Sharepoint in Office 365 or consumer versions
-- [OutlookConnector](https://github.com/iricigor/OutlookConnector) - 
-- [OutlookTools](https://github.com/AmanDhally/OutlookTools) - OutlookTools
 - [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [PsTodoTxt](https://github.com/pauby/PsTodoTxt) - This is a PowerShell CLI to the Todo.txt todo file format with some PowerShell like features.
 - [cChoco](https://github.com/chocolatey/cChoco) - Community resource to manage Chocolatey
 - [Profile](https://github.com/MartinSGill/Profile) - My Powershell Profile
-- [todo.txt-PowerShell](https://github.com/hartez/todo.txt-PowerShell) - Implementation of todo.txt CLI for PowerShell
 - [psutils](https://github.com/zhoujin7/psutils) - Command line utilities written in Powershell
-- [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - A prompt theming engine for Powershell
-- [PowerGit](https://github.com/felixfbecker/PowerGit) - Git with the power of the PowerShell object pipeline. For macOS, Linux and Windows.
-- [PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) - Microsoft PowerShell wrapper for GitHub API
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
-- [PSGitHub](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API.
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -1365,6 +1169,9 @@
 
 ## Python 
 
+- [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
+- [article-introduction-to-itertools-snippets](https://github.com/DahlitzFlorian/article-introduction-to-itertools-snippets) - 
+- [nbsphinx](https://github.com/spatialaudio/nbsphinx) - :ledger: Sphinx source parser for Jupyter notebooks
 - [jupyter-lab-serverless](https://github.com/u2takey/jupyter-lab-serverless) - Run and Manager ServerLess Functions in JupyterLab
 - [zimports](https://github.com/sqlalchemyorg/zimports) - Python import rewriter
 - [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
@@ -1475,7 +1282,6 @@
 - [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [pyjanitor](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor
@@ -1674,7 +1480,6 @@
 - [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
 - [pronto](https://github.com/althonos/pronto) - A Python frontend to Ontologies.
 - [sos-notebook](https://github.com/vatlab/sos-notebook) - Multi-language Jupyter Notebook
-- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [Pweave](https://github.com/mpastell/Pweave) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
 - [codebraid](https://github.com/gpoore/codebraid) - Live code in Pandoc Markdown
 - [jupinx](https://github.com/QuantEcon/jupinx) - Jupyter + Sphinx Utilities and Tools
@@ -1716,7 +1521,6 @@
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
-- [models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
 - [jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -1756,6 +1560,7 @@
 - [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
 - [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+- [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Google Mail
 - [imatlab](https://github.com/imatlab/imatlab) - A Jupyter kernel for MATLAB.
 - [psychopy-course](https://github.com/lindeloev/psychopy-course) - The course materials for using psychopy for psychophysics and neuroscience.
@@ -1772,7 +1577,6 @@
 - [pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model
 - [stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -1927,12 +1731,14 @@
 
 ## Rust 
 
+- [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
+- [memol-rs](https://github.com/y-fujii/memol-rs) - A music description language.
+- [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [heatseeker](https://github.com/rschmitt/heatseeker) - A high-performance Selecta clone, written in Rust.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 - [kak-lsp](https://github.com/ul/kak-lsp) - Kakoune Language Server Protocol Client
@@ -1941,15 +1747,10 @@
 - [bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
 - [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
 - [leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [effitask](https://github.com/sanpii/effitask) - Graphical task manager, based on the todo.txt format.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
-- [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
-- [bukubrow-host](https://github.com/SamHH/bukubrow-host) - Host application for the Bukubrow WebExtension
-- [proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [fatcat](https://github.com/internetarchive/fatcat) - Perpetual Access To The Scholarly Record
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
-- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - Static analysis tools for all programming languages, build tools, config files and more.
 
 ## SAS 
 
@@ -2019,7 +1820,6 @@
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
 - [dotfiles](https://github.com/mavam/dotfiles) - :desktop_computer: The very heart of an efficient work environment
 - [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
-- [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
 - [zen_installer](https://github.com/spookykidmm/zen_installer) - Graphical installer for Arch Linux
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
@@ -2235,7 +2035,6 @@
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
-- [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [reproducible-os-environments](https://github.com/ickc/reproducible-os-environments) - Automate installation of softwares on freshly installed OS — macOS, Ubuntu
 - [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
@@ -2320,7 +2119,6 @@
 ## TypeScript 
 
 - [callisto](https://github.com/LittleAprilFool/callisto) - 
-- [hyper](https://github.com/zeit/hyper) - A terminal built on web technologies
 - [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
 - [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
 - [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
@@ -2401,8 +2199,6 @@
 - [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [termux](https://github.com/onlurking/termux) - Dotfiles for Termux (tmux, zsh, and neovim)
-- [dotfiles](https://github.com/nojhan/dotfiles) - My config files
-- [vimconfig](https://github.com/sahensley/vimconfig) - The ever evolving VIM configuration
 - [dotfiles](https://github.com/sahensley/dotfiles) - Various configuration files
 - [neovim-config](https://github.com/sahensley/neovim-config) - My neovim config files
 - [vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
