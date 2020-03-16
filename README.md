@@ -5,13 +5,16 @@
 
 ## Contents
 
+  - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Chapel](#chapel)
   - [Dockerfile](#dockerfile)
+  - [F#](#f#)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -19,6 +22,7 @@
   - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [MATLAB](#matlab)
@@ -34,9 +38,11 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [R](#r)
+  - [Red](#red)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SAS](#sas)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Starlark](#starlark)
   - [Swift](#swift)
@@ -47,6 +53,10 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [ZIL](#zil)
+
+## Assembly 
+
+- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
 
 ## AutoHotkey 
 
@@ -217,14 +227,18 @@
 
 ## CSS 
 
+- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [source](https://github.com/TutsWiki/source) - A wiki of tutorials
-- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help Data Science teams share and review their jupyter notebooks
 - [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
+
+## Chapel 
+
+- [chapel](https://github.com/chapel-lang/chapel) - a Productive Parallel Programming Language
 
 ## Dockerfile 
 
@@ -300,8 +314,15 @@
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
+## F# # 
+
+- [fsharp](https://github.com/dotnet/fsharp) - The F# compiler, FSharp.Core library, and tools for F#
+
 ## Go 
 
+- [go](https://github.com/golang/go) - The Go programming language
+- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
+- [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
@@ -342,6 +363,8 @@
 
 ## HTML 
 
+- [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
+- [betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
 - [liberal-arts-epidemiology](https://github.com/dtkaplan/liberal-arts-epidemiology) - Materials for teaching epidemiology as a liberal arts topic.
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
@@ -417,6 +440,7 @@
 
 ## Java 
 
+- [hadoop](https://github.com/apache/hadoop) - Apache Hadoop
 - [AceWiki](https://github.com/AceWiki/AceWiki) - AceWiki is a semantic wiki based on controlled natural language.
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
 - [t-digest](https://github.com/tdunning/t-digest) - A new data structure for accurate on-line accumulation of rank-based statistics such as quantiles and trimmed means
@@ -432,6 +456,24 @@
 
 ## JavaScript 
 
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
+- [gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension
+- [wide-github](https://github.com/xthexder/wide-github) - Change all github repository pages to be full width and dynamically sized.
+- [GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
+- [github-plusone-extension](https://github.com/ryanflorence/github-plusone-extension) - 
+- [hubnav](https://github.com/cheshire137/hubnav) - A Chrome extension for navigating github.com via keyboard shortcuts. Quickly access issues for multiple repos, as well as your org's pages.
+- [github-compare-tags](https://github.com/marpo60/github-compare-tags) - Chrome extension that adds tags to the compare page of Github
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
+- [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
+- [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
+- [Github-Omnibox](https://github.com/ProLoser/Github-Omnibox) - Github Commands from Google Chrome Omnibox (address bar)
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+- [github-real-names](https://github.com/ForbesLindesay/github-real-names) - A plugin for Google Chrome that adds a button to toggle showing real names instead of usernames on GitHub
+- [octotree](https://github.com/ovity/octotree) - GitHub on steroids
+- [data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
+- [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
 - [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
 - [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
@@ -585,8 +627,15 @@
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
 
+## Julia 
+
+- [julia](https://github.com/JuliaLang/julia) - The Julia Language: A fresh approach to technical computing.
+
 ## Jupyter Notebook 
 
+- [courses](https://github.com/fastai/courses) - fast.ai Courses
+- [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
+- [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
 - [treebeard](https://github.com/treebeardtech/treebeard) - Example for Treebeard notebook cloud deployment CLI
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
@@ -798,10 +847,15 @@
 
 ## OCaml 
 
+- [coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
 - [Batsh](https://github.com/batsh-dev-team/Batsh) - A language that compiles to Bash and Windows Batch
 
 ## Others 
 
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
+- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
+- [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+- [medical-data](https://github.com/beamandrew/medical-data) - 
 - [kakfiles](https://github.com/robertmeta/kakfiles) - Kakoune config
 - [documentation](https://github.com/purescript/documentation) - Documentation for the PureScript language, compiler, and tools.
 - [pwc](https://github.com/zziz/pwc) - Papers with code. Sorted by stars. Updated weekly.
@@ -1024,7 +1078,6 @@
 - [Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
-- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1169,6 +1222,15 @@
 
 ## Python 
 
+- [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [lightning](https://github.com/scikit-learn-contrib/lightning) - Large-scale linear classification, regression and ranking in Python
+- [git-imerge](https://github.com/mhagger/git-imerge) - Incremental merge for git
+- [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
+- [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
+- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
 - [article-introduction-to-itertools-snippets](https://github.com/DahlitzFlorian/article-introduction-to-itertools-snippets) - 
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - :ledger: Sphinx source parser for Jupyter notebooks
@@ -1282,7 +1344,6 @@
 - [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow
 - [gpytorch](https://github.com/cornellius-gp/gpytorch) - A highly efficient and modular implementation of Gaussian Processes in PyTorch
 - [BayesianOptimization](https://github.com/fmfn/BayesianOptimization) - A Python implementation of global optimization with gaussian processes.
-- [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization
 - [pyjanitor](https://github.com/ericmjl/pyjanitor) - Clean APIs for data cleaning. Python implementation of R package Janitor
 - [pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
@@ -1532,7 +1593,6 @@
 - [sniffer](https://github.com/jeffh/sniffer) - Python auto testing tool.
 - [python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
 - [pytwister](https://github.com/ofajardo/pytwister) - Python with a twist of R syntax
-- [sage](https://github.com/sagemath/sage) - Mirror of the Sage source tree -- please do not submit PRs here -- everything must be submitted via https://trac.sagemath.org/
 - [pyang](https://github.com/mbj4668/pyang) - An extensible YANG validator and converter in python
 - [python-scripts](https://github.com/realpython/python-scripts) - because i'm tired of gists
 - [python-basics-exercises](https://github.com/realpython/python-basics-exercises) - Python Basics: A Practical Introduction to Python 3
@@ -1549,7 +1609,6 @@
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [pyls-black](https://github.com/rupert/pyls-black) - Black plugin for the Python Language Server
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
 - [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
@@ -1577,7 +1636,6 @@
 - [pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model
 - [stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
@@ -1586,7 +1644,6 @@
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -1713,6 +1770,12 @@
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
+## Red 
+
+- [code](https://github.com/red/code) - This repository contains curated code written in Red and its dialects.
+- [community](https://github.com/red/community) - The central place for Red users scripts
+- [red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
+
 ## Ruby 
 
 - [selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
@@ -1731,6 +1794,7 @@
 
 ## Rust 
 
+- [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [memol-rs](https://github.com/y-fujii/memol-rs) - A music description language.
 - [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
@@ -1755,6 +1819,12 @@
 ## SAS 
 
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
+
+## Scala 
+
+- [diffy](https://github.com/opendiffy/diffy) - 
+- [spark](https://github.com/apache/spark) - Apache Spark
+- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
 
@@ -2118,6 +2188,10 @@
 
 ## TypeScript 
 
+- [VScode-extension](https://github.com/red/VScode-extension) - Red extension for Visual Studio Code
+- [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [octolenses](https://github.com/rgehan/octolenses) - 
+- [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [callisto](https://github.com/LittleAprilFool/callisto) - 
 - [vscode-quick-select](https://github.com/dbankier/vscode-quick-select) - Quick and Simple Jumping Text Selection
 - [vscode-expand-selection-to-scope](https://github.com/SuperV1234/vscode-expand-selection-to-scope) - Extension that introduces a command to incrementally expand the selection to the nearest outer scope.
@@ -2241,6 +2315,7 @@
 
 ## Vue 
 
+- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help Data Science teams share and review their jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
