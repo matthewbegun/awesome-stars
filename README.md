@@ -15,6 +15,7 @@
   - [Chapel](#chapel)
   - [Dockerfile](#dockerfile)
   - [F#](#f#)
+  - [Fortran](#fortran)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -77,6 +78,7 @@
 
 ## C 
 
+- [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
@@ -124,7 +126,6 @@
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
-- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set UEFI's BootNext option.
@@ -290,6 +291,7 @@
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
 - [mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [github-psscript](https://github.com/dfinke/github-psscript) - 
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
 - [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [docker-python-black](https://github.com/mozilla/docker-python-black) - 
 - [docker-x11-bridge](https://github.com/JAremko/docker-x11-bridge) - Simple Xpra X11 bridge to enable GUI with any docker image
@@ -317,6 +319,12 @@
 ## F# # 
 
 - [fsharp](https://github.com/dotnet/fsharp) - The F# compiler, FSharp.Core library, and tools for F#
+
+## Fortran 
+
+- [fortranlib](https://github.com/astrofrog/fortranlib) - Collection of personal scientific routines in Fortran :book:
+- [functional-fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran
+- [fortran2018-examples](https://github.com/scivision/fortran2018-examples) - Easy examples of scientific computing with modern, powerful, easy Fortran 2018 standard
 
 ## Go 
 
@@ -852,6 +860,8 @@
 
 ## Others 
 
+- [awesome-fortran](https://github.com/rabbiabram/awesome-fortran) - Awesome list of Fortran libs
+- [Best_Practices](https://github.com/Fortran-FOSS-Programmers/Best_Practices) - the opinionated *best practices* of Fortran FOSS Programmers group
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -1515,7 +1525,7 @@
 - [pypi2pkgbuild](https://github.com/anntzer/pypi2pkgbuild) - A PyPI to PKGBUILD converter.
 - [pipman](https://github.com/sollidsnake/pipman) - Convert pip's packages to Arch Linux's PKGBUILDs
 - [publication](https://github.com/glyph/publication) - 
-- [random](https://github.com/cactus/random) - random stuff
+- [random](https://github.com/bzzoop/random) - random stuff
 - [github-links](https://github.com/Python-Markdown/github-links) - Python-Markdown GitHub Links Extension
 - [petronia](https://github.com/groboclown/petronia) - A Python Window Tiler for Windows
 - [powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
@@ -1794,6 +1804,7 @@
 
 ## Rust 
 
+- [rust-demo](https://github.com/dev-cafe/rust-demo) - Hands-on demo of the Rust programming language.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
 - [memol-rs](https://github.com/y-fujii/memol-rs) - A music description language.
@@ -2265,6 +2276,7 @@
 
 ## Vim script 
 
+- [config](https://github.com/bloopletech/config) - 
 - [dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
 - [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
