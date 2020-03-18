@@ -625,7 +625,6 @@
 - [todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
-- [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [Git-for-Unity](https://github.com/Unity-Technologies/Git-for-Unity) - Git for Unity, a fork of GitHub for Unity
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
@@ -648,7 +647,7 @@
 - [treebeard](https://github.com/treebeardtech/treebeard) - Example for Treebeard notebook cloud deployment CLI
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
-- [pidgy](https://github.com/deathbeds/pidgy) - Writing programs in markdown and python
+- [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing Python-flavored Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science
@@ -1027,7 +1026,6 @@
 - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH
 - [todo.txt](https://github.com/todotxt/todo.txt) - ‼️ A complete primer on the whys and hows of todo.txt.
 - [the-codeless-code](https://github.com/aldesantis/the-codeless-code) - Official repository for The Codeless Code translations.
-- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [bumpy](https://github.com/hplgit/bumpy) - Quick tutorial of scientific computing with Python using a real physics application.
 - [RosettaCodeData](https://github.com/acmeism/RosettaCodeData) - RosettaCode Data Project
 - [awesome-vim](https://github.com/akrawchyk/awesome-vim) - The Vim plugin shortlist
@@ -1277,6 +1275,7 @@
 - [contracts](https://github.com/deadpixi/contracts) - An implementation of contracts for Python.
 - [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - unittest subTest() support and subtests fixture
 - [statifier](https://github.com/marook/statifier) - collects dynamically linked libraries for an elf binary
+- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
 - [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
 - [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
 - [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
@@ -1284,6 +1283,7 @@
 - [dffml](https://github.com/intel/dffml) - The easiest way to use Machine Learning
 - [ister](https://github.com/bryteise/ister) - Minimal Linux Installer
 - [dot](https://github.com/SolitudeSF/dot) - heh, configs
+- [kakoune-config](https://github.com/JJK96/kakoune-config) - My kakoune configuration files
 - [libkak](https://github.com/danr/libkak) - Configure and control Kakoune from python | Hosts a Kakoune Language Server Protocol implementation too for now
 - [knowledge-base](https://github.com/JoelLau/knowledge-base) - Personal collection of notes written in an attempt to build a Zettelkasten. Built to take advantage of free resources such as Sphinx, Read The Docs (theme), Github Actions, and Github Pages
 - [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
@@ -1370,7 +1370,7 @@
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [hybridcontents](https://github.com/viaduct-ai/hybridcontents) - A ContentsManager wrapper for using multiple ContentsManager in Jupyter
-- [nbcelltests](https://github.com/timkpaine/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
+- [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
@@ -1852,7 +1852,6 @@
 - [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [dotfiles](https://github.com/AladW/dotfiles) - 
-- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
 - [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - fish xxh shell entrypoint
 - [archlinux-packages](https://github.com/felixonmars/archlinux-packages) - Arch Linux Packages, git clone of the 'packages' repository. (Mirror of projects.archlinux.org/svntogit/packages.git)
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
@@ -1860,7 +1859,6 @@
 - [stacks](https://github.com/intel/stacks) - Intel System Stacks are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
 - [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
 - [dotfiles](https://github.com/chambln/dotfiles) - 
-- [kakoune-config](https://github.com/JJK96/kakoune-config) - My kakoune configuration files
 - [dotfiles](https://github.com/rlofc/dotfiles) - 
 - [connect.kak](https://github.com/alexherbo2/connect.kak) - Connect a program to Kakoune clients
 - [kakoune-dotfiles](https://github.com/TeddyDD/kakoune-dotfiles) - My personal Kakoune dotfiles
@@ -2250,6 +2248,7 @@
 - [PowerBI-visuals-WordCloud](https://github.com/microsoft/PowerBI-visuals-WordCloud) - Repo for Power BI Word Cloud custom visual
 - [SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [vscode-todo-list](https://github.com/tzachov/vscode-todo-list) - VSCode Extension that lists all of your TODO-type comments in an easy-to-read tree view panel
+- [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [catex](https://github.com/konn/catex) - YaTeX-like completions for LaTeX in VSCode
@@ -2269,6 +2268,7 @@
 - [vscode-core-theme](https://github.com/miqh/vscode-core-theme) - Minimal environment aesthetics for maximum focus.
 - [markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ## Vala 
 
