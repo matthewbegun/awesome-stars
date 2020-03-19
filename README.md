@@ -644,10 +644,10 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - Example for Treebeard notebook cloud deployment CLI
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Reproduce data science projects in the cloud
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
-- [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing Python-flavored Markdown
+- [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science
@@ -1582,7 +1582,7 @@
 - [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [clr-bundles](https://github.com/clearlinux/clr-bundles) - Bundle definitions for Clear Linux OS
 - [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
-- [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide
+- [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide & Documentation
 - [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
 - [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
