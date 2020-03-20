@@ -859,6 +859,7 @@
 
 ## Others 
 
+- [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [awesome-fortran](https://github.com/rabbiabram/awesome-fortran) - Awesome list of Fortran libs
 - [Best_Practices](https://github.com/Fortran-FOSS-Programmers/Best_Practices) - the opinionated *best practices* of Fortran FOSS Programmers group
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
