@@ -644,7 +644,6 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Reproduce data science projects in the cloud
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -1248,6 +1247,7 @@
 - [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [GitMiller](https://github.com/UtrechtUniversity/GitMiller) - 
 - [paperboy](https://github.com/timkpaine/paperboy) - A web frontend for scheduling Jupyter notebook reports
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Reproduce data science projects in the cloud
 - [run_jnb](https://github.com/hz-inova/run_jnb) - Parametrise (python3 only) and execute Jupyter notebooks
 - [importanize](https://github.com/miki725/importanize) - Utility for organizing Python imports using PEP8 or custom rules
 - [jupytui](https://github.com/mosiman/jupytui) - Terminal jupyter client
