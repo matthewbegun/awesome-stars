@@ -1276,7 +1276,7 @@
 - [contracts](https://github.com/deadpixi/contracts) - An implementation of contracts for Python.
 - [pytest-subtests](https://github.com/pytest-dev/pytest-subtests) - unittest subTest() support and subtests fixture
 - [statifier](https://github.com/marook/statifier) - collects dynamically linked libraries for an elf binary
-- [xxh](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the ssh
+- [xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh
 - [Clear-Linux-RPM-Installer](https://github.com/RtzLi/Clear-Linux-RPM-Installer) - 
 - [stacks-usecase](https://github.com/intel/stacks-usecase) - End to End usecases using Intel System Stacks
 - [project-example-for-python](https://github.com/intel/project-example-for-python) - Example Python module with CLI tools and Sphinx documentation generation
