@@ -309,7 +309,7 @@
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
-- [slack-action](https://github.com/pullreminders/slack-action) - GitHub Action for posting Slack messages
+- [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
 - [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
@@ -324,7 +324,7 @@
 
 - [fortranlib](https://github.com/astrofrog/fortranlib) - Collection of personal scientific routines in Fortran :book:
 - [functional-fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran
-- [fortran2018-examples](https://github.com/scivision/fortran2018-examples) - Easy examples of scientific computing with modern, powerful, easy Fortran 2018 standard
+- [fortran2018-examples](https://github.com/scivision/fortran2018-examples) - Modern Fortran basic examples with broad applications
 
 ## Go 
 
@@ -1312,7 +1312,6 @@
 - [bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [python_koans](https://github.com/gregmalcolm/python_koans) - Python Koans - Learn Python through TDD
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
 - [archinstall](https://github.com/Torxed/archinstall) - Arch Linux installer - guided, templates etc.
 - [archinstall_gui](https://github.com/Torxed/archinstall_gui) - Guided Arch Linux graphical installer
@@ -2208,6 +2207,7 @@
 - [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
 - [dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like keybindings for VS Code.
 - [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck) - shellcheck linter for vscode
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
 - [jupyterlab_xkcd](https://github.com/jupyterlab/jupyterlab_xkcd) - Random xkcd comic in a JupyterLab panel
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
