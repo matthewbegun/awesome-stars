@@ -88,6 +88,7 @@
 - [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal
 - [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
+- [dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
 - [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
 - [i3](https://github.com/i3/i3) - A tiling window manager
 - [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
@@ -654,7 +655,7 @@
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
 - [iris_python](https://github.com/gesiscss/iris_python) - Example python repo for Euro CSS 2018 - 1-Click Reproducibility Workshop
-- [odsc-west-2019](https://github.com/drivendataorg/odsc-west-2019) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC West 2019
+- [odsc-actionable-ethics](https://github.com/drivendataorg/odsc-actionable-ethics) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC
 - [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
 - [lucid](https://github.com/tensorflow/lucid) - A collection of infrastructure and tools for research in neural network interpretability.
 - [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
@@ -1650,7 +1651,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - If you think you know Python, think once more!
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -1852,7 +1853,7 @@
 - [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [dotfiles](https://github.com/AladW/dotfiles) - 
-- [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - fish xxh shell entrypoint
+- [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - fish appimage xxh shell entrypoint
 - [archlinux-packages](https://github.com/felixonmars/archlinux-packages) - Arch Linux Packages, git clone of the 'packages' repository. (Mirror of projects.archlinux.org/svntogit/packages.git)
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
@@ -2278,7 +2279,6 @@
 ## Vim script 
 
 - [config](https://github.com/bloopletech/config) - 
-- [dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
 - [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
 - [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
