@@ -212,7 +212,7 @@
 
 ## C++ 
 
-- [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Development of awkward 1.0, to replace scikit-hep/awkward-array in 2020.
+- [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
