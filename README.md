@@ -1092,7 +1092,6 @@
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [awesome-pycharm](https://github.com/JetBrains/awesome-pycharm) - A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
 - [DevEvents](https://github.com/Readify/DevEvents) - List of conferences and events of interest to developers
 - [opensource-candies](https://github.com/velikanov/opensource-candies) - Free stuff for open source projects
@@ -2119,6 +2118,7 @@
 - [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
 - [Todo](https://github.com/endowdly/Todo) - A PowerShell port of todo.sh
 - [gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
 - [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - my super duper awesome programming blog
 - [ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
