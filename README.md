@@ -246,7 +246,6 @@
 
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
-- [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
@@ -1925,6 +1924,7 @@
 - [shwain](https://github.com/strigo/shwain) - A Mark Twain for your bash. https://github.com/strigo/wryte logger clone
 - [dotfiles](https://github.com/nir0s/dotfiles) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
+- [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
