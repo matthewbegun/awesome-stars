@@ -1102,7 +1102,7 @@
 - [nvidia-virtualgl](https://github.com/plumbee/nvidia-virtualgl) - Base docker image to be ran with nvidia-docker
 - [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
 - [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
-- [awesome-scientific-writing](https://github.com/ashwinvis/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
+- [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 - [markdown-styleguide](https://github.com/notslang/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [markdown-styleguide](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [download-artifact](https://github.com/actions/download-artifact) - 
@@ -1427,6 +1427,7 @@
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
 - [ipython-cluster-helper](https://github.com/roryk/ipython-cluster-helper) - Tool to easily start up an IPython cluster on different schedulers.
 - [liquorix-package](https://github.com/damentz/liquorix-package) - Liquorix Debian Package
+- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [pyDiffusion](https://github.com/zhangqi-chen/pyDiffusion) - A Python library for diffusion simulation and data analysis
 - [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - Reference deployment of JupyterHub and nbgrader on a single server
 - [conky_colors](https://github.com/helmuthdu/conky_colors) - CONKY-colors is an easier way to configure Conky
@@ -2216,7 +2217,6 @@
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for jupyter notebooks
-- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [quicktype-custom-csharp-example](https://github.com/quicktype/quicktype-custom-csharp-example) - An example showing how to extend quicktype via its API
 - [awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
