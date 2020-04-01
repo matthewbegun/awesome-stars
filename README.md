@@ -1939,7 +1939,7 @@
 - [conda_template](https://github.com/dazza-codes/conda_template) - Template for a conda project
 - [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
-- [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and IRC bot for backups, automatic updates, installation, and shutdown warnings
+- [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
 - [hello-world](https://github.com/docker-library/hello-world) - 
 - [potato](https://github.com/Bladtman242/potato) - A pomodoro timer for the shell
 - [skinnywhale](https://github.com/djosephsen/skinnywhale) - Skinnywhale helps you make smaller (as in megabytes) Docker containers
