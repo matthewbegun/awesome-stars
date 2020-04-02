@@ -343,7 +343,7 @@
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
@@ -1911,7 +1911,7 @@
 - [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, i3, kitty, kakoune, zsh and more + installation guide
 - [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [packer-arch](https://github.com/elasticdog/packer-arch) - packer.io template for building an Arch Linux base box
-- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, fish, Neovim and more
+- [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
 - [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
