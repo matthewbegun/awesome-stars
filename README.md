@@ -109,7 +109,7 @@
 - [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
-- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL installer / launcher.  (Win10 FCU 64bit or later.)
+- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU 64bit or later.)
 - [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
@@ -2081,7 +2081,7 @@
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments.
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
