@@ -2328,7 +2328,7 @@
 
 ## Vue 
 
-- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help Data Science teams share and review their jupyter notebooks
+- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help teams share and review their jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
