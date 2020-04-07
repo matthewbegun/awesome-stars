@@ -1040,7 +1040,6 @@
 - [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [awesome-awesome-awesome](https://github.com/t3chnoboy/awesome-awesome-awesome) - :octocat: A a curated list of curated lists of awesome lists.
 - [books](https://github.com/learn-anything/books) - Awesome Books
-- [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
 - [awesome-awesome](https://github.com/emijrp/awesome-awesome) - A curated list of awesome curated lists of many topics.
@@ -1206,6 +1205,7 @@
 - [PsTodoTxt](https://github.com/pauby/PsTodoTxt) - This is a PowerShell CLI to the Todo.txt todo file format with some PowerShell like features.
 - [cChoco](https://github.com/chocolatey/cChoco) - Community resource to manage Chocolatey
 - [Profile](https://github.com/MartinSGill/Profile) - My Powershell Profile
+- [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [psutils](https://github.com/zhoujin7/psutils) - Command line utilities written in Powershell
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
@@ -1833,7 +1833,7 @@
 ## Scala 
 
 - [diffy](https://github.com/opendiffy/diffy) - 
-- [spark](https://github.com/apache/spark) - Apache Spark
+- [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Shell 
