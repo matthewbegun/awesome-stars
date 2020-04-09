@@ -556,7 +556,7 @@
 - [diagrams](https://github.com/francoislaberge/diagrams) - Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
-- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
+- [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 - [EduBlocks](https://github.com/AllAboutCode/EduBlocks) - Drag and drop coding tool for creating Python programs
 - [scratchjr](https://github.com/LLK/scratchjr) - With ScratchJr, young children (ages 5-7) can program their own interactive stories and games.
@@ -572,7 +572,6 @@
 - [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
-- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [svg-crowbar](https://github.com/nytimes/svg-crowbar) - Extracts an SVG node and accompanying styles from an HTML document and allows you to download it all as an SVG file.
 - [svg-grabber](https://github.com/ngti/svg-grabber) - Open source chrome extension to quickly preview, download or copy inline or embedded SVG images from a website
@@ -1011,6 +1010,7 @@
 - [UIL.Tml](https://github.com/Quar/UIL.Tml) - An AnyLogic library to support decision making on power utility expansion
 - [anyLogicSimulation](https://github.com/hestonst/anyLogicSimulation) - A collection of industrial simulation scenarios written in the AnyLogic modeling environment
 - [DaCSim](https://github.com/bjornpostema/DaCSim) - DaCSim: A Data Centre Simulation Framework
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -1384,7 +1384,7 @@
 - [hashtag-goals](https://github.com/ginatrapani/hashtag-goals) - 🏆 A goal progress reporter for todo.txt + Google calendar users.
 - [Todo.txt-python](https://github.com/sigmavirus24/Todo.txt-python) - Python port of Gina Trapani's popular todo.txt-cli project
 - [todo.txt-graph](https://github.com/timpulver/todo.txt-graph) - A todo.txt plugin which visualizes the amount of done tasks per day
-- [pyflyby](https://github.com/pyflyby/pyflyby) - 
+- [pyflyby](https://github.com/deshaw/pyflyby) - 
 - [cocos](https://github.com/michaelnowotny/cocos) - Numeric and scientific computing on GPUs for Python with a NumPy-like API
 - [jupyterlab-configuration](https://github.com/frankzickert/jupyterlab-configuration) - Containerized and Script-controlled JupyterLab Project Environment
 - [flask-by-example](https://github.com/realpython/flask-by-example) - flask, heroku, environment variables, sqlalchemy, flask-migrate, redis
@@ -1775,7 +1775,7 @@
 - [markdown_test](https://github.com/goldingn/markdown_test) - A first go a scientific markdown
 - [greta.template](https://github.com/greta-dev/greta.template) - a template repository to help set up new greta extension packages
 - [simsurv](https://github.com/sambrilleman/simsurv) - Simulate Survival Data
-- [myBooks-1](https://github.com/calelin/myBooks-1) - 
+- [myBooks-1](https://github.com/arcayi/myBooks-1) - 
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
@@ -1985,7 +1985,7 @@
 - [docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts) - Official builds of debuerreotype-generated Debian tarballs for use in Docker
 - [termux-reset](https://github.com/saintmalik/termux-reset) - A shell script that makes resetting and formatting of termux easy...
 - [xcompose](https://github.com/Melvar/xcompose) - A set of compose files for catting together into a .XCompose
-- [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility
+- [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility (https://syncthing.net)
 - [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
