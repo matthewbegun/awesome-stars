@@ -881,7 +881,7 @@
 - [auto-pairs.kak](https://github.com/alexherbo2/auto-pairs.kak) - Auto-paired characters for Kakoune
 - [kakoune-extra](https://github.com/casimir/kakoune-extra) - 
 - [KakounePlugins](https://github.com/WhatNodyn/KakounePlugins) - Little plugins I made for Kakoune.
-- [armoury](https://github.com/leemachin/armoury) - Package management for the Kakoune editor
+- [armoury](https://github.com/mrleedev/armoury) - Package management for the Kakoune editor
 - [jq.kak](https://github.com/alexherbo2/jq.kak) - jq integration for Kakoune
 - [urtext-docs](https://github.com/nbeversl/urtext-docs) - Urtext : Documentation
 - [10000-markdown-files](https://github.com/Zettelkasten-Method/10000-markdown-files) - 10,000 markdown files. Useful for stress testing note-taking tools.
@@ -1493,7 +1493,7 @@
 - [whichcraft](https://github.com/cookiecutter/whichcraft) - This package provides cross-platform cross-python shutil.which functionality.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
-- [googler](https://github.com/jarun/googler) - :eyes: Google from the terminal
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [docker-utils](https://github.com/a-ba/docker-utils) - 
 - [pygmatic-segmenter](https://github.com/kaine119/pygmatic-segmenter) - A python port of https://github.com/diasks2/pragmatic_segmenter
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
