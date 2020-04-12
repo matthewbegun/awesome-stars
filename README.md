@@ -1408,7 +1408,7 @@
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 - [airports.py](https://github.com/trendct-data/airports.py) - airport codes python dictionary
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
-- [streamlink](https://github.com/streamlink/streamlink) - CLI for extracting streams from various websites to a video player of your choosing
+- [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [glom](https://github.com/mahmoud/glom) - ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️
@@ -2094,7 +2094,7 @@
 - [gabo](https://github.com/jarrodldavis/gabo) - Easy access to gitattributes boilerplates
 - [docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
 - [heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
-- [converter](https://github.com/uup-dump/converter) - Linux UUP converter
+- [converter](https://github.com/uup-dump/converter) - Multiplatform UUP converter
 - [r-builds](https://github.com/rstudio/r-builds) - an opinionated environment for compiling R
 - [bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [linux](https://github.com/clearlinux-pkgs/linux) - 
