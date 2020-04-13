@@ -1635,8 +1635,8 @@
 - [psychopy](https://github.com/psychopy/psychopy) - For running psychology and neuroscience experiments
 - [morality](https://github.com/lindeloev/morality) - Data and analysis: Morality in the time of Cognitive Famine
 - [smop](https://github.com/victorlei/smop) - Small Matlab to Python compiler
-- [plotly.py](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python (includes Plotly Express) :sparkles:
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python & R. No JavaScript Required.
+- [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
 - [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package
 - [dog](https://github.com/CamDavidsonPilon/dog) - a simple casual graph evaluator (for experiments)
 - [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
