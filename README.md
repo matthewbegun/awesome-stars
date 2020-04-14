@@ -536,7 +536,7 @@
 - [mermaid-filter](https://github.com/raghur/mermaid-filter) - Pandoc filter for creating diagrams in mermaid syntax blocks in markdown docs
 - [Marker](https://github.com/fabiocolacio/Marker) - 🖊 A gtk3 markdown editor
 - [vscode-json](https://github.com/ZainChen/vscode-json) - Json for Visual Studio Code
-- [documentation](https://github.com/wslutilities/documentation) - The documentation for WSL Utilities(WIP)
+- [documentation](https://github.com/wslutilities/documentation) - The documentation for WSL Utilities
 - [treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [searchlinkfix](https://github.com/palant/searchlinkfix) - Browser extension that prevents Google and Yandex search pages from modifying search result links when you click them. This is useful when copying links but it also helps privacy by preventing the search engines from recording your clicks.
 - [play](https://github.com/nteract/play) - The code base for the nteract Play app
@@ -924,7 +924,7 @@
 - [getting-started](https://github.com/kjsauer/getting-started) - Getting started guides
 - [virtual-environments-packages](https://github.com/actions/virtual-environments-packages) - Code and scripts used to automate delivery of tool packages used in virtual-environments.
 - [DotFiles](https://github.com/wsdjeg/DotFiles) - My dotfiles for Archlinux and Windows
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️ (imho the best tmux configuration that just works)
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
 - [manifest](https://github.com/jessfraz/manifest) - repo tool manifest for Container Linux sdk
 - [vim-docker](https://github.com/tianon/vim-docker) - An automatic mirror of https://github.com/docker/docker/tree/master/contrib/syntax/vim pushed via https://github.com/tianon/jenkins-groovy/blob/master/dsl/tianon/vim.groovy
 - [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
@@ -1259,7 +1259,7 @@
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
 - [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
 - [notebook_restified](https://github.com/kafonek/notebook_restified) - 
-- [kale](https://github.com/kubeflow-kale/kale) - Convert a JupyterNotebook to a Kubeflow Pipeline deployment.
+- [kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
 - [parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [booksbot](https://github.com/scrapy/booksbot) - A crawler for http://books.toscrape.com
