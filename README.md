@@ -648,7 +648,7 @@
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
-- [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science
+- [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series: https://bit.ly/3a4k9x3
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
@@ -726,6 +726,7 @@
 - [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) - Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
+- [bamboolib](https://github.com/8080labs/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
 - [bamboolib_docker_demo_notebook](https://github.com/8080labs/bamboolib_docker_demo_notebook) - bamboolib - binder and Docker demo notebook
 - [binder-workspace-demo](https://github.com/ian-r-rose/binder-workspace-demo) - A demonstration repository showing how to open JupyterLab with a custom layout on mybinder.org
 - [mybinder.org-deploy](https://github.com/jupyterhub/mybinder.org-deploy) - Deployment config files for mybinder.org
@@ -961,7 +962,6 @@
 - [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
 - [reproducible-research](https://github.com/coderefinery/reproducible-research) - Lesson on reproducible research.
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-- [bamboolib](https://github.com/8080labs/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
 - [spacy-io-binder](https://github.com/ines/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
@@ -2198,6 +2198,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-gitplus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests
 - [VScode-extension](https://github.com/red/VScode-extension) - Red extension for Visual Studio Code
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [octolenses](https://github.com/rgehan/octolenses) - 
