@@ -25,6 +25,7 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
@@ -142,7 +143,7 @@
 - [rant](https://github.com/TheBerkin/rant) - Rant – The all-purpose procedural text library
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
-- [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
+- [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10-archives/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
 - [LiterateCS](https://github.com/johtela/LiterateCS) - Literate programming tool for C# and .NET Core
 - [yuml-dotnet](https://github.com/chrisjowen/yuml-dotnet) - YUML adaptor for dotnet
 - [GPUMergeSortForUnity](https://github.com/nobnak/GPUMergeSortForUnity) - 
@@ -638,6 +639,7 @@
 
 ## Jupyter Notebook 
 
+- [covid-19-community](https://github.com/covid-19-net/covid-19-community) - Community effort to build a Neo4j Knowledge Graph (KG) that links heterogeneous data about COVID-19
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
@@ -739,7 +741,7 @@
 - [stats-fun](https://github.com/jvns/stats-fun) - 
 - [data-science-your-way](https://github.com/jadianes/data-science-your-way) - Ways of doing Data Science Engineering and Machine Learning in R and Python
 - [Slides-SciPyConf-2018](https://github.com/wesm/Slides-SciPyConf-2018) - A repository for public storage of slides given at the 17th Python in Science Conferences (2018)
-- [notebooks](https://github.com/wesm/notebooks) - Miscellaneous Jupyter notebooks
+- [notebooks](https://github.com/ursa-labs/notebooks) - Miscellaneous Jupyter notebooks
 - [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
@@ -811,6 +813,10 @@
 - [IA-maths-Jupyter](https://github.com/garth-wells/IA-maths-Jupyter) - Notebooks in support of of the Part IA (Michaelmas Term) mathematics course at the Department of  Engineering at University of Cambridge
 - [Jupyter-Matrix-Matrix](https://github.com/mikecroucher/Jupyter-Matrix-Matrix) - A benchmark to see how many flops your kit can do
 
+## Kotlin 
+
+- [covidwatch-android](https://github.com/covid19risk/covidwatch-android) - 
+
 ## Lua 
 
 - [config](https://github.com/occivink/config) - My dotfiles
@@ -828,6 +834,7 @@
 
 ## Makefile 
 
+- [csel-per-class-jupyter-containers](https://github.com/Colorado-CompSci-Ugrad/csel-per-class-jupyter-containers) - Per-class containers for classes in Dept. of Computer Science, Univ. of Colorado
 - [sphinxtr](https://github.com/jterrace/sphinxtr) - The Sphinx Thesis Resource
 - [FedoraWSL](https://github.com/yosukes-dev/FedoraWSL) - Fedora as a WSL Instance. Supports multiple install.
 - [dircolors-solarized](https://github.com/seebi/dircolors-solarized) - This is a repository of themes for GNU ls (configured via GNU dircolors) that support Ethan Schoonover’s Solarized color scheme.
@@ -1229,6 +1236,7 @@
 
 ## Python 
 
+- [vscode-binder](https://github.com/betatim/vscode-binder) - VS Code on Binder
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
@@ -1649,7 +1657,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - Do you think you know Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
@@ -1936,7 +1944,7 @@
 - [dotfiles](https://github.com/nhooyr/dotfiles) - Configuration files for my setup
 - [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
 - [tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
-- [conda_template](https://github.com/dazza-codes/conda_template) - Template for a conda project
+- [conda_container](https://github.com/dazza-codes/conda_container) - Template for a conda project
 - [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
