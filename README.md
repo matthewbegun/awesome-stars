@@ -79,6 +79,7 @@
 
 ## C 
 
+- [smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
@@ -110,7 +111,7 @@
 - [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
 - [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
-- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU 64bit or later.)
+- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
 - [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
@@ -329,6 +330,7 @@
 
 ## Go 
 
+- [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [go](https://github.com/golang/go) - The Go programming language
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
@@ -372,6 +374,7 @@
 
 ## HTML 
 
+- [python-portfolio](https://github.com/DahlitzFlorian/python-portfolio) - My personal portfolio written in Python using Flask
 - [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
 - [betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
 - [liberal-arts-epidemiology](https://github.com/dtkaplan/liberal-arts-epidemiology) - Materials for teaching epidemiology as a liberal arts topic.
@@ -380,6 +383,7 @@
 - [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
+- [wrattler](https://github.com/wrattler/wrattler) - 
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
 - [python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns) - An open collection of Python anti-patterns and worst practices.
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
@@ -639,6 +643,10 @@
 
 ## Jupyter Notebook 
 
+- [covid-19](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19
+- [integrating-pandas-with-scikit-learn](https://github.com/tdpetrou/integrating-pandas-with-scikit-learn) - Tutorial covering a new workflow available going from pandas to scikit-learn
+- [Learn-Pandas](https://github.com/tdpetrou/Learn-Pandas) - Tutorials on how to use pandas effectively to do data analysis
+- [Minimally-Sufficient-Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) - There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.
 - [covid-19-community](https://github.com/covid-19-net/covid-19-community) - Community effort to build a Neo4j Knowledge Graph (KG) that links heterogeneous data about COVID-19
 - [courses](https://github.com/fastai/courses) - fast.ai Courses
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
@@ -865,6 +873,9 @@
 
 ## Others 
 
+- [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
+- [github_actions_python](https://github.com/mwouts/github_actions_python) - Testing your Python Project with GitHub Actions
+- [Data-Science-in-Two-Minutes](https://github.com/tdpetrou/Data-Science-in-Two-Minutes) - Quick descriptions and answers of common data science tasks and questions
 - [COVID-19](https://github.com/CSSEGISandData/COVID-19) - Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE
 - [awesome-fortran](https://github.com/rabbiabram/awesome-fortran) - Awesome list of Fortran libs
 - [Best_Practices](https://github.com/Fortran-FOSS-Programmers/Best_Practices) - the opinionated *best practices* of Fortran FOSS Programmers group
@@ -1372,7 +1383,6 @@
 - [dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 - [nb_workflow_tools](https://github.com/innovationOUtside/nb_workflow_tools) - Repository collating tools to support the processing of Jupyter notebooks
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
-- [wrattler](https://github.com/wrattler/wrattler) - 
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [pyfilesystem2](https://github.com/PyFilesystem/pyfilesystem2) - Python's Filesystem abstraction layer
 - [hybridcontents](https://github.com/viaduct-ai/hybridcontents) - A ContentsManager wrapper for using multiple ContentsManager in Jupyter
@@ -1732,6 +1742,7 @@
 
 ## R 
 
+- [australia_covid_ascertainment](https://github.com/goldingn/australia_covid_ascertainment) - Estimating case ascertainment rates for COVID-19 in Australia
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
 - [CompetingEvents_Young_SIM_2020](https://github.com/CausalInference/CompetingEvents_Young_SIM_2020) - R Code used in https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.8471
@@ -2206,6 +2217,8 @@
 
 ## TypeScript 
 
+- [vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
+- [setup-miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda
 - [jupyterlab-gitplus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests
 - [VScode-extension](https://github.com/red/VScode-extension) - Red extension for Visual Studio Code
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -2287,6 +2300,7 @@
 
 ## Vim script 
 
+- [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [config](https://github.com/bloopletech/config) - 
 - [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
