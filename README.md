@@ -2109,7 +2109,7 @@
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows Subsystem for Linux (Ubuntu, Debian, etc.)
+- [wsl-config](https://github.com/mloskot/wsl-config) - dotfiles and configs for development environments on Windows and Windows Subsystem for Linux
 - [gabo](https://github.com/jarrodldavis/gabo) - Easy access to gitattributes boilerplates
 - [docker-python](https://github.com/heroku/docker-python) - Docker image for Python (and Heroku).
 - [heroku-buildpack-python](https://github.com/heroku/heroku-buildpack-python) - The official Heroku buildpack for Python apps.
