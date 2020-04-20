@@ -652,7 +652,7 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Reproduce data science projects in the cloud
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Continuous Integration for data science projects
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -1305,7 +1305,7 @@
 - [libkak](https://github.com/danr/libkak) - Configure and control Kakoune from python | Hosts a Kakoune Language Server Protocol implementation too for now
 - [knowledge-base](https://github.com/JoelLau/knowledge-base) - Personal collection of notes written in an attempt to build a Zettelkasten. Built to take advantage of free resources such as Sphinx, Read The Docs (theme), Github Actions, and Github Pages
 - [bass](https://github.com/edc/bass) - Make Bash utilities usable in Fish shell
-- [hosts](https://github.com/StevenBlack/hosts) - Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
 - [pandocker-filters](https://github.com/K4zuki/pandocker-filters) - Yet another Pandoc filter package
 - [Lazymux](https://github.com/Gameye98/Lazymux) - termux tool installer
 - [termux-gui](https://github.com/qidiso/termux-gui) - We provide the gui for termux . it is a Linux system with gui running on Android for AI programming without root.Ai framework: tensorflow,caffe,MXNet,keras,torch,ncnn,opencv already build in . All in one! !
@@ -2054,7 +2054,7 @@
 - [dotfiles](https://github.com/AndersBallegaard/dotfiles) - A collection of my personal dot files for linux systems
 - [conda-zsh-completion](https://github.com/esc/conda-zsh-completion) - zsh completion for conda
 - [dotfiles](https://github.com/necolas/dotfiles) - OS X dotfiles: bash, git, vim, etc.
-- [pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur functionality in a simple UI
+- [pacui](https://github.com/excalibur1234/pacui) - Bash script providing advanced Pacman and Yay/Pikaur/Aurman/Pakku/Trizen/Pacaur/Pamac-cli functionality in a simple UI
 - [docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [docker-browser-box](https://github.com/sameersbn/docker-browser-box) - Dockerized google-chome and tor-browser with audio support via pulseaudio
 - [dotfiles](https://github.com/fgrehm/dotfiles) - Just my dotfiles
