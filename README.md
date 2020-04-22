@@ -248,6 +248,7 @@
 
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
+- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
@@ -695,7 +696,6 @@
 - [-Managing-Messes-Study-Materials](https://github.com/andrewhead/-Managing-Messes-Study-Materials) - Materials for running the usability study for the technical paper, "Managing Messes in Computational Notebooks".
 - [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
-- [ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
@@ -1272,7 +1272,7 @@
 - [oer-md-publish-sphinx-actions](https://github.com/ouseful-testing/oer-md-publish-sphinx-actions) - Github Action powered nbsphinx publishing route
 - [openlearn-publish-test](https://github.com/psychemedia/openlearn-publish-test) - TEst of OpenLearn publishing route
 - [jhsingle-native-proxy](https://github.com/ideonate/jhsingle-native-proxy) - Wrap an arbitrary webapp so it can be used in place of jupyter-singleuser in a JupyterHub setting
-- [sphinx-copybutton](https://github.com/choldgraf/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
+- [sphinx-copybutton](https://github.com/ExecutableBookProject/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
 - [jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
@@ -1381,6 +1381,7 @@
 - [clifford](https://github.com/pygae/clifford) - Geometric Algebra for Python
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
+- [ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
 - [nb_workflow_tools](https://github.com/innovationOUtside/nb_workflow_tools) - Repository collating tools to support the processing of Jupyter notebooks
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
@@ -1956,7 +1957,6 @@
 - [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
 - [tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
 - [conda_container](https://github.com/dazza-codes/conda_container) - Template for a conda project
-- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
 - [hello-world](https://github.com/docker-library/hello-world) - 
