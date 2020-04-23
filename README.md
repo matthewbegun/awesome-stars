@@ -653,7 +653,7 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Continuous Integration for data science projects
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Continuous Integration for binder-ready repos
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -779,7 +779,6 @@
 - [Lifelines-notes-and-examples](https://github.com/felipe0216/Lifelines-notes-and-examples) - Information extracted from Lifelines official documentation
 - [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
 - [multi-language-demo](https://github.com/binder-examples/multi-language-demo) - Material to accompany https://blog.jupyter.org/i-python-you-r-we-julia-baf064ca1fb6
-- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
 - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [dl-workshop](https://github.com/pacm/dl-workshop) - Intro to deep learning workshop.
@@ -1247,6 +1246,7 @@
 
 ## Python 
 
+- [ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
 - [vscode-binder](https://github.com/betatim/vscode-binder) - VS Code on Binder
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -1585,6 +1585,7 @@
 - [dib-lab](https://github.com/dib-lab/dib-lab) - Issue tracker and Web site for the Lab for Data Intensive Biology at UC Davis.
 - [survival_workshop](https://github.com/kshedden/survival_workshop) - Materials for a CSCAR workshop on survival analysis
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
+- [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
 - [memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
 - [jupyterhub-deploy-hpc](https://github.com/jupyterhub/jupyterhub-deploy-hpc) - Documented examples of Jupyterhub deployment in HPC settings
@@ -1875,7 +1876,7 @@
 - [archlinux-packages](https://github.com/felixonmars/archlinux-packages) - Arch Linux Packages, git clone of the 'packages' repository. (Mirror of projects.archlinux.org/svntogit/packages.git)
 - [asp](https://github.com/archlinux/asp) - Arch Build Source Management Tool
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
-- [stacks](https://github.com/intel/stacks) - Intel System Stacks are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
+- [stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
 - [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
 - [dotfiles](https://github.com/chambln/dotfiles) - 
 - [dotfiles](https://github.com/rlofc/dotfiles) - 
