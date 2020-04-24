@@ -517,7 +517,7 @@
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [jupyter-skeleton](https://github.com/EniramLtd/jupyter-skeleton) - A Jupyter extension which causes newly created notebooks to be based on a skeleton instead of a blank notebook
 - [twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
-- [vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) - The vscode.d.ts node module
+- [vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) - The vscode NPM module. Deprecated in favor of @types/vscode and vscode-test.
 - [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - Provides a set of helper functions for setting or getting the content and selection of a Visual Studio Code instance.
 - [vscode-recipes](https://github.com/microsoft/vscode-recipes) - 
 - [dotseeker](https://github.com/reireias/dotseeker) - Collect dotfiles from GitHub repositories.
@@ -1258,7 +1258,7 @@
 - [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
 - [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
-- [article-introduction-to-itertools-snippets](https://github.com/DahlitzFlorian/article-introduction-to-itertools-snippets) - 
+- [article-introduction-to-itertools-snippets](https://github.com/DahlitzFlorian/article-introduction-to-itertools-snippets) - Supporting material for the "Introduction To Itertools" article
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - :ledger: Sphinx source parser for Jupyter notebooks
 - [jupyter-lab-serverless](https://github.com/u2takey/jupyter-lab-serverless) - Run and Manager ServerLess Functions in JupyterLab
 - [zimports](https://github.com/sqlalchemyorg/zimports) - Python import rewriter
@@ -2105,7 +2105,7 @@
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
-- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - A tool for building the most useful CLI possible, customized for you.
+- [powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
