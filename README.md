@@ -14,6 +14,7 @@
   - [CSS](#css)
   - [Chapel](#chapel)
   - [Dockerfile](#dockerfile)
+  - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
   - [Fortran](#fortran)
   - [Go](#go)
@@ -318,6 +319,10 @@
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## Emacs Lisp 
+
+- [dotfiles](https://github.com/chambln/dotfiles) - 
 
 ## F# # 
 
@@ -1878,7 +1883,6 @@
 - [abs](https://github.com/Edenhofer/abs) - PKGBUILDs for the Arch User Repository
 - [stacks](https://github.com/intel/stacks) - The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
 - [.config](https://github.com/purpleKarrot/.config) - My ~/.config/ directory
-- [dotfiles](https://github.com/chambln/dotfiles) - 
 - [dotfiles](https://github.com/rlofc/dotfiles) - 
 - [connect.kak](https://github.com/alexherbo2/connect.kak) - Connect a program to Kakoune clients
 - [kakoune-dotfiles](https://github.com/TeddyDD/kakoune-dotfiles) - My personal Kakoune dotfiles
@@ -1925,7 +1929,7 @@
 - [Archlinux-Installer](https://github.com/si9ma/Archlinux-Installer) - Arch Linux Installer,Install your Arch Linux more quickly
 - [postinstall](https://github.com/Cyclenerd/postinstall) - 💻 Bash Script to automate post-installation steps
 - [dotfiles_ikigai](https://github.com/yedhink/dotfiles_ikigai) - dotfiles 🔥 includes scripts that makes my life easier!
-- [cylon](https://github.com/gavinlyonsrepo/cylon) - Updates, maintenance, backups and system checks in a TUI menu driven  bash shell  script for an Arch based Linux distro
+- [cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro
 - [archlinux](https://github.com/adi1090x/archlinux) - An Arch Linux Based Custom ISO Made With "Archiso"
 - [Arch-Linux-Installer](https://github.com/YangMame/Arch-Linux-Installer) - Arch-Linux-Install-Script/Arch Linux 安装脚本
 - [archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
