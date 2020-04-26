@@ -314,6 +314,7 @@
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
+- [markdown-julia](https://github.com/colinfang/markdown-julia) - Markdown fenced code block syntax highlighting for Julia
 - [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
@@ -1142,7 +1143,6 @@
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [home](https://github.com/fibo/home) - All my *nix home versioned, not only dotfiles
-- [markdown-julia](https://github.com/colinfang/markdown-julia) - Markdown fenced code block syntax highlighting for Julia
 - [markdown-vue](https://github.com/donaldshen/markdown-vue) - 
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [xkcd_task_optimization](https://github.com/odeleongt/xkcd_task_optimization) - Automated task optimization time chart based on http://xkcd.com/1205/.
@@ -2327,7 +2327,7 @@
 - [vimpager](https://github.com/rkitover/vimpager) - Use Vim as PAGER
 - [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [dotfiles](https://github.com/naggie/dotfiles) - Workstation configuration, provisioning and tools
-- [vim-test](https://github.com/janko/vim-test) - Run your tests at the speed of thought
+- [vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [dotfiles](https://github.com/grawity/dotfiles) - 
 - [dotfiles](https://github.com/garybernhardt/dotfiles) - ~grb. Things in here are often interdependent. A lot of stuff relies on scripts in bin/.
