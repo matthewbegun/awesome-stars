@@ -127,7 +127,7 @@
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
 - [interactive](https://github.com/dotnet/interactive) - 
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
-- [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spanning a new Console Host Window
+- [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
@@ -228,7 +228,7 @@
 - [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [stats](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions.
 - [virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
-- [subsurface](https://github.com/Subsurface-divelog/subsurface) - This is the official upstream of the Subsurface divelog program
+- [subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 
 ## CSS 
 
@@ -314,7 +314,6 @@
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
-- [markdown-julia](https://github.com/colinfang/markdown-julia) - Markdown fenced code block syntax highlighting for Julia
 - [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
@@ -418,6 +417,7 @@
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
+- [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
 - [velociraptorproblem](https://github.com/infratxt/velociraptorproblem) - Solving the xkcd Velociraptor Problem in JavaScript, graphing in D3
 - [graphtheory](https://github.com/sri-rad/graphtheory) - Webapp to generate xkcd-esque graphs.
@@ -476,7 +476,7 @@
 
 ## JavaScript 
 
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free together with millions of people.
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension
 - [wide-github](https://github.com/xthexder/wide-github) - Change all github repository pages to be full width and dynamically sized.
@@ -607,7 +607,6 @@
 - [ChessR](https://github.com/4imble/ChessR) - Chess with the intention of plugging in SignalR for the front end eventually.
 - [stylelint](https://github.com/stylelint/stylelint) - A mighty, modern style linter
 - [pro4trello](https://github.com/mdjekic/pro4trello) - Pro for Trello Google Chrome Extension
-- [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [chrome-rss](https://github.com/justinkelly/chrome-rss) - Chrome RSS Subscription Extension
@@ -665,7 +664,7 @@
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - An overview of various ML and Deep Learning algorithms
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
-- [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series: https://bit.ly/3a4k9x3
+- [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
 - [scientists-analysis-wikipedia](https://github.com/gesiscss/scientists-analysis-wikipedia) - Analysis of articles about scientists on Wikipedia
@@ -1143,6 +1142,7 @@
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [home](https://github.com/fibo/home) - All my *nix home versioned, not only dotfiles
+- [markdown-julia](https://github.com/colinfang/markdown-julia) - Markdown fenced code block syntax highlighting for Julia
 - [markdown-vue](https://github.com/donaldshen/markdown-vue) - 
 - [math-as-code](https://github.com/Jam3/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [xkcd_task_optimization](https://github.com/odeleongt/xkcd_task_optimization) - Automated task optimization time chart based on http://xkcd.com/1205/.
