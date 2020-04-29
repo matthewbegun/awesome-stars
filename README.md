@@ -664,7 +664,7 @@
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and demos for various Machine Learning concepts, techniques and tools
-- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting exercises for practicing your Machine Learning and Deep Learning skills
+- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
@@ -1128,8 +1128,6 @@
 - [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 - [markdown-styleguide](https://github.com/notslang/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [markdown-styleguide](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown
-- [download-artifact](https://github.com/actions/download-artifact) - 
-- [upload-artifact](https://github.com/actions/upload-artifact) - 
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [specification](https://github.com/sembr/specification) - Semantic Line Breaks Specification
 - [productivity-pack](https://github.com/geoffstevens8/productivity-pack) - Productivity extension pack for Visual Studio Code
@@ -1636,7 +1634,7 @@
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [IPlantUML](https://github.com/jbn/IPlantUML) - A Python package which defines a PlantUML cell magic for IPython.
 - [pandoc-plantuml-filter](https://github.com/timofurrer/pandoc-plantuml-filter) - Pandoc filter for PlantUML code blocks
-- [handbook](https://github.com/carpentries/handbook) - Community Documentation for the Carpentries
+- [docs.carpentries.org](https://github.com/carpentries/docs.carpentries.org) - Community Documentation for the Carpentries
 - [codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [xdot.py](https://github.com/jrfonseca/xdot.py) - Interactive viewer for graphs written in Graphviz's dot language.
@@ -2293,6 +2291,8 @@
 - [action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 - [vscode-restructuredtext](https://github.com/vscode-restructuredtext/vscode-restructuredtext) - reStructuredText Language Support in Visual Studio Code
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
+- [download-artifact](https://github.com/actions/download-artifact) - 
+- [upload-artifact](https://github.com/actions/upload-artifact) - 
 - [github-script](https://github.com/actions/github-script) - 
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
