@@ -997,8 +997,8 @@
 - [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [generator-pycli](https://github.com/rgreinho/generator-pycli) - The ultimate generator for Python CLI projects
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
-- [myst](https://github.com/ExecutableBookProject/myst) - Myst - Markedly Structured Text
-- [meta](https://github.com/ExecutableBookProject/meta) - Initial Planning and Collaborative Space for Executable Book Project
+- [myst](https://github.com/executablebooks/myst) - Myst - Markedly Structured Text
+- [meta](https://github.com/executablebooks/meta) - Initial Planning and Collaborative Space for Executable Book Project
 - [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
@@ -1278,7 +1278,7 @@
 - [oer-md-publish-sphinx-actions](https://github.com/ouseful-testing/oer-md-publish-sphinx-actions) - Github Action powered nbsphinx publishing route
 - [openlearn-publish-test](https://github.com/psychemedia/openlearn-publish-test) - TEst of OpenLearn publishing route
 - [jhsingle-native-proxy](https://github.com/ideonate/jhsingle-native-proxy) - Wrap an arbitrary webapp so it can be used in place of jupyter-singleuser in a JupyterHub setting
-- [sphinx-copybutton](https://github.com/ExecutableBookProject/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
+- [sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
 - [jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
@@ -1613,7 +1613,7 @@
 - [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
 - [autograph](https://github.com/tensorflow/autograph) - 
 - [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
-- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow
+- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
