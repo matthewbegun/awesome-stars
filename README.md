@@ -569,7 +569,7 @@
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
 - [diagrams](https://github.com/francoislaberge/diagrams) - Generate Flowcharts, Network Sequence Diagrams, GraphViz Dot Diagrams, and Railroad Diagrams
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
-- [drawio](https://github.com/jgraph/drawio) - Source to www.draw.io
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 - [EduBlocks](https://github.com/AllAboutCode/EduBlocks) - Drag and drop coding tool for creating Python programs
@@ -1152,7 +1152,6 @@
 - [template-unity](https://github.com/ArtificialRome/template-unity) - always put these files into any new Unity project!
 - [unity-gitattributes-for-lfs](https://github.com/timdhoffmann/unity-gitattributes-for-lfs) - A custom .gitattributes for using git LFS with Unity. Follows best practices, tracking large files by extension.
 - [UnityBlank](https://github.com/BadPC/UnityBlank) - Repository containing Unity specific .gitignore and .gitattributes
-- [scoop-sboot](https://github.com/xfournet/scoop-sboot) - A Scoop bucket for sboot
 - [PandocTasks](https://github.com/martinwiboe/PandocTasks) - Build action that transforms text files using pandoc. Transform markdown, LaTeX or docx to HTML or PDF during build.
 - [cli](https://github.com/dotnet/cli) - The .NET Core command-line (CLI) tools, used for building .NET Core apps and libraries through your development flow (compiling, NuGet package management, running, testing, ...).
 - [vscode-react](https://github.com/xabikos/vscode-react) - Contains the code snippets for Reactjs development in VS Code editor
@@ -1233,6 +1232,7 @@
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
+- [scoop-sboot](https://github.com/xfournet/scoop-sboot) - A Scoop bucket for sboot
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [sboot](https://github.com/xfournet/sboot) - Scoop configuration bootstrap
 - [PowerShell](https://github.com/BornToBeRoot/PowerShell) - Collection of useful PowerShell functions, scripts, snippets and templates
@@ -2153,6 +2153,7 @@
 - [actions](https://github.com/unacast/actions) - Github Actions
 - [actions](https://github.com/lubusIN/actions) - 🧰 Collection of github actions for automation
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
+- [latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
@@ -2212,7 +2213,6 @@
 - [unicode-math](https://github.com/wspr/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
 - [firamath](https://github.com/firamath/firamath) - Sans-serif font with Unicode math support
 - [markdown_science](https://github.com/karthik/markdown_science) - Learn how to use markdown for science
-- [latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [prefresher](https://github.com/IQSS/prefresher) - Math Prefresher Text
 - [github-demo](https://github.com/kuriwaki/github-demo) - Introduction to git for social science students (not software developers)
 - [latex-custom-kjh](https://github.com/kjhealy/latex-custom-kjh) - Some simple configuration files I use for use with LaTeX, the Memoir class and the Listings package.
