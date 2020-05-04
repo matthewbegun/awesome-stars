@@ -1689,7 +1689,7 @@
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file. Also can optionally unstar all backed up repositories.
+- [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
 - [ELI5](https://github.com/facebookresearch/ELI5) - Scripts and links to recreate the ELI5 dataset.
 - [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python
 - [sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
@@ -1838,7 +1838,7 @@
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [heatseeker](https://github.com/rschmitt/heatseeker) - A high-performance Selecta clone, written in Rust.
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast cd command that learns your habits
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
