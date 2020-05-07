@@ -126,7 +126,7 @@
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
 - [Posh-SSH](https://github.com/darkoperator/Posh-SSH) - PowerShell Module for automating tasks on remote systems using SSH
-- [interactive](https://github.com/dotnet/interactive) - 
+- [interactive](https://github.com/dotnet/interactive) - Command line tool and APIs for interactive programming with C#, F#, and PowerShell, including support for Jupyter Notebooks.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
@@ -640,6 +640,7 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
 - [sdk-hr-meter](https://github.com/Fitbit/sdk-hr-meter) - Fitbit SDK example application.
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff) - An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
@@ -1158,7 +1159,6 @@
 - [vscode-snippets](https://github.com/fatherjack/vscode-snippets) - Useful snippets for faster, more reliable editing with VSCode
 - [matlab-extension-pack](https://github.com/bat67/matlab-extension-pack) - Popular Visual Studio Code extensions for Matlab
 - [matlab-snippets](https://github.com/skyran1278/matlab-snippets) - 
-- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [UML-in-Markdown](https://github.com/Zingam/UML-in-Markdown) - How to use UML diagrams in GitHub Markdown documents
 - [-Game-Design-with-Unity-2019-V](https://github.com/PacktPublishing/-Game-Design-with-Unity-2019-V) - 
 - [Game-Development-Patterns-with-Unity-2019-Video](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-2019-Video) - 
