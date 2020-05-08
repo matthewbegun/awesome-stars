@@ -204,7 +204,6 @@
 - [PolyglotUnity](https://github.com/agens-no/PolyglotUnity) - A Polyglot Localization plugin for Unity3d that translates games to many languages
 - [ScriptableObject-Reference-Variable](https://github.com/TheLouisHong/ScriptableObject-Reference-Variable) - Implemented functionalities from the In Unite Austin 2017 talk about ScriptableObject Pattern
 - [Unity-Scene-ScriptableObject](https://github.com/ZeShmoutt/Unity-Scene-ScriptableObject) - A way of storing scenes in a ScriptableObject.
-- [ScriptableObjectTools](https://github.com/adrenak/ScriptableObjectTools) - Some ScriptableObject tools for Unity
 - [ScriptableObject-Database-Example](https://github.com/bzaPetey/ScriptableObject-Database-Example) - A quick demonstration of how to use a ScriptableObject as a Database in your next Unity made application.
 - [Unity-3D-ScriptableObjects-Tanks](https://github.com/antfarmar/Unity-3D-ScriptableObjects-Tanks) - ScriptableObjects vs. Monobehaviours Study
 - [yaSingleton](https://github.com/jedybg/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
@@ -640,7 +639,6 @@
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
 - [sdk-hr-meter](https://github.com/Fitbit/sdk-hr-meter) - Fitbit SDK example application.
-- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff) - An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
@@ -1159,6 +1157,7 @@
 - [vscode-snippets](https://github.com/fatherjack/vscode-snippets) - Useful snippets for faster, more reliable editing with VSCode
 - [matlab-extension-pack](https://github.com/bat67/matlab-extension-pack) - Popular Visual Studio Code extensions for Matlab
 - [matlab-snippets](https://github.com/skyran1278/matlab-snippets) - 
+- [first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [UML-in-Markdown](https://github.com/Zingam/UML-in-Markdown) - How to use UML diagrams in GitHub Markdown documents
 - [-Game-Design-with-Unity-2019-V](https://github.com/PacktPublishing/-Game-Design-with-Unity-2019-V) - 
 - [Game-Development-Patterns-with-Unity-2019-Video](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-2019-Video) - 
