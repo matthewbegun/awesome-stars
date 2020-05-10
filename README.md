@@ -222,6 +222,7 @@
 - [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
+- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
 - [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
@@ -342,7 +343,7 @@
 - [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
 - [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
 - [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh) - including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
@@ -436,7 +437,6 @@
 - [pandoc](https://github.com/simple-template/pandoc) - Pandoc Template
 - [gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
 - [pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
-- [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [ddabm-solar](https://github.com/haffwin/ddabm-solar) - 
@@ -632,6 +632,7 @@
 - [vscode-zotero](https://github.com/mblode/vscode-zotero) - Zotero Better Bibtex citations for VS Code
 - [tpl4md](https://github.com/dloureiro/tpl4md) - Tpl4md provide markdown templates for widely used documents such as simple pdf documents, complex pdf documents, letters, invoices, orders, or even slides. The goal is to be able to focus on the content that will be written in markdown. The rest is handle by pandoc, latex etc.
 - [todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
+- [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
 - [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 - [Git-for-Unity](https://github.com/Unity-Technologies/Git-for-Unity) - Git for Unity, a fork of GitHub for Unity
@@ -1581,7 +1582,6 @@
 - [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
-- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [python-javabridge](https://github.com/CellProfiler/python-javabridge) - Python wrapper for the Java Native Interface
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
