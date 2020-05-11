@@ -1931,7 +1931,7 @@
 - [postinstall](https://github.com/Cyclenerd/postinstall) - 💻 Bash Script to automate post-installation steps
 - [dotfiles_ikigai](https://github.com/yedhink/dotfiles_ikigai) - dotfiles 🔥 includes scripts that makes my life easier!
 - [cylon](https://github.com/gavinlyonsrepo/cylon) - A CLI TUI menu driven bash shell script supporting updates, maintenance, backups and system checks for an Arch based Linux distro
-- [archlinux](https://github.com/adi1090x/archlinux) - An Arch Linux Based Custom ISO Made With "Archiso"
+- [CustomArch](https://github.com/adi1090x/CustomArch) - Various Arch Linux Based Custom ISOs Made With "Archiso"
 - [Arch-Linux-Installer](https://github.com/YangMame/Arch-Linux-Installer) - Arch-Linux-Install-Script/Arch Linux 安装脚本
 - [archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
 - [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, i3, kitty, kakoune, zsh and more + installation guide
