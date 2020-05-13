@@ -828,7 +828,7 @@
 
 ## Kotlin 
 
-- [covidwatch-android](https://github.com/covid19risk/covidwatch-android) - 
+- [covidwatch-android](https://github.com/covid19risk/covidwatch-android) - Covid Watch Android TCN app
 
 ## Lua 
 
@@ -2249,7 +2249,7 @@
 - [quicktype-custom-csharp-example](https://github.com/quicktype/quicktype-custom-csharp-example) - An example showing how to extend quicktype via its API
 - [awesome-typed-datasets](https://github.com/typeguard/awesome-typed-datasets) - Awesome types in many languages for popular, open data sets.
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [code-server](https://github.com/cdr/code-server) - Run VS Code on a remote server.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [lyra](https://github.com/vega/lyra) - An interactive, graphical Visualization Design Environment (VDE)
 - [voyager](https://github.com/vega/voyager) - Visualization Tool for Data Exploration
 - [vega-lite](https://github.com/vega/vega-lite) - A concise grammar of interactive graphics, built on Vega.
