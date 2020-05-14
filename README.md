@@ -798,7 +798,7 @@
 - [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
 - [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
-- [pytudes](https://github.com/norvig/pytudes) - Python programs to practice or demonstrate skills.
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [probability](https://github.com/tensorflow/probability) - Probabilistic reasoning and statistical analysis in TensorFlow
@@ -2198,7 +2198,7 @@
 - [Writing-seminar](https://github.com/robjhyndman/Writing-seminar) - Academic writing for different audiences
 - [Researchplus](https://github.com/robjhyndman/Researchplus) - 
 - [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
-- [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten simple rules for writing Dockerfiles for reproducible research
+- [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
