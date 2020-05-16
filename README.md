@@ -1345,7 +1345,7 @@
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
 - [xo](https://github.com/scopatz/xo) - exofrills text editor
 - [Scripts](https://github.com/lahwaacz/Scripts) - 
-- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 Terminal Pomodoro Timer
+- [pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
 - [cookiecutter-snakemake-workflow](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow) - A cookiecutter template for Snakemake workflows
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
 - [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
