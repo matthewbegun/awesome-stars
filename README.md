@@ -1396,7 +1396,7 @@
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
 - [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
 - [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising and publishing information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
 - [code](https://github.com/grawity/code) - ~/code – tools distributed across all of my systems
 - [pyxdg](https://github.com/takluyver/pyxdg) - PyXDG provides Python implementations of various freedesktop.org specifications. This is the Giithub mirror.
@@ -2106,7 +2106,7 @@
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @kennethreitz ]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
