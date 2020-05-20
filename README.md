@@ -1250,6 +1250,7 @@
 
 ## Python 
 
+- [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [rltk](https://github.com/usc-isi-i2/rltk) - Record Linkage ToolKit (Find and link entities)
 - [L2C](https://github.com/GT-RIPL/L2C) - Learning to Cluster. A deep clustering strategy.
 - [ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
@@ -1620,7 +1621,7 @@
 - [jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [panzer](https://github.com/msprev/panzer) - pandoc + styles
-- [commentary](https://github.com/hdbhdb/commentary) - comment-preserving docx&lt;----&gt;markdown converter
+- [commentary](https://github.com/hdb/commentary) - comment-preserving docx&lt;----&gt;markdown converter
 - [pancritic](https://github.com/ickc/pancritic) - using criticmarkup in the pandoc markdown source
 - [pytest_tutorial](https://github.com/shashikumarraja/pytest_tutorial) - 
 - [ISCPP](https://github.com/simondlevy/ISCPP) - Introduction to Scientific Computing and Programming in Python
