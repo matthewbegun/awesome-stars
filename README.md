@@ -290,7 +290,7 @@
 - [docker-novnc](https://github.com/oott123/docker-novnc) - tigervnc, websokify, novnc and Nginx with s6-overlay in a docker image.
 - [docker-xpra](https://github.com/tyson-swetnam/docker-xpra) - Ubuntu container with Xpra for running remote desktop applications in browser
 - [turbovnc-virtualgl-docker](https://github.com/tyson-swetnam/turbovnc-virtualgl-docker) - Docker container for TurboVNC and VirtualGL running NVIDIA drivers
-- [codingdojo.org](https://github.com/codingdojo-org/codingdojo.org) - Codingdojo web site
+- [codingdojo.org](https://github.com/codingdojo-org/codingdojo.org) - Codingdojo web site, moved to gitlab :
 - [dockerfile-x11docker-xfce](https://github.com/mviereck/dockerfile-x11docker-xfce) - Base image Xfce desktop
 - [docker-tox](https://github.com/painless-software/docker-tox) - Alternative Docker base image for Python testing with tox.
 - [vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) - Python sample project for trying out the VS Code Remote - Containers extension
@@ -732,7 +732,7 @@
 - [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
 - [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
 - [ipython_binder_magic](https://github.com/innovationOUtside/ipython_binder_magic) - Run commands on a remote MyBinder kernel from a local notebook
-- [ipytest](https://github.com/chmp/ipytest) - Unit tests in IPython notebooks. Supports pytest.
+- [ipytest](https://github.com/chmp/ipytest) - Pytest in IPython notebooks.
 - [power-laws-optimization](https://github.com/drivendataorg/power-laws-optimization) - Example repository for the Power Laws: Optimizing Demand-side Strategies competition on DrivenData
 - [data-science-is-software](https://github.com/drivendata/data-science-is-software) - 
 - [survivalvolume](https://github.com/genomematt/survivalvolume) - A set of tools for parsing measurement with threshold over time data (eg tyre wear, tumour treatment studies) and generating interactive and static plots.
@@ -1135,7 +1135,6 @@
 - [pandoc-action](https://github.com/maxheld83/pandoc-action) - github action to run pandoc, soft-deprecated -&gt;
 - [vscode-fenced-code-block-grammar-injection-example](https://github.com/mjbvz/vscode-fenced-code-block-grammar-injection-example) - Example of injecting a new grammar into VSCode's builtin markdown syntax highlighting for fenced code blocks
 - [math-snippets](https://github.com/thomanq/math-snippets) - Math snippets Visual Studio Code extension for LaTeX and Markdown
-- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions.
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
@@ -2299,6 +2298,7 @@
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
 - [code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
 - [vscode-core-theme](https://github.com/miqh/vscode-core-theme) - Minimal environment aesthetics for maximum focus.
+- [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
 - [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
