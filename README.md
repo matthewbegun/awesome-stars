@@ -1934,7 +1934,7 @@
 - [CustomArch](https://github.com/adi1090x/CustomArch) - Various Arch Linux Based Custom ISOs Made With "Archiso"
 - [Arch-Linux-Installer](https://github.com/YangMame/Arch-Linux-Installer) - Arch-Linux-Install-Script/Arch Linux 安装脚本
 - [archdi](https://github.com/MatMoul/archdi) - Arch Linux Desktop Installer : tutorial installer
-- [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, i3, kitty, kakoune, zsh and more + installation guide
+- [dotfiles](https://github.com/maximbaz/dotfiles) - Configuration for Arch Linux, sway, kitty, kakoune, zsh and more + scripted installation guide
 - [termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
 - [packer-arch](https://github.com/elasticdog/packer-arch) - packer.io template for building an Arch Linux base box
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
