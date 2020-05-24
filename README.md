@@ -1561,7 +1561,7 @@
 - [jupyterlab-dash](https://github.com/plotly/jupyterlab-dash) - An Extension for the Interactive development of Dash apps in JupyterLab
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [patsy](https://github.com/pydata/patsy) - Describing statistical models in Python using symbolic formulas
-- [python-cheat-sheet](https://github.com/funkythings/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
+- [python-cheat-sheet](https://github.com/juliangaal/python-cheat-sheet) - Python Cheat Sheet NumPy, Matplotlib
 - [koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
 - [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
 - [dask](https://github.com/dask/dask) - Parallel computing with task scheduling
