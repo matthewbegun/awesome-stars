@@ -219,7 +219,7 @@
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
-- [gitstatus](https://github.com/romkatv/gitstatus) - 10x faster implementation of `git status` command
+- [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
 - [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
@@ -1875,7 +1875,6 @@
 - [devtools](https://github.com/eli-schwartz/devtools) - Experiments in extending the Arch Linux devtools
 - [pkgbuilds](https://github.com/eli-schwartz/pkgbuilds) - PKGBUILDs for Arch Linux
 - [pkgbuilds](https://github.com/Earnestly/pkgbuilds) - Personal packages
-- [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [dotfiles](https://github.com/AladW/dotfiles) - 
 - [xxh-shell-fish-appimage](https://github.com/xxh/xxh-shell-fish-appimage) - fish appimage xxh shell entrypoint
@@ -2311,6 +2310,7 @@
 
 - [lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [config](https://github.com/bloopletech/config) - 
+- [dotfiles](https://github.com/Earnestly/dotfiles) - General system configuration
 - [dotfiles](https://github.com/laserswald/dotfiles) - My collection of dotfiles.
 - [vimwiki-sync](https://github.com/michal-h21/vimwiki-sync) - Automaticaly synchronize vimwiki at startup and exit using git
 - [vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
