@@ -235,7 +235,6 @@
 
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [source](https://github.com/TutsWiki/source) - A wiki of tutorials
-- [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
 - [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
 - [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
@@ -688,6 +687,7 @@
 - [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) - A collection of Bayesian data analysis recipes using PyMC3
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [deepbayes-2018](https://github.com/bayesgroup/deepbayes-2018) - Seminars DeepBayes Summer School 2018
+- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
 - [improve-writing](https://github.com/FavioVazquez/improve-writing) - Using textstat to write better blogs and improve readability.
 - [notebooks](https://github.com/Naereen/notebooks) - :notebook: A growing collection of Jupyter Notebooks written in Python, OCaml and Julia for science examples, algorithms, visualizations etc
@@ -1371,7 +1371,6 @@
 - [libvcs](https://github.com/vcs-python/libvcs) - ⚙️ vcs abstraction layer
 - [cookiecutter-pypackage-pythonic](https://github.com/tony/cookiecutter-pypackage-pythonic) - Pythonic cookiecutter template for a Python package. See https://github.com/audreyr/cookiecutter.
 - [tmuxp-config](https://github.com/tony/tmuxp-config) - Configs for tmuxp (https://github.com/tony/tmuxp)
-- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
 - [george](https://github.com/dfm/george) - Fast and flexible Gaussian Process regression in Python
 - [GPflow](https://github.com/GPflow/GPflow) - Gaussian processes in TensorFlow
@@ -1661,7 +1660,7 @@
 - [morality](https://github.com/lindeloev/morality) - Data and analysis: Morality in the time of Cognitive Famine
 - [smop](https://github.com/victorlei/smop) - Small Matlab to Python compiler
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
-- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, and Julia. No JavaScript Required.
+- [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [zEpid](https://github.com/pzivich/zEpid) - Epidemiology analysis package
 - [dog](https://github.com/CamDavidsonPilon/dog) - a simple casual graph evaluator (for experiments)
 - [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
@@ -2194,6 +2193,7 @@
 - [stat-cookbook](https://github.com/mavam/stat-cookbook) - :orange_book: The probability and statistics cookbook
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [bayesian-surprise](https://github.com/uwdata/bayesian-surprise) - Bayesian Weighting for De-Biasing Thematic Maps
+- [the-turing-way](https://github.com/alan-turing-institute/the-turing-way) - Host repository for The Turing Way: a how to guide for reproducible data science
 - [Writing-seminar](https://github.com/robjhyndman/Writing-seminar) - Academic writing for different audiences
 - [Researchplus](https://github.com/robjhyndman/Researchplus) - 
 - [iscb2018](https://github.com/therneau/iscb2018) - Course materials for the "Multistate models" short course at the 2018 ISCB meeting in Melbourne
