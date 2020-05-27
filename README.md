@@ -330,6 +330,7 @@
 
 ## Fortran 
 
+- [Corona-Virus-Analysis](https://github.com/MacNeacail/Corona-Virus-Analysis) - Fortran Programs for Corona Virus Analysis
 - [fortranlib](https://github.com/astrofrog/fortranlib) - Collection of personal scientific routines in Fortran :book:
 - [functional-fortran](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran
 - [fortran2018-examples](https://github.com/scivision/fortran2018-examples) - Modern Fortran basic examples with broad applications
@@ -361,7 +362,7 @@
 - [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
 - [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
-- [gitql](https://github.com/cloudson/gitql) - 💊 A git query language
+- [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [easy-novnc](https://github.com/geek1011/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
@@ -701,7 +702,6 @@
 - [jupyter-forchaps](https://github.com/alugowski/jupyter-forchaps) - Tooling and examples for using Jupyter Notebooks to write chapters that explain mathematical and engineering calculations.
 - [-Managing-Messes-Study-Materials](https://github.com/andrewhead/-Managing-Messes-Study-Materials) - Materials for running the usability study for the technical paper, "Managing Messes in Computational Notebooks".
 - [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
-- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
@@ -2240,6 +2240,7 @@
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
+- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
