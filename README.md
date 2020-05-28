@@ -387,7 +387,6 @@
 - [liberal-arts-epidemiology](https://github.com/dtkaplan/liberal-arts-epidemiology) - Materials for teaching epidemiology as a liberal arts topic.
 - [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
-- [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
 - [wrattler](https://github.com/wrattler/wrattler) - 
@@ -664,7 +663,7 @@
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
 - [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and demos for various Machine Learning concepts, techniques and tools
-- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning skills
+- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
 - [Cockroach_Bait_Project](https://github.com/yvonnekmatos/Cockroach_Bait_Project) - Project and tutorial for analyzing datasets with Python, pandas, lifelines, matplotlib, statsmodels, and seaborn
@@ -933,6 +932,7 @@
 - [docs](https://github.com/snakemake-workflows/docs) - Documentation of the Snakemake-Workflows project
 - [doc](https://github.com/Snakemake-Profiles/doc) - Documentation of the Snakemake-Profiles project.
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) - :memo: Minutes from nteract weekly contributor meeting; reports and metrics
+- [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [datascience-anthology-pydata](https://github.com/DataTau/datascience-anthology-pydata) - PyData, The Complete Works of
@@ -2025,7 +2025,7 @@
 - [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
 - [displaylink.sh](https://github.com/nathantypanski/displaylink.sh) - DisplayLink for Linux startup script
 - [displaylink-debian](https://github.com/AdnanHodzic/displaylink-debian) - DisplayLink driver installer for Debian and Ubuntu based Linux distributions.
-- [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications
+- [wsl-open](https://github.com/4U6U57/wsl-open) - Open files with xdg-open on Bash for Windows in Windows applications. Read only mirror from GitLab, see link :point_right:
 - [Castle-Winbuntu](https://github.com/rodtreweek/Castle-Winbuntu) - Homesick Castle for use on WSL.
 - [wsl-dotfiles](https://github.com/Xyene/wsl-dotfiles) - My dotfiles for running an i3-based environment within the Windows Subsystem for Linux (WSL).
 - [appimage.github.io](https://github.com/AppImage/appimage.github.io) - Given an URL to an AppImage, AppImageHub inspects the AppImage and puts it into a community-maintained catalog
