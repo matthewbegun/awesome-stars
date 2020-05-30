@@ -662,7 +662,7 @@
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
-- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and demos for various Machine Learning concepts, techniques and tools
+- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and interative demos for various Machine Learning concepts, techniques and tools
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
@@ -932,7 +932,6 @@
 - [docs](https://github.com/snakemake-workflows/docs) - Documentation of the Snakemake-Workflows project
 - [doc](https://github.com/Snakemake-Profiles/doc) - Documentation of the Snakemake-Profiles project.
 - [meeting-minutes](https://github.com/nteract/meeting-minutes) - :memo: Minutes from nteract weekly contributor meeting; reports and metrics
-- [gopherlabs](https://github.com/collabnix/gopherlabs) - Go - Beginners | Intermediate | Advanced
 - [agnoster-like-themes](https://github.com/dritter/agnoster-like-themes) - A small collection of agnoster-like ZSH-Themes
 - [Good-Papers](https://github.com/hoangcuong2011/Good-Papers) - I try my best to keep updated cutting-edge knowledge in Machine Learning/Deep Learning and Natural Language Processing. These are  my notes on some good papers
 - [datascience-anthology-pydata](https://github.com/DataTau/datascience-anthology-pydata) - PyData, The Complete Works of
