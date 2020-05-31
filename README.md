@@ -662,7 +662,7 @@
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
-- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and interative demos for various Machine Learning concepts, techniques and tools
+- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Explanations and demos for various Machine Learning concepts, techniques and tools
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [sas_kernel](https://github.com/sassoftware/sas_kernel) - A Jupyter kernel for SAS. This opens up all the data manipulation and analytics capabilities of your SAS system within a notebook interface.  Use the Jupyter Notebook interface to execute SAS code and view results inline.
@@ -694,7 +694,7 @@
 - [notebooks](https://github.com/spacetelescope/notebooks) - Curated Notebooks from STScI
 - [xlines](https://github.com/agile-geoscience/xlines) - X lines of Python
 - [data-science-notebooks](https://github.com/cedrickchee/data-science-notebooks) - Data science Python notebooks—a collection of Jupyter notebooks on machine learning, deep learning, statistical inference, data analysis and visualization.
-- [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories
+- [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [papers-as-modules](https://github.com/andreas-zeller/papers-as-modules) - Software Papers as Software Modules: Towards a Culture of Reusable Results
 - [ten-rules-jupyter](https://github.com/jupyter-guide/ten-rules-jupyter) - Ten Simple Rules for Writing and Sharing Computational Analyses in Jupyter Notebooks
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
@@ -757,7 +757,7 @@
 - [notebooks](https://github.com/ursa-labs/notebooks) - Miscellaneous Jupyter notebooks
 - [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 - [pycon-2018-tutorial](https://github.com/justmarkham/pycon-2018-tutorial) - Using pandas for Better (and Worse) Data Science
 - [effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
@@ -995,7 +995,7 @@
 - [gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [generator-pycli](https://github.com/rgreinho/generator-pycli) - The ultimate generator for Python CLI projects
-- [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow
+- [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow ---- the Great Unification Programming Theory
 - [myst](https://github.com/executablebooks/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/executablebooks/meta) - Initial Planning and Collaborative Space for Executable Book Project
 - [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
