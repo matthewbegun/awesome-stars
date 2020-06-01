@@ -701,6 +701,7 @@
 - [jupyter-forchaps](https://github.com/alugowski/jupyter-forchaps) - Tooling and examples for using Jupyter Notebooks to write chapters that explain mathematical and engineering calculations.
 - [-Managing-Messes-Study-Materials](https://github.com/andrewhead/-Managing-Messes-Study-Materials) - Materials for running the usability study for the technical paper, "Managing Messes in Computational Notebooks".
 - [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
+- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
@@ -1175,6 +1176,7 @@
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
+- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1937,7 +1939,6 @@
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
-- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
@@ -2239,7 +2240,6 @@
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
-- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
