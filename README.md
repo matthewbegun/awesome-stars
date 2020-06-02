@@ -1211,7 +1211,7 @@
 - [psfetch](https://github.com/mikepruett3/psfetch) - A PowerShell Implementation of the popular Bash Screenshot System Information utility (i.e. screenFetch)...
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
-- [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909
+- [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909/2004
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
 - [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
 - [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
@@ -1682,7 +1682,6 @@
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
-- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
@@ -2137,6 +2136,7 @@
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [reproducible-os-environments](https://github.com/ickc/reproducible-os-environments) - Automate installation of softwares on freshly installed OS — macOS, Ubuntu
 - [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
