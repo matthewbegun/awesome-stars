@@ -998,7 +998,7 @@
 - [generator-pycli](https://github.com/rgreinho/generator-pycli) - The ultimate generator for Python CLI projects
 - [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow ---- the Great Unification Programming Theory
 - [myst](https://github.com/executablebooks/myst) - Myst - Markedly Structured Text
-- [meta](https://github.com/executablebooks/meta) - Initial Planning and Collaborative Space for Executable Book Project
+- [meta](https://github.com/executablebooks/meta) - Planning and Collaborative Space for Executable Book Project
 - [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
 - [distribution](https://github.com/clearlinux/distribution) - Placeholder repository to allow filing of general bugs/issues/etc against the Clear Linux OS for Intel Architecture linux distribution
 - [jupyterhub-the-hard-way](https://github.com/jupyterhub/jupyterhub-the-hard-way) - Understanding JupyterHub by deploying it step by step
@@ -1176,7 +1176,6 @@
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
-- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1938,6 +1937,7 @@
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
+- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
