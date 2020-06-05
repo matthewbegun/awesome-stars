@@ -1176,6 +1176,7 @@
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
+- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1681,6 +1682,7 @@
 - [aioredis](https://github.com/aio-libs/aioredis) - asyncio (PEP 3156) Redis support
 - [localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
+- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
@@ -1937,7 +1939,6 @@
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
-- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
@@ -2136,7 +2137,6 @@
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [docker-baseimage](https://github.com/jlesage/docker-baseimage) - A minimal docker baseimage to ease creation of long-lived application containers
-- [container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about containers.
 - [git-subtree](https://github.com/apenwarr/git-subtree) - An experimental alternative to the git-submodule command.  Merges and splits subtrees from your project into subprojects and back.
 - [reproducible-os-environments](https://github.com/ickc/reproducible-os-environments) - Automate installation of softwares on freshly installed OS — macOS, Ubuntu
 - [pandoc-arm](https://github.com/ickc/pandoc-arm) - experimental prebuilt pandoc binaries for Raspberry Pi 4
