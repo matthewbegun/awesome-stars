@@ -597,7 +597,6 @@
 - [calculating-pi](https://github.com/zeke/calculating-pi) - Learning different ways to compute an approximation of Pi
 - [Checklist-Checklist](https://github.com/huyingjie/Checklist-Checklist) - 🌈  A Curated List of Checklists ✔︎✔︎
 - [gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [contain-facebook](https://github.com/mozilla/contain-facebook) - Facebook Container isolates your Facebook activity from the rest of your web activity in order to prevent Facebook from tracking you outside of the Facebook website via third party cookies.
@@ -927,7 +926,7 @@
 - [scoop-user](https://github.com/excitoon/scoop-user) - User Scoop repository
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [bread](https://github.com/samclifford/bread) - Bread recipes
-- [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI  ✨ 🌟 ✨
+- [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
 - [Datasets-of-Master-Data-Science-with-Python](https://github.com/TrainingByPackt/Datasets-of-Master-Data-Science-with-Python) - Datasets of Master Data Science with Python, published by Packt. For the complete code files, visit https://github.com/TrainingByPackt/Data-Science-with-Python
 - [Datasets-of-Master-Data-Science-with-Python](https://github.com/PacktPublishing/Datasets-of-Master-Data-Science-with-Python) - Visit: https://github.com/TrainingByPackt/Master-Data-Science-with-Python
 - [docs](https://github.com/snakemake-workflows/docs) - Documentation of the Snakemake-Workflows project
@@ -2279,6 +2278,7 @@
 - [vscode-todo-list](https://github.com/tzachov/vscode-todo-list) - VSCode Extension that lists all of your TODO-type comments in an easy-to-read tree view panel
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
+- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [catex](https://github.com/konn/catex) - YaTeX-like completions for LaTeX in VSCode
 - [vscode-generic-input-method](https://github.com/konn/vscode-generic-input-method) - Generic Input Method for VSCode, mainly focusing on Unicode Symbol input for Theorem Provers, and YaTeX-like image completion for LaTeX
