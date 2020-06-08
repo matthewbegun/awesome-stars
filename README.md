@@ -648,6 +648,7 @@
 
 ## Jupyter Notebook 
 
+- [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) - 
 - [covid-19](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19
 - [integrating-pandas-with-scikit-learn](https://github.com/tdpetrou/integrating-pandas-with-scikit-learn) - Tutorial covering a new workflow available going from pandas to scikit-learn
 - [Learn-Pandas](https://github.com/tdpetrou/Learn-Pandas) - Tutorials on how to use pandas effectively to do data analysis
@@ -1175,7 +1176,6 @@
 ## Perl 
 
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
-- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -1776,7 +1776,7 @@
 - [rio.db](https://github.com/leeper/rio.db) - A Database Extension for 'rio'
 - [margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
 - [rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
-- [openintro-r-package](https://github.com/OpenIntroStat/openintro-r-package) - R Package: openintro
+- [openintro](https://github.com/OpenIntroStat/openintro) - R Package: openintro
 - [jags_examples](https://github.com/andrewcparnell/jags_examples) - A large set of JAGS examples using R
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
@@ -1938,6 +1938,7 @@
 - [dotfiles](https://github.com/Olical/dotfiles) - Configuration for Regolith Linux, i3, Kitty, Fish, Neovim and more
 - [direwolf-arch-rice](https://github.com/ibrahimbutt/direwolf-arch-rice) - 🐺🍚 A guide to replicating my riced Arch Linux set-up.
 - [archfi](https://github.com/MatMoul/archfi) - Arch Linux Fast Installer : tutorial installer
+- [dotfiles-public](https://github.com/romkatv/dotfiles-public) - Public part of my dotfiles
 - [alpine-pkg-glibc](https://github.com/sgerrand/alpine-pkg-glibc) - A glibc compatibility layer package for Alpine Linux
 - [trello-exporter](https://github.com/websitesfortrello/trello-exporter) - A command line Trello backup tool that outputs friendly and readable files
 - [dotfiles](https://github.com/matt9ucci/dotfiles) - My dotfiles
