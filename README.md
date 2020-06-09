@@ -103,6 +103,7 @@
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
 - [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -220,7 +221,6 @@
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
-- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
 - [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
@@ -494,7 +494,7 @@
 - [data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
-- [dtale](https://github.com/man-group/dtale) - Flask/React client for visualizing pandas data structures
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
 - [kacl](https://github.com/brightcove/kacl) - Keep a Changelog tooling for automating changelog releases
@@ -2104,7 +2104,7 @@
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [ Originally owned by @ken-reitz]
+- [autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Originally owned by @ken-reitz]
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
