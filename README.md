@@ -925,7 +925,6 @@
 - [scipy2019_tutorial](https://github.com/xonsh/scipy2019_tutorial) - 
 - [scoop-bear](https://github.com/AStupidBear/scoop-bear) - Scoop bucket for niche apps
 - [scoop-user](https://github.com/excitoon/scoop-user) - User Scoop repository
-- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [bread](https://github.com/samclifford/bread) - Bread recipes
 - [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
 - [Datasets-of-Master-Data-Science-with-Python](https://github.com/TrainingByPackt/Datasets-of-Master-Data-Science-with-Python) - Datasets of Master Data Science with Python, published by Packt. For the complete code files, visit https://github.com/TrainingByPackt/Data-Science-with-Python
@@ -1950,6 +1949,7 @@
 - [dotfiles](https://github.com/nir0s/dotfiles) - 
 - [nanorc](https://github.com/scopatz/nanorc) - Improved Nano Syntax Highlighting Files
 - [xxh-dev](https://github.com/xxh/xxh-dev) - Development and test environment for xxh
+- [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [tmux-pain-control](https://github.com/tmux-plugins/tmux-pain-control) - standard pane key-bindings for tmux
 - [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) - basic tmux settings everyone can agree on
