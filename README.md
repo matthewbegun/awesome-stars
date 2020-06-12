@@ -123,6 +123,7 @@
 
 ## C# # 
 
+- [LoRDeckCodes](https://github.com/RiotGames/LoRDeckCodes) - 
 - [TwinFinder](https://github.com/JohnnyBravo75/TwinFinder) - fuzzy data matching
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
@@ -2154,7 +2155,7 @@
 - [wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Simplified and community-driven man pages
+- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [vglcygsetup](https://github.com/VirtualGL/vglcygsetup) - Script to facilitate installing the VirtualGL Client under Cygwin (since the procedure at http://www.virtualgl.org/Documentation/Cygwin no longer works)
 - [lit](https://github.com/spro/lit) - Literate programming for any language. It's 🔥.
