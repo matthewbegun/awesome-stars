@@ -135,7 +135,7 @@
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set UEFI's BootNext option.
+- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext variable.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
 - [PSWordCloud](https://github.com/vexx32/PSWordCloud) - Create pretty word clouds with PowerShell!
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
@@ -338,6 +338,7 @@
 
 ## Go 
 
+- [docker-mirror](https://github.com/seatgeek/docker-mirror) - Mirror docker images across image repositories
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [go](https://github.com/golang/go) - The Go programming language
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
@@ -403,7 +404,7 @@
 - [python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
 - [snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
-- [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
+- [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - 👩🏿‍💻 OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
 - [cscar.github.io](https://github.com/CSCAR/cscar.github.io) - A website of CSCAR resources for ourselves and those we collaborate and consult with.
 - [projects](https://github.com/NikKrieger/projects) - projects
 - [exreport](https://github.com/jacintoArias/exreport) - An R package for reproducible research. Analyze your experimental data and generate HTML and PDF reports.
@@ -437,6 +438,7 @@
 - [pandoc](https://github.com/simple-template/pandoc) - Pandoc Template
 - [gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
 - [pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
+- [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [ddabm-solar](https://github.com/haffwin/ddabm-solar) - 
@@ -632,7 +634,6 @@
 - [tpl4md](https://github.com/dloureiro/tpl4md) - Tpl4md provide markdown templates for widely used documents such as simple pdf documents, complex pdf documents, letters, invoices, orders, or even slides. The goal is to be able to focus on the content that will be written in markdown. The rest is handle by pandoc, latex etc.
 - [todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [mustache.github.com](https://github.com/mustache/mustache.github.com) - The {{official}} website
-- [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 - [Git-for-Unity](https://github.com/Unity-Technologies/Git-for-Unity) - Git for Unity, a fork of GitHub for Unity
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
@@ -649,6 +650,8 @@
 
 ## Jupyter Notebook 
 
+- [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
+- [TFIDF](https://github.com/mayank408/TFIDF) - Implementation of TF-IDF from scratch in Python
 - [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) - 
 - [covid-19](https://github.com/k-sys/covid-19) - A collection of work related to COVID-19
 - [integrating-pandas-with-scikit-learn](https://github.com/tdpetrou/integrating-pandas-with-scikit-learn) - Tutorial covering a new workflow available going from pandas to scikit-learn
@@ -879,6 +882,7 @@
 
 ## Others 
 
+- [data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software.
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [github_actions_python](https://github.com/mwouts/github_actions_python) - Testing your Python Project with GitHub Actions
 - [Data-Science-in-Two-Minutes](https://github.com/tdpetrou/Data-Science-in-Two-Minutes) - Quick descriptions and answers of common data science tasks and questions
@@ -1249,6 +1253,15 @@
 
 ## Python 
 
+- [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
+- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
+- [FuzzyClassificator](https://github.com/devopshq/FuzzyClassificator) - This program uses neural networks to solve classification problems, and uses fuzzy sets and fuzzy logic to interpreting results. See article about math in FuzzyClassificator (russian): http://math-n-algo.blogspot.ru/2014/08/FuzzyClassificator.html
+- [fuzzyset](https://github.com/axiak/fuzzyset) - A simple fuzzy matching set for python strings
+- [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy) - Fuzzy Logic SciKit (Toolkit for SciPy)
+- [fuzzymatcher](https://github.com/RobinL/fuzzymatcher) - Record linking package that fuzzy matches two Python pandas dataframes using sqlite3 fts4
+- [atyimo](https://github.com/pierrepita/atyimo) - 
+- [dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
+- [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [rltk](https://github.com/usc-isi-i2/rltk) - Record Linkage ToolKit (Find and link entities)
 - [L2C](https://github.com/GT-RIPL/L2C) - Learning to Cluster. A deep clustering strategy.
@@ -1748,6 +1761,7 @@
 
 ## R 
 
+- [fastLink](https://github.com/kosukeimai/fastLink) - R package fastLink: Fast Probabilistic Record Linkage
 - [australia_covid_ascertainment](https://github.com/goldingn/australia_covid_ascertainment) - Estimating case ascertainment rates for COVID-19 in Australia
 - [rmarkdown](https://github.com/rstudio/rmarkdown) - Dynamic Documents for R
 - [knitr](https://github.com/yihui/knitr) - A general-purpose tool for dynamic report generation in R
@@ -1776,7 +1790,7 @@
 - [rio.db](https://github.com/leeper/rio.db) - A Database Extension for 'rio'
 - [margins](https://github.com/leeper/margins) - An R Port of Stata's 'margins' Command
 - [rio](https://github.com/leeper/rio) - A Swiss-Army Knife for Data I/O
-- [openintro](https://github.com/OpenIntroStat/openintro) - R Package: openintro
+- [openintro](https://github.com/OpenIntroStat/openintro) - 📦 R package for data and supplemental functions for OpenIntro resources
 - [jags_examples](https://github.com/andrewcparnell/jags_examples) - A large set of JAGS examples using R
 - [adapr](https://github.com/gelfondjal/adapr) - next gen ADAP
 - [tidyverse](https://github.com/tidyverse/tidyverse) - Easily install and load packages from the tidyverse
@@ -2203,8 +2217,8 @@
 - [scientific-markdown](https://github.com/JensErat/scientific-markdown) - This provides an example for use of Markdown for scientific publications.
 - [efficientR](https://github.com/csgillespie/efficientR) - Efficient R programming: a book
 - [OpenDreamKit](https://github.com/OpenDreamKit/OpenDreamKit) - Main repository for sharing files and documents about OpenDreamKit
-- [openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - Slides for the OpenIntro Statistics textbook
-- [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
+- [openintro-statistics-slides](https://github.com/OpenIntroStat/openintro-statistics-slides) - 👩🏻‍🏫 Slides for OpenIntro Statistics
+- [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
