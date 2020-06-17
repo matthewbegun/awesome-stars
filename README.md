@@ -650,6 +650,10 @@
 
 ## Jupyter Notebook 
 
+- [Statistics-with-Python](https://github.com/susanli2016/Statistics-with-Python) - 
+- [PyCon-Canada-2019-NLP-Tutorial](https://github.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial) - 
+- [Data-Analysis-with-Python](https://github.com/susanli2016/Data-Analysis-with-Python) - Data analysis using numpy, pandas, matplotlib, seaborn, sqlite3, data wrangling
+- [Machine-Learning-with-Python](https://github.com/susanli2016/Machine-Learning-with-Python) - Python code for common Machine Learning Algorithms
 - [NLP-with-Python](https://github.com/susanli2016/NLP-with-Python) - Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 - [TFIDF](https://github.com/mayank408/TFIDF) - Implementation of TF-IDF from scratch in Python
 - [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) - 
@@ -989,7 +993,7 @@
 - [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
 - [reproducible-research](https://github.com/coderefinery/reproducible-research) - Lesson on reproducible research.
 - [WSL](https://github.com/microsoft/WSL) - Issues found on WSL
-- [spacy-io-binder](https://github.com/ines/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
+- [spacy-io-binder](https://github.com/explosion/spacy-io-binder) - 📒 Repository used to build Binder images for the interactive spaCy code examples
 - [Windows10-Privacy](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [PracticalPandas](https://github.com/TomAugspurger/PracticalPandas) - 
 - [naming-convention](https://github.com/ktaranov/naming-convention) - Templates for naming convention - TSQL, JavaScript, C#, R, Python, Powershell
