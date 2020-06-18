@@ -82,6 +82,7 @@
 
 - [smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
+- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
@@ -217,6 +218,7 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
@@ -497,6 +499,7 @@
 - [data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
+- [sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
 - [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
@@ -1257,6 +1260,7 @@
 
 ## Python 
 
+- [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
 - [FuzzyClassificator](https://github.com/devopshq/FuzzyClassificator) - This program uses neural networks to solve classification problems, and uses fuzzy sets and fuzzy logic to interpreting results. See article about math in FuzzyClassificator (russian): http://math-n-algo.blogspot.ru/2014/08/FuzzyClassificator.html
@@ -1279,7 +1283,6 @@
 - [git-sweep](https://github.com/arc90/git-sweep) - A command-line tool that helps you clean up Git branches that have been merged into master.
 - [sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [emcee](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC
-- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
 - [qtile-config](https://github.com/ramnes/qtile-config) - My ~/.config/qtile
 - [article-introduction-to-itertools-snippets](https://github.com/DahlitzFlorian/article-introduction-to-itertools-snippets) - Supporting material for the "Introduction To Itertools" article
 - [nbsphinx](https://github.com/spatialaudio/nbsphinx) - :ledger: Sphinx source parser for Jupyter notebooks
@@ -1295,7 +1298,6 @@
 - [oer-md-publish-sphinx-actions](https://github.com/ouseful-testing/oer-md-publish-sphinx-actions) - Github Action powered nbsphinx publishing route
 - [openlearn-publish-test](https://github.com/psychemedia/openlearn-publish-test) - TEst of OpenLearn publishing route
 - [jhsingle-native-proxy](https://github.com/ideonate/jhsingle-native-proxy) - Wrap an arbitrary webapp so it can be used in place of jupyter-singleuser in a JupyterHub setting
-- [sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
 - [jupyter-sphinx](https://github.com/jupyter/jupyter-sphinx) - Sphinx extension for rendering of Jupyter interactive widgets.
 - [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
@@ -1934,7 +1936,7 @@
 - [termux-omz](https://github.com/adi1090x/termux-omz) - Setup oh-my-zsh in termux with awesome colors and font ...
 - [termux-services](https://github.com/Neo-Oli/termux-services) - How to run services with runit on Termux
 - [Termux-packages](https://github.com/Technoashofficial/Termux-packages) - This is an easy script to install some basic termux packages.
-- [termux-dotfiles](https://github.com/xeffyr/termux-dotfiles) - Scripts & dotfiles I use in Termux.
+- [termux-dotfiles](https://github.com/xeffyr/termux-dotfiles) - My Termux configuration.
 - [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
 - [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
