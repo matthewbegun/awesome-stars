@@ -236,6 +236,7 @@
 
 ## CSS 
 
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [source](https://github.com/TutsWiki/source) - A wiki of tutorials
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
@@ -1193,6 +1194,7 @@
 
 ## PowerShell 
 
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
 - [Sovereign](https://github.com/nspencer16/Sovereign) - 
@@ -1722,7 +1724,7 @@
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [Termux-Mpv](https://github.com/Neo-Oli/Termux-Mpv) - Wrapper for Mpv on Termux. Displays play controls in the notification
-- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - An app to download novels from online sources and generate e-books.
+- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - An app that downloads novels and generate e-books from online sources.
 - [btree_for_pst](https://github.com/krishnadurai/btree_for_pst) - Implementation of BTree used in Outlook's PST file format.
 - [word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [python_koans](https://github.com/kgashok/python_koans) - Python Koans - Learn Python through TDD
