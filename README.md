@@ -501,7 +501,6 @@
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
 - [sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
-- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
 - [kacl](https://github.com/brightcove/kacl) - Keep a Changelog tooling for automating changelog releases
@@ -890,6 +889,7 @@
 
 ## Others 
 
+- [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software.
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [github_actions_python](https://github.com/mwouts/github_actions_python) - Testing your Python Project with GitHub Actions
@@ -1223,7 +1223,7 @@
 - [psfetch](https://github.com/mikepruett3/psfetch) - A PowerShell Implementation of the popular Bash Screenshot System Information utility (i.e. screenFetch)...
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [Windows-10-Setup](https://github.com/mosaicMK/Windows-10-Setup) - Configure a fresh install of Windows 10
-- [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 1903/1909/2004
+- [Windows-10-Setup-Script](https://github.com/farag2/Windows-10-Setup-Script) - Script to setup Windows 10 LTSC/1903/1909/2004
 - [clean-start-tiles](https://github.com/JollyWizard/clean-start-tiles) - A simple powershell tool to unpin all Windows Start Menu tiles.
 - [windows10-apps](https://github.com/Phoenix1747/windows10-apps) - 🗑 Simple program to uninstall some of the Windows 10 apps, that you cannot remove easily.
 - [Win10AppRemove](https://github.com/WurstCommander/Win10AppRemove) - A Powershell-Script for removing / debloating Windows 10 apps. Mandatory apps which can't be uninstalled via start menu will be removed too.
@@ -1262,6 +1262,7 @@
 
 ## Python 
 
+- [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.  Currently in beta.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
@@ -1304,6 +1305,7 @@
 - [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
 - [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [notebook_restified](https://github.com/kafonek/notebook_restified) - 
 - [kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
