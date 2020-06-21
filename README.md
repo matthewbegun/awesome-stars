@@ -1262,6 +1262,7 @@
 
 ## Python 
 
+- [python-pipefitter](https://github.com/sassoftware/python-pipefitter) - The SAS pipefitter package provides a Python API for developing pipelines for data transformation and model fitting as stages of a repeatable machine learning workflow in either SAS v9 or SAS Viya.
 - [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.  Currently in beta.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
