@@ -465,6 +465,7 @@
 
 ## Java 
 
+- [enlighten-integration](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with popular open source analytics technologies like Python and R.
 - [hadoop](https://github.com/apache/hadoop) - Apache Hadoop
 - [AceWiki](https://github.com/AceWiki/AceWiki) - AceWiki is a semantic wiki based on controlled natural language.
 - [KISS](https://github.com/Neamar/KISS) - Lightning fast, open-source, &lt; 200kb Android launcher
@@ -1878,6 +1879,7 @@
 
 ## SAS 
 
+- [enlighten-apply](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
 
 ## Scala 
@@ -2209,6 +2211,7 @@
 
 ## Swift 
 
+- [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
 ## TeX 
@@ -2248,6 +2251,7 @@
 
 ## TypeScript 
 
+- [CitrixDeveloper-VSCode](https://github.com/citrix/CitrixDeveloper-VSCode) - Citrix Developer tools for Visual Studio Code
 - [vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
 - [setup-miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda
 - [jupyterlab-gitplus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests
