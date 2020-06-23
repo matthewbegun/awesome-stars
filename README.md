@@ -251,6 +251,7 @@
 
 ## Dockerfile 
 
+- [jupyter-notebooks](https://github.com/govcloud/jupyter-notebooks) - Notebooks extended from official source for use with JupyterHub.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
@@ -741,7 +742,7 @@
 - [pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python) - Master the essential skills needed to recognize and solve complex real-world problems with Machine Learning and Deep Learning by leveraging the highly popular Python Machine Learning Eco-system.
 - [DAT8](https://github.com/justmarkham/DAT8) - General Assembly's 2015 Data Science course in Washington, DC
-- [CADL](https://github.com/pkmital/CADL) - Course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
+- [CADL](https://github.com/pkmital/CADL) - ARCHIVED: Contains historical course materials/Homework materials for the FREE MOOC course on "Creative Applications of Deep Learning w/ Tensorflow" #CADL
 - [tm351vm-binder](https://github.com/innovationOUtside/tm351vm-binder) - See if we can generate a Binder/repo2docker build of the TM351 VM
 - [ipython_binder_magic](https://github.com/innovationOUtside/ipython_binder_magic) - Run commands on a remote MyBinder kernel from a local notebook
 - [ipytest](https://github.com/chmp/ipytest) - Pytest in IPython notebooks.
