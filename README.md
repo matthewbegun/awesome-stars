@@ -315,7 +315,7 @@
 - [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Online
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [docker-mirror](https://github.com/seatgeek/docker-mirror) - Mirror docker images across image repositories
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [go](https://github.com/golang/go) - The Go programming language
