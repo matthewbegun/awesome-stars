@@ -254,7 +254,6 @@
 - [jupyter-notebooks](https://github.com/govcloud/jupyter-notebooks) - Notebooks extended from official source for use with JupyterHub.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
-- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
 - [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
@@ -672,7 +671,7 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Continuous Integration for binder-ready repos
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Jupyter notebook continuous integration
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -1991,6 +1990,7 @@
 - [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
 - [tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
 - [conda_container](https://github.com/dazza-codes/conda_container) - Template for a conda project
+- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
 - [hello-world](https://github.com/docker-library/hello-world) - 
