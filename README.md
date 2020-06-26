@@ -218,6 +218,7 @@
 
 ## C++ 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
@@ -491,7 +492,7 @@
 - [github-plusone-extension](https://github.com/ryanflorence/github-plusone-extension) - 
 - [hubnav](https://github.com/cheshire137/hubnav) - A Chrome extension for navigating github.com via keyboard shortcuts. Quickly access issues for multiple repos, as well as your org's pages.
 - [github-compare-tags](https://github.com/marpo60/github-compare-tags) - Chrome extension that adds tags to the compare page of Github
-- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [enhanced-github](https://github.com/softvar/enhanced-github) - :rocket: Chrome extension to display size of each file, download link and copy file contents directly to the clipboard
 - [github-repo-size](https://github.com/harshjv/github-repo-size) - 🚀 Chrome extension to display repository size on GitHub
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [github-hovercard](https://github.com/Justineo/github-hovercard) - Neat hovercards for GitHub.
@@ -891,6 +892,7 @@
 
 ## Others 
 
+- [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software.
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
