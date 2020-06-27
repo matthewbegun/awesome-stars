@@ -146,7 +146,7 @@
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [rant](https://github.com/TheBerkin/rant) - Rant – The all-purpose procedural text library
+- [rant](https://github.com/TheBerkin/rant) - (ARCHIVED) Rant – The all-purpose procedural text library
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
 - [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10-archives/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
@@ -1154,6 +1154,7 @@
 - [gitattributes](https://github.com/alexkaratarakis/gitattributes) - A collection of useful .gitattributes templates
 - [Unity-Script-Collection](https://github.com/michidk/Unity-Script-Collection) - A maintained collection of useful & free unity scripts / library's / plugins and extensions.
 - [awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
+- [vglcygsetup](https://github.com/VirtualGL/vglcygsetup) - Script to facilitate installing the VirtualGL Client under Cygwin (since the procedure at http://www.virtualgl.org/Documentation/Cygwin no longer works)
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [home](https://github.com/fibo/home) - All my *nix home versioned, not only dotfiles
 - [markdown-julia](https://github.com/colinfang/markdown-julia) - Markdown fenced code block syntax highlighting for Julia
@@ -2188,7 +2189,6 @@
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
-- [vglcygsetup](https://github.com/VirtualGL/vglcygsetup) - Script to facilitate installing the VirtualGL Client under Cygwin (since the procedure at http://www.virtualgl.org/Documentation/Cygwin no longer works)
 - [lit](https://github.com/spro/lit) - Literate programming for any language. It's 🔥.
 - [mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
