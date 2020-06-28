@@ -331,7 +331,7 @@
 
 ## F# # 
 
-- [fsharp](https://github.com/dotnet/fsharp) - The F# compiler, FSharp.Core library, and tools for F#
+- [fsharp](https://github.com/dotnet/fsharp) - The F# compiler, F# core library, F# language service, and F# tooling integration for Visual Studio
 
 ## Fortran 
 
@@ -514,7 +514,7 @@
 - [gridstudio](https://github.com/ricklamers/gridstudio) - Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.
 - [regexgen](https://github.com/devongovett/regexgen) - Generate regular expressions that match a set of strings
 - [infranodus](https://github.com/noduslabs/infranodus) - A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects.
-- [TrelloExport](https://github.com/trapias/TrelloExport) - Chrome extension to export Trello boards to Excel, Markdown, HTML and OPML
+- [TrelloExport](https://github.com/trapias/TrelloExport) - Chrome extension to export Trello boards to Excel, Markdown, HTML, OPML and CSV
 - [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
 - [ganja.js](https://github.com/enkimute/ganja.js) - :triangular_ruler: Javascript Geometric Algebra Generator for Javascript, c++, c#, rust, python. (with operator overloading and algebraic literals) -
 - [ordo](https://github.com/nbgallery/ordo) - A lightweight feedback tool for Jupyter
