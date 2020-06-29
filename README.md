@@ -102,7 +102,6 @@
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
-- [OnlinePythonTutor](https://github.com/pgbovine/OnlinePythonTutor) - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution in your Web browser
 - [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
