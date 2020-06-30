@@ -2254,6 +2254,7 @@
 
 ## TypeScript 
 
+- [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
 - [CitrixDeveloper-VSCode](https://github.com/citrix/CitrixDeveloper-VSCode) - Citrix Developer tools for Visual Studio Code
 - [vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
 - [setup-miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda
