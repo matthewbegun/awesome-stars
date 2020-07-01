@@ -221,7 +221,6 @@
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
-- [mindforger](https://github.com/dvorka/mindforger) - Thinking notebook and Markdown editor.
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
@@ -671,7 +670,7 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Jupyter notebook continuous integration
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Treebeard is a notebook-based continuous integration framework. Use it to mechanise your data science.
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -714,7 +713,6 @@
 - [jupyter-forchaps](https://github.com/alugowski/jupyter-forchaps) - Tooling and examples for using Jupyter Notebooks to write chapters that explain mathematical and engineering calculations.
 - [-Managing-Messes-Study-Materials](https://github.com/andrewhead/-Managing-Messes-Study-Materials) - Materials for running the usability study for the technical paper, "Managing Messes in Computational Notebooks".
 - [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
-- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
 - [cookiecutter](https://github.com/t0nberryking/cookiecutter) - EDA Framework
@@ -994,7 +992,7 @@
 - [cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) - boilerplate for reproducible and transparent science
 - [PSFSnippets](https://github.com/PowershellFrameworkCollective/PSFSnippets) - Repository for snippets / examples for all PowerShell Framework Collective modules
 - [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
-- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+- [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [purl-spec](https://github.com/package-url/purl-spec) - A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby
 - [DscResources](https://github.com/PowerShell/DscResources) - Central repository for PowerShell Desired State Configuration (DSC) resources.
 - [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
@@ -1266,6 +1264,7 @@
 
 ## Python 
 
+- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [python-pipefitter](https://github.com/sassoftware/python-pipefitter) - The SAS pipefitter package provides a Python API for developing pipelines for data transformation and model fitting as stages of a repeatable machine learning workflow in either SAS v9 or SAS Viya.
 - [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.  Currently in beta.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
@@ -1354,7 +1353,7 @@
 - [pangeo-stacks](https://github.com/pangeo-data/pangeo-stacks) - Curated Docker images for use with Jupyter and Pangeo
 - [nbcomet](https://github.com/activityhistory/nbcomet) - Jupyter Notebook extension to track notebook history
 - [pytest-gallery](https://github.com/nedbat/pytest-gallery) - A sampler of tests showing different ways to construct tests for pytest
-- [python-testing](https://github.com/katyhuff/python-testing) - Holds testing section, a 4-hour workshop session on testing and continuous integration.
+- [python-testing](https://github.com/carpentries-incubator/python-testing) - Python Testing and Continuous Integration
 - [hashdist](https://github.com/hashdist/hashdist) - The HashDist environment management system
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
@@ -1376,7 +1375,6 @@
 - [pydoro](https://github.com/JaDogg/pydoro) - 🍅 pydoro - Terminal Pomodoro Timer
 - [cookiecutter-snakemake-workflow](https://github.com/snakemake-workflows/cookiecutter-snakemake-workflow) - A cookiecutter template for Snakemake workflows
 - [kedro](https://github.com/quantumblacklabs/kedro) - A Python library that implements software engineering best-practice for data and ML pipelines.
-- [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [powerline-kubernetes](https://github.com/so0k/powerline-kubernetes) - A Powerline segment to show your current Kubernetes context
 - [powerline-gitstatus](https://github.com/jaspernbrouwer/powerline-gitstatus) - A Powerline segment for showing the status of a Git working copy
@@ -1992,6 +1990,7 @@
 - [fundle](https://github.com/danhper/fundle) - A minimalist package manager for fish shell
 - [tacklebox](https://github.com/justinmayer/tacklebox) - Framework for organizing and sharing fish shell functions
 - [conda_container](https://github.com/dazza-codes/conda_container) - Template for a conda project
+- [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
 - [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
 - [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
@@ -2274,6 +2273,7 @@
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [draco](https://github.com/uwdata/draco) - Visualization Constraints and Weight Learning
+- [Verdant](https://github.com/mkery/Verdant) - An experimental tool that stores and visualizes local versioning in JupyterLab
 - [secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [vscode-github](https://github.com/microsoft/vscode-github) - VS Code Github Tooling
 - [vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
@@ -2395,7 +2395,7 @@
 
 ## Vue 
 
-- [koopera](https://github.com/rsn491/koopera) - Collaboration app to help teams share and review their jupyter notebooks
+- [koopera](https://github.com/rsn491/koopera) - Collaboration app for sharing and reviewing jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
