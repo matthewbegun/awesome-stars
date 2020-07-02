@@ -80,6 +80,7 @@
 
 ## C 
 
+- [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
@@ -340,6 +341,9 @@
 
 ## Go 
 
+- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
 - [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
 - [docker-mirror](https://github.com/seatgeek/docker-mirror) - Mirror docker images across image repositories
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
@@ -839,7 +843,7 @@
 
 ## Kotlin 
 
-- [covidwatch-android](https://github.com/covid19risk/covidwatch-android) - Covid Watch Android TCN app
+- [covidwatch-android](https://github.com/covidwatchorg/covidwatch-android) - Covid Watch Android TCN app
 
 ## Lua 
 
@@ -1189,6 +1193,7 @@
 
 ## Perl 
 
+- [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
@@ -1196,6 +1201,7 @@
 
 ## PowerShell 
 
+- [windows-scripting](https://github.com/Justintime50/windows-scripting) - A collection of Windows scripts that can be used to automate deploying and administrating Windows devices.
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
@@ -1264,6 +1270,13 @@
 
 ## Python 
 
+- [fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
+- [harvey](https://github.com/Justintime50/harvey) - Your personal CI/CD and Docker orchestration platform.
+- [pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
+- [github-archive](https://github.com/Justintime50/github-archive) - A powerful script to concurrently clone your entire GitHub instance or save it as an archive.
+- [dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [python-pipefitter](https://github.com/sassoftware/python-pipefitter) - The SAS pipefitter package provides a Python API for developing pipelines for data transformation and model fitting as stages of a repeatable machine learning workflow in either SAS v9 or SAS Viya.
 - [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.  Currently in beta.
@@ -1855,6 +1868,7 @@
 
 ## Rust 
 
+- [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
 - [rust-demo](https://github.com/dev-cafe/rust-demo) - Hands-on demo of the Rust programming language.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
@@ -1892,6 +1906,7 @@
 
 ## Shell 
 
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
 - [dots](https://github.com/Batoshu/dots) - My configuration files for Arch Linux, i3, vim and more...
 - [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
