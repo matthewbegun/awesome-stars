@@ -658,6 +658,8 @@
 
 ## Jupyter Notebook 
 
+- [ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
+- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
 - [Statistics-with-Python](https://github.com/susanli2016/Statistics-with-Python) - 
 - [PyCon-Canada-2019-NLP-Tutorial](https://github.com/susanli2016/PyCon-Canada-2019-NLP-Tutorial) - 
 - [Data-Analysis-with-Python](https://github.com/susanli2016/Data-Analysis-with-Python) - Data analysis using numpy, pandas, matplotlib, seaborn, sqlite3, data wrangling
@@ -1270,6 +1272,8 @@
 
 ## Python 
 
+- [ml-project-template](https://github.com/ml-tooling/ml-project-template) - ML project template facilitating both research and production phases.
+- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
 - [harvey](https://github.com/Justintime50/harvey) - Your personal CI/CD and Docker orchestration platform.
 - [pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
@@ -1462,7 +1466,7 @@
 - [rez-recipes](https://github.com/nerdvegas/rez-recipes) - Package recipes for the Rez package management system
 - [bleeding-rez](https://github.com/mottosso/bleeding-rez) - Rez - Reproducible software environments for Windows, Linux and MacOS
 - [rez-for-projects](https://github.com/mottosso/rez-for-projects) - An example and exploration of how and whether to use Rez for project configuration management
-- [cx_Freeze](https://github.com/anthony-tuininga/cx_Freeze) - Scripts and modules for freezing Python scripts into executables. https://anthony-tuininga.github.io/cx_Freeze/
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables. https://marcelotduarte.github.io/cx_Freeze/
 - [rez](https://github.com/nerdvegas/rez) - An integrated package configuration, build and deployment system for software
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [hashstack](https://github.com/hashdist/hashstack) - Collection of software profiles for HashDist
@@ -1906,6 +1910,7 @@
 
 ## Shell 
 
+- [miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
 - [dots](https://github.com/Batoshu/dots) - My configuration files for Arch Linux, i3, vim and more...
@@ -2268,6 +2273,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
 - [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
 - [CitrixDeveloper-VSCode](https://github.com/citrix/CitrixDeveloper-VSCode) - Citrix Developer tools for Visual Studio Code
 - [vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
@@ -2410,6 +2416,7 @@
 
 ## Vue 
 
+- [scoop-docs](https://github.com/kidonng/scoop-docs) - 📚 Scoop documentation done right
 - [koopera](https://github.com/rsn491/koopera) - Collaboration app for sharing and reviewing jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
