@@ -218,6 +218,7 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
