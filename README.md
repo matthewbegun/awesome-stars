@@ -426,6 +426,7 @@
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
+- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
@@ -591,7 +592,6 @@
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
-- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
 - [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
@@ -1467,7 +1467,7 @@
 - [rez-recipes](https://github.com/nerdvegas/rez-recipes) - Package recipes for the Rez package management system
 - [bleeding-rez](https://github.com/mottosso/bleeding-rez) - Rez - Reproducible software environments for Windows, Linux and MacOS
 - [rez-for-projects](https://github.com/mottosso/rez-for-projects) - An example and exploration of how and whether to use Rez for project configuration management
-- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables. https://marcelotduarte.github.io/cx_Freeze/
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables.
 - [rez](https://github.com/nerdvegas/rez) - An integrated package configuration, build and deployment system for software
 - [pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [hashstack](https://github.com/hashdist/hashstack) - Collection of software profiles for HashDist
