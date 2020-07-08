@@ -46,6 +46,7 @@
   - [Rust](#rust)
   - [SAS](#sas)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
   - [Swift](#swift)
@@ -218,6 +219,7 @@
 
 ## C++ 
 
+- [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -380,7 +382,7 @@
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
 - [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [libpod](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman.
+- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
 - [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -410,7 +412,6 @@
 - [jupyterlab-drawio](https://github.com/QuantStack/jupyterlab-drawio) - A standalone embedding of the FOSS drawio / mxgraph package into jupyterlab
 - [Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
 - [python-getting-started](https://github.com/heroku/python-getting-started) - Getting Started with Python on Heroku.
-- [snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [ipypublish](https://github.com/chrisjsewell/ipypublish) - A workflow for creating and editing publication ready scientific reports and presentations, from one or more Jupyter Notebooks, without leaving the browser!
 - [oiLabs-tidy](https://github.com/OpenIntroStat/oiLabs-tidy) - 👩🏿‍💻 OpenIntro Labs in R using the tidyverse design philosophy, grammar, and data structures
 - [cscar.github.io](https://github.com/CSCAR/cscar.github.io) - A website of CSCAR resources for ourselves and those we collaborate and consult with.
@@ -1273,6 +1274,7 @@
 
 ## Python 
 
+- [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [ml-project-template](https://github.com/ml-tooling/ml-project-template) - ML project template facilitating both research and production phases.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
@@ -1284,7 +1286,7 @@
 - [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
 - [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [python-pipefitter](https://github.com/sassoftware/python-pipefitter) - The SAS pipefitter package provides a Python API for developing pipelines for data transformation and model fitting as stages of a repeatable machine learning workflow in either SAS v9 or SAS Viya.
-- [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.  Currently in beta.
+- [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
 - [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
@@ -1613,6 +1615,7 @@
 - [git-files](https://github.com/Richienb/git-files) - A .gitignore and .gitattributes file containing ignore and attribute code for all programming languages
 - [jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 - [pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
 - [scripts](https://github.com/yoavram/scripts) - Repo for small admin scripts
 - [sampled](https://github.com/ColCarroll/sampled) - Decorator for PyMC3
 - [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
@@ -1908,6 +1911,10 @@
 - [diffy](https://github.com/opendiffy/diffy) - 
 - [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+
+## Scheme 
+
+- [.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 
 ## Shell 
 
@@ -2379,7 +2386,6 @@
 - [neovim-config](https://github.com/sahensley/neovim-config) - My neovim config files
 - [vim-for-server](https://github.com/wklken/vim-for-server) - .vimrc, simple configures for server, without plugins.
 - [dotfiles](https://github.com/isaacmorneau/dotfiles) - Look at your vim, now look back at mine, now back to your vim, now back to mine. Sadly it isn't mine, but if you stopped using your own dotfiles and switch to my dotfiles, it could look like mine.
-- [.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
 - [k-vim](https://github.com/wklken/k-vim) - vim配置
 - [vim-pathogen](https://github.com/tpope/vim-pathogen) - pathogen.vim: manage your runtimepath
 - [dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
