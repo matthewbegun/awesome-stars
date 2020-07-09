@@ -425,7 +425,6 @@
 - [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
-- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
@@ -1274,6 +1273,10 @@
 
 ## Python 
 
+- [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+- [python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
+- [nlp-journey](https://github.com/msgi/nlp-journey) - Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc. All codes are implemented intensorflow 2.0.
+- [esgf-compute-api](https://github.com/ESGF/esgf-compute-api) - The API for end users for esgf compute stacks (cwt)
 - [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [ml-project-template](https://github.com/ml-tooling/ml-project-template) - ML project template facilitating both research and production phases.
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -2265,6 +2268,7 @@
 - [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
+- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [PHYS566_group4_projects](https://github.com/tahoeschrader/PHYS566_group4_projects) - This is a group project for PHYS566 at Duke University. The group members are Tahoe, Ksenia, and Xinmeng. We are studying random walks, the diffusion equation, and cluster growth using Python.
 - [unicode-math](https://github.com/wspr/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
