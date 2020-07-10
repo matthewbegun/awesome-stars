@@ -81,6 +81,7 @@
 
 ## C 
 
+- [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
@@ -219,6 +220,8 @@
 
 ## C++ 
 
+- [doublemetaphone](https://github.com/dedupeio/doublemetaphone) - :sound: Python wrapper for a C++ Double Metaphone
+- [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
 - [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -254,6 +257,7 @@
 
 ## Dockerfile 
 
+- [alpine-dask-docker](https://github.com/jcrist/alpine-dask-docker) - Tiny Dask Docker images based on Alpine Linux
 - [jupyter-notebooks](https://github.com/govcloud/jupyter-notebooks) - Notebooks extended from official source for use with JupyterHub.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
@@ -488,6 +492,7 @@
 
 ## JavaScript 
 
+- [cml](https://github.com/iterative/cml) - CML - Continuous Machine Learning or CI/CD for ML
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension
@@ -896,6 +901,7 @@
 
 ## Others 
 
+- [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software.
@@ -1204,7 +1210,6 @@
 
 ## PowerShell 
 
-- [windows-scripting](https://github.com/Justintime50/windows-scripting) - A collection of Windows scripts that can be used to automate deploying and administrating Windows devices.
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
@@ -1273,6 +1278,13 @@
 
 ## Python 
 
+- [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
+- [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
+- [anonlink](https://github.com/data61/anonlink) - Python implementation of anonymous linkage using cryptographic linkage keys
+- [soweego](https://github.com/Wikidata/soweego) - Link Wikidata items to large catalogs
+- [dedupe-examples](https://github.com/dedupeio/dedupe-examples) - :id: Examples for using the dedupe library
+- [datasette-doublemetaphone](https://github.com/dracos/datasette-doublemetaphone) - Datasette plugin for Double Metaphone
+- [Theatricalia](https://github.com/dracos/Theatricalia) - A database of past and future theatre productions
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
 - [nlp-journey](https://github.com/msgi/nlp-journey) - Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc. All codes are implemented intensorflow 2.0.
@@ -2301,7 +2313,7 @@
 - [vscode-expand-region](https://github.com/windwp/vscode-expand-region) - porting sublime-expand-region to visual code
 - [dance](https://github.com/71/dance) - Make your cursors dance with Kakoune-like keybindings for VS Code.
 - [vscode-shellcheck](https://github.com/timonwong/vscode-shellcheck) - shellcheck linter for vscode
-- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build custom ML tools
+- [streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [jupyterlab_xkcd](https://github.com/jupyterlab/jupyterlab_xkcd) - Random xkcd comic in a JupyterLab panel
 - [data-explorer](https://github.com/nteract/data-explorer) - The Data Explorer is nteract's automatic visualization tool.
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
