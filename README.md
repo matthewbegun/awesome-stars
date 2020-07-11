@@ -492,7 +492,7 @@
 
 ## JavaScript 
 
-- [cml](https://github.com/iterative/cml) - CML - Continuous Machine Learning or CI/CD for ML
+- [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning or CI/CD for ML
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension
@@ -1992,7 +1992,7 @@
 - [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
 - [dotfiles](https://github.com/mavam/dotfiles) - :desktop_computer: The very heart of an efficient work environment
-- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux as a WSL Instance. Supports multiple install.
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based Linux Distribution. Supports multiple install.
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
 - [zen_installer](https://github.com/spookykidmm/zen_installer) - Graphical installer for Arch Linux
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
