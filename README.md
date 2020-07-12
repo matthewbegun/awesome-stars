@@ -851,7 +851,7 @@
 
 ## Kotlin 
 
-- [covidwatch-android](https://github.com/covidwatchorg/covidwatch-android) - Covid Watch Android TCN app
+- [covidwatch-android-tcn](https://github.com/covidwatchorg/covidwatch-android-tcn) - Covid Watch Android TCN app
 
 ## Lua 
 
@@ -901,6 +901,7 @@
 
 ## Others 
 
+- [setup-miniforge](https://github.com/conda-forge/setup-miniforge) - Set up your GitHub Actions workflow with conda via miniforge
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
@@ -1022,7 +1023,7 @@
 - [gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [enhancement-proposals](https://github.com/jupyter/enhancement-proposals) - Enhancement proposals for the Jupyter Ecosystem
 - [generator-pycli](https://github.com/rgreinho/generator-pycli) - The ultimate generator for Python CLI projects
-- [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - MyBlog: The Pure Function Pipeline Data Flow ---- the Great Unification Programming Theory
+- [PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - My Blog: The Pure Function Pipeline Data Flow ---- the Grand Unified Programming Theory
 - [myst](https://github.com/executablebooks/myst) - Myst - Markedly Structured Text
 - [meta](https://github.com/executablebooks/meta) - Planning and Collaborative Space for Executable Book Project
 - [documentation](https://github.com/plotly/documentation) - Issue tracker for Plotly's open-source documentation.
