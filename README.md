@@ -325,7 +325,6 @@
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
-- [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
@@ -492,7 +491,7 @@
 
 ## JavaScript 
 
-- [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning or CI/CD for ML
+- [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
 - [dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter.
 - [gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension
@@ -513,6 +512,7 @@
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [herqooly](https://github.com/herqooly/herqooly) - Interactive Computing for Humans
 - [sphinx-copybutton](https://github.com/executablebooks/sphinx-copybutton) - A small sphinx extension to add a "copy" button to code blocks
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [sharedb](https://github.com/share/sharedb) - Realtime database backend based on Operational Transformation (OT)
 - [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) - Node package to parse and generate changelogs
 - [kacl](https://github.com/brightcove/kacl) - Keep a Changelog tooling for automating changelog releases
@@ -845,6 +845,7 @@
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [CodeSearchNet](https://github.com/github/CodeSearchNet) - Datasets, tools, and benchmarks for representation learning of code.
 - [binder-gensim-mallet](https://github.com/polsci/binder-gensim-mallet) - This repository is designed for students in DIGI405 at the University of Canterbury to do topic modeling through their browser using Binder. It is relevant for others who want to do topic modeling through a browser with their own corpus.
+- [xkcd-notebook](https://github.com/fwaibel/xkcd-notebook) - A Docker based setup to create XKCD style Charts with Jupyter notebooks
 - [XKCDstyle](https://github.com/muneebalam/XKCDstyle) - Code for comic graphs I post on Twitter.
 - [IA-maths-Jupyter](https://github.com/garth-wells/IA-maths-Jupyter) - Notebooks in support of of the Part IA (Michaelmas Term) mathematics course at the Department of  Engineering at University of Cambridge
 - [Jupyter-Matrix-Matrix](https://github.com/mikecroucher/Jupyter-Matrix-Matrix) - A benchmark to see how many flops your kit can do
@@ -1345,7 +1346,6 @@
 - [kernel_gateway](https://github.com/jupyter/kernel_gateway) - Jupyter Kernel Gateway
 - [jupyter-urlparams](https://github.com/manics/jupyter-urlparams) - 
 - [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
-- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [notebook_restified](https://github.com/kafonek/notebook_restified) - 
 - [kale](https://github.com/kubeflow-kale/kale) - Kubeflow’s superfood for Data Scientists
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
