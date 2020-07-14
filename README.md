@@ -231,7 +231,6 @@
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [feather](https://github.com/wesm/feather) - Feather: fast, interoperable binary data frame storage for Python, R, and more powered by Apache Arrow
-- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
 - [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
@@ -902,6 +901,8 @@
 
 ## Others 
 
+- [arch-prebuilt](https://github.com/yuk7/arch-prebuilt) - prebuilt pkg.tar.xz  files for Arch Linux
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [setup-miniforge](https://github.com/conda-forge/setup-miniforge) - Set up your GitHub Actions workflow with conda via miniforge
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -1038,7 +1039,7 @@
 - [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [deepdream](https://github.com/google/deepdream) - 
-- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition
+- [intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [vscode-java-decompiler](https://github.com/dgileadi/vscode-java-decompiler) - Decompiler extension for Java in Visual Studio Code
 - [tidy-stats-in-R](https://github.com/jthomasmock/tidy-stats-in-R) - Code and data for Tidy Stats in R blogpost
@@ -1280,6 +1281,9 @@
 
 ## Python 
 
+- [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+- [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
+- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
 - [anonlink](https://github.com/data61/anonlink) - Python implementation of anonymous linkage using cryptographic linkage keys
@@ -1644,6 +1648,7 @@
 - [binder_gallery](https://github.com/gesiscss/binder_gallery) - Binder Gallery for GESIS Notebooks
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [examples-in-python](https://github.com/thoughtfulml/examples-in-python) - 
+- [jpype](https://github.com/jpype-project/jpype) - JPype is cross language bridge to allow python programs full access to java class libraries.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [python-javabridge](https://github.com/CellProfiler/python-javabridge) - Python wrapper for the Java Native Interface
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statsmodels: statistical modeling and econometrics in Python
@@ -1766,7 +1771,7 @@
 - [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [Termux-Mpv](https://github.com/Neo-Oli/Termux-Mpv) - Wrapper for Mpv on Termux. Displays play controls in the notification
-- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - An app that downloads novels and generate e-books from online sources.
+- [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Download and generate e-books from online sources.
 - [btree_for_pst](https://github.com/krishnadurai/btree_for_pst) - Implementation of BTree used in Outlook's PST file format.
 - [word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [python_koans](https://github.com/kgashok/python_koans) - Python Koans - Learn Python through TDD
@@ -1934,6 +1939,8 @@
 
 ## Shell 
 
+- [ArchWSL2](https://github.com/yuk7/ArchWSL2) - [ALPHA] ArchWSL modified for WSL2. Added systemd support hacks.
+- [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [awesome-clear-linux](https://github.com/lebensterben/awesome-clear-linux) - Let's make Clear Linux distribution great
