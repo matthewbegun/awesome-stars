@@ -138,7 +138,7 @@
 - [Pansies](https://github.com/PoshCode/Pansies) - Powershell ANSI Escape Sequences, functions for colored output, etc.
 - [try](https://github.com/dotnet/try) - Try .NET provides developers and content authors with tools to create interactive experiences.
 - [Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-- [bootnext](https://github.com/geek1011/bootnext) - Windows tray icon to set the EFI BootNext variable.
+- [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
 - [PSWordCloud](https://github.com/vexx32/PSWordCloud) - Create pretty word clouds with PowerShell!
 - [mathnet-numerics](https://github.com/mathnet/mathnet-numerics) - Math.NET Numerics
@@ -378,7 +378,7 @@
 - [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
 - [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [easy-novnc](https://github.com/geek1011/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
+- [easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
 - [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
 - [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
@@ -681,7 +681,6 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 - [saspy-examples](https://github.com/sassoftware/saspy-examples) - Sample notebooks that show the capabilities of SASPy.  Use these for learning and for validating your environment.  And contribute your own!
-- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Treebeard is a notebook-based continuous integration framework. Use it to mechanise your data science.
 - [jupyter-book-autobuild](https://github.com/ouseful-testing/jupyter-book-autobuild) - Autobuild a Jupyter Book and deploy to Github Pages
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [pidgy](https://github.com/deathbeds/pidgy) - Interactive computing in Markdown
@@ -1339,6 +1338,7 @@
 - [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [GitMiller](https://github.com/UtrechtUniversity/GitMiller) - 
 - [paperboy](https://github.com/timkpaine/paperboy) - A web frontend for scheduling Jupyter notebook reports
+- [treebeard](https://github.com/treebeardtech/treebeard) - 🌲 Treebeard is a notebook-based continuous integration framework. Use it to mechanise your data science.
 - [run_jnb](https://github.com/hz-inova/run_jnb) - Parametrise (python3 only) and execute Jupyter notebooks
 - [importanize](https://github.com/miki725/importanize) - Utility for organizing Python imports using PEP8 or custom rules
 - [jupytui](https://github.com/mosiman/jupytui) - Terminal jupyter client
@@ -1939,7 +1939,7 @@
 
 ## Shell 
 
-- [ArchWSL2](https://github.com/yuk7/ArchWSL2) - [ALPHA] ArchWSL modified for WSL2. Added systemd support hacks.
+- [ArchWSL2](https://github.com/yuk7/ArchWSL2) - [ALPHA] ArchWSL based WSL2 distribution. Added systemd support hacks.
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -2000,7 +2000,7 @@
 - [lfs-me](https://github.com/FSMaxB/lfs-me) - Linux From Scratch made ( more ) easy. A simple, fakeroot based, package manager for LFS heavily inspired by Archlinux' package management.
 - [jhalfs](https://github.com/automate-lfs/jhalfs) - Tools for running the Linux From Scratch book instructions
 - [dotfiles](https://github.com/mavam/dotfiles) - :desktop_computer: The very heart of an efficient work environment
-- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based Linux Distribution. Supports multiple install.
+- [ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [pacapt](https://github.com/icy/pacapt) - An ArchLinux's pacman-like wrapper for many package managers
 - [zen_installer](https://github.com/spookykidmm/zen_installer) - Graphical installer for Arch Linux
 - [aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
