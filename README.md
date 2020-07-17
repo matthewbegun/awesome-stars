@@ -429,7 +429,7 @@
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
-- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download or copy to clipboard.
+- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG.
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
@@ -1260,6 +1260,7 @@
 - [Profile](https://github.com/MartinSGill/Profile) - My Powershell Profile
 - [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [psutils](https://github.com/zhoujin7/psutils) - Command line utilities written in Powershell
+- [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
@@ -2240,7 +2241,6 @@
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
 - [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
 - [lit](https://github.com/spro/lit) - Literate programming for any language. It's 🔥.
 - [mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
