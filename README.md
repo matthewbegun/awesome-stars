@@ -5,8 +5,6 @@
 
 ## Contents
 
-  - [Assembly](#assembly)
-  - [AutoHotkey](#autohotkey)
   - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
@@ -14,7 +12,6 @@
   - [CSS](#css)
   - [Chapel](#chapel)
   - [Dockerfile](#dockerfile)
-  - [Emacs Lisp](#emacs-lisp)
   - [F#](#f#)
   - [Fortran](#fortran)
   - [Go](#go)
@@ -58,67 +55,23 @@
   - [Vue](#vue)
   - [ZIL](#zil)
 
-## Assembly 
-
-- [hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!
-
-## AutoHotkey 
-
-- [capslock-plus-plus](https://github.com/matrix1001/capslock-plus-plus) - ⌨Amazing, extendable, readable autohotkey scripts framework utilized by Capslock.
-- [CapsLocKeys.ahk](https://github.com/Liu233w/CapsLocKeys.ahk) - An autohotkey's script which makes your capslock more powerful
-- [capsmode-ahk](https://github.com/enturn/capsmode-ahk) - Script for AutoHotkey to provide a command layer on the keyboard using caps lock.
-- [able_brown](https://github.com/mcginnisa/able_brown) - AHK script with mouse gestures as caps lock layer
-- [CapsLockKilla](https://github.com/Bforsyth1234/CapsLockKilla) - Kills Caps Lock Key with AHK and adds hot keys
-- [putty-quake-terminal](https://github.com/oueta/putty-quake-terminal) - Guake style terminal with Putty in Windows
-
 ## Batchfile 
 
-- [scoop-bucket](https://github.com/dodorz/scoop-bucket) - 
-- [wsl-proxy](https://github.com/watzon/wsl-proxy) - WSL proxy files for editor/linux interop
 - [wt-contextmenu](https://github.com/nt4f04uNd/wt-contextmenu) - A short guide with batch files to add windows terminal to windows context menu
-- [offlineinsiderenroll](https://github.com/whatever127/offlineinsiderenroll) - OfflineInsiderEnroll - A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account
-- [python-guide](https://github.com/realpython/python-guide) - Python best practices guidebook, written for humans.
 
 ## C 
 
 - [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
-- [smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
-- [astropy](https://github.com/astropy/astropy) - Repository for the Astropy core package
-- [lean4](https://github.com/leanprover/lean4) - Lean4 work in progress repo
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
-- [spectrwm](https://github.com/conformal/spectrwm) - A small dynamic tiling window manager for X11.
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator
-- [yaft](https://github.com/uobikiemukot/yaft) - yet another framebuffer terminal
-- [crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [envytools](https://github.com/envytools/envytools) - Tools for people envious of nvidia's blob driver.
-- [dotfiles](https://github.com/caksoylar/dotfiles) - personal configuration files
-- [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
-- [i3](https://github.com/i3/i3) - A tiling window manager
-- [zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
-- [busybox-w32](https://github.com/rmyorston/busybox-w32) - WIN32 native port of BusyBox.  For additional information and binaries see this website:
-- [multitail](https://github.com/flok99/multitail) - MultiTail allows you to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge. http://vanheusden.com/multitail/
-- [c4](https://github.com/rswier/c4) - C in four functions
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
-- [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
-- [sshfs-win](https://github.com/billziss-gh/sshfs-win) - SSHFS For Windows
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [evdi](https://github.com/DisplayLink/evdi) - Extensible Virtual Display Interface
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [pacutils](https://github.com/andrewgregory/pacutils) - Helper library for libalpm based programs.
-- [libdivecomputer-for-linus](https://github.com/dirkhh/libdivecomputer-for-linus) - 
-- [crun](https://github.com/giuseppe/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
-- [bchroot](https://github.com/ihucos/bchroot) - Rootless chroot-like tool
-- [AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.freenode.net
-- [wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.)
-- [pyalpm](https://github.com/archlinux/pyalpm) - Python 3 bindings for libalpm
-- [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [toybox](https://github.com/landley/toybox) - toybox
@@ -328,10 +281,6 @@
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
-
-## Emacs Lisp 
-
-- [dotfiles](https://github.com/chambln/dotfiles) - 
 
 ## F# # 
 
@@ -1284,6 +1233,8 @@
 
 ## Python 
 
+- [cruft](https://github.com/timothycrosley/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
+- [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [tutormagic](https://github.com/kikocorreoso/tutormagic) - IPython magics to embed pythontutor.com within an IFrame in the IPython notebook using the code from an IPython code cell.
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
@@ -2097,7 +2048,7 @@
 - [docker-syncthing](https://github.com/tianon/docker-syncthing) - Dockerization of supported versions of the popular syncthing utility (https://syncthing.net)
 - [debuerreotype](https://github.com/debuerreotype/debuerreotype) - reproducible, snapshot-based Debian rootfs builder
 - [official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
-- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.1K awesome resources for geeks and software crafters :beer:
+- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.2K awesome resources for geeks and software crafters :beer:
 - [docker-asciidoctor](https://github.com/asciidoctor/docker-asciidoctor) - :ship: A Docker image for using the Asciidoctor toolchain to process AsciiDoc content
 - [cheatsheets](https://github.com/cheat/cheatsheets) - Community-sourced cheatsheets.
 - [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
