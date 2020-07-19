@@ -10,7 +10,6 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [Chapel](#chapel)
   - [Dockerfile](#dockerfile)
   - [F#](#f#)
   - [Fortran](#fortran)
@@ -38,12 +37,9 @@
   - [PureScript](#purescript)
   - [Python](#python)
   - [R](#r)
-  - [Red](#red)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SAS](#sas)
-  - [Scala](#scala)
-  - [Scheme](#scheme)
   - [Shell](#shell)
   - [Starlark](#starlark)
   - [Swift](#swift)
@@ -61,8 +57,6 @@
 
 ## C 
 
-- [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
-- [pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [flang](https://github.com/flang-compiler/flang) - Flang is a Fortran language front-end designed for integration with LLVM.
 - [pyreadstat](https://github.com/Roche/pyreadstat) - Python package to read sas, spss and stata files into pandas data frames. It is a wrapper for the C library readstat.
 - [pyreadr](https://github.com/ofajardo/pyreadr) - Python package to read and write R RData and Rds files into/from pandas dataframes. No R or other external dependencies required.
@@ -79,7 +73,6 @@
 
 ## C# # 
 
-- [LoRDeckCodes](https://github.com/RiotGames/LoRDeckCodes) - 
 - [TwinFinder](https://github.com/JohnnyBravo75/TwinFinder) - fuzzy data matching
 - [FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
 - [shimgen](https://github.com/chocolatey/shimgen) - This repository exists to file issues against shimgen
@@ -173,12 +166,8 @@
 
 ## C++ 
 
-- [doublemetaphone](https://github.com/dedupeio/doublemetaphone) - :sound: Python wrapper for a C++ Double Metaphone
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
-- [swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [awkward-1.0](https://github.com/scikit-hep/awkward-1.0) - Manipulate JSON-like data with NumPy-like idioms.
 - [lfortran](https://github.com/lfortran/lfortran) - Official mirror of https://gitlab.com/lfortran/lfortran. Please submit pull requests (PR) there. Any PR sent here will be closed automatically.
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
@@ -194,7 +183,6 @@
 
 ## CSS 
 
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [source](https://github.com/TutsWiki/source) - A wiki of tutorials
 - [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
@@ -203,14 +191,8 @@
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 
-## Chapel 
-
-- [chapel](https://github.com/chapel-lang/chapel) - a Productive Parallel Programming Language
-
 ## Dockerfile 
 
-- [alpine-dask-docker](https://github.com/jcrist/alpine-dask-docker) - Tiny Dask Docker images based on Alpine Linux
-- [jupyter-notebooks](https://github.com/govcloud/jupyter-notebooks) - Notebooks extended from official source for use with JupyterHub.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
@@ -295,12 +277,7 @@
 
 ## Go 
 
-- [linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers
-- [yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [github2mr](https://github.com/skx/github2mr) - Export all your github repositories to a form suitable for 'myrepos' to work with.
-- [ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-- [docker-mirror](https://github.com/seatgeek/docker-mirror) - Mirror docker images across image repositories
 - [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
 - [go](https://github.com/golang/go) - The Go programming language
 - [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
@@ -614,6 +591,7 @@
 
 ## Jupyter Notebook 
 
+- [splink_demos](https://github.com/moj-analytical-services/splink_demos) - Interactive notebooks containing demonstration code of the splink library
 - [ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
 - [Statistics-with-Python](https://github.com/susanli2016/Statistics-with-Python) - 
@@ -851,14 +829,10 @@
 
 ## Others 
 
-- [arch-prebuilt](https://github.com/yuk7/arch-prebuilt) - prebuilt pkg.tar.xz  files for Arch Linux
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [setup-miniforge](https://github.com/conda-forge/setup-miniforge) - Set up your GitHub Actions workflow with conda via miniforge
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
-- [data-matching-software](https://github.com/J535D165/data-matching-software) - A list of free data matching and record linkage software.
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
 - [github_actions_python](https://github.com/mwouts/github_actions_python) - Testing your Python Project with GitHub Actions
 - [Data-Science-in-Two-Minutes](https://github.com/tdpetrou/Data-Science-in-Two-Minutes) - Quick descriptions and answers of common data science tasks and questions
@@ -1156,7 +1130,6 @@
 
 ## Perl 
 
-- [trizen](https://github.com/trizen/trizen) - Lightweight AUR Package Manager
 - [dotfiles](https://github.com/lammermann/dotfiles) - 
 - [rc](https://github.com/yongjhih/rc) - rcfiles/dotfiles
 - [dotfiles](https://github.com/df7cb/dotfiles) - Christoph Berg's dotfiles
@@ -1164,7 +1137,6 @@
 
 ## PowerShell 
 
-- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [knox-scoop](https://github.com/KNOXDEV/knox-scoop) - mirror of https://git.irs.sh/KNOXDEV/knox-scoop
 - [knox-console](https://github.com/KNOXDEV/knox-console) - mirror of https://git.irs.sh/KNOXDEV/knox-console
 - [Sovereign](https://github.com/nspencer16/Sovereign) - 
@@ -1237,39 +1209,21 @@
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [tutormagic](https://github.com/kikocorreoso/tutormagic) - IPython magics to embed pythontutor.com within an IFrame in the IPython notebook using the code from an IPython code cell.
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
-- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [ouroboros](https://github.com/pyouroboros/ouroboros) - Automatically update running docker containers with newest available image
 - [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
 - [anonlink](https://github.com/data61/anonlink) - Python implementation of anonymous linkage using cryptographic linkage keys
 - [soweego](https://github.com/Wikidata/soweego) - Link Wikidata items to large catalogs
-- [dedupe-examples](https://github.com/dedupeio/dedupe-examples) - :id: Examples for using the dedupe library
-- [datasette-doublemetaphone](https://github.com/dracos/datasette-doublemetaphone) - Datasette plugin for Double Metaphone
-- [Theatricalia](https://github.com/dracos/Theatricalia) - A database of past and future theatre productions
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
 - [nlp-journey](https://github.com/msgi/nlp-journey) - Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)，etc. All codes are implemented intensorflow 2.0.
 - [esgf-compute-api](https://github.com/ESGF/esgf-compute-api) - The API for end users for esgf compute stacks (cwt)
 - [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [ml-project-template](https://github.com/ml-tooling/ml-project-template) - ML project template facilitating both research and production phases.
-- [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [fonttools](https://github.com/fonttools/fonttools) - A library to manipulate font files from Python.
-- [harvey](https://github.com/Justintime50/harvey) - Your personal CI/CD and Docker orchestration platform.
-- [pikaur](https://github.com/actionless/pikaur) - AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 - [github-archive](https://github.com/Justintime50/github-archive) - A powerful script to concurrently clone your entire GitHub instance or save it as an archive.
-- [dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
-- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
-- [GitPython](https://github.com/gitpython-developers/GitPython) - GitPython is a python library used to interact with Git repositories.
-- [conda](https://github.com/conda/conda) - OS-agnostic, system-level binary package manager and ecosystem
 - [python-pipefitter](https://github.com/sassoftware/python-pipefitter) - The SAS pipefitter package provides a Python API for developing pipelines for data transformation and model fitting as stages of a repeatable machine learning workflow in either SAS v9 or SAS Viya.
 - [splink](https://github.com/moj-analytical-services/splink) - Implementation in Apache Spark of the EM algorithm to estimate parameters of Fellegi-Sunter's canonical model of record linkage.
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
-- [python-ftfy](https://github.com/LuminosoInsight/python-ftfy) - Fixes mojibake and other glitches in Unicode text, after the fact.
-- [FuzzyClassificator](https://github.com/devopshq/FuzzyClassificator) - This program uses neural networks to solve classification problems, and uses fuzzy sets and fuzzy logic to interpreting results. See article about math in FuzzyClassificator (russian): http://math-n-algo.blogspot.ru/2014/08/FuzzyClassificator.html
-- [fuzzyset](https://github.com/axiak/fuzzyset) - A simple fuzzy matching set for python strings
-- [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy) - Fuzzy Logic SciKit (Toolkit for SciPy)
 - [fuzzymatcher](https://github.com/RobinL/fuzzymatcher) - Record linking package that fuzzy matches two Python pandas dataframes using sqlite3 fts4
-- [atyimo](https://github.com/pierrepita/atyimo) - 
 - [dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
@@ -1828,12 +1782,6 @@
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
-## Red 
-
-- [code](https://github.com/red/code) - This repository contains curated code written in Red and its dialects.
-- [community](https://github.com/red/community) - The central place for Red users scripts
-- [red](https://github.com/red/red) - Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single 1MB file!
-
 ## Ruby 
 
 - [selecta](https://github.com/garybernhardt/selecta) - A fuzzy text selector for files and anything else you need to select. Use it from vim, from the command line, or anywhere you can run a shell command.
@@ -1852,7 +1800,6 @@
 
 ## Rust 
 
-- [rua](https://github.com/vn971/rua) - Build tool for Arch Linux providing control, review and jailed build options
 - [rust-demo](https://github.com/dev-cafe/rust-demo) - Hands-on demo of the Rust programming language.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wslgit](https://github.com/andy-5/wslgit) - Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)
@@ -1881,20 +1828,8 @@
 - [enlighten-apply](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
 
-## Scala 
-
-- [stringmetric](https://github.com/rockymadden/stringmetric) - :dart: String metrics and phonetic algorithms for Scala (e.g. Dice/Sorensen, Hamming, Jaccard, Jaro, Jaro-Winkler, Levenshtein, Metaphone, N-Gram, NYSIIS, Overlap, Ratcliff/Obershelp, Refined NYSIIS, Refined Soundex, Soundex, Weighted Levenshtein).
-- [diffy](https://github.com/opendiffy/diffy) - 
-- [spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-
-## Scheme 
-
-- [.dotfiles](https://github.com/Phantas0s/.dotfiles) - :fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...
-
 ## Shell 
 
-- [ArchWSL2](https://github.com/yuk7/ArchWSL2) - [ALPHA] ArchWSL based WSL2 distribution. Added systemd support hacks.
 - [super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -2259,9 +2194,7 @@
 
 ## TypeScript 
 
-- [jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
 - [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
-- [CitrixDeveloper-VSCode](https://github.com/citrix/CitrixDeveloper-VSCode) - Citrix Developer tools for Visual Studio Code
 - [vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
 - [setup-miniconda](https://github.com/goanpeca/setup-miniconda) - Set up your GitHub Actions workflow with conda via miniconda
 - [jupyterlab-gitplus](https://github.com/ReviewNB/jupyterlab-gitplus) - JupyterLab extension to create GitHub commits & pull requests
@@ -2401,7 +2334,6 @@
 
 ## Vue 
 
-- [scoop-docs](https://github.com/kidonng/scoop-docs) - 📚 Scoop documentation done right
 - [koopera](https://github.com/rsn491/koopera) - Collaboration app for sharing and reviewing jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 - [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
