@@ -14,7 +14,6 @@
   - [F#](#f#)
   - [Fortran](#fortran)
   - [Go](#go)
-  - [Groovy](#groovy)
   - [HTML](#html)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
@@ -183,11 +182,6 @@
 
 ## CSS 
 
-- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [source](https://github.com/TutsWiki/source) - A wiki of tutorials
-- [containerspatterns](https://github.com/l0rd/containerspatterns) - Interesting and useful containers usages
-- [tutorial](https://github.com/DjangoGirls/tutorial) - This is a tutorial we are using for Django Girls workshops
-- [AwesomeSearch](https://github.com/lockys/AwesomeSearch) - :mag: Search all awesome lists in one second.
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 
@@ -197,20 +191,9 @@
 - [docker-sleep](https://github.com/astronouth7303/docker-sleep) - does nothing, forever
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [easy_CD_tutorial](https://github.com/juligreen/easy_CD_tutorial) - Example repo for my article "How to set up continuous deployment in your home project the easy way"
-- [julia](https://github.com/docker-library/julia) - Docker Official Image packaging for julia
-- [buildpack-deps](https://github.com/docker-library/buildpack-deps) - 
-- [pypy](https://github.com/docker-library/pypy) - Docker Official Image packaging for pypy
-- [docker-githubaction](https://github.com/nabilnalakath/docker-githubaction) - A sample project that demonstrates the use of github actions with docker.
-- [docker-examples](https://github.com/verdaccio/docker-examples) - 🐳 ⛴A collection of Docker and Kubernetes examples for verdaccio
 - [dockerfiles](https://github.com/datascienceworkshops/dockerfiles) - Various Dockerfiles that we use in our workshops
-- [docker-images](https://github.com/nbgallery/docker-images) - Docker images with Jupyter and nbgallery integration
-- [hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
-- [haskell-hie-devcontainer](https://github.com/hmemcpy/haskell-hie-devcontainer) - A DevContainer for VSCode, for installing GHC 8.6.5, HIE (Haskell IDE Engine) and the required plugins
 - [actions](https://github.com/philoserf/actions) - Github Actions a.k.a. container images
 - [python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
-- [docker-skopeo](https://github.com/ananace/docker-skopeo) - Docker container with skopeo in it
-- [docker-alpine-bash](https://github.com/Docker-Hub-frolvlad/docker-alpine-bash) - Docker image with Bash and complete utils (busybox replacements) (15MB)
-- [docker-alpine-miniconda3](https://github.com/Docker-Hub-frolvlad/docker-alpine-miniconda3) - The smallest Docker image with Miniconda3 (Python 3.7) (~143MB)
 - [docker-alpine-python3](https://github.com/Docker-Hub-frolvlad/docker-alpine-python3) - The smallest Docker image with Python 3.7 (~57MB)
 - [docker-alpine-glibc](https://github.com/Docker-Hub-frolvlad/docker-alpine-glibc) - Carefully crafted Alpine Docker image with glibc (~12MB)
 - [container-images](https://github.com/mathworks-ref-arch/container-images) - MathWorks container images on Docker Hub
@@ -278,57 +261,23 @@
 ## Go 
 
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [3mux](https://github.com/aaronjanse/3mux) - Terminal multiplexer inspired by i3
-- [go](https://github.com/golang/go) - The Go programming language
-- [habitus](https://github.com/cloud66-oss/habitus) - A build flow tool for Docker.
 - [flint](https://github.com/pengwynn/flint) - Check your project for common sources of contributor friction.
-- [buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images
-- [ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
-- [rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for rootless containers
-- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
-- [docui](https://github.com/skanehira/docui) - TUI Client for Docker
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
 - [reg](https://github.com/genuinetools/reg) - Docker registry v2 command line client and repo listing generator with security checks.
 - [skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [docker-ls](https://github.com/mayflower/docker-ls) - Tools for browsing and manipulating docker registries.
 - [pony](https://github.com/jessfraz/pony) - Local file-based password, API key, secret, recovery code store backed by GPG.
-- [gmailfilters](https://github.com/jessfraz/gmailfilters) - A tool to sync Gmail filters from a config file to your account.
-- [img](https://github.com/genuinetools/img) - Standalone, daemon-less, unprivileged Dockerfile and OCI compatible container image builder.
-- [binctr](https://github.com/genuinetools/binctr) - Fully static, unprivileged, self-contained, containers as executable binaries.
-- [gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
-- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [easy-novnc](https://github.com/pgaskin/easy-novnc) - Single-binary noVNC instance, web UI, and multi-host proxy.
-- [runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
-- [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
-- [juju](https://github.com/juju/juju) - Simple, secure devops tooling built to manage today's complex applications wherever you run your software.
-- [programming-idioms](https://github.com/Deleplace/programming-idioms) - A collection of good snippets, in a lot of languages
-- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [podman](https://github.com/containers/podman) - libpod is a library used to create container pods. Home of Podman.
-- [markdownfmt](https://github.com/shurcooL/markdownfmt) - Like gofmt, but for Markdown.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 
-## Groovy 
-
-- [jenkins-dsl](https://github.com/jessfraz/jenkins-dsl) - Jenkins DSLs for my Jenkins instance, keeps forks up to date, mirrors repositories to private git, builds all Dockerfiles and more.
-
 ## HTML 
 
-- [python-portfolio](https://github.com/DahlitzFlorian/python-portfolio) - My personal portfolio written in Python using Flask
-- [github_pr_tree](https://github.com/berzniz/github_pr_tree) - Add a file tree to GitHub's Pull Request
-- [betterspecs](https://github.com/betterspecs/betterspecs) - RSpec Best Practices
-- [liberal-arts-epidemiology](https://github.com/dtkaplan/liberal-arts-epidemiology) - Materials for teaching epidemiology as a liberal arts topic.
-- [krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
-- [py4inf](https://github.com/csev/py4inf) - Python for Informatics: Exploring Information
-- [reportsrender](https://github.com/grst/reportsrender) - Render HTML reports from parametrized jupyter notebooks or Rmarkdown documents.
 - [robust-matlab-2018](https://github.com/mathworks/robust-matlab-2018) - As the size and complexity of your MATLAB® application increases, you want to make sure to structure software projects well, ensuring users can run code without encountering unexpected behaviour or errors, for example. In this talk, you will learn about relevant advanced MATLAB software development capabilities, including error handling, object-oriented programming (OOP), unit testing, version control, and change tracking.
 - [wrattler](https://github.com/wrattler/wrattler) - 
 - [tpqad](https://github.com/yhilpisch/tpqad) - Workflow combining Asciidoctor with Codes in Jupyter Notebooks.
@@ -408,7 +357,6 @@
 - [aceview](https://github.com/Kaljurand/aceview) - ACE View is a natural language based ontology and rule editor. ACE View uses Attempto Controlled English (ACE) in the front-end, and Web Ontology Language (OWL) and Semantic Web Rule Language (SWRL) in the back-end. ACE View has been implemented as a plug-in for Protégé 4
 - [mug](https://github.com/google/mug) - 
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
-- [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [jetbrains-plugin-xsimsel](https://github.com/dsggregory/jetbrains-plugin-xsimsel) - Simulate X middle-button press to paste selection in a JetBrains IDE.
@@ -417,6 +365,7 @@
 
 ## JavaScript 
 
+- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.
@@ -829,6 +778,7 @@
 
 ## Others 
 
+- [from-python-to-numpy](https://github.com/lhoupert/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
@@ -1205,6 +1155,8 @@
 
 ## Python 
 
+- [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
+- [formulaic](https://github.com/matthewwardrop/formulaic) - A high-performance implementation of Wilkinson formulas for Python.
 - [cruft](https://github.com/timothycrosley/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
 - [docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [tutormagic](https://github.com/kikocorreoso/tutormagic) - IPython magics to embed pythontutor.com within an IFrame in the IPython notebook using the code from an IPython code cell.
@@ -1228,8 +1180,6 @@
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 - [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [rltk](https://github.com/usc-isi-i2/rltk) - Record Linkage ToolKit (Find and link entities)
-- [L2C](https://github.com/GT-RIPL/L2C) - Learning to Cluster. A deep clustering strategy.
-- [ipycytoscape](https://github.com/QuantStack/ipycytoscape) - A Cytoscape Jupyter widget
 - [vscode-binder](https://github.com/betatim/vscode-binder) - VS Code on Binder
 - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -1663,7 +1613,6 @@
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
 - [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
 - [ELI5](https://github.com/facebookresearch/ELI5) - Scripts and links to recreate the ELI5 dataset.
 - [rpy2](https://github.com/rpy2/rpy2) - Interface to use R from Python
@@ -2148,7 +2097,6 @@
 
 ## Starlark 
 
-- [base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers.
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Swift 
@@ -2336,8 +2284,6 @@
 
 - [koopera](https://github.com/rsn491/koopera) - Collaboration app for sharing and reviewing jupyter notebooks
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
-- [AzureTipsAndTricks](https://github.com/microsoft/AzureTipsAndTricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
-- [plan-s-journal-checker](https://github.com/ourresearch/plan-s-journal-checker) - Website to helps authors find journals that meet their funder OA requirements
 
 ## ZIL 
 
