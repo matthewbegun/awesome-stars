@@ -56,6 +56,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
@@ -141,7 +142,6 @@
 ## C++ 
 
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
@@ -168,6 +168,7 @@
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
+- [pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -242,6 +243,8 @@
 
 ## JavaScript 
 
+- [slk-581](https://github.com/garthk/slk-581) - Makes SLK-581 indicators, recently popular because of the Australian Census
+- [slk581](https://github.com/cmrn/slk581) - SLK581 Decoder
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
@@ -632,6 +635,7 @@
 
 ## PHP 
 
+- [SLK581](https://github.com/Tohmua/SLK581) - Generate SLK581 Codes
 - [dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
@@ -671,6 +675,9 @@
 
 ## Python 
 
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results) and automation actions with unified APIs, CLI, and JSON I/O. Our goal is to bridge the growing gap between research, practice and education with portable workflows, reusable artifacts and reproducibility:
+- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
+- [python-nameless](https://github.com/ionelmc/python-nameless) - Sample project. Use https://github.com/ionelmc/cookiecutter-pylibrary to make your own project. The purpose of this repo is to test the CI configuration.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
@@ -694,7 +701,7 @@
 - [vscode-binder](https://github.com/betatim/vscode-binder) - VS Code on Binder
 - [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.
 - [python-testing](https://github.com/carpentries-incubator/python-testing) - Python Testing and Continuous Integration
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
@@ -709,7 +716,7 @@
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
-- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple and flexible tool particularly suited for organising and publishing information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but flexible tool particularly suited for organising and publishing information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
 - [pyflyby](https://github.com/deshaw/pyflyby) - 
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
@@ -978,7 +985,6 @@
 - [kiss-literate-programming](https://github.com/fibo/kiss-literate-programming) - is a minimal literate programming boilerplate
 - [manubot-awesome-list](https://github.com/agitter/manubot-awesome-list) - Proof of concept for creating awesome lists with Manubot
 - [docker-pandoc](https://github.com/silvio/docker-pandoc) - Dockerimage for the great pandoc with inotify based server
-- [pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
 - [pandoc-thesis](https://github.com/mabl/pandoc-thesis) - Simple example on how to write a thesis in markdown with Pandoc
 - [zsh-pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Antigen plugin for pandoc
 - [fish-completion-pandoc](https://github.com/dsanson/fish-completion-pandoc) - fish completion script for pandoc
