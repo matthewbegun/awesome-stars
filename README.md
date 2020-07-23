@@ -56,6 +56,7 @@
 
 ## C# # 
 
+- [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
@@ -158,7 +159,7 @@
 
 ## Dockerfile 
 
-- [data_science_image](https://github.com/gesiscss/data_science_image) - Default single user image for GESIS Notebooks
+- [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
@@ -243,6 +244,8 @@
 
 ## JavaScript 
 
+- [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
+- [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [slk-581](https://github.com/garthk/slk-581) - Makes SLK-581 indicators, recently popular because of the Australian Census
 - [slk581](https://github.com/cmrn/slk581) - SLK581 Decoder
 - [data](https://github.com/GoogleTrends/data) - An index of all open-source data
@@ -334,6 +337,16 @@
 
 ## Jupyter Notebook 
 
+- [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
+- [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas
+- [exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
+- [Py4Eng](https://github.com/yoavram/Py4Eng) - Python for Engineers
+- [etudes](https://github.com/dirmeier/etudes) - :notes: A collection of études on probabilistic models.
+- [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+- [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
+- [hyperspy-demos](https://github.com/hyperspy/hyperspy-demos) - HyperSpy IPython Notebooks demos
+- [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
+- [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
 - [effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [odsc-actionable-ethics](https://github.com/drivendataorg/odsc-actionable-ethics) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC
@@ -437,6 +450,7 @@
 
 ## Makefile 
 
+- [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [csel-per-class-jupyter-containers](https://github.com/Colorado-CompSci-Ugrad/csel-per-class-jupyter-containers) - Per-class containers for classes in Dept. of Computer Science, Univ. of Colorado
 - [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -447,6 +461,7 @@
 
 ## Others 
 
+- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
@@ -502,7 +517,7 @@
 - [UIL.Tml](https://github.com/Quar/UIL.Tml) - An AnyLogic library to support decision making on power utility expansion
 - [anyLogicSimulation](https://github.com/hestonst/anyLogicSimulation) - A collection of industrial simulation scenarios written in the AnyLogic modeling environment
 - [DaCSim](https://github.com/bjornpostema/DaCSim) - DaCSim: A Data Centre Simulation Framework
-- [MathJax](https://github.com/mathjax/MathJax) - Beautiful math in all browsers
+- [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
 - [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
@@ -675,6 +690,13 @@
 
 ## Python 
 
+- [import_from_github_com](https://github.com/nvbn/import_from_github_com) - Python module finder/loader from github, like in golang
+- [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
+- [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
+- [aethos](https://github.com/Ashton-Sidhu/aethos) - Automated Data Science and Machine Learning library to optimize workflow.
+- [python-project-template](https://github.com/Kwpolska/python-project-template) - A template for Python Projects.  INSERT TAGLINE HERE.™
+- [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
 - [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results) and automation actions with unified APIs, CLI, and JSON I/O. Our goal is to bridge the growing gap between research, practice and education with portable workflows, reusable artifacts and reproducibility:
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [python-nameless](https://github.com/ionelmc/python-nameless) - Sample project. Use https://github.com/ionelmc/cookiecutter-pylibrary to make your own project. The purpose of this repo is to test the CI configuration.
@@ -738,7 +760,6 @@
 - [petronia](https://github.com/groboclown/petronia) - A Python Window Tiler for Windows
 - [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
-- [container-images](https://github.com/IntelPython/container-images) - Dockerfiles for building docker images
 - [publication-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter) - Publication and sharing with Jupyter notebooks for reproducible research
 - [conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
 - [cffi_magic](https://github.com/Carreau/cffi_magic) - %%cffi cell magic for ipython.
@@ -923,6 +944,7 @@
 
 ## Rust 
 
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 
@@ -932,6 +954,12 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
+- [dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
+- [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [dotfiles](https://github.com/matchai/dotfiles) - 💻 Public repo for my personal dotfiles
+- [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
+- [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
@@ -1008,6 +1036,7 @@
 
 ## TeX 
 
+- [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 - [r_viz](https://github.com/samclifford/r_viz) - 
@@ -1034,6 +1063,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
@@ -1079,6 +1109,9 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
+- [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
+- [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
 - [dotfiles](https://github.com/isaacmorneau/dotfiles) - Look at your vim, now look back at mine, now back to your vim, now back to mine. Sadly it isn't mine, but if you stopped using your own dotfiles and switch to my dotfiles, it could look like mine.
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
