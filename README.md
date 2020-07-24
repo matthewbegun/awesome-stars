@@ -57,7 +57,6 @@
 ## C# # 
 
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
@@ -143,6 +142,7 @@
 ## C++ 
 
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
@@ -177,7 +177,7 @@
 ## Go 
 
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
-- [wtf](https://github.com/wtfutil/wtf) - 💪 The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
