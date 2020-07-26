@@ -46,6 +46,7 @@
 
 ## C 
 
+- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -141,6 +142,7 @@
 
 ## C++ 
 
+- [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
@@ -461,7 +463,7 @@
 
 ## Others 
 
-- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curated list of packages, prompts, and resources for the fish shell.
+- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
@@ -661,6 +663,7 @@
 
 ## PowerShell 
 
+- [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
@@ -690,6 +693,8 @@
 
 ## Python 
 
+- [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
+- [nominally](https://github.com/vaneseltine/nominally) - A maximum-strength name parser for record linkage.
 - [import_from_github_com](https://github.com/nvbn/import_from_github_com) - Python module finder/loader from github, like in golang
 - [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
@@ -944,6 +949,10 @@
 
 ## Rust 
 
+- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
@@ -996,7 +1005,7 @@
 - [gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - my super duper awesome programming blog
+- [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
 - [ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
 - [scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [actions](https://github.com/unacast/actions) - Github Actions
@@ -1063,6 +1072,7 @@
 
 ## TypeScript 
 
+- [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
