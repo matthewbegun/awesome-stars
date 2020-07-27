@@ -963,6 +963,7 @@
 
 ## Shell 
 
+- [repo2docker-action](https://github.com/jupyterhub/repo2docker-action) - GitHub Action for repo2docker
 - [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
