@@ -693,6 +693,7 @@
 
 ## Python 
 
+- [tfidf-python](https://github.com/gearmonkey/tfidf-python) - a simple TF:IDF python class, forked from http://code.google.com/p/tfidf/
 - [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
 - [nominally](https://github.com/vaneseltine/nominally) - A maximum-strength name parser for record linkage.
 - [import_from_github_com](https://github.com/nvbn/import_from_github_com) - Python module finder/loader from github, like in golang
