@@ -142,6 +142,7 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -171,6 +172,7 @@
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
 - [pandocker](https://github.com/pandocker/pandocker) - Yet another ubuntu 16.04 based Docker image for pandoc
+- [docker-pandoc](https://github.com/silvio/docker-pandoc) - Dockerimage for the great pandoc with inotify based server
 - [pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
 - [docker-matlabmcr2018b](https://github.com/murphygroup/docker-matlabmcr2018b) - :whale: Matlab MCR 2018b
 - [docker](https://github.com/VirtualGL/docker) - Docker recipe for official VirtualGL build environment image
@@ -463,6 +465,7 @@
 
 ## Others 
 
+- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
@@ -950,6 +953,7 @@
 
 ## Rust 
 
+- [pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
@@ -1023,7 +1027,6 @@
 - [lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
 - [kiss-literate-programming](https://github.com/fibo/kiss-literate-programming) - is a minimal literate programming boilerplate
 - [manubot-awesome-list](https://github.com/agitter/manubot-awesome-list) - Proof of concept for creating awesome lists with Manubot
-- [docker-pandoc](https://github.com/silvio/docker-pandoc) - Dockerimage for the great pandoc with inotify based server
 - [pandoc-thesis](https://github.com/mabl/pandoc-thesis) - Simple example on how to write a thesis in markdown with Pandoc
 - [zsh-pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Antigen plugin for pandoc
 - [fish-completion-pandoc](https://github.com/dsanson/fish-completion-pandoc) - fish completion script for pandoc
@@ -1074,6 +1077,7 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
