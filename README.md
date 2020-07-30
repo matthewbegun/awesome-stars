@@ -17,6 +17,7 @@
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [LLVM](#llvm)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
@@ -146,7 +147,6 @@
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
 - [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
@@ -189,6 +189,7 @@
 
 ## HTML 
 
+- [ds4ad](https://github.com/uwescience/ds4ad) - Data Science for Administrative Data
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
 - [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
@@ -238,6 +239,7 @@
 
 ## Java 
 
+- [demos](https://github.com/aiordache/demos) - Demo resources for DockerCon
 - [mug](https://github.com/google/mug) - 
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
@@ -341,6 +343,8 @@
 
 ## Jupyter Notebook 
 
+- [saxpy](https://github.com/seninp/saxpy) - Symbolic Aggregate approXimation, HOT-SAX, and SAX-VSM implementation in Python
+- [pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
 - [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
 - [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) - Data Science Best Practices with pandas
 - [exploratory_computing_with_python](https://github.com/mbakker7/exploratory_computing_with_python) - 
@@ -442,6 +446,10 @@
 - [XKCDstyle](https://github.com/muneebalam/XKCDstyle) - Code for comic graphs I post on Twitter.
 - [IA-maths-Jupyter](https://github.com/garth-wells/IA-maths-Jupyter) - Notebooks in support of of the Part IA (Michaelmas Term) mathematics course at the Department of  Engineering at University of Cambridge
 - [Jupyter-Matrix-Matrix](https://github.com/mikecroucher/Jupyter-Matrix-Matrix) - A benchmark to see how many flops your kit can do
+
+## LLVM 
+
+- [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 
 ## Lua 
 
@@ -696,6 +704,11 @@
 
 ## Python 
 
+- [ipython-autotime](https://github.com/cpcloud/ipython-autotime) - Time everything in IPython
+- [pytest-ipynb](https://github.com/zonca/pytest-ipynb) - Plugin for pytest to run IPython notebook cells as unit tests
+- [ipython-autoimport](https://github.com/anntzer/ipython-autoimport) - Automagically import missing modules in IPython.
+- [magic_markdown](https://github.com/transfluxus/magic_markdown) - IPython cell magic to create markdown cells that contain content from python expressions
+- [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [tfidf-python](https://github.com/gearmonkey/tfidf-python) - a simple TF:IDF python class, forked from http://code.google.com/p/tfidf/
 - [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
 - [nominally](https://github.com/vaneseltine/nominally) - A maximum-strength name parser for record linkage.
