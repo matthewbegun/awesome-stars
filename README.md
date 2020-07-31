@@ -143,6 +143,7 @@
 
 ## C++ 
 
+- [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
@@ -157,11 +158,13 @@
 
 ## CSS 
 
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [Mind-Expanding-Books](https://github.com/hackerkid/Mind-Expanding-Books) - :books: Books that will blow your mind
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 
 ## Dockerfile 
 
+- [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
@@ -278,7 +281,6 @@
 - [vscode-markdownlint](https://github.com/DavidAnson/vscode-markdownlint) - Markdown linting and style checking for Visual Studio Code
 - [serverless-graphql-microservices](https://github.com/softchris/serverless-graphql-microservices) - a workshop that teaches serverless, graphql and microservices
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
-- [monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
@@ -704,6 +706,7 @@
 
 ## Python 
 
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [ipython-autotime](https://github.com/cpcloud/ipython-autotime) - Time everything in IPython
 - [pytest-ipynb](https://github.com/zonca/pytest-ipynb) - Plugin for pytest to run IPython notebook cells as unit tests
 - [ipython-autoimport](https://github.com/anntzer/ipython-autoimport) - Automagically import missing modules in IPython.
@@ -719,7 +722,7 @@
 - [aethos](https://github.com/Ashton-Sidhu/aethos) - Automated Data Science and Machine Learning library to optimize workflow.
 - [python-project-template](https://github.com/Kwpolska/python-project-template) - A template for Python Projects.  INSERT TAGLINE HERE.™
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) helps to decompose complex research projects into reusable components (wrappers for code, data, models and results) and automation actions with unified APIs, CLI, and JSON I/O. Our goal is to bridge the growing gap between research, practice and education with portable workflows, reusable artifacts and reproducibility:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. The CK goal is to support collaborative and reproducible R&D projects:
 - [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [python-nameless](https://github.com/ionelmc/python-nameless) - Sample project. Use https://github.com/ionelmc/cookiecutter-pylibrary to make your own project. The purpose of this repo is to test the CI configuration.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
@@ -760,7 +763,7 @@
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
-- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but flexible tool particularly suited for organising and publishing information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
 - [pyflyby](https://github.com/deshaw/pyflyby) - 
 - [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
