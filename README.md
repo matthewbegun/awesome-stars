@@ -207,7 +207,6 @@
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
-- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG.
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
@@ -282,6 +281,7 @@
 - [serverless-graphql-microservices](https://github.com/softchris/serverless-graphql-microservices) - a workshop that teaches serverless, graphql and microservices
 - [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
+- [svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Browser extension to find SVGs on a webpage and download, copy to clipboard, or export as PNG.
 - [vscode-spellright](https://github.com/bartosz-antosik/vscode-spellright) - Multilingual, Offline and Lightweight Spellchecker for Visual Studio Code
 - [prettier-java](https://github.com/jhipster/prettier-java) - Prettier Java Plugin
 - [mathblogging-base](https://github.com/mathblogging/mathblogging-base) - The new base
@@ -345,6 +345,10 @@
 
 ## Jupyter Notebook 
 
+- [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+- [pytest-fixtures-introduction](https://github.com/obestwalter/pytest-fixtures-introduction) - 
+- [quantstack-talks](https://github.com/QuantStack/quantstack-talks) - Slides for quantstack talks
 - [saxpy](https://github.com/seninp/saxpy) - Symbolic Aggregate approXimation, HOT-SAX, and SAX-VSM implementation in Python
 - [pbpython](https://github.com/chris1610/pbpython) - Code, Notebooks and Examples from Practical Business Python
 - [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) - Materials for my scikit-learn tutorial
@@ -379,7 +383,6 @@
 - [ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2) - Text and code for the forthcoming second edition of Think Bayes, by Allen Downey.
 - [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) - A collection of Bayesian data analysis recipes using PyMC3
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
-- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
 - [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
@@ -475,6 +478,7 @@
 
 ## Others 
 
+- [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
@@ -706,6 +710,12 @@
 
 ## Python 
 
+- [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
+- [scriv](https://github.com/nedbat/scriv) - Tool for managing changelogs.
+- [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
+- [glosario-py](https://github.com/carpentries/glosario-py) - glosario allows users to create and retrieve multilingual glossaries. By default, glosario provides access to a community-curated glossary hosted by The Carpentries. This repository also documents the structure expected for the glossaries that can be managed by glosario.
+- [parameterized](https://github.com/wolever/parameterized) - Parameterized testing with any Python test framework
+- [ptvsd](https://github.com/microsoft/ptvsd) - Python debugger package for use with Visual Studio and Visual Studio Code.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [ipython-autotime](https://github.com/cpcloud/ipython-autotime) - Time everything in IPython
 - [pytest-ipynb](https://github.com/zonca/pytest-ipynb) - Plugin for pytest to run IPython notebook cells as unit tests
@@ -758,6 +768,7 @@
 - [energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control
 - [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
+- [pyro](https://github.com/pyro-ppl/pyro) - Deep universal probabilistic programming with Python and PyTorch
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [dowhy](https://github.com/microsoft/dowhy) - DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
@@ -969,6 +980,7 @@
 
 ## Rust 
 
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -1066,6 +1078,7 @@
 
 ## TeX 
 
+- [KozakStats](https://github.com/dtkaplan/KozakStats) - Book and materials for "Statistics Using Technology"
 - [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
 - [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
@@ -1093,6 +1106,7 @@
 
 ## TypeScript 
 
+- [jupyterlab-js-logs](https://github.com/QuantStack/jupyterlab-js-logs) - JupyterLab extension to show the logs from the browser developer tools console
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
