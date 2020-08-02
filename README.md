@@ -710,6 +710,7 @@
 
 ## Python 
 
+- [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [scriv](https://github.com/nedbat/scriv) - Tool for managing changelogs.
 - [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
@@ -946,6 +947,7 @@
 
 ## R 
 
+- [easystats](https://github.com/easystats/easystats) - :milky_way: The R easystats-project
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
 - [rethinking](https://github.com/rmcelreath/rethinking) - Statistical Rethinking course and book package
