@@ -24,6 +24,7 @@
   - [Matlab](#matlab)
   - [Others](#others)
   - [PHP](#php)
+  - [Pascal](#pascal)
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
@@ -164,6 +165,7 @@
 
 ## Dockerfile 
 
+- [bitnami-docker-python-snapshot](https://github.com/bitnami/bitnami-docker-python-snapshot) - Bitnami Docker Image for Python using snapshots for the system packages repositories
 - [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
@@ -345,6 +347,12 @@
 
 ## Jupyter Notebook 
 
+- [py_entitymatching](https://github.com/anhaidgroup/py_entitymatching) - 
+- [deduplication-slides](https://github.com/vintasoftware/deduplication-slides) - "1 + 1 = 1 or Record Deduplication with Python" Jupyter Notebook
+- [modin-tutorial](https://github.com/modin-project/modin-tutorial) - Tutorial for how to use different features Modin
+- [pylondinium2019](https://github.com/ianozsvald/pylondinium2019) - 
+- [dabl_experiments](https://github.com/ianozsvald/dabl_experiments) - Light explorations with dabl
+- [PyDataBudapest202004](https://github.com/ianozsvald/PyDataBudapest202004) - "Making Pandas Fly" talk on data science at PyDataBudapest
 - [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [pytest-fixtures-introduction](https://github.com/obestwalter/pytest-fixtures-introduction) - 
@@ -478,9 +486,11 @@
 
 ## Others 
 
+- [python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
+- [notes_to_self](https://github.com/ianozsvald/notes_to_self) - 
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [awesome-fish](https://github.com/jorgebucaran/awesome-fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
+- [awesome.fish](https://github.com/jorgebucaran/awesome.fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
 - [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
 - [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
 - [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
@@ -521,7 +531,7 @@
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5300+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5400+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
@@ -674,6 +684,10 @@
 - [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
+## Pascal 
+
+- [issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
+
 ## Perl 
 
 - [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
@@ -710,6 +724,20 @@
 
 ## Python 
 
+- [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [py_stringsimjoin](https://github.com/anhaidgroup/py_stringsimjoin) - Scalable String Similarity Joins in Python
+- [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
+- [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
+- [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
+- [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
+- [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
+- [csvmatch](https://github.com/maxharlow/csvmatch) - Finds (fuzzy) matches between two CSV files in the terminal
+- [beyond_correlation](https://github.com/ianozsvald/beyond_correlation) - Exploratory code to see if we can learn about feature relationships in a DataFrame using machine learning
+- [dtype_pandas_numpy_speed_test](https://github.com/ianozsvald/dtype_pandas_numpy_speed_test) - Speed test on Pandas or NumPy
+- [dtype_diet](https://github.com/ianozsvald/dtype_diet) - Tries to shrink your Pandas column dtypes with no data loss so you have more spare RAM
+- [ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [scriv](https://github.com/nedbat/scriv) - Tool for managing changelogs.
@@ -998,6 +1026,7 @@
 
 ## Shell 
 
+- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [repo2docker-action](https://github.com/jupyterhub/repo2docker-action) - GitHub Action for repo2docker
 - [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
 - [dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
