@@ -48,6 +48,7 @@
 
 ## C 
 
+- [FALCONN](https://github.com/FALCONN-LIB/FALCONN) - FAst Lookups of Cosine and Other Nearest Neighbors (based on fast locality-sensitive hashing)
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
@@ -59,6 +60,7 @@
 
 ## C# # 
 
+- [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
@@ -172,7 +174,6 @@
 - [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
 - [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
 - [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
@@ -186,7 +187,7 @@
 ## Go 
 
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
-- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal.
+- [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
@@ -347,6 +348,7 @@
 
 ## Jupyter Notebook 
 
+- [Notebooks](https://github.com/mikemull/Notebooks) - Ipython notebooks on various topics
 - [py_entitymatching](https://github.com/anhaidgroup/py_entitymatching) - 
 - [deduplication-slides](https://github.com/vintasoftware/deduplication-slides) - "1 + 1 = 1 or Record Deduplication with Python" Jupyter Notebook
 - [modin-tutorial](https://github.com/modin-project/modin-tutorial) - Tutorial for how to use different features Modin
@@ -694,6 +696,9 @@
 
 ## PowerShell 
 
+- [AutomatedStoreInstaller](https://github.com/arcadiogarcia/AutomatedStoreInstaller) - A powershell script to automate the installation of a list of Microsoft Store apps
+- [Microsoft-Store-Access](https://github.com/Cosmo121/Microsoft-Store-Access) - Enable Microsoft Store Access. For corporate devices that have access restricted
+- [PowerShell-Microsoft-Store-AppX-Download](https://github.com/Floccinaucinihilipilification11/PowerShell-Microsoft-Store-AppX-Download) - PowerShell script to download AppX files form Microsoft Store.
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
 - [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
@@ -724,6 +729,7 @@
 
 ## Python 
 
+- [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [py_stringsimjoin](https://github.com/anhaidgroup/py_stringsimjoin) - Scalable String Similarity Joins in Python
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
@@ -1022,6 +1028,7 @@
 
 ## SAS 
 
+- [the-do-loop-blog](https://github.com/sascommunities/the-do-loop-blog) - SAS and statistical programming examples from The DO Loop at https://blogs.sas.com/content/iml.  Author: Rick Wicklin
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
 
 ## Shell 
@@ -1054,6 +1061,7 @@
 - [clr-distro-factory-config](https://github.com/clearlinux/clr-distro-factory-config) - Clear Linux* Distro Factor Config
 - [clr-distro-factory](https://github.com/clearlinux/clr-distro-factory) - Clear Linux* Distro Factory
 - [ClearWSL](https://github.com/wight554/ClearWSL) - 
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
