@@ -1028,6 +1028,7 @@
 
 ## SAS 
 
+- [advanced-cert-seminar](https://github.com/sascommunities/advanced-cert-seminar) - 
 - [the-do-loop-blog](https://github.com/sascommunities/the-do-loop-blog) - SAS and statistical programming examples from The DO Loop at https://blogs.sas.com/content/iml.  Author: Rick Wicklin
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
 
