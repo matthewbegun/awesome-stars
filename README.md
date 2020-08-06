@@ -209,6 +209,7 @@
 - [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
+- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
@@ -639,7 +640,7 @@
 - [go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [nvidia-virtualgl](https://github.com/plumbee/nvidia-virtualgl) - Base docker image to be ran with nvidia-docker
 - [PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide
-- [corefx](https://github.com/dotnet/corefx) - CoreFX is the foundational class libraries for .NET Core. It includes types for collections, file systems, console, JSON, XML, async and many others.
+- [corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX
 - [markdown-styleguide](https://github.com/notslang/markdown-styleguide) - Formatting standards for readable & consistent Markdown
 - [markdown-styleguide](https://github.com/carwin/markdown-styleguide) - Formatting standards for readable & consistent Markdown
@@ -1129,7 +1130,6 @@
 - [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
-- [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
 - [PHYS566_group4_projects](https://github.com/tahoeschrader/PHYS566_group4_projects) - This is a group project for PHYS566 at Duke University. The group members are Tahoe, Ksenia, and Xinmeng. We are studying random walks, the diffusion equation, and cluster growth using Python.
 - [unicode-math](https://github.com/wspr/unicode-math) - XeLaTeX/LuaLaTeX package for using unicode/OpenType maths fonts
