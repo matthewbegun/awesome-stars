@@ -16,6 +16,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [LLVM](#llvm)
   - [Lua](#lua)
@@ -48,6 +49,7 @@
 
 ## C 
 
+- [blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [FALCONN](https://github.com/FALCONN-LIB/FALCONN) - FAst Lookups of Cosine and Other Nearest Neighbors (based on fast locality-sensitive hashing)
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
@@ -246,7 +248,7 @@
 ## Java 
 
 - [demos](https://github.com/aiordache/demos) - Demo resources for DockerCon
-- [mug](https://github.com/google/mug) - 
+- [mug](https://github.com/google/mug) - A small Java 8 util library, complementary to Guava (BiStream, Substring, MoreStreams, Parallelizer).
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
@@ -346,6 +348,10 @@
 - [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff) - An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
 - [rosetta-stone](https://github.com/certsimple/rosetta-stone) - A comparison and conversion chart for command lines of modern operating systems, including Unix, Linux and Windows
 - [noVNC](https://github.com/novnc/noVNC) - VNC client web application
+
+## Julia 
+
+- [BayesianRecordLinkage.jl](https://github.com/brendanstats/BayesianRecordLinkage.jl) - Perform Bayesian record linkage with a one-to-one matching assumption.
 
 ## Jupyter Notebook 
 
@@ -730,6 +736,8 @@
 
 ## Python 
 
+- [blocklib](https://github.com/data61/blocklib) - Python implementations of record linkage blocking techniques.
+- [LSH](https://github.com/mattilyra/LSH) - Locality Sensitive Hashing using MinHash in Python/Cython to detect near duplicate text documents
 - [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [py_stringsimjoin](https://github.com/anhaidgroup/py_stringsimjoin) - Scalable String Similarity Joins in Python
@@ -1029,6 +1037,7 @@
 
 ## SAS 
 
+- [IcarusDataLinkingSystem](https://github.com/DJMelksham/IcarusDataLinkingSystem) - A collection of SAS macros working together to provide a flexible environment for data linking research and operation.
 - [advanced-cert-seminar](https://github.com/sascommunities/advanced-cert-seminar) - 
 - [the-do-loop-blog](https://github.com/sascommunities/the-do-loop-blog) - SAS and statistical programming examples from The DO Loop at https://blogs.sas.com/content/iml.  Author: Rick Wicklin
 - [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
