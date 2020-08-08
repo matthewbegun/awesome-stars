@@ -18,15 +18,12 @@
   - [JavaScript](#javascript)
   - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
-  - [LLVM](#llvm)
   - [Lua](#lua)
   - [MATLAB](#matlab)
   - [Makefile](#makefile)
   - [Matlab](#matlab)
   - [Others](#others)
   - [PHP](#php)
-  - [Pascal](#pascal)
-  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -65,7 +62,6 @@
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
-- [prose](https://github.com/microsoft/prose) - Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
 - [PSWordCloud](https://github.com/vexx32/PSWordCloud) - Create pretty word clouds with PowerShell!
@@ -151,7 +147,6 @@
 - [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [metaphone](https://github.com/oubiwann/metaphone) - A Python implementation of the Metaphone and Double Metaphone algorithms
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
@@ -169,13 +164,7 @@
 
 ## Dockerfile 
 
-- [bitnami-docker-python-snapshot](https://github.com/bitnami/bitnami-docker-python-snapshot) - Bitnami Docker Image for Python using snapshots for the system packages repositories
-- [PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
-- [bedrock-server](https://github.com/nguyer/bedrock-server) - Minecraft Bedrock Server on Docker
-- [minecraft-bds](https://github.com/starchx/minecraft-bds) - Docker Image for Minecraft BDS
-- [minimal-dockerfile](https://github.com/binder-examples/minimal-dockerfile) - A starting point for your custom Dockerfile that works on binder. You probably don't want to use this.
-- [binder](https://github.com/rocker-org/binder) - Adds binder to tidyverse, providing JupyterHub
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
 - [slack-action](https://github.com/abinoda/slack-action) - GitHub Action for posting Slack messages
@@ -188,25 +177,15 @@
 
 ## Go 
 
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
-- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 
 ## HTML 
 
 - [ds4ad](https://github.com/uwescience/ds4ad) - Data Science for Administrative Data
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
-- [datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera) - Data Science Repo and blog for John Hopkins Coursera Courses. Please let me know if you have any questions.
-- [data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [projects](https://github.com/NikKrieger/projects) - projects
-- [exreport](https://github.com/jacintoArias/exreport) - An R package for reproducible research. Analyze your experimental data and generate HTML and PDF reports.
-- [shiny](https://github.com/rocker-org/shiny) - 
-- [sharing-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter) - Using GitHub and Binder to share Jupyter Notebooks, statically and interactively
-- [words](https://github.com/yuvipanda/words) - Source for words.yuvi.in
-- [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com) - Full Stack Python source with Pelican, Bootstrap and Markdown.
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [intro-tidyverse](https://github.com/jthomasmock/intro-tidyverse) - 
 - [docsy](https://github.com/google/docsy) - A set of Hugo doc templates for launching open source content.
@@ -260,16 +239,7 @@
 
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
-- [slk-581](https://github.com/garthk/slk-581) - Makes SLK-581 indicators, recently popular because of the Australian Census
-- [slk581](https://github.com/cmrn/slk581) - SLK581 Decoder
-- [data](https://github.com/GoogleTrends/data) - An index of all open-source data
-- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
-- [data](https://github.com/nationalparkservice/data) - An unofficial repository of National Park Service data.
-- [lando](https://github.com/lando/lando) - A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
-- [calvin-and-hobbes-quotes](https://github.com/Siilwyn/calvin-and-hobbes-quotes) - :tiger: Get Calvin and Hobbes quotes
-- [prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [play](https://github.com/nteract/play) - The code base for the nteract Play app
 - [keyboard-layout-editor](https://github.com/ijprest/keyboard-layout-editor) - Web application to enable the design & editing of keyboard layouts
 - [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
@@ -355,6 +325,7 @@
 
 ## Jupyter Notebook 
 
+- [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [Notebooks](https://github.com/mikemull/Notebooks) - Ipython notebooks on various topics
 - [py_entitymatching](https://github.com/anhaidgroup/py_entitymatching) - 
 - [deduplication-slides](https://github.com/vintasoftware/deduplication-slides) - "1 + 1 = 1 or Record Deduplication with Python" Jupyter Notebook
@@ -380,12 +351,7 @@
 - [ds-blog](https://github.com/StatesTitle/ds-blog) - Public facing repo that contains example code for the data science blog
 - [effective-pandas](https://github.com/TomAugspurger/effective-pandas) - Source code for my collection of articles on using pandas.
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
-- [odsc-actionable-ethics](https://github.com/drivendataorg/odsc-actionable-ethics) - "Actionable Ethics for Data Scientists" Workshop Material @ ODSC
-- [Statistics-with-Python](https://github.com/susanli2016/Statistics-with-Python) - 
 - [splink_demos](https://github.com/moj-analytical-services/splink_demos) - Interactive notebooks containing demonstration code of the splink library
-- [ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
-- [bamboolib](https://github.com/tkrabel/bamboolib) - bamboolib - the Fastest and Easiest Way to Work with pandas DataFrames
-- [Data-Analysis-with-Python](https://github.com/susanli2016/Data-Analysis-with-Python) - Data analysis using numpy, pandas, matplotlib, seaborn, sqlite3, data wrangling
 - [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) - 
 - [Minimally-Sufficient-Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) - There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
@@ -399,13 +365,10 @@
 - [ThinkStats2](https://github.com/AllenDowney/ThinkStats2) - Text and supporting code for Think Stats, 2nd Edition
 - [ThinkBayes2](https://github.com/AllenDowney/ThinkBayes2) - Text and code for the forthcoming second edition of Think Bayes, by Allen Downey.
 - [bayesian-analysis-recipes](https://github.com/ericmjl/bayesian-analysis-recipes) - A collection of Bayesian data analysis recipes using PyMC3
-- [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [resources](https://github.com/pymc-devs/resources) - PyMC3 educational resources
-- [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 - [gather](https://github.com/microsoft/gather) - Spit shine for Jupyter notebooks 🧽✨
 - [Exploratory-Analysis-of-Bayesian-Models](https://github.com/arviz-devs/Exploratory-Analysis-of-Bayesian-Models) - Educational resources related to ArviZ
-- [showcases](https://github.com/8080labs/showcases) - A collection of Python scripts
 - [gtc2020-numba](https://github.com/ContinuumIO/gtc2020-numba) - Numba tutorial for GTC2020
 - [how-to-python-code](https://github.com/TheRenegadeCoder/how-to-python-code) - A collection of Jupyter Notebooks from the How to Python series
 - [PythonDataScienceHandbook](https://github.com/mwouts/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
@@ -415,31 +378,15 @@
 - [facets](https://github.com/PAIR-code/facets) - Visualizations for machine learning datasets
 - [cookbook-2nd-code](https://github.com/ipython-books/cookbook-2nd-code) - Code of the IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018 [read-only repository]
 - [shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
-- [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks) - Python notebooks with ML and deep learning examples with Azure Machine Learning | Microsoft
 - [bamboolib](https://github.com/8080labs/bamboolib) - bamboolib - a GUI for pandas dataframes. Stop googling pandas commands
-- [CFDPython](https://github.com/barbagroup/CFDPython) - A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/
 - [textbook](https://github.com/data-8/textbook) - The textbook Computational and Inferential Thinking: The Foundations of Data Science
 - [datascience](https://github.com/data-8/datascience) - A Python library for introductory data science
-- [fuzzingbook](https://github.com/uds-se/fuzzingbook) - The Book "Generating Software Tests"
-- [numba-examples](https://github.com/numba/numba-examples) - Example Numba implementations of functions
-- [bamboolib_binder_template](https://github.com/8080labs/bamboolib_binder_template) - bamboolib - template for creating your own binder notebook
-- [deepschool.io](https://github.com/sachinruk/deepschool.io) - Deep Learning tutorials in jupyter notebooks.
-- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) - 🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
-- [data-processing-and-visualization](https://github.com/m-clark/data-processing-and-visualization) - This document forms the basis of several workshops/talks that get into everyday programming with R, but also includes mirrored code in Python as Jupyter notebooks.
 - [python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition) - The "Python Machine Learning (2nd edition)" book code repository and info resource
 - [numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
-- [ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
-- [data-exploration-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter) - The Data Exploration lesson in the Reproducible Science using Jupyter Notebooks curriculum
 - [nix-binder-example](https://github.com/costrouc/nix-binder-example) - BinderHub example using Nix
 - [IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
-- [examples](https://github.com/sylabs/examples) - files and instructions for creating and using example containers from the sylabs.io blog
-- [getting-data](https://github.com/binder-examples/getting-data) - How to get data into your Binder
-- [binder-r-description](https://github.com/binder-examples/binder-r-description) - 
-- [jupyter-rise](https://github.com/binder-examples/jupyter-rise) - Auto-launching the RISE plugin for Binder presentations.
-- [jupyterlab](https://github.com/binder-examples/jupyterlab) - Demonstrating how to get JupyterLab working with Binder
 - [Stats-Maths-with-Python](https://github.com/tirthajyoti/Stats-Maths-with-Python) - General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python
-- [workshops](https://github.com/tensorflow/workshops) - A few exercises for use at events.
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
 - [scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures) - Lectures on scientific computing with python, as IPython notebooks.
 - [mellotron](https://github.com/NVIDIA/mellotron) - Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
@@ -469,10 +416,6 @@
 - [IA-maths-Jupyter](https://github.com/garth-wells/IA-maths-Jupyter) - Notebooks in support of of the Part IA (Michaelmas Term) mathematics course at the Department of  Engineering at University of Cambridge
 - [Jupyter-Matrix-Matrix](https://github.com/mikecroucher/Jupyter-Matrix-Matrix) - A benchmark to see how many flops your kit can do
 
-## LLVM 
-
-- [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
-
 ## Lua 
 
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
@@ -484,7 +427,6 @@
 
 ## Makefile 
 
-- [cookiecutter-docker-science](https://github.com/docker-science/cookiecutter-docker-science) - Cookiecutter template for data scientists working with Docker containers
 - [csel-per-class-jupyter-containers](https://github.com/Colorado-CompSci-Ugrad/csel-per-class-jupyter-containers) - Per-class containers for classes in Dept. of Computer Science, Univ. of Colorado
 - [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
@@ -495,40 +437,23 @@
 
 ## Others 
 
+- [from-python-to-numpy](https://github.com/lhoupert/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
 - [notes_to_self](https://github.com/ianozsvald/notes_to_self) - 
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [awesome.fish](https://github.com/jorgebucaran/awesome.fish) - A curation of packages, prompts, and resources for the fish shell. 🐚🍤
-- [archive](https://github.com/TrackingJupyter/archive) - Searchable archive of Tracking Jupyter newsletters
-- [lambda-stack-dockerfiles](https://github.com/lambdal/lambda-stack-dockerfiles) - 
-- [explore.kak](https://github.com/alexherbo2/explore.kak) - Explore things with your favorite explorer
-- [from-python-to-numpy](https://github.com/lhoupert/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
-- [Data-Science-in-Two-Minutes](https://github.com/tdpetrou/Data-Science-in-Two-Minutes) - Quick descriptions and answers of common data science tasks and questions
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
-- [sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
-- [Datasets-of-Master-Data-Science-with-Python](https://github.com/TrainingByPackt/Datasets-of-Master-Data-Science-with-Python) - Datasets of Master Data Science with Python, published by Packt. For the complete code files, visit https://github.com/TrainingByPackt/Data-Science-with-Python
-- [Datasets-of-Master-Data-Science-with-Python](https://github.com/PacktPublishing/Datasets-of-Master-Data-Science-with-Python) - Visit: https://github.com/TrainingByPackt/Master-Data-Science-with-Python
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [getting-started](https://github.com/kjsauer/getting-started) - Getting started guides
-- [Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier
+- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" programming and other software guides
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
-- [Public-APIs](https://github.com/n0shake/Public-APIs) - 📚 A public list of APIs from round the web.
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
-- [jupyter](https://github.com/coderefinery/jupyter) - Course material on Jupyter Notebooks and JupyterLab.
-- [reproducible-research](https://github.com/coderefinery/reproducible-research) - Lesson on reproducible research.
 - [dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) - Dive into Machine Learning with Python Jupyter notebook and scikit-learn!
-- [stencila-py](https://github.com/binder-examples/stencila-py) - Demo for Stencila & DAR on binder with Python code
-- [dar](https://github.com/substance/dar) - Reproducible Document Archive
-- [stencila-r](https://github.com/binder-examples/stencila-r) - Demo for Stencila & DAR on binder with R code
-- [Awesome](https://github.com/ScoopInstaller/Awesome) - A curated list of awesome Scoop resources and more.
-- [ubuntuonwindows](https://github.com/abergs/ubuntuonwindows) - Resources, tips, known issues etc for "Bash On Ubuntu On Windows"
 - [You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [deepdream](https://github.com/google/deepdream) - 
@@ -558,7 +483,6 @@
 - [MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [language-server-protocol](https://github.com/microsoft/language-server-protocol) - Defines a common protocol for language servers.
-- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [gravizo](https://github.com/TLmaK0/gravizo) - How to include graphviz graphs in github README
 - [bayes_factors](https://github.com/lindeloev/bayes_factors) - How to compute Bayes factors using lm, lmer, BayesFactor, brms, and JAGS/stan/pymc3
 - [README-template.md](https://github.com/scottydocs/README-template.md) - A README template for anyone to copy and use.
@@ -688,18 +612,7 @@
 
 ## PHP 
 
-- [SLK581](https://github.com/Tohmua/SLK581) - Generate SLK581 Codes
-- [dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
-- [labs](https://github.com/docker/labs) - This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.
 - [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
-
-## Pascal 
-
-- [issrc](https://github.com/jrsoftware/issrc) - Inno Setup is a free installer for Windows programs. First introduced in 1997, Inno Setup today rivals and even surpasses many commercial installers in feature set and stability.
-
-## Perl 
-
-- [ggplot2-book](https://github.com/hadley/ggplot2-book) - ggplot2: elegant graphics for data analysis
 
 ## PowerShell 
 
@@ -708,7 +621,6 @@
 - [PowerShell-Microsoft-Store-AppX-Download](https://github.com/Floccinaucinihilipilification11/PowerShell-Microsoft-Store-AppX-Download) - PowerShell script to download AppX files form Microsoft Store.
 - [winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [PowerShell-WSL-Interop](https://github.com/mikebattista/PowerShell-WSL-Interop) - Integrate Linux commands into Windows with PowerShell and the Windows Subsystem for Linux (WSL).
-- [Profile](https://github.com/Jaykul/Profile) - Because people always wish they could see your profile...
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
 - [PowerShellScripts](https://github.com/bsteil/PowerShellScripts) - Snippets & Scripts
@@ -747,7 +659,6 @@
 - [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
-- [csvmatch](https://github.com/maxharlow/csvmatch) - Finds (fuzzy) matches between two CSV files in the terminal
 - [beyond_correlation](https://github.com/ianozsvald/beyond_correlation) - Exploratory code to see if we can learn about feature relationships in a DataFrame using machine learning
 - [dtype_pandas_numpy_speed_test](https://github.com/ianozsvald/dtype_pandas_numpy_speed_test) - Speed test on Pandas or NumPy
 - [dtype_diet](https://github.com/ianozsvald/dtype_diet) - Tries to shrink your Pandas column dtypes with no data loss so you have more spare RAM
@@ -769,16 +680,10 @@
 - [tfidf-python](https://github.com/gearmonkey/tfidf-python) - a simple TF:IDF python class, forked from http://code.google.com/p/tfidf/
 - [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
 - [nominally](https://github.com/vaneseltine/nominally) - A maximum-strength name parser for record linkage.
-- [import_from_github_com](https://github.com/nvbn/import_from_github_com) - Python module finder/loader from github, like in golang
-- [bambi](https://github.com/bambinos/bambi) - BAyesian Model-Building Interface (BAMBI) in Python.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-- [aethos](https://github.com/Ashton-Sidhu/aethos) - Automated Data Science and Machine Learning library to optimize workflow.
-- [python-project-template](https://github.com/Kwpolska/python-project-template) - A template for Python Projects.  INSERT TAGLINE HERE.™
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
 - [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. The CK goal is to support collaborative and reproducible R&D projects:
-- [cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
-- [python-nameless](https://github.com/ionelmc/python-nameless) - Sample project. Use https://github.com/ionelmc/cookiecutter-pylibrary to make your own project. The purpose of this repo is to test the CI configuration.
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
@@ -788,19 +693,14 @@
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
 - [anonlink](https://github.com/data61/anonlink) - Python implementation of anonymous linkage using cryptographic linkage keys
-- [soweego](https://github.com/Wikidata/soweego) - Link Wikidata items to large catalogs
 - [blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [python-string-similarity](https://github.com/luozhouyang/python-string-similarity) - A library implementing different string similarity and distance measures using Python.
 - [textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
-- [ml-project-template](https://github.com/ml-tooling/ml-project-template) - ML project template facilitating both research and production phases.
 - [github-archive](https://github.com/Justintime50/github-archive) - A powerful script to concurrently clone your entire GitHub instance or save it as an archive.
-- [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
-- [fuzzymatcher](https://github.com/RobinL/fuzzymatcher) - Record linking package that fuzzy matches two Python pandas dataframes using sqlite3 fts4
 - [dedupe](https://github.com/dedupeio/dedupe) - :id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.
 - [recordlinkage](https://github.com/J535D165/recordlinkage) - A toolkit for record linkage and duplicate detection in Python
 - [rltk](https://github.com/usc-isi-i2/rltk) - Record Linkage ToolKit (Find and link entities)
 - [vscode-binder](https://github.com/betatim/vscode-binder) - VS Code on Binder
-- [Noisify](https://github.com/dstl/Noisify) - A simple library for adding noise to data.
 - [salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [nb_black](https://github.com/dnanhkhoa/nb_black) - A simple extension for Jupyter Notebook and Jupyter Lab to beautify Python code automatically using black.
@@ -808,7 +708,6 @@
 - [pyforest](https://github.com/8080labs/pyforest) - pyforest - feel the bliss of automated imports
 - [scholar.py](https://github.com/ckreibich/scholar.py) - A parser for Google Scholar, written in Python
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines in Python   &gt;&gt;&gt;
-- [bionic](https://github.com/square/bionic) - A Python framework for data science.
 - [energy-usage](https://github.com/responsibleproblemsolving/energy-usage) - Provides a function to measure the energy usage of another function.
 - [uncommitted](https://github.com/brandon-rhodes/uncommitted) - Command-line tool to find projects whose changes have not been committed to version control
 - [vcspull](https://github.com/vcs-python/vcspull) - :arrows_counterclockwise: synchronize projects via yaml/json manifest. built on libvcs
@@ -821,40 +720,15 @@
 - [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
 - [pyflyby](https://github.com/deshaw/pyflyby) - 
-- [DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, Ambari, Blueprints, CloudFormation, Elasticsearch, Solr, Pig, IPython - Python / Jython Tools
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
 - [doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [cookbook-2nd](https://github.com/ipython-books/cookbook-2nd) - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018
 - [knowledge-repo](https://github.com/airbnb/knowledge-repo) - A next-generation curated knowledge sharing platform for data scientists and other technical professions.
-- [pint](https://github.com/hgrecco/pint) - Operate and manipulate physical quantities in Python
-- [pySBD](https://github.com/nipunsadvilkar/pySBD) - 🐍💯pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box.
-- [syntok](https://github.com/fnl/syntok) - Text tokenization and sentence segmentation (segtok v2)
 - [scipy-lecture-notes](https://github.com/scipy-lectures/scipy-lecture-notes) - Tutorial material on the scientific Python ecosystem
-- [attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [pkgbuilder](https://github.com/Kwpolska/pkgbuilder) - An AUR helper (and library) in Python 3.
-- [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
-- [arch-systemctl-alt](https://github.com/yuk7/arch-systemctl-alt) - systemctl alternative script package for Arch Linux container/WSL environment
-- [Skater](https://github.com/oracle/Skater) - Python Library for Model Interpretation/Explanations
-- [petronia](https://github.com/groboclown/petronia) - A Python Window Tiler for Windows
-- [orc](https://github.com/gesiscss/orc) - Open Research Computing
 - [elegant-scipy](https://github.com/elegant-scipy/elegant-scipy) - 1st Edition of Elegant SciPy (O'Reilly Publishers)
-- [publication-RR-Jupyter](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter) - Publication and sharing with Jupyter notebooks for reproducible research
-- [conx](https://github.com/Calysto/conx) - The On-Ramp to Deep Learning
-- [cffi_magic](https://github.com/Carreau/cffi_magic) - %%cffi cell magic for ipython.
-- [ipyparallel](https://github.com/ipython/ipyparallel) - Interactive Parallel Computing in Python
-- [bokeh](https://github.com/binder-examples/bokeh) - 
-- [compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
-- [clr-bundles](https://github.com/clearlinux/clr-bundles) - Bundle definitions for Clear Linux OS
-- [scoop-directory](https://github.com/rasa/scoop-directory) - A directory of buckets for the scoop package manager for Windows
-- [dash-docs](https://github.com/plotly/dash-docs) - :book: The Official Dash Userguide & Documentation
-- [fold](https://github.com/tensorflow/fold) - Deep learning with dynamic computation graphs in TensorFlow
-- [skflow](https://github.com/tensorflow/skflow) - Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
-- [estimator](https://github.com/tensorflow/estimator) - TensorFlow Estimator
-- [autograph](https://github.com/tensorflow/autograph) - 
-- [model-analysis](https://github.com/tensorflow/model-analysis) - Model analysis tools for TensorFlow
-- [datasets](https://github.com/tensorflow/datasets) - TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) - Pytorch implementation of FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
@@ -885,6 +759,7 @@
 - [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [pyls-black](https://github.com/rupert/pyls-black) - Black plugin for the Python Language Server
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+- [toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [doc8](https://github.com/PyCQA/doc8) - Style checker for sphinx (or other) rst documentation.
 - [astroid](https://github.com/PyCQA/astroid) - A common base representation of python source code for pylint and other projects
@@ -1018,7 +893,6 @@
 
 ## Ruby 
 
-- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
 - [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
@@ -1032,47 +906,29 @@
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 
 ## SAS 
 
+- [core](https://github.com/sasjs/core) - Production quality macros for SAS® Application Developers
+- [BizarroBall](https://github.com/allanbowe/BizarroBall) - Sample SAS data as contributed by Paul Dorfman and Don Henderson in "Data Management Solutions Using SAS Hash Table Operations: A Business Intelligence Case Study"
+- [swell-standardizer](https://github.com/ncrncornell/swell-standardizer) - SAS-based standardizer for use in record linkage
+- [darel](https://github.com/NCTraCSIDSci/darel) - Deidentifying All Records for Encrypted Linkages
+- [utl-macros-used-in-many-of-rogerjdeangelis-repositories](https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories) - Macros used in many of rogerjdeangelis repositories.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
 - [IcarusDataLinkingSystem](https://github.com/DJMelksham/IcarusDataLinkingSystem) - A collection of SAS macros working together to provide a flexible environment for data linking research and operation.
 - [advanced-cert-seminar](https://github.com/sascommunities/advanced-cert-seminar) - 
 - [the-do-loop-blog](https://github.com/sascommunities/the-do-loop-blog) - SAS and statistical programming examples from The DO Loop at https://blogs.sas.com/content/iml.  Author: Rick Wicklin
-- [sas-global-forum-2019](https://github.com/sascommunities/sas-global-forum-2019) - Code and examples that accompany papers and presentations from SAS Global Forum 2019 (Apr 28-May 1, 2019 in Dallas, TX)
 
 ## Shell 
 
-- [minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [repo2docker-action](https://github.com/jupyterhub/repo2docker-action) - GitHub Action for repo2docker
-- [dotfiles](https://github.com/alrra/dotfiles) - 💻 macOS / Ubuntu dotfiles
-- [dotfiles](https://github.com/rkalis/dotfiles) - 💻 macOS System Configuration with Fish, Package Control, VS Code, Repo management, Hammerspoon
-- [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
-- [dotfiles](https://github.com/matchai/dotfiles) - 💻 Public repo for my personal dotfiles
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
-- [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [sas-container-recipes](https://github.com/sassoftware/sas-container-recipes) - A collection of recipes and other resources for building containers that include SAS Viya software.
-- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
 - [miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [docker_bedrockserver](https://github.com/karlrees/docker_bedrockserver) - Native Bedrock Minecraft Server Docker Project
 - [hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-- [conda_container](https://github.com/dazza-codes/conda_container) - Template for a conda project
-- [bedrock-server](https://github.com/IMetZach/bedrock-server) - MineCraft Bedrock Edition for Docker
-- [docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
-- [MinecraftBedrockServer](https://github.com/TheRemote/MinecraftBedrockServer) - Sets up a Minecraft Bedrock dedicated server on Ubuntu with options for automatic updates and running at startup
-- [MCscripts](https://github.com/TapeWerm/MCscripts) - Minecraft Java Edition and Bedrock Dedicated Server systemd units, bash scripts, and chat bots for backups, automatic updates, installation, and shutdown warnings
-- [bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +4.2K awesome resources for geeks and software crafters :beer:
 - [code-container](https://github.com/lukaszlach/code-container) - :whale: Microsoft Visual Studio Code running in a Docker container, accessible through a web browser and aimed for Docker development.
-- [rocker](https://github.com/rocker-org/rocker) - R configurations for Docker
-- [how-to-clear](https://github.com/clearlinux/how-to-clear) - Training documentation to teach users how to make a Clear Linux OS derivative distribution.
-- [clr-rpm-config](https://github.com/clearlinux/clr-rpm-config) - RPM configurations for Clear Linux OS
-- [clr-distro-factory-config](https://github.com/clearlinux/clr-distro-factory-config) - Clear Linux* Distro Factor Config
-- [clr-distro-factory](https://github.com/clearlinux/clr-distro-factory) - Clear Linux* Distro Factory
-- [ClearWSL](https://github.com/wight554/ClearWSL) - 
-- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and Visual Studio Codespaces / Codespaces in GitHub
 - [enroot](https://github.com/NVIDIA/enroot) - A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
@@ -1123,20 +979,16 @@
 
 ## Swift 
 
-- [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers. In slow yet steady progress.
 - [gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
 ## TeX 
 
 - [KozakStats](https://github.com/dtkaplan/KozakStats) - Book and materials for "Statistics Using Technology"
-- [python-snippets](https://github.com/DahlitzFlorian/python-snippets) - A collection of useful Python snippets
-- [milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 - [r_viz](https://github.com/samclifford/r_viz) - 
 - [stat-cookbook](https://github.com/mavam/stat-cookbook) - :orange_book: The probability and statistics cookbook
 - [ThinkPython2](https://github.com/AllenDowney/ThinkPython2) - LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
 - [ten-simple-rules-dockerfiles](https://github.com/nuest/ten-simple-rules-dockerfiles) - Ten Simple Rules for Writing Dockerfiles for Reproducible Data Science
-- [openintro-statistics](https://github.com/OpenIntroStat/openintro-statistics) - 📚 An open-source textbook written at the college level. OpenIntro also offers a second college-level intro stat textbook and also a high school variant.
 - [markdown-latex-boilerplate](https://github.com/davecap/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [markdown-latex-boilerplate](https://github.com/mofosyne/markdown-latex-boilerplate) - Boilerplate for writing a paper with Markdown/Latex and Pandoc
 - [cheatsheets](https://github.com/rstudio/cheatsheets) - RStudio Cheat Sheets
@@ -1164,11 +1016,7 @@
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
 - [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
-- [vscode-textlint](https://github.com/taichi/vscode-textlint) - 
-- [textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [nteract](https://github.com/nteract/nteract) - 📘 The interactive computing suite for you!  ✨
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [pst-extractor](https://github.com/epfromer/pst-extractor) - Extract objects from MS Outlook/Exchange PST files
@@ -1206,8 +1054,6 @@
 
 - [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
 - [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
-- [dotfiles](https://github.com/paulirish/dotfiles) - paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-- [dotfiles](https://github.com/isaacmorneau/dotfiles) - Look at your vim, now look back at mine, now back to your vim, now back to mine. Sadly it isn't mine, but if you stopped using your own dotfiles and switch to my dotfiles, it could look like mine.
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
 - [vim-sentence-chopper](https://github.com/Konfekt/vim-sentence-chopper) - version-control friendly  text formatting
 
