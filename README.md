@@ -237,6 +237,7 @@
 
 ## JavaScript 
 
+- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
 - [cml](https://github.com/iterative/cml) - ♾️ CML - Continuous Machine Learning | CI/CD for ML
@@ -334,7 +335,6 @@
 - [dabl_experiments](https://github.com/ianozsvald/dabl_experiments) - Light explorations with dabl
 - [PyDataBudapest202004](https://github.com/ianozsvald/PyDataBudapest202004) - "Making Pandas Fly" talk on data science at PyDataBudapest
 - [gpu-jupyter](https://github.com/iot-salzburg/gpu-jupyter) - Leverage the flexibility of Jupyterlab through the power of your NVIDIA GPU to run your code from Tensorflow and Pytorch in collaborative notebooks on the GPU.
-- [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [pytest-fixtures-introduction](https://github.com/obestwalter/pytest-fixtures-introduction) - 
 - [quantstack-talks](https://github.com/QuantStack/quantstack-talks) - Slides for quantstack talks
 - [saxpy](https://github.com/seninp/saxpy) - Symbolic Aggregate approXimation, HOT-SAX, and SAX-VSM implementation in Python
@@ -446,10 +446,9 @@
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) - Tips for releasing research code in Machine Learning (with official NeurIPS 2020 recommendations)
-- [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" programming and other software guides
+- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" programming and other software guides.
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -683,7 +682,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. The CK goal is to support collaborative and reproducible R&D projects:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and real-world use cases at the project website:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
