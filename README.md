@@ -192,6 +192,7 @@
 - [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
+- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
@@ -248,7 +249,6 @@
 - [flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
-- [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 - [EduBlocks](https://github.com/AllAboutCode/EduBlocks) - Drag and drop coding tool for creating Python programs
 - [scratchjr](https://github.com/LLK/scratchjr) - With ScratchJr, young children (ages 5-7) can program their own interactive stories and games.
 - [scratch-www](https://github.com/LLK/scratch-www) - Standalone web client for Scratch
@@ -647,6 +647,8 @@
 
 ## Python 
 
+- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
+- [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [blocklib](https://github.com/data61/blocklib) - Python implementations of record linkage blocking techniques.
 - [LSH](https://github.com/mattilyra/LSH) - Locality Sensitive Hashing using MinHash in Python/Cython to detect near duplicate text documents
 - [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
