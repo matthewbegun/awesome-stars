@@ -61,6 +61,7 @@
 
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
 - [DotNetKoans](https://github.com/matthew17754/DotNetKoans) - The .NET Koans 4 C# Intended To Help Enlighten C# Learners
@@ -94,7 +95,7 @@
 - [SpaceshipDemo](https://github.com/Unity-Technologies/SpaceshipDemo) - Spaceship Demo - AAA Playable First person demo showcasing effects made with Visual Effect Graph and rendered with High Definition Render Pipeline
 - [GameOfLife](https://github.com/bobvodka/GameOfLife) - Playing with various Game Of Life things in Unity using ECS
 - [MachineLearningRoguelike](https://github.com/UnityTechnologies/MachineLearningRoguelike) - A small Roguelike game that uses Machine Learning to power its entities. Originally used in talks by Ciro & Alessia.
-- [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) - Git extension for Unity Package Manager (UPM)
+- [UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension) - This package extends the UI of Unity Package Manager (UPM) for the packages installed from git repository.
 - [obstacle-tower-source](https://github.com/Unity-Technologies/obstacle-tower-source) - Obstacle Tower Source Code
 - [editorconfig-visualstudio](https://github.com/Unity-Technologies/editorconfig-visualstudio) - EditorConfig Visual Studio Addin
 - [VisualStudio](https://github.com/github/VisualStudio) - GitHub Extension for Visual Studio
@@ -116,7 +117,6 @@
 - [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
 - [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
@@ -295,6 +295,7 @@
 
 ## Jupyter Notebook 
 
+- [workflows](https://github.com/biggorilla-gh/workflows) - 
 - [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [Notebooks](https://github.com/mikemull/Notebooks) - Ipython notebooks on various topics
 - [py_entitymatching](https://github.com/anhaidgroup/py_entitymatching) - 
@@ -616,6 +617,9 @@
 
 ## Python 
 
+- [pydedupe](https://github.com/gpoulter/pydedupe) - Python dedupe library using in Mocality
+- [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
+- [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
 - [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [blocklib](https://github.com/data61/blocklib) - Python implementations of record linkage blocking techniques.
@@ -623,10 +627,8 @@
 - [stanza](https://github.com/stanfordnlp/stanza) - Official Stanford NLP Python Library for Many Human Languages
 - [coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [py_stringsimjoin](https://github.com/anhaidgroup/py_stringsimjoin) - Scalable String Similarity Joins in Python
-- [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [coala-bears](https://github.com/coala/coala-bears) - Bears for coala
 - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
-- [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
 - [modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code
 - [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [beyond_correlation](https://github.com/ianozsvald/beyond_correlation) - Exploratory code to see if we can learn about feature relationships in a DataFrame using machine learning
@@ -649,11 +651,10 @@
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [tfidf-python](https://github.com/gearmonkey/tfidf-python) - a simple TF:IDF python class, forked from http://code.google.com/p/tfidf/
 - [galaxy-integrations-python-api](https://github.com/gogcom/galaxy-integrations-python-api) - NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu
-- [nominally](https://github.com/vaneseltine/nominally) - A maximum-strength name parser for record linkage.
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge (CK) is a small Python library that helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and real-world use cases at the project website:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and some real-world use cases at the project website:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
@@ -882,7 +883,6 @@
 
 - [core](https://github.com/sasjs/core) - Production quality macros for SAS® Application Developers
 - [BizarroBall](https://github.com/allanbowe/BizarroBall) - Sample SAS data as contributed by Paul Dorfman and Don Henderson in "Data Management Solutions Using SAS Hash Table Operations: A Business Intelligence Case Study"
-- [swell-standardizer](https://github.com/ncrncornell/swell-standardizer) - SAS-based standardizer for use in record linkage
 - [darel](https://github.com/NCTraCSIDSci/darel) - Deidentifying All Records for Encrypted Linkages
 - [utl-macros-used-in-many-of-rogerjdeangelis-repositories](https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories) - Macros used in many of rogerjdeangelis repositories.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
 - [IcarusDataLinkingSystem](https://github.com/DJMelksham/IcarusDataLinkingSystem) - A collection of SAS macros working together to provide a flexible environment for data linking research and operation.
