@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
 - [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
@@ -196,6 +197,7 @@
 
 ## Java 
 
+- [LSHDB](https://github.com/dimkar121/LSHDB) - LSHDB is a parallel and distributed data engine, which relies on Locality-Sensitive Hashing and noSQL systems, for performing record linkage (and privacy-preserving record linkage) and similarity search tasks.
 - [demos](https://github.com/aiordache/demos) - Demo resources for DockerCon
 - [mug](https://github.com/google/mug) - A small Java 8 util library, complementary to Guava (BiStream, Substring, MoreStreams, Parallelizer).
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
@@ -207,6 +209,7 @@
 
 ## JavaScript 
 
+- [RBQL](https://github.com/mechatroner/RBQL) - 🦜RBQL - Rainbow Query Language: SQL-like language for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
@@ -295,6 +298,9 @@
 
 ## Jupyter Notebook 
 
+- [qutip-notebooks](https://github.com/qutip/qutip-notebooks) - A collection of IPython notebooks using QuTiP: examples, tutorials, development test, etc.
+- [QuantEcon.notebooks](https://github.com/QuantEcon/QuantEcon.notebooks) - Jupyter notebooks contributed by QuantEcon developers, users and the community
+- [game-theory-notebooks](https://github.com/QuantEcon/game-theory-notebooks) - A collection of game theory notebooks
 - [workflows](https://github.com/biggorilla-gh/workflows) - 
 - [awesome-google-colab](https://github.com/firmai/awesome-google-colab) - Google Colaboratory Notebooks and Repositories (by @firmai)
 - [Notebooks](https://github.com/mikemull/Notebooks) - Ipython notebooks on various topics
@@ -617,6 +623,7 @@
 
 ## Python 
 
+- [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pydedupe](https://github.com/gpoulter/pydedupe) - Python dedupe library using in Mocality
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
