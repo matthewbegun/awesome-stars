@@ -625,6 +625,8 @@
 
 ## Python 
 
+- [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [ppscore](https://github.com/8080labs/ppscore) - Predictive Power Score (PPS) in Python
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
 - [pydedupe](https://github.com/gpoulter/pydedupe) - Python dedupe library using in Mocality
