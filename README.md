@@ -672,7 +672,7 @@
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
 - [thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [formulaic](https://github.com/matthewwardrop/formulaic) - A high-performance implementation of Wilkinson formulas for Python.
-- [cruft](https://github.com/timothycrosley/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
+- [cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and full compatible with, CookieCutter.
 - [lux](https://github.com/lux-org/lux) - Python API for Intelligent Visual Data Discovery
 - [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
 - [anonlink](https://github.com/data61/anonlink) - Python implementation of anonymous linkage using cryptographic linkage keys
@@ -869,7 +869,6 @@
 - [markdown_test](https://github.com/goldingn/markdown_test) - A first go a scientific markdown
 - [greta.template](https://github.com/greta-dev/greta.template) - a template repository to help set up new greta extension packages
 - [simsurv](https://github.com/sambrilleman/simsurv) - Simulate Survival Data
-- [myBooks-1](https://github.com/arcayi/myBooks-1) - 
 - [greta.gp](https://github.com/greta-dev/greta.gp) - a greta extension for Gaussian process modelling
 - [greta](https://github.com/greta-dev/greta) - simple and scalable statistical modelling in R
 
@@ -1021,7 +1020,7 @@
 - [vscode-gitlens](https://github.com/eamodio/vscode-gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
 - [download-artifact](https://github.com/actions/download-artifact) - 
 - [upload-artifact](https://github.com/actions/upload-artifact) - 
-- [github-script](https://github.com/actions/github-script) - 
+- [github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [todo-actions](https://github.com/dtinth/todo-actions) - Turn TODO in source code into issues and close them when they are gone. Runs on GitHub Actions.
