@@ -286,7 +286,7 @@
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 - [Git-for-Unity](https://github.com/Unity-Technologies/Git-for-Unity) - Git for Unity, a fork of GitHub for Unity
 - [KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [pull](https://github.com/wei/pull) - ⬇️ Keep your forks up-to-date via automated PRs
+- [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [sdk-hr-meter](https://github.com/Fitbit/sdk-hr-meter) - Fitbit SDK example application.
 - [todo](https://github.com/JasonEtco/todo) - 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 - [modern-office-git-diff](https://github.com/TomasHubelbauer/modern-office-git-diff) - An experiment in tracking and diffing versions of modern Microsoft Office files in Git.
@@ -625,6 +625,7 @@
 
 ## Python 
 
+- [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [ppscore](https://github.com/8080labs/ppscore) - Predictive Power Score (PPS) in Python
@@ -666,7 +667,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to decompose complex research projects into reusable and cross-linked components (wrappers for code, data, models and results), automation actions and portable workflows with unified APIs, CLI, and JSON I/O. You can find more info and some real-world use cases at the project website:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) provides a common API to all software projects together with a database-like control and reusable automation actions for their individual components (algorithms, packages, datasets, models, scripts, results...). See some real-world use cases from Arm, General Motors, IBM, MLPerf, RPi, and ACM:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
