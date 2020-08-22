@@ -667,7 +667,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) provides a common API to all software projects together with a database-like control and reusable automation actions for their individual components (algorithms, packages, datasets, models, scripts, results...). See some real-world use cases from Arm, General Motors, IBM, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to convert any software project into a database of reusable components (algorithms, packages, datasets, models, scripts, results...) with a common API, JSON meta descriptions, automation actions, and portable workflows. See some real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
