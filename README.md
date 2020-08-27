@@ -72,7 +72,7 @@
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [rant](https://github.com/TheBerkin/rant) - (ARCHIVED) Rant – The all-purpose procedural text library
+- [rant3](https://github.com/TheBerkin/rant3) - (ARCHIVED) Rant – The all-purpose procedural text library
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
 - [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10-archives/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
@@ -701,7 +701,7 @@
 - [metaflow](https://github.com/Netflix/metaflow) - Build and manage real-life data science projects with ease.
 - [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python
 - [nbcelltests](https://github.com/jpmorganchase/nbcelltests) - Cell-by-cell testing for production Jupyter notebooks in JupyterLab
-- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but flexible tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
+- [contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is a simple but effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [nostalgia](https://github.com/nostalgia-dev/nostalgia) - Utilize your personal data like Google!
 - [pyflyby](https://github.com/deshaw/pyflyby) - 
 - [sample-programs](https://github.com/TheRenegadeCoder/sample-programs) - Sample Programs in Every Programming Language
