@@ -199,7 +199,6 @@
 - [LSHDB](https://github.com/dimkar121/LSHDB) - LSHDB is a parallel and distributed data engine, which relies on Locality-Sensitive Hashing and noSQL systems, for performing record linkage (and privacy-preserving record linkage) and similarity search tasks.
 - [demos](https://github.com/aiordache/demos) - Demo resources for DockerCon
 - [mug](https://github.com/google/mug) - A small Java 8 util library, complementary to Guava (BiStream, Substring, MoreStreams, Parallelizer).
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [jetbrains-plugin-xsimsel](https://github.com/dsggregory/jetbrains-plugin-xsimsel) - Simulate X middle-button press to paste selection in a JetBrains IDE.
@@ -379,6 +378,7 @@
 - [ligo-binder](https://github.com/minrk/ligo-binder) - Black holes!
 - [surveys](https://github.com/jupyter/surveys) - Surveys and datasets collected by Project Jupyter
 - [matlab_kernel](https://github.com/Calysto/matlab_kernel) - Jupyter Kernel for Matlab
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [Python-for-Epidemiologists](https://github.com/pzivich/Python-for-Epidemiologists) - Tutorial in Python targeted at Epidemiologists. Will discuss the basics of analysis in Python 3
 - [PyDataNY_2019_tutorial](https://github.com/CamDavidsonPilon/PyDataNY_2019_tutorial) - Repo for PyData 2019 Tutorial - New Trends in Estimation and Inference
 - [BAP](https://github.com/aloctavodia/BAP) - Bayesian Analysis with Python (Second Edition)
@@ -667,7 +667,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
