@@ -53,6 +53,7 @@
 - [nsenter1](https://github.com/justincormack/nsenter1) - simple nsenter to namespaces of pid 1
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [VcXsrv](https://github.com/Lumak/VcXsrv) - Windows X-server that works with SDL on Bash on Ubuntu on Windows (WSL).
+- [jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [borg](https://github.com/borgbackup/borg) - Deduplicating archiver with compression and authenticated encryption.
 - [toybox](https://github.com/landley/toybox) - toybox
 - [WindowsInternals](https://github.com/zodiacon/WindowsInternals) - Windows Internals Book 7th edition Tools
@@ -717,7 +718,6 @@
 - [GSAS_USE](https://github.com/AntonGagin/GSAS_USE) - An extension to the GSAS-II Rietveld package GSAS_USE (Bayesian Statistics Approach to Accounting for Unknown Systematic Errors)
 - [big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
 - [examples](https://github.com/pytorch/examples) - A set of examples around pytorch in Vision, Text, Reinforcement Learning, etc.
-- [jpy](https://github.com/bcdev/jpy) - A bi-directional Python-Java bridge used to embed Java in CPython or the other way round.
 - [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [panzer](https://github.com/msprev/panzer) - pandoc + styles
 - [commentary](https://github.com/hdb/commentary) - comment-preserving docx&lt;----&gt;markdown converter
