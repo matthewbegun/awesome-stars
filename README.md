@@ -147,6 +147,7 @@
 
 ## Go 
 
+- [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
 - [wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI) - Don't install Node, Go, ... locally - use containers you define within your project. If you have a new machine / other contributors you just have to install docker and envcli to get started.
 - [vale](https://github.com/errata-ai/vale) - :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
@@ -902,6 +903,7 @@
 
 ## Shell 
 
+- [ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images from the Windows store
 - [repo2docker-action](https://github.com/jupyterhub/repo2docker-action) - GitHub Action for repo2docker
 - [dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
