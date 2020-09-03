@@ -629,6 +629,9 @@
 
 ## Python 
 
+- [clb-sentiment](https://github.com/talfco/clb-sentiment) - Start your journey into social media analysis of politicans by using Python (Tutorial)
+- [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
+- [pyphonetics](https://github.com/Lilykos/pyphonetics) - A Python 3 phonetics library.
 - [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
