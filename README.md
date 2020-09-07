@@ -60,6 +60,7 @@
 
 ## C# # 
 
+- [NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an item. PowerShell only offers Get-Acl and Set-Acl but everything in between getting and setting the ACL is missing. This module closes the gap.
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
@@ -273,7 +274,7 @@
 - [semantic-linebreaker](https://github.com/waldyrious/semantic-linebreaker) - A utility to help you apply semantic linebreaks to any text
 - [stpihkal](https://github.com/buttplugio/stpihkal) - Sex Toys Protocols I Have Known And Loved - Documentation of Reverse Engineered Protocols for Commercial Sex Hardware
 - [zalo.github.io](https://github.com/zalo/zalo.github.io) - A home for knowledge that is hard to find elsewhere
-- [mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams.
+- [mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) - Location has moved to https://github.com/mermaid-js/mermaid-live-editor
 - [vscode-markdown-mermaid](https://github.com/mjbvz/vscode-markdown-mermaid) - Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
 - [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
