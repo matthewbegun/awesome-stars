@@ -339,7 +339,7 @@
 - [Minimally-Sufficient-Pandas](https://github.com/tdpetrou/Minimally-Sufficient-Pandas) - There are always multiple ways to complete a task in Pandas. A minimal subset of the library is sufficient for almost everything.
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
-- [machine-learning-handbook](https://github.com/bpesquet/machine-learning-handbook) - Theorical explanations and Python-based demonstrations for various Machine Learning concepts, techniques and tools
+- [mlhandbook](https://github.com/bpesquet/mlhandbook) - An interactive book containing explanations and Python-based demonstrations for various Machine Learning concepts, techniques and tools
 - [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
@@ -423,7 +423,6 @@
 
 - [from-python-to-numpy](https://github.com/lhoupert/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
-- [notes_to_self](https://github.com/ianozsvald/notes_to_self) - 
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
@@ -654,6 +653,7 @@
 - [eliot](https://github.com/itamarst/eliot) - Eliot: the logging system that tells you *why* it happened
 - [beyond_correlation](https://github.com/ianozsvald/beyond_correlation) - Exploratory code to see if we can learn about feature relationships in a DataFrame using machine learning
 - [dtype_pandas_numpy_speed_test](https://github.com/ianozsvald/dtype_pandas_numpy_speed_test) - Speed test on Pandas or NumPy
+- [notes_to_self](https://github.com/ianozsvald/notes_to_self) - 
 - [dtype_diet](https://github.com/ianozsvald/dtype_diet) - Tries to shrink your Pandas column dtypes with no data loss so you have more spare RAM
 - [ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
 - [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables.
