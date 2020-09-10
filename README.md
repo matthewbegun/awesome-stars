@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
 - [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -909,6 +910,8 @@
 
 ## Shell 
 
+- [podbox](https://github.com/DimaZirix/podbox) - Container sandbox for GUI applications
+- [cnest](https://github.com/castedo/cnest) - Simple scripts for personal (rootless) persistent parallel containers
 - [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
 - [ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script) - Script to enable systemd support on current Ubuntu WSL2 images from the Windows store
 - [repo2docker-action](https://github.com/jupyterhub/repo2docker-action) - GitHub Action for repo2docker
