@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
 - [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
@@ -304,6 +305,12 @@
 
 ## Jupyter Notebook 
 
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
+- [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
+- [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+- [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
+- [hyperlearn](https://github.com/danielhanchen/hyperlearn) - 50% faster, 50% less RAM Machine Learning. Numba rewritten Sklearn. SVD, NNMF, PCA, LinearReg, RidgeReg, Randomized, Truncated SVD/PCA, CSR Matrices all 50+% faster
 - [course-nlp](https://github.com/fastai/course-nlp) - A Code-First Introduction to NLP course
 - [nbdev_template](https://github.com/fastai/nbdev_template) - Template for nbdev projects
 - [qutip-notebooks](https://github.com/qutip/qutip-notebooks) - A collection of IPython notebooks using QuTiP: examples, tutorials, development test, etc.
@@ -422,6 +429,10 @@
 
 ## Others 
 
+- [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+- [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
+- [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
+- [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [from-python-to-numpy](https://github.com/lhoupert/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
 - [python-linters-and-code-analysis](https://github.com/vintasoftware/python-linters-and-code-analysis) - Python Linters and Code Analysis tools curated list
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
@@ -630,6 +641,16 @@
 
 ## Python 
 
+- [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
+- [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [tflearn](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API for TensorFlow.
+- [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
+- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+- [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
+- [mars](https://github.com/mars-project/mars) - Mars is a tensor-based unified framework for large-scale data computation which scales Numpy, Pandas and Scikit-learn.
 - [clb-sentiment](https://github.com/talfco/clb-sentiment) - Start your journey into social media analysis of politicans by using Python (Tutorial)
 - [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
 - [pyphonetics](https://github.com/Lilykos/pyphonetics) - A Python 3 phonetics library.
