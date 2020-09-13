@@ -171,6 +171,7 @@
 - [mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - New implementation of the live editor
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
+- [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
 - [velociraptorproblem](https://github.com/infratxt/velociraptorproblem) - Solving the xkcd Velociraptor Problem in JavaScript, graphing in D3
 - [graphtheory](https://github.com/sri-rad/graphtheory) - Webapp to generate xkcd-esque graphs.
@@ -960,7 +961,6 @@
 - [gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art:
-- [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
 - [ps-bash-completions](https://github.com/tillig/ps-bash-completions) - Bridge to enable bash completions to be run from within PowerShell.
 - [scp-action](https://github.com/appleboy/scp-action) - GitHub Action that copy files and artifacts via SSH.
 - [actions](https://github.com/unacast/actions) - Github Actions
