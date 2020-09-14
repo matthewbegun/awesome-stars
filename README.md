@@ -189,7 +189,6 @@
 - [rootstock](https://github.com/manubot/rootstock) - Clone me to create your Manubot manuscript
 - [pandoc](https://github.com/simple-template/pandoc) - Pandoc Template
 - [gh-themes-magick](https://github.com/tajmone/gh-themes-magick) - GitHub Pages Themes Magick: https://tajmone.github.io/gh-themes-magick/
-- [pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
@@ -215,7 +214,6 @@
 
 ## JavaScript 
 
-- [RBQL](https://github.com/mechatroner/RBQL) - 🦜RBQL - Rainbow Query Language: SQL-like language for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
@@ -610,6 +608,9 @@
 
 ## PowerShell 
 
+- [Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
+- [dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
+- [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
 - [AutomatedStoreInstaller](https://github.com/arcadiogarcia/AutomatedStoreInstaller) - A powershell script to automate the installation of a list of Microsoft Store apps
 - [Microsoft-Store-Access](https://github.com/Cosmo121/Microsoft-Store-Access) - Enable Microsoft Store Access. For corporate devices that have access restricted
 - [PowerShell-Microsoft-Store-AppX-Download](https://github.com/Floccinaucinihilipilification11/PowerShell-Microsoft-Store-AppX-Download) - PowerShell script to download AppX files form Microsoft Store.
@@ -660,6 +661,7 @@
 - [termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
 - [ppscore](https://github.com/8080labs/ppscore) - Predictive Power Score (PPS) in Python
 - [spack](https://github.com/spack/spack) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+- [RBQL](https://github.com/mechatroner/RBQL) - 🦜RBQL - Rainbow Query Language: SQL-like language for (not only) CSV file processing. Supports SQL queries with Python and JavaScript expressions
 - [pydedupe](https://github.com/gpoulter/pydedupe) - Python dedupe library using in Mocality
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
@@ -1063,6 +1065,7 @@
 - [starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [markdown-preview-plus](https://github.com/atom-community/markdown-preview-plus) - Markdown Preview + Community Features
 - [mume](https://github.com/shd101wyy/mume) - Powerful markdown tool
+- [pandiff](https://github.com/davidar/pandiff) - Prose diffs for any document format supported by Pandoc
 - [LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ## Vim script 
