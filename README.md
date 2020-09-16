@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [D](#d)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -46,6 +47,9 @@
 
 ## C 
 
+- [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
+- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
 - [blis](https://github.com/flame/blis) - BLAS-like Library Instantiation Software Framework
 - [FALCONN](https://github.com/FALCONN-LIB/FALCONN) - FAst Lookups of Cosine and Other Nearest Neighbors (based on fast locality-sensitive hashing)
 - [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
@@ -115,6 +119,7 @@
 
 ## C++ 
 
+- [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
@@ -135,6 +140,10 @@
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
 
+## D 
+
+- [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+
 ## Dockerfile 
 
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
@@ -150,6 +159,9 @@
 
 ## Go 
 
+- [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [orca](https://github.com/lukaszlach/orca) - :whale: Orca | Docker workshop
 - [nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) - NVIDIA container runtime
 - [toolbox](https://github.com/containers/toolbox) - Unprivileged development environment
@@ -159,6 +171,7 @@
 
 ## HTML 
 
+- [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [ds4ad](https://github.com/uwescience/ds4ad) - Data Science for Administrative Data
 - [py4e](https://github.com/csev/py4e) - Web site for www.py4e.com and source to the Python 3.0 textbook
 - [projects](https://github.com/NikKrieger/projects) - projects
@@ -203,6 +216,7 @@
 
 ## Java 
 
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
 - [LSHDB](https://github.com/dimkar121/LSHDB) - LSHDB is a parallel and distributed data engine, which relies on Locality-Sensitive Hashing and noSQL systems, for performing record linkage (and privacy-preserving record linkage) and similarity search tasks.
 - [demos](https://github.com/aiordache/demos) - Demo resources for DockerCon
 - [mug](https://github.com/google/mug) - A small Java 8 util library, complementary to Guava (BiStream, Substring, MoreStreams, Parallelizer).
@@ -214,6 +228,11 @@
 
 ## JavaScript 
 
+- [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
+- [devtools-terminal](https://github.com/petethepig/devtools-terminal) - Terminal in Chrome Devtools
+- [chalk-animation](https://github.com/bokub/chalk-animation) - :clapper: Colorful animations in terminal output
+- [ervy](https://github.com/chunqiuyiyu/ervy) - Bring charts to terminal.
+- [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [python-bones](https://github.com/dirmeier/python-bones) - A yeoman generator for Python projects.
 - [contained.af](https://github.com/genuinetools/contained.af) - A stupid game for learning about containers, capabilities, and syscalls.
@@ -428,6 +447,8 @@
 
 ## Others 
 
+- [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
+- [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
 - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.
 - [stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
@@ -643,6 +664,17 @@
 
 ## Python 
 
+- [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
+- [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
+- [tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
+- [guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME
+- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [googler](https://github.com/jarun/googler) - :mag: Google from the terminal
+- [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [seaborn](https://github.com/mwaskom/seaborn) - Statistical data visualization using matplotlib
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
@@ -913,12 +945,14 @@
 
 ## Rust 
 
+- [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [pyflow](https://github.com/David-OConnor/pyflow) - An installation and dependency system for Python
 - [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [as-tree](https://github.com/jez/as-tree) - Print a list of paths as a tree of paths 🌳
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 
@@ -934,6 +968,13 @@
 
 ## Shell 
 
+- [archuseriso](https://github.com/laurent85v/archuseriso) - Profiles for building Arch Linux Live ISO images. Live USB creation tool featuring Persistent Storage & Encryption. AUR https://aur.archlinux.org/packages/archuseriso  ISO Download http://dl.gnutux.fr/archuseriso
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
+- [awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
+- [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
+- [Gogh](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal and Pantheon Terminal
 - [podbox](https://github.com/DimaZirix/podbox) - Container sandbox for GUI applications
 - [cnest](https://github.com/castedo/cnest) - Simple scripts for personal (rootless) persistent parallel containers
 - [commando](https://github.com/lukaszlach/commando) - :whale: Container registry which provides you all the commands you need in a lightweight Alpine image. DevOps and SysOps best friend. https://command-not-found.com
@@ -972,7 +1013,6 @@
 - [wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 - [core](https://github.com/dotnet/core) - Home repository for .NET Core
 - [agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme) - A ZSH theme designed to disclose information contextually, with a powerline aesthetic
-- [tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [lit](https://github.com/spro/lit) - Literate programming for any language. It's 🔥.
 - [mdsh](https://github.com/bashup/mdsh) - Multi-lingual, Markdown-based Literate Programming... in run-anywhere bash
 - [lit](https://github.com/vijithassar/lit) - a little preprocessor for literate programming
@@ -1024,6 +1064,12 @@
 
 ## TypeScript 
 
+- [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
+- [browser-tab](https://github.com/DizoftTeam/browser-tab) - Open browser tab is VSCode
+- [vscode-webbrowse](https://github.com/auriou/vscode-webbrowse) - 
+- [browser](https://github.com/ayqy/browser) - An embedded browser for your VS Code.
+- [xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jupyterlab-js-logs](https://github.com/QuantStack/jupyterlab-js-logs) - JupyterLab extension to show the logs from the browser developer tools console
 - [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
