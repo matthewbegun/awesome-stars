@@ -146,6 +146,9 @@
 
 ## Dockerfile 
 
+- [vscode-in-docker](https://github.com/pubkey/vscode-in-docker) - Run VSCode inside of a Docker Container
+- [data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
+- [dockerfiles](https://github.com/ruanbekker/dockerfiles) - Dockerfiles Repo
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
@@ -159,6 +162,8 @@
 
 ## Go 
 
+- [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
+- [nsbox](https://github.com/refi64/nsbox) - A powerful pet container manager
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -447,6 +452,7 @@
 
 ## Others 
 
+- [awesome-list](https://github.com/ruanbekker/awesome-list) - My Awesome List of anything cool that my curious mind finds interesting
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - A curated list of awesome big data frameworks, ressources and other awesomeness.
@@ -479,7 +485,7 @@
 - [awesome-markdown](https://github.com/mundimark/awesome-markdown) - A collection of awesome markdown goodies (libraries, services, editors, tools, cheatsheets, etc.)
 - [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
-- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5400+ Material Design Icons from the Community
+- [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5600+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
 - [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
@@ -664,6 +670,7 @@
 
 ## Python 
 
+- [cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
@@ -968,6 +975,7 @@
 
 ## Shell 
 
+- [test-actions](https://github.com/ruanbekker/test-actions) - Test github actions
 - [archuseriso](https://github.com/laurent85v/archuseriso) - Profiles for building Arch Linux Live ISO images. Live USB creation tool featuring Persistent Storage & Encryption. AUR https://aur.archlinux.org/packages/archuseriso  ISO Download http://dl.gnutux.fr/archuseriso
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
@@ -1064,6 +1072,8 @@
 
 ## TypeScript 
 
+- [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
 - [browser-tab](https://github.com/DizoftTeam/browser-tab) - Open browser tab is VSCode
 - [vscode-webbrowse](https://github.com/auriou/vscode-webbrowse) - 
@@ -1078,7 +1088,6 @@
 - [sourcery-vscode](https://github.com/sourcery-ai/sourcery-vscode) - VS Code extension for Sourcery
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
-- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
