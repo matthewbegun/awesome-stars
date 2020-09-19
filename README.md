@@ -47,6 +47,7 @@
 
 ## C 
 
+- [nvidia-persistenced](https://github.com/NVIDIA/nvidia-persistenced) - NVIDIA driver persistence daemon
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'.
@@ -64,6 +65,7 @@
 
 ## C# # 
 
+- [genie](https://github.com/arkane-systems/genie) - A quick way into a systemd "bottle" for WSL
 - [NTFSSecurity](https://github.com/raandree/NTFSSecurity) - Managing permissions with PowerShell is only a bit easier than in VBS or the command line as there are no cmdlets for most day-to-day tasks like getting a permission report or adding permission to an item. PowerShell only offers Get-Acl and Set-Acl but everything in between getting and setting the ACL is missing. This module closes the gap.
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
@@ -146,6 +148,9 @@
 
 ## Dockerfile 
 
+- [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
+- [docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
+- [docker-code-server](https://github.com/linuxserver/docker-code-server) - 
 - [vscode-in-docker](https://github.com/pubkey/vscode-in-docker) - Run VSCode inside of a Docker Container
 - [data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [dockerfiles](https://github.com/ruanbekker/dockerfiles) - Dockerfiles Repo
@@ -162,6 +167,8 @@
 
 ## Go 
 
+- [dockfmt](https://github.com/jessfraz/dockfmt) - Dockerfile format and parser. Like `gofmt` but for Dockerfiles.
+- [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
 - [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [nsbox](https://github.com/refi64/nsbox) - A powerful pet container manager
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
@@ -328,9 +335,10 @@
 
 ## Jupyter Notebook 
 
+- [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
-- [fastbook](https://github.com/fastai/fastbook) - Draft of the fastai book
+- [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
 - [Virgilio](https://github.com/virgili0/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [hyperlearn](https://github.com/danielhanchen/hyperlearn) - 50% faster, 50% less RAM Machine Learning. Numba rewritten Sklearn. SVD, NNMF, PCA, LinearReg, RidgeReg, Randomized, Truncated SVD/PCA, CSR Matrices all 50+% faster
@@ -371,7 +379,7 @@
 - [Eigentechno](https://github.com/umutisik/Eigentechno) - Principal Component Analysis on music loops
 - [funnelplot](https://github.com/johnhw/funnelplot) - Funnel plot
 - [mlhandbook](https://github.com/bpesquet/mlhandbook) - An interactive book containing explanations and Python-based demonstrations for various Machine Learning concepts, techniques and tools
-- [machine-learning-katas](https://github.com/bpesquet/machine-learning-katas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
+- [mlkatas](https://github.com/bpesquet/mlkatas) - A series of self-correcting challenges for practicing your Machine Learning and Deep Learning skills
 - [clean-code-ml](https://github.com/davified/clean-code-ml) - :bathtub: Clean Code concepts adapted for machine learning and data science. Now a free video series 😎 https://bit.ly/2yGDyqT
 - [examples](https://github.com/nteract/examples) - Example nteract notebooks with links to execution on mybinder.org
 - [testing-scientific-code](https://github.com/ProfessorKazarinoff/testing-scientific-code) - A repo with example scientific code and tests to go along with it
@@ -452,6 +460,9 @@
 
 ## Others 
 
+- [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) - Example of basic vagrant docker provider usage
+- [wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
+- [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [awesome-list](https://github.com/ruanbekker/awesome-list) - My Awesome List of anything cool that my curious mind finds interesting
 - [awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -635,6 +646,7 @@
 
 ## PowerShell 
 
+- [Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
 - [Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
 - [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
@@ -670,6 +682,10 @@
 
 ## Python 
 
+- [subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
+- [udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges
+- [dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
+- [DirectML](https://github.com/microsoft/DirectML) - DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [cheatsheets](https://github.com/ruanbekker/cheatsheets) - My Cheatsheet Repository
 - [gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 - [ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
@@ -919,6 +935,7 @@
 
 ## R 
 
+- [equatiomatic](https://github.com/datalorax/equatiomatic) - Convert models to LaTeX equations
 - [easystats](https://github.com/easystats/easystats) - :milky_way: The R easystats-project
 - [datapasta](https://github.com/MilesMcBain/datapasta) - On top of spaghetti, all covered in cheese....
 - [r4ds](https://github.com/hadley/r4ds) - R for data science: a book
@@ -975,6 +992,10 @@
 
 ## Shell 
 
+- [wsl-systemd](https://github.com/sr229/wsl-systemd) - A script that spawns a namespace with systemd as PID1, and allows you to spawn interactive sessions or exec commands inside it
+- [data-science-stack](https://github.com/NVIDIA/data-science-stack) - NVIDIA Data Science stack tools
+- [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
+- [nix-feedstock](https://github.com/conda-forge/nix-feedstock) - A conda-smithy repository for nix.
 - [test-actions](https://github.com/ruanbekker/test-actions) - Test github actions
 - [archuseriso](https://github.com/laurent85v/archuseriso) - Profiles for building Arch Linux Live ISO images. Live USB creation tool featuring Persistent Storage & Encryption. AUR https://aur.archlinux.org/packages/archuseriso  ISO Download http://dl.gnutux.fr/archuseriso
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
@@ -1072,6 +1093,8 @@
 
 ## TypeScript 
 
+- [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
@@ -1125,6 +1148,7 @@
 
 ## Vim script 
 
+- [vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
 - [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
 - [vim-bucky](https://github.com/dbmrq/vim-bucky) - :leaves: Ventilated prose
