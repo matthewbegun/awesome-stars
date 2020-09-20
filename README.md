@@ -682,6 +682,8 @@
 
 ## Python 
 
+- [jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
+- [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
 - [subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
 - [udocker](https://github.com/indigo-dc/udocker) - A basic user tool to execute simple docker containers in batch or interactive systems without root privileges
 - [dockershelf](https://github.com/Dockershelf/dockershelf) - A repository containing useful, lightweight and reliable dockerfiles.
@@ -1093,6 +1095,7 @@
 
 ## TypeScript 
 
+- [code-server](https://github.com/sixeyed/code-server) - Run VS Code on a remote server.
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
 - [nbin](https://github.com/cdr/nbin) - Fast and robust node.js binary compiler.
@@ -1148,6 +1151,7 @@
 
 ## Vim script 
 
+- [dotfiles](https://github.com/pappasam/dotfiles) - My configuration settings for various unix files.
 - [vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
 - [dotfiles](https://github.com/gf3/dotfiles) - config for neovim, tmux, molotov colourscheme, and more
 - [dotfiles](https://github.com/paulmillr/dotfiles) - Colourful & robust configuration files and utilities for Mac, Linux and BSD
