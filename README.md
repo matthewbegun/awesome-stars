@@ -47,6 +47,7 @@
 
 ## C 
 
+- [egl-wayland](https://github.com/NVIDIA/egl-wayland) - The EGLStream-based Wayland external platform
 - [nvidia-persistenced](https://github.com/NVIDIA/nvidia-persistenced) - NVIDIA driver persistence daemon
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
@@ -148,6 +149,9 @@
 
 ## Dockerfile 
 
+- [docker-images](https://github.com/QPod/docker-images) - Out-of-box Data Science / AI platform | AI/数据科学的瑞士军刀
+- [jupyterlab-vscode](https://github.com/cyverse-vice/jupyterlab-vscode) - 
+- [docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [dockerfiles](https://github.com/vimagick/dockerfiles) - :whale: A collection of delicious docker recipes
 - [docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [docker-code-server](https://github.com/linuxserver/docker-code-server) - 
@@ -335,6 +339,7 @@
 
 ## Jupyter Notebook 
 
+- [data-science-cheatsheet](https://github.com/QPod/data-science-cheatsheet) - 
 - [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
 - [mit-deep-learning](https://github.com/lexfridman/mit-deep-learning) - Tutorials, assignments, and competitions for MIT Deep Learning related courses.
@@ -460,6 +465,7 @@
 
 ## Others 
 
+- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some premade binaries.
 - [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) - Example of basic vagrant docker provider usage
 - [wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
 - [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
@@ -994,6 +1000,7 @@
 
 ## Shell 
 
+- [lab-redis](https://github.com/thedatasociety/lab-redis) - 
 - [wsl-systemd](https://github.com/sr229/wsl-systemd) - A script that spawns a namespace with systemd as PID1, and allows you to spawn interactive sessions or exec commands inside it
 - [data-science-stack](https://github.com/NVIDIA/data-science-stack) - NVIDIA Data Science stack tools
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
