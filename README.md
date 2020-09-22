@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [JuniperKernel](https://github.com/JuniperKernel/JuniperKernel) - R Kernel for Jupyter
 - [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
