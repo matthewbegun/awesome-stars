@@ -150,6 +150,7 @@
 
 ## Dockerfile 
 
+- [vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
 - [docker-images](https://github.com/QPod/docker-images) - Out-of-box Data Science / AI platform | AI/数据科学的瑞士军刀
 - [jupyterlab-vscode](https://github.com/cyverse-vice/jupyterlab-vscode) - 
 - [docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
@@ -340,6 +341,7 @@
 
 ## Jupyter Notebook 
 
+- [Mathematics-for-Machine-Learning-Specialization](https://github.com/susanli2016/Mathematics-for-Machine-Learning-Specialization) - 
 - [data-science-cheatsheet](https://github.com/QPod/data-science-cheatsheet) - 
 - [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra) - Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course
@@ -466,6 +468,7 @@
 
 ## Others 
 
+- [jupyterlab_iframe](https://github.com/choldgraf/jupyterlab_iframe) - JupyterLab iframe widget
 - [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some premade binaries.
 - [vagrant-docker-example](https://github.com/bubenkoff/vagrant-docker-example) - Example of basic vagrant docker provider usage
 - [wsl2-hacks](https://github.com/shayne/wsl2-hacks) - Useful snippets / tools for using WSL2 as a development environment
@@ -689,6 +692,8 @@
 
 ## Python 
 
+- [container](https://github.com/ludeeus/container) - Custom containers for various usecases
+- [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
 - [jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
 - [subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
@@ -764,7 +769,7 @@
 - [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, IBM, General Motors, MLPerf, RPi, and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components with common automation actions and extensible meta descriptions based on FAIR principles (findability, accessibility, interoperability, and reusability). See real-world use cases from Arm, General Motors, IBM, RPi, ACM, and MLPerf:
 - [treon](https://github.com/ReviewNB/treon) - Easy to use test framework for Jupyter Notebooks
 - [MkTechDocs](https://github.com/att/MkTechDocs) - MkTechDocs is a documentation framework for collating and transforming documents.
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
@@ -1001,6 +1006,7 @@
 
 ## Shell 
 
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
 - [lab-redis](https://github.com/thedatasociety/lab-redis) - 
 - [wsl-systemd](https://github.com/sr229/wsl-systemd) - A script that spawns a namespace with systemd as PID1, and allows you to spawn interactive sessions or exec commands inside it
 - [data-science-stack](https://github.com/NVIDIA/data-science-stack) - NVIDIA Data Science stack tools
