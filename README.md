@@ -13,16 +13,11 @@
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
-  - [Haskell](#haskell)
-  - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
-  - [MATLAB](#matlab)
   - [Makefile](#makefile)
-  - [Matlab](#matlab)
   - [Others](#others)
-  - [PHP](#php)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -115,22 +110,14 @@
 ## C++ 
 
 - [JuniperKernel](https://github.com/JuniperKernel/JuniperKernel) - R Kernel for Jupyter
-- [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
-- [diagnostics](https://github.com/dotnet/diagnostics) - This repository contains the source code for various .NET Core runtime diagnostic tools and documents.
-- [kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [vs-ghostwriter](https://github.com/michelolvera/vs-ghostwriter) - Fork of Ghostwriter. A beautiful cross-platform markdown editor, however this fork is intended to be compiled into VS 2017 (MSVC) x64 for Windows only.
-- [Detours](https://github.com/microsoft/Detours) - Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
-- [aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [stats](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions.
-- [virtualgl](https://github.com/VirtualGL/virtualgl) - Main VirtualGL repository
 - [subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 
 ## CSS 
 
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [hacker-tools.github.io](https://github.com/hacker-tools/hacker-tools.github.io) - Hacker Tools class website
+- [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 
 ## Dockerfile 
 
@@ -159,8 +146,6 @@
 
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) - Build and run containers leveraging NVIDIA GPUs
-- [sshcode](https://github.com/cdr/sshcode) - Run VS Code on any server over SSH.
 - [nsbox](https://github.com/refi64/nsbox) - A powerful pet container manager
 - [rat](https://github.com/ericfreese/rat) - Compose shell commands to build interactive terminal applications
 - [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
@@ -172,6 +157,7 @@
 
 ## HTML 
 
+- [machine-learning](https://github.com/ethen8181/machine-learning) - :earth_americas: machine learning tutorials (mainly in Python3)
 - [terminal_markdown_viewer](https://github.com/axiros/terminal_markdown_viewer) - Styled Terminal Markdown Viewer
 - [ds4ad](https://github.com/uwescience/ds4ad) - Data Science for Administrative Data
 - [projects](https://github.com/NikKrieger/projects) - projects
@@ -206,21 +192,6 @@
 - [dotnet](https://github.com/microsoft/dotnet) - This repo is the official home of .NET on GitHub. It's a great starting point to find many .NET OSS projects from Microsoft and the community, including many that are part of the .NET Foundation.
 - [ddabm-solar](https://github.com/haffwin/ddabm-solar) - 
 - [BoB-Workshop](https://github.com/matt-sutton/BoB-Workshop) - Short workshop on Bayesian Variable Selection methods
-
-## Haskell 
-
-- [haskell-trainings](https://github.com/google/haskell-trainings) - Haskell 101 and 102: slides and codelabs
-- [hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages
-
-## Java 
-
-- [mug](https://github.com/google/mug) - A small Java 8 util library, complementary to Guava (BiStream, Substring, MoreStreams, Parallelizer).
-- [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
-- [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
-- [jetbrains-plugin-xsimsel](https://github.com/dsggregory/jetbrains-plugin-xsimsel) - Simulate X middle-button press to paste selection in a JetBrains IDE.
-- [bdi-abm-integration](https://github.com/agentsoz/bdi-abm-integration) - BDI ABM Integration
-- [synthetic-population](https://github.com/agentsoz/synthetic-population) - Full synthetic population for Melbourne's 4+ million residents
 
 ## JavaScript 
 
@@ -314,6 +285,7 @@
 
 ## Jupyter Notebook 
 
+- [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [Mathematics-for-Machine-Learning-Specialization](https://github.com/susanli2016/Mathematics-for-Machine-Learning-Specialization) - 
 - [data-science-cheatsheet](https://github.com/QPod/data-science-cheatsheet) - 
 - [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
@@ -415,20 +387,9 @@
 
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 
-## MATLAB 
-
-- [matlab-snippets](https://github.com/trnkap/matlab-snippets) - Code snippets for the Matlab editor.
-- [gpstuff](https://github.com/gpstuff-dev/gpstuff) - GPstuff - Gaussian process models for Bayesian analysis
-
 ## Makefile 
 
 - [csel-per-class-jupyter-containers](https://github.com/Colorado-CompSci-Ugrad/csel-per-class-jupyter-containers) - Per-class containers for classes in Dept. of Computer Science, Univ. of Colorado
-- [dockerfiles](https://github.com/pandoc/dockerfiles) - Dockerfiles for various pandoc images
-- [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
-
-## Matlab 
-
-- [jupyter-hub-oauth-matlab](https://github.com/benjamin-heasly/jupyter-hub-oauth-matlab) - JupyterHub plus Google OAuth, plus support for a mounted-in Matlab, plus the Jypyter matlab_kernel.
 
 ## Others 
 
@@ -440,7 +401,6 @@
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [awesome-gpt3](https://github.com/elyase/awesome-gpt3) - 
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [record-linkage-resources](https://github.com/ropeladder/record-linkage-resources) - Resources for tackling record linkage / deduplication / data matching problems
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
@@ -604,10 +564,6 @@
 - [Game-Development-Patterns-with-Unity-2019-Video](https://github.com/PacktPublishing/Game-Development-Patterns-with-Unity-2019-Video) - 
 - [matlab-support](https://github.com/benjamin-heasly/matlab-support) - Docker image with enough dependencies to support a mounted-in Matlab.
 - [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
-
-## PHP 
-
-- [Food-and-beverage-monitor](https://github.com/fjday96/Food-and-beverage-monitor) - SIT374 Food and beverage monitor system
 
 ## PowerShell 
 
@@ -902,7 +858,6 @@
 
 - [joss](https://github.com/openjournals/joss) - The Journal of Open Source Software
 - [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
-- [zotxt](https://github.com/egh/zotxt) - zotxt: a Zotero extension for text
 
 ## Rust 
 
@@ -922,6 +877,7 @@
 
 ## Shell 
 
+- [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
 - [lab-redis](https://github.com/thedatasociety/lab-redis) - 
