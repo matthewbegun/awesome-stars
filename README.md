@@ -395,7 +395,6 @@
 
 - [jupyterbook-with-turing-way](https://github.com/choldgraf/jupyterbook-with-turing-way) - 2020-malvikasharan created by GitHub Classroom
 - [jupyterlab_iframe](https://github.com/choldgraf/jupyterlab_iframe) - JupyterLab iframe widget
-- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some premade binaries.
 - [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
 - [awesome-list](https://github.com/ruanbekker/awesome-list) - My Awesome List of anything cool that my curious mind finds interesting
 - [Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -605,6 +604,7 @@
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [container](https://github.com/ludeeus/container) - Custom containers for various usecases
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
+- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some premade binaries.
 - [jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
 - [subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
