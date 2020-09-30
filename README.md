@@ -10,6 +10,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [D](#d)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
@@ -41,6 +42,7 @@
 
 ## C 
 
+- [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [egl-wayland](https://github.com/NVIDIA/egl-wayland) - The EGLStream-based Wayland external platform
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
 - [FALCONN](https://github.com/FALCONN-LIB/FALCONN) - FAst Lookups of Cosine and Other Nearest Neighbors (based on fast locality-sensitive hashing)
@@ -55,6 +57,7 @@
 
 ## C# # 
 
+- [Elastic-Silicon-Interconnect](https://github.com/microsoft/Elastic-Silicon-Interconnect) - ESI is an FPGA connectivity system. It uses typed, latency-insensitive on-chip connections between ESI-enabled modules. It also bridges off-chip and creates high-level APIs using the type data.
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
@@ -119,6 +122,10 @@
 
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
 
+## D 
+
+- [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3
+
 ## Dockerfile 
 
 - [vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
@@ -144,6 +151,7 @@
 
 ## Go 
 
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [nsbox](https://github.com/refi64/nsbox) - A powerful pet container manager
@@ -195,6 +203,8 @@
 
 ## JavaScript 
 
+- [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
+- [gs-extensions-drop-down-terminal](https://github.com/zzrough/gs-extensions-drop-down-terminal) - Drop Down Terminal extension for the Gnome Shell
 - [material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -285,6 +295,7 @@
 
 ## Jupyter Notebook 
 
+- [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [Mathematics-for-Machine-Learning-Specialization](https://github.com/susanli2016/Mathematics-for-Machine-Learning-Specialization) - 
 - [data-science-cheatsheet](https://github.com/QPod/data-science-cheatsheet) - 
@@ -600,6 +611,9 @@
 
 ## Python 
 
+- [SAS-LAB01](https://github.com/shivshah03/SAS-LAB01) - 
+- [dataops-project-template](https://github.com/slalom-ggp/dataops-project-template) - Template project for new dataops repos.
+- [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter for JupyterLab.
 - [dev-setup](https://github.com/donnemartin/dev-setup) - macOS development environment setup:  Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
@@ -878,6 +892,9 @@
 
 ## Shell 
 
+- [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
+- [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [dotfiles](https://github.com/ryantam626/dotfiles) - My machine-common dotfiles and scripts to setup my workstations.
 - [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
@@ -954,6 +971,7 @@
 
 ## TeX 
 
+- [papers-vsup](https://github.com/uwdata/papers-vsup) - Visualize uncertainty
 - [KozakStats](https://github.com/dtkaplan/KozakStats) - Book and materials for "Statistics Using Technology"
 - [ThinkBayes](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
 - [r_viz](https://github.com/samclifford/r_viz) - 
