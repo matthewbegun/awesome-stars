@@ -404,6 +404,7 @@
 
 ## Others 
 
+- [Encrypted-Arch-UEFI-Installation](https://github.com/HardenedArray/Encrypted-Arch-UEFI-Installation) - An efficent method to achieve a properly encrypted, UEFI-booting, Arch Linux system.  Multi-OS, and VirtualBox, UEFI booting are also supported.
 - [jupyterbook-with-turing-way](https://github.com/choldgraf/jupyterbook-with-turing-way) - 2020-malvikasharan created by GitHub Classroom
 - [jupyterlab_iframe](https://github.com/choldgraf/jupyterlab_iframe) - JupyterLab iframe widget
 - [pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
