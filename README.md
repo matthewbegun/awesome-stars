@@ -997,6 +997,7 @@
 
 ## TypeScript 
 
+- [vscode-todo-plus](https://github.com/fabiospampinato/vscode-todo-plus) - Manage todo lists with ease. Powerful, easy to use and customizable.
 - [code-server](https://github.com/sixeyed/code-server) - Run VS Code on a remote server.
 - [pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git) - A Git extension for JupyterLab
