@@ -14,6 +14,7 @@
   - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
@@ -71,7 +72,7 @@
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [rant3](https://github.com/TheBerkin/rant3) - (ARCHIVED) Rant – The all-purpose procedural text library
+- [rant3](https://github.com/TheBerkin/rant3) - Archive of Rant 3.x
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
 - [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10-archives/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
@@ -201,6 +202,10 @@
 - [ddabm-solar](https://github.com/haffwin/ddabm-solar) - 
 - [BoB-Workshop](https://github.com/matt-sutton/BoB-Workshop) - Short workshop on Bayesian Variable Selection methods
 
+## Java 
+
+- [droidvim](https://github.com/shiftrot/droidvim) - DroidVim is a Vim clone for Android.
+
 ## JavaScript 
 
 - [vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
@@ -256,7 +261,7 @@
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [pile](https://github.com/arminbw/pile) - a lightweight Firefox add-on for the avid reader
 - [ChessR](https://github.com/4imble/ChessR) - Chess with the intention of plugging in SignalR for the front end eventually.
-- [stylelint](https://github.com/stylelint/stylelint) - A mighty, modern style linter
+- [stylelint](https://github.com/stylelint/stylelint) - 
 - [pro4trello](https://github.com/mdjekic/pro4trello) - Pro for Trello Google Chrome Extension
 - [functions-samples](https://github.com/firebase/functions-samples) - Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase
 - [joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
@@ -614,6 +619,7 @@
 
 ## Python 
 
+- [briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [SAS-LAB01](https://github.com/shivshah03/SAS-LAB01) - 
 - [dataops-project-template](https://github.com/slalom-ggp/dataops-project-template) - Template project for new dataops repos.
 - [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter for JupyterLab.
