@@ -619,6 +619,7 @@
 
 ## Python 
 
+- [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [SAS-LAB01](https://github.com/shivshah03/SAS-LAB01) - 
 - [dataops-project-template](https://github.com/slalom-ggp/dataops-project-template) - Template project for new dataops repos.
