@@ -903,6 +903,10 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
+- [dotfiles](https://github.com/AladW/dotfiles) - 
+- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
+- [devtools](https://github.com/eli-schwartz/devtools) - Experiments in extending the Arch Linux devtools
 - [spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Spectre, Meltdown, Foreshadow, Fallout, RIDL, ZombieLoad vulnerability/mitigation checker for Linux & BSD
 - [vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [dotfiles](https://github.com/ryantam626/dotfiles) - My machine-common dotfiles and scripts to setup my workstations.
