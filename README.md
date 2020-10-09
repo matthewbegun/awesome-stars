@@ -43,6 +43,7 @@
 
 ## C 
 
+- [hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [egl-wayland](https://github.com/NVIDIA/egl-wayland) - The EGLStream-based Wayland external platform
 - [nyancat](https://github.com/klange/nyancat) - Nyancat in your terminal, rendered through ANSI escape sequences. This is the source for the Debian package `nyancat`.
@@ -152,6 +153,8 @@
 
 ## Go 
 
+- [scratchy](https://github.com/muesli/scratchy) - Quickly bootstrap a Linux distro in a (non-Docker) container and interactively execute something in it
+- [docker-backup](https://github.com/muesli/docker-backup) - A tool to create & restore complete, self-contained backups of Docker containers
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
@@ -208,6 +211,7 @@
 
 ## JavaScript 
 
+- [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
 - [gs-extensions-drop-down-terminal](https://github.com/zzrough/gs-extensions-drop-down-terminal) - Drop Down Terminal extension for the Gnome Shell
@@ -619,6 +623,8 @@
 
 ## Python 
 
+- [terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
+- [epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [briefcase](https://github.com/beeware/briefcase) - Tools to support converting a Python project into a standalone native application.
 - [SAS-LAB01](https://github.com/shivshah03/SAS-LAB01) - 
@@ -903,6 +909,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/muesli/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
 - [dotfiles](https://github.com/AladW/dotfiles) - 
 - [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
