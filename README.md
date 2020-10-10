@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [JuniperKernel](https://github.com/JuniperKernel/JuniperKernel) - R Kernel for Jupyter
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
@@ -211,6 +212,8 @@
 
 ## JavaScript 
 
+- [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
+- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
@@ -249,7 +252,6 @@
 - [jquery.graphviz](https://github.com/goinnn/jquery.graphviz) - Animate a svg generated with graphviz
 - [jquery.graphviz.svg](https://github.com/mountainstorm/jquery.graphviz.svg) - jquery plugin to make graphviz svg charts responsive
 - [d3-graphviz](https://github.com/magjac/d3-graphviz) - Graphviz DOT rendering and animated transitions using D3
-- [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [utility-theory](https://github.com/lindeloev/utility-theory) - Utility Theory for Dummies: An R Tutorial
 - [tests-as-linear](https://github.com/lindeloev/tests-as-linear) - Common statistical tests are linear models (or: how to teach stats)
 - [markdown-index](https://github.com/zeke/markdown-index) - Build a markdown table of contents for all the markdown files in a given directory tree.
@@ -623,6 +625,10 @@
 
 ## Python 
 
+- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
+- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [epr](https://github.com/wustho/epr) - CLI Epub Reader
 - [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
@@ -650,7 +656,6 @@
 - [glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
-- [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [keras](https://github.com/keras-team/keras) - Deep Learning for humans
@@ -787,7 +792,6 @@
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
 - [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
-- [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
@@ -909,6 +913,7 @@
 
 ## Shell 
 
+- [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [dotfiles](https://github.com/muesli/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
 - [dotfiles](https://github.com/AladW/dotfiles) - 
