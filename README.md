@@ -131,6 +131,7 @@
 
 ## Dockerfile 
 
+- [alpine-dask-docker](https://github.com/jcrist/alpine-dask-docker) - Tiny Dask Docker images based on Alpine Linux
 - [vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
 - [docker-images](https://github.com/QPod/docker-images) - Out-of-box Data Science / AI platform | AI/数据科学的瑞士军刀
 - [jupyterlab-vscode](https://github.com/cyverse-vice/jupyterlab-vscode) - 
@@ -212,6 +213,7 @@
 
 ## JavaScript 
 
+- [recordlinkage-annotator](https://github.com/J535D165/recordlinkage-annotator) - A browser user interface for manual labeling of record pairs.
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -625,6 +627,8 @@
 
 ## Python 
 
+- [container](https://github.com/xonsh/container) - xonsh on docker
+- [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
@@ -823,7 +827,7 @@
 - [word-mesh](https://github.com/mukund109/word-mesh) - A context-preserving word cloud generator
 - [python_koans](https://github.com/kgashok/python_koans) - Python Koans - Learn Python through TDD
 - [word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
-- [3-MOT](https://github.com/RemiTheWarrior/3-MOT) - 3-MOT is a multi-physics software relying on FEniCS.
+- [3-MOT](https://github.com/RemDelaporteMathurin/3-MOT) - 3-MOT is a multi-physics software relying on FEniCS.
 - [scitools](https://github.com/hplgit/scitools) - Additional scientific computing functionality in Python - extensions to NumPy/SciPy++
 - [behave](https://github.com/behave/behave) - BDD, Python style.
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
