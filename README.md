@@ -131,6 +131,8 @@
 
 ## Dockerfile 
 
+- [dockerize-tutorial](https://github.com/ravi-chandran/dockerize-tutorial) - Example of how to dockerize a software build system
+- [docker-images](https://github.com/conda-forge/docker-images) - Repository to host the Docker images files used in conda-forge
 - [alpine-dask-docker](https://github.com/jcrist/alpine-dask-docker) - Tiny Dask Docker images based on Alpine Linux
 - [vscode-devcontainers](https://github.com/nolte/vscode-devcontainers) - 
 - [docker-images](https://github.com/QPod/docker-images) - Out-of-box Data Science / AI platform | AI/数据科学的瑞士军刀
@@ -627,6 +629,8 @@
 
 ## Python 
 
+- [asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
+- [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [container](https://github.com/xonsh/container) - xonsh on docker
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
