@@ -184,6 +184,7 @@
 - [ModernDive_book](https://github.com/moderndive/ModernDive_book) - Statistical Inference via Data Science: A ModernDive into R and the Tidyverse
 - [CompactInference](https://github.com/dtkaplan/CompactInference) - The Compact Guide to Inference
 - [pydata_ninja](https://github.com/twiecki/pydata_ninja) - The Path of the PyData Ninja
+- [morality](https://github.com/lindeloev/morality) - Data and analysis: Morality in the time of Cognitive Famine
 - [chrome-next-step-for-trello](https://github.com/adrienjoly/chrome-next-step-for-trello) - ✅ Chrome extension to check tasks directly from your Trello boards
 - [learnbyexample.github.io](https://github.com/learnbyexample/learnbyexample.github.io) - My super duper awesome programming blog
 - [project-org](https://github.com/kuriwaki/project-org) - Starting and organizing a project, in the spirit of Gentzkow and Shapiro (2014)
@@ -215,6 +216,7 @@
 
 ## JavaScript 
 
+- [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
 - [recordlinkage-annotator](https://github.com/J535D165/recordlinkage-annotator) - A browser user interface for manual labeling of record pairs.
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -311,6 +313,7 @@
 
 ## Jupyter Notebook 
 
+- [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
 - [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
 - [Mathematics-for-Machine-Learning-Specialization](https://github.com/susanli2016/Mathematics-for-Machine-Learning-Specialization) - 
@@ -629,6 +632,7 @@
 
 ## Python 
 
+- [pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [container](https://github.com/xonsh/container) - xonsh on docker
@@ -783,7 +787,6 @@
 - [imatlab](https://github.com/imatlab/imatlab) - A Jupyter kernel for MATLAB.
 - [psychopy-course](https://github.com/lindeloev/psychopy-course) - The course materials for using psychopy for psychophysics and neuroscience.
 - [psychopy](https://github.com/psychopy/psychopy) - For running psychology and neuroscience experiments
-- [morality](https://github.com/lindeloev/morality) - Data and analysis: Morality in the time of Cognitive Famine
 - [smop](https://github.com/victorlei/smop) - Small Matlab to Python compiler
 - [plotly.py](https://github.com/plotly/plotly.py) - The interactive graphing library for Python (includes Plotly Express) :sparkles:
 - [dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
@@ -1059,7 +1062,7 @@
 - [vscode-todo-list](https://github.com/tzachov/vscode-todo-list) - VSCode Extension that lists all of your TODO-type comments in an easy-to-read tree view panel
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
-- [awesomo](https://github.com/lk-geimfari/awesomo) - An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [catex](https://github.com/konn/catex) - YaTeX-like completions for LaTeX in VSCode
 - [vscode-generic-input-method](https://github.com/konn/vscode-generic-input-method) - Generic Input Method for VSCode, mainly focusing on Unicode Symbol input for Theorem Provers, and YaTeX-like image completion for LaTeX
