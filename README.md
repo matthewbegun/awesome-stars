@@ -43,6 +43,8 @@
 
 ## C 
 
+- [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
+- [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
 - [tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 - [egl-wayland](https://github.com/NVIDIA/egl-wayland) - The EGLStream-based Wayland external platform
@@ -59,6 +61,7 @@
 
 ## C# # 
 
+- [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [Elastic-Silicon-Interconnect](https://github.com/microsoft/Elastic-Silicon-Interconnect) - ESI is an FPGA connectivity system. It uses typed, latency-insensitive on-chip connections between ESI-enabled modules. It also bridges off-chip and creates high-level APIs using the type data.
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
 - [WinTermPlus](https://github.com/dotjosh/WinTermPlus) - Windows Terminal PLUS (Unofficial)
@@ -114,10 +117,13 @@
 
 ## C++ 
 
+- [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [JuniperKernel](https://github.com/JuniperKernel/JuniperKernel) - R Kernel for Jupyter
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [omhismb2019](https://github.com/Kingsford-Group/omhismb2019) - 
+- [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
 - [stats](https://github.com/kthohr/stats) - A C++ header-only library of statistical distribution functions.
 - [subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 
@@ -346,7 +352,6 @@
 - [pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 - [notebooks](https://github.com/fsquillace/notebooks) - Various examples of handy Jupyter notebooks
 - [hyperspy-demos](https://github.com/hyperspy/hyperspy-demos) - HyperSpy IPython Notebooks demos
-- [openturns](https://github.com/openturns/openturns) - Uncertainty treatment library
 - [nbestimate](https://github.com/parente/nbestimate) - Estimate of Public Jupyter Notebooks on GitHub
 - [splink_demos](https://github.com/moj-analytical-services/splink_demos) - Interactive notebooks containing demonstration code of the splink library
 - [Course-python-data-science](https://github.com/datapublishings/Course-python-data-science) - 
@@ -632,6 +637,14 @@
 
 ## Python 
 
+- [ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
+- [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
+- [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
+- [data-vault](https://github.com/krassowski/data-vault) - IPython magic for simple, organized, compressed and encrypted: storage & transfer of files between notebooks.
+- [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
+- [blueman](https://github.com/blueman-project/blueman) - 
+- [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+- [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
@@ -1034,6 +1047,7 @@
 
 ## TypeScript 
 
+- [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [vscode-markdown-todo](https://github.com/fabiospampinato/vscode-markdown-todo) - Manage todo lists inside markdown files with ease.
 - [todo-txt](https://github.com/vamanos/todo-txt) - Todo.txt syntax highlighter and helper extension for visual studio code.
 - [vscode-todo-parser](https://github.com/mt40/vscode-todo-parser) - TodoParser extension for vscode. Parse TODOs in your project.
