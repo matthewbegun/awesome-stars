@@ -117,6 +117,9 @@
 
 ## C++ 
 
+- [n2](https://github.com/kakao/n2) - TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets
+- [milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
+- [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -319,6 +322,8 @@
 
 ## Jupyter Notebook 
 
+- [agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) - 
+- [google-research](https://github.com/google-research/google-research) - Google Research
 - [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
 - [visualization-curriculum](https://github.com/uwdata/visualization-curriculum) - A data visualization curriculum of interactive notebooks.
 - [sklearn-bayes](https://github.com/AmazaspShumik/sklearn-bayes) - Python package for Bayesian Machine Learning with scikit-learn API
@@ -428,6 +433,7 @@
 
 ## Others 
 
+- [faiss_tips](https://github.com/matsui528/faiss_tips) - Some useful tips for faiss
 - [vscode-todo](https://github.com/izaxon/vscode-todo) - Visual Code ".todo" file extension
 - [Encrypted-Arch-UEFI-Installation](https://github.com/HardenedArray/Encrypted-Arch-UEFI-Installation) - An efficent method to achieve a properly encrypted, UEFI-booting, Arch Linux system.  Multi-OS, and VirtualBox, UEFI booting are also supported.
 - [jupyterbook-with-turing-way](https://github.com/choldgraf/jupyterbook-with-turing-way) - 2020-malvikasharan created by GitHub Classroom
@@ -637,6 +643,13 @@
 
 ## Python 
 
+- [starthinker](https://github.com/google/starthinker) - Framework for building data workflows provided by Google.
+- [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
+- [pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
+- [pynndescent](https://github.com/lmcinnes/pynndescent) - A Python nearest neighbor descent for approximate nearest neighbors
+- [Fly-LSH](https://github.com/dataplayer12/Fly-LSH) - An implementation of efficient LSH inspired by fruit fly brain
+- [OpenABM-Covid19](https://github.com/BDI-pathogens/OpenABM-Covid19) - 
+- [torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
@@ -937,6 +950,7 @@
 
 ## Shell 
 
+- [dockerimages](https://github.com/better/dockerimages) - build images
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [dotfiles](https://github.com/muesli/dotfiles) - My dotfiles
 - [dotfiles](https://github.com/eli-schwartz/dotfiles) - Custom dotfiles (powered by https://github.com/eli-schwartz/dotfiles.sh)
