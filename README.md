@@ -225,6 +225,7 @@
 
 ## JavaScript 
 
+- [jupyter-notebookparams](https://github.com/manics/jupyter-notebookparams) - Takes query parameters from a url to create the first cell of a jupyter notebook.
 - [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
 - [recordlinkage-annotator](https://github.com/J535D165/recordlinkage-annotator) - A browser user interface for manual labeling of record pairs.
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
@@ -643,6 +644,9 @@
 
 ## Python 
 
+- [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
+- [dask-labextension](https://github.com/dask/dask-labextension) - JupyterLab extension for Dask
+- [uncertainty-metrics](https://github.com/google/uncertainty-metrics) - An easy-to-use interface for measuring uncertainty and robustness.
 - [starthinker](https://github.com/google/starthinker) - Framework for building data workflows provided by Google.
 - [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
@@ -1061,6 +1065,10 @@
 
 ## TypeScript 
 
+- [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
+- [jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)
+- [Collapsible_Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Implements Collapsible Headers for Jupyter Lab Notebooks
+- [jupyterlab-kernelspy](https://github.com/vidartf/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [vscode-markdown-todo](https://github.com/fabiospampinato/vscode-markdown-todo) - Manage todo lists inside markdown files with ease.
 - [todo-txt](https://github.com/vamanos/todo-txt) - Todo.txt syntax highlighter and helper extension for visual studio code.
