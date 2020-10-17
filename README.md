@@ -117,7 +117,6 @@
 
 ## C++ 
 
-- [n2](https://github.com/kakao/n2) - TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets
 - [milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
@@ -323,6 +322,7 @@
 
 ## Jupyter Notebook 
 
+- [n2](https://github.com/kakao/n2) - TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets
 - [agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) - 
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
