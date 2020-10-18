@@ -20,6 +20,7 @@
   - [Lua](#lua)
   - [Makefile](#makefile)
   - [Others](#others)
+  - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Prolog](#prolog)
   - [Python](#python)
@@ -43,6 +44,7 @@
 
 ## C 
 
+- [NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [hotcorner](https://github.com/taviso/hotcorner) - Tiny Hot Corners for Windows 10
@@ -117,6 +119,7 @@
 
 ## C++ 
 
+- [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
 - [milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
@@ -224,6 +227,7 @@
 
 ## JavaScript 
 
+- [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jupyter-notebookparams](https://github.com/manics/jupyter-notebookparams) - Takes query parameters from a url to create the first cell of a jupyter notebook.
 - [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
 - [recordlinkage-annotator](https://github.com/J535D165/recordlinkage-annotator) - A browser user interface for manual labeling of record pairs.
@@ -608,6 +612,10 @@
 - [matlab-support](https://github.com/benjamin-heasly/matlab-support) - Docker image with enough dependencies to support a mounted-in Matlab.
 - [editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
 
+## Perl 
+
+- [angel-PS1](https://github.com/dolmen/angel-PS1) - Your fancy shell prompt fed by your guardian angel
+
 ## PowerShell 
 
 - [Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
@@ -954,6 +962,7 @@
 
 ## Shell 
 
+- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [dockerimages](https://github.com/better/dockerimages) - build images
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
 - [dotfiles](https://github.com/muesli/dotfiles) - My dotfiles
@@ -1065,6 +1074,7 @@
 
 ## TypeScript 
 
+- [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
 - [jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)
 - [Collapsible_Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Implements Collapsible Headers for Jupyter Lab Notebooks
@@ -1131,6 +1141,7 @@
 
 ## Vue 
 
+- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 
 ## ZIL 
