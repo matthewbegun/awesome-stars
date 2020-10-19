@@ -44,6 +44,7 @@
 
 ## C 
 
+- [BSDGames](https://github.com/vattam/BSDGames) - Text based games from Debian - bsdgames package.
 - [NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
 - [libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
@@ -119,6 +120,7 @@
 
 ## C++ 
 
+- [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [umoria](https://github.com/dungeons-of-moria/umoria) - Moria: a roguelike Dungeon Crawler game | Umoria Source Code
 - [milvus](https://github.com/milvus-io/milvus) - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
