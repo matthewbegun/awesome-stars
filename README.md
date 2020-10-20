@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [chromeos-apk](https://github.com/vladikoff/chromeos-apk) - ☢️  Run Android Apps in Chrome OS OR Chrome in OS X, Linux and Windows.
 - [chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 - [jupyter-notebookparams](https://github.com/manics/jupyter-notebookparams) - Takes query parameters from a url to create the first cell of a jupyter notebook.
 - [drop-down-terminal-x](https://github.com/bigbn/drop-down-terminal-x) - Drop Down Terminal X extension for the Gnome Shell
@@ -328,7 +329,7 @@
 
 ## Jupyter Notebook 
 
-- [n2](https://github.com/kakao/n2) - TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets
+- [n2](https://github.com/kakao/n2) - TOROS N2 - lightweight approximate Nearest Neighbor library which runs fast even with large datasets
 - [agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) - 
 - [google-research](https://github.com/google-research/google-research) - Google Research
 - [Optimus](https://github.com/ironmussa/Optimus) - :truck: Agile Data Preparation Workflows made easy with dask, cudf, dask_cudf and pyspark
