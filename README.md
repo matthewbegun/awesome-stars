@@ -157,6 +157,7 @@
 - [vscode-in-docker](https://github.com/pubkey/vscode-in-docker) - Run VSCode inside of a Docker Container
 - [data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [dockerfiles](https://github.com/ruanbekker/dockerfiles) - Dockerfiles Repo
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
@@ -711,7 +712,6 @@
 - [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
 - [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
@@ -867,7 +867,7 @@
 - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [visual-semantic-embedding](https://github.com/ivendrov/visual-semantic-embedding) - Implementation of the image-sentence embedding method described in "Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models"
-- [instantbox](https://github.com/instantbox/instantbox) - Get a clean, ready-to-go Linux box in seconds.
+- [instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [pandocfilters](https://github.com/jgm/pandocfilters) - A python module for writing pandoc filters, with a collection of examples
 - [Termux-Mpv](https://github.com/Neo-Oli/Termux-Mpv) - Wrapper for Mpv on Termux. Displays play controls in the notification
 - [lightnovel-crawler](https://github.com/dipu-bd/lightnovel-crawler) - Download and generate e-books from online sources.
