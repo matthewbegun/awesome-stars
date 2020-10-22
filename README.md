@@ -965,6 +965,7 @@
 
 ## Shell 
 
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [dockerimages](https://github.com/better/dockerimages) - build images
 - [nb](https://github.com/xwmx/nb) - CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.
