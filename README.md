@@ -44,6 +44,7 @@
 
 ## C 
 
+- [linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.freenode.net ##linux-hardened
 - [BSDGames](https://github.com/vattam/BSDGames) - Text based games from Debian - bsdgames package.
 - [NetHack](https://github.com/NetHack/NetHack) - Official NetHack Git Repository
 - [python-Levenshtein](https://github.com/ztane/python-Levenshtein) - The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity
@@ -965,6 +966,7 @@
 
 ## Shell 
 
+- [svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [dockerimages](https://github.com/better/dockerimages) - build images
