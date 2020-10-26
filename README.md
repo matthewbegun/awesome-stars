@@ -65,6 +65,7 @@
 
 ## C# # 
 
+- [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [Elastic-Silicon-Interconnect](https://github.com/microsoft/Elastic-Silicon-Interconnect) - ESI is an FPGA connectivity system. It uses typed, latency-insensitive on-chip connections between ESI-enabled modules. It also bridges off-chip and creates high-level APIs using the type data.
 - [StoreLib](https://github.com/TitleOS/StoreLib) - Storelib is a DotNet library that provides APIs to interact with the various Microsoft Store endpoints.
@@ -443,6 +444,7 @@
 
 ## Others 
 
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [faiss_tips](https://github.com/matsui528/faiss_tips) - Some useful tips for faiss
 - [vscode-todo](https://github.com/izaxon/vscode-todo) - Visual Code ".todo" file extension
 - [Encrypted-Arch-UEFI-Installation](https://github.com/HardenedArray/Encrypted-Arch-UEFI-Installation) - An efficent method to achieve a properly encrypted, UEFI-booting, Arch Linux system.  Multi-OS, and VirtualBox, UEFI booting are also supported.
@@ -657,6 +659,7 @@
 
 ## Python 
 
+- [coala-quickstart](https://github.com/coala/coala-quickstart) - A tool that generates an initial coala config file for you!
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
 - [dask-labextension](https://github.com/dask/dask-labextension) - JupyterLab extension for Dask
 - [uncertainty-metrics](https://github.com/google/uncertainty-metrics) - An easy-to-use interface for measuring uncertainty and robustness.
@@ -839,7 +842,6 @@
 - [demographica](https://github.com/CamDavidsonPilon/demographica) - Analyse US name distributions and create age profiles of your users
 - [pymetric](https://github.com/WSWUP/pymetric) - Python implementation of the METRIC model
 - [stackless](https://github.com/stackless-dev/stackless) - The Stackless Python programming language
-- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
