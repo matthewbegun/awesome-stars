@@ -659,6 +659,16 @@
 
 ## Python 
 
+- [pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
+- [pants](https://github.com/pantsbuild/pants) - The Pants Build System
+- [warehouse](https://github.com/pypa/warehouse) - The Python Package Index
+- [pip](https://github.com/pypa/pip) - The Python package installer
+- [black](https://github.com/psf/black) - The uncompromising Python code formatter
+- [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
+- [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
+- [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
+- [tablib](https://github.com/jazzband/tablib) - Python Module for Tabular Datasets in XLS, CSV, JSON, YAML, &c.
 - [coala-quickstart](https://github.com/coala/coala-quickstart) - A tool that generates an initial coala config file for you!
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
 - [dask-labextension](https://github.com/dask/dask-labextension) - JupyterLab extension for Dask
@@ -968,6 +978,7 @@
 
 ## Shell 
 
+- [example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
 - [svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -1149,7 +1160,7 @@
 
 ## Vue 
 
-- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of awesome Mechanical Keyboard resources.
+- [awesome-mechanical-keyboard](https://github.com/BenRoe/awesome-mechanical-keyboard) - ⌨️ A curated list of Open Source Mechanical Keyboard resources.
 - [repo-remover](https://github.com/moollaza/repo-remover) - A web app that helps you archive and delete old/unused repos, quickly and easily.
 
 ## ZIL 
