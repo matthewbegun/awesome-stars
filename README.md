@@ -411,7 +411,7 @@
 - [dopamine](https://github.com/google/dopamine) - Dopamine is a research framework for fast prototyping of reinforcement learning algorithms.
 - [materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [lab-workshops](https://github.com/YaleDHLab/lab-workshops) - Materials for workshops on text mining, machine learning, and data visualization
-- [pymc4](https://github.com/pymc-devs/pymc4) - A high-level probabilistic programming interface for TensorFlow Probability
+- [pymc4](https://github.com/pymc-devs/pymc4) - Experimental PyMC interface for TensorFlow Probability. Official work on this project has been discontinued.
 - [AnyLogicGIS_from_geojson](https://github.com/Quar/AnyLogicGIS_from_geojson) - Generate Java Utility class from GeoJson Input for AnyLogic GISShape
 - [python-conda_pip](https://github.com/binder-examples/python-conda_pip) - Installing packages with pip and conda
 - [ligo-binder](https://github.com/minrk/ligo-binder) - Black holes!
@@ -1089,7 +1089,7 @@
 - [paper-template](https://github.com/ivotron/paper-template) - Docker- and Pandoc-based Template for Academic Articles
 - [thesisdown](https://github.com/ismayc/thesisdown) - An updated R Markdown thesis template using the bookdown package
 - [academic-pandoc-template](https://github.com/maehr/academic-pandoc-template) - Write beautiful academic texts with the distraction-free Pandoc Markdown and typademic.
-- [pandoc-starter](https://github.com/jez/pandoc-starter) - 📄My pandoc markdown templates and makefiles
+- [pandoc-starter](https://github.com/jez/pandoc-starter) - 📄 My pandoc markdown templates and makefiles
 
 ## TypeScript 
 
