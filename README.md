@@ -894,6 +894,7 @@
 - [pytest](https://github.com/pytest-dev/pytest) - The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
+- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [devguide](https://github.com/python/devguide) - The Python developer's guide
 - [cpython](https://github.com/python/cpython) - The Python programming language
 - [manuskript](https://github.com/olivierkes/manuskript) - A open-source tool for writers
@@ -1127,7 +1128,6 @@
 - [vscode-todo-list](https://github.com/tzachov/vscode-todo-list) - VSCode Extension that lists all of your TODO-type comments in an easy-to-read tree view panel
 - [notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [vscode-gitignore](https://github.com/CodeZombieCH/vscode-gitignore) - A simple extension for Visual Studio Code that lets you pull .gitignore files from the https://github.com/github/gitignore repository
-- [awesomo](https://github.com/lk-geimfari/awesomo) - A list of cool open source projects written in C, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala, etc.
 - [darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [catex](https://github.com/konn/catex) - YaTeX-like completions for LaTeX in VSCode
 - [vscode-generic-input-method](https://github.com/konn/vscode-generic-input-method) - Generic Input Method for VSCode, mainly focusing on Unicode Symbol input for Theorem Provers, and YaTeX-like image completion for LaTeX
