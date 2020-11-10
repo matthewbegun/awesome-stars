@@ -444,6 +444,7 @@
 
 ## Others 
 
+- [github-drama](https://github.com/nikolas/github-drama) - "locked and limited conversation to collaborators"
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [faiss_tips](https://github.com/matsui528/faiss_tips) - Some useful tips for faiss
 - [vscode-todo](https://github.com/izaxon/vscode-todo) - Visual Code ".todo" file extension
