@@ -1096,6 +1096,7 @@
 
 ## TypeScript 
 
+- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
 - [jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)
@@ -1116,7 +1117,6 @@
 - [vscode-webbrowse](https://github.com/auriou/vscode-webbrowse) - 
 - [browser](https://github.com/ayqy/browser) - An embedded browser for your VS Code.
 - [jupyterlab-js-logs](https://github.com/QuantStack/jupyterlab-js-logs) - JupyterLab extension to show the logs from the browser developer tools console
-- [desktop](https://github.com/desktop/desktop) - Simple collaboration from your desktop
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
 - [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
