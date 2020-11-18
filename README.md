@@ -479,7 +479,7 @@
 - [plantuml-stdlib](https://github.com/plantuml/plantuml-stdlib) - Contains official Standard Library for PlantUML
 - [MaterialDesign](https://github.com/Templarian/MaterialDesign) - ✒5600+ Material Design Icons from the Community
 - [plantuml-icon-font-sprites](https://github.com/tupadr3/plantuml-icon-font-sprites) - plantuml-font-icon-sprites
-- [C4-PlantUML](https://github.com/RicardoNiepel/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+- [C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [swcarpentry](https://github.com/swcarpentry/swcarpentry) - A meta-repository to help navigate the many lessons and repos of the Software Carpentry Community
 - [linters](https://github.com/mcandre/linters) - an introduction to static code analysis
 - [awesome-visjs](https://github.com/visjs/awesome-visjs) - 🕶️ A curated list of resources around vis.js
