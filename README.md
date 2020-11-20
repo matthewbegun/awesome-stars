@@ -747,7 +747,7 @@
 - [notes_to_self](https://github.com/ianozsvald/notes_to_self) - 
 - [dtype_diet](https://github.com/ianozsvald/dtype_diet) - Tries to shrink your Pandas column dtypes with no data loss so you have more spare RAM
 - [ipython_memory_usage](https://github.com/ianozsvald/ipython_memory_usage) - IPython tool to report memory usage deltas for every command you type
-- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Scripts and modules for freezing Python scripts into executables.
+- [cx_Freeze](https://github.com/marcelotduarte/cx_Freeze) - Create standalone executables from Python scripts, with the same performance and is cross-platform.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 - [extension-cookiecutter-ts](https://github.com/jupyterlab/extension-cookiecutter-ts) - A cookiecutter recipe for JupyterLab extensions in Typescript
 - [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
