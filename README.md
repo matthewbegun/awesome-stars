@@ -660,7 +660,7 @@
 
 ## Python 
 
-- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and libray for various sites.
+- [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [pants](https://github.com/pantsbuild/pants) - The Pants Build System
 - [warehouse](https://github.com/pypa/warehouse) - The Python Package Index
