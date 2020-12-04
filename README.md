@@ -636,7 +636,6 @@
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
 - [PowerShellScripts](https://github.com/bsteil/PowerShellScripts) - Snippets & Scripts
-- [PowerShell](https://github.com/JeremyTBradshaw/PowerShell) - The resting place for my PowerShell scripting work
 - [WindowsContextMenuCustomizations](https://github.com/AmrEldib/WindowsContextMenuCustomizations) - Registry entries to modify Windows context menu
 - [PsTodoTxt](https://github.com/pauby/PsTodoTxt) - This is a PowerShell CLI to the Todo.txt todo file format with some PowerShell like features.
 - [cChoco](https://github.com/chocolatey/cChoco) - Community resource to manage Chocolatey
