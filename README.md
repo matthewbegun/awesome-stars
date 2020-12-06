@@ -679,7 +679,7 @@
 - [pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
 - [pynndescent](https://github.com/lmcinnes/pynndescent) - A Python nearest neighbor descent for approximate nearest neighbors
 - [Fly-LSH](https://github.com/dataplayer12/Fly-LSH) - An implementation of efficient LSH inspired by fruit fly brain
-- [OpenABM-Covid19](https://github.com/BDI-pathogens/OpenABM-Covid19) - 
+- [OpenABM-Covid19](https://github.com/BDI-pathogens/OpenABM-Covid19) - OpenABM-Covid19: an agent-based model for modelling the spread of SARS-CoV-2 (coronavirus) and control interventions for the Covid-19 epidemic
 - [torchsde](https://github.com/google-research/torchsde) - Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
@@ -866,7 +866,7 @@
 - [numba](https://github.com/numba/numba) - NumPy aware dynamic Python compiler using LLVM
 - [sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [fn.py](https://github.com/kachayev/fn.py) - Functional programming in Python: implementation of missing features to enjoy FP
-- [bake](https://github.com/kennethreitz-archive/bake) - Bake — the strangely familiar workflow utility.
+- [bake](https://github.com/kennethreitz42/bake) - Bake — the strangely familiar workflow utility.
 - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [gh_stars_export](https://github.com/ayush--s/gh_stars_export) - Exports list of all your starred Github repos to a json file
 - [ELI5](https://github.com/facebookresearch/ELI5) - Scripts and links to recreate the ELI5 dataset.
