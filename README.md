@@ -159,7 +159,6 @@
 - [vscode-in-docker](https://github.com/pubkey/vscode-in-docker) - Run VSCode inside of a Docker Container
 - [data-science-docker-vscode-template](https://github.com/caesarnine/data-science-docker-vscode-template) - 
 - [dockerfiles](https://github.com/ruanbekker/dockerfiles) - Dockerfiles Repo
-- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [dockerfiles](https://github.com/tianon/dockerfiles) - A semi-random collection of odds and ends.
 - [jupyter-stacks](https://github.com/binder-examples/jupyter-stacks) - Binder example for using a Jupyter DockerStacks image
 - [docker-images](https://github.com/ContinuumIO/docker-images) - Repository of Docker images created by Continuum Analytics
@@ -643,7 +642,7 @@
 - [awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [psutils](https://github.com/zhoujin7/psutils) - Command line utilities written in Powershell
 - [setup-dotnet](https://github.com/actions/setup-dotnet) - Set up your GitHub Actions workflow with a specific version of the .NET core sdk
-- [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My Windows PowerShell profiles
+- [PSProfiles](https://github.com/matt9ucci/PSProfiles) - My PowerShell profiles
 - [psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
 - [DockerCompletion](https://github.com/matt9ucci/DockerCompletion) - Docker command completion for PowerShell.
@@ -727,6 +726,7 @@
 - [ray](https://github.com/ray-project/ray) - An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.
 - [spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
+- [keras](https://github.com/keras-team/keras) - Deep Learning for humans
 - [jellyfish](https://github.com/jamesturk/jellyfish) - 🎐 a python library for doing approximate and phonetic matching of strings.
 - [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
