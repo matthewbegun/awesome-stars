@@ -731,7 +731,7 @@
 - [english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [deepmatcher](https://github.com/anhaidgroup/deepmatcher) - Python package for performing Entity and Text Matching using Deep Learning.
 - [py_stringmatching](https://github.com/anhaidgroup/py_stringmatching) - A comprehensive and scalable set of string tokenizers and similarity measures in Python
-- [jc](https://github.com/kellyjonbrazil/jc) - This tool converts the output of popular command-line tools and file-types to JSON. This allows piping of output to tools like jq.
+- [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [blocklib](https://github.com/data61/blocklib) - Python implementations of record linkage blocking techniques.
 - [LSH](https://github.com/mattilyra/LSH) - Locality Sensitive Hashing using MinHash in Python/Cython to detect near duplicate text documents
