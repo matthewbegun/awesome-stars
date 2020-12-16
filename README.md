@@ -835,7 +835,7 @@
 - [sphinx-math-dollar](https://github.com/sympy/sphinx-math-dollar) - Sphinx extension to let you write LaTeX math using $$
 - [removestar](https://github.com/asmeurer/removestar) - Tool to automatically replace 'import *' in Python files with explicit imports
 - [autopep8](https://github.com/hhatto/autopep8) - A tool that automatically formats Python code to conform to the PEP 8 style guide.
-- [graalpython](https://github.com/graalvm/graalpython) - A Python 3 implementation built on GraalVM
+- [graalpython](https://github.com/oracle/graalpython) - A Python 3 implementation built on GraalVM
 - [winpython](https://github.com/winpython/winpython) - A free Python-distribution for Windows platform, including prebuilt packages for Scientific Python.
 - [cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
