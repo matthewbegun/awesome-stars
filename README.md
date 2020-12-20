@@ -629,7 +629,7 @@
 - [Install](https://github.com/ScoopInstaller/Install) - 📥 WIP: Next-generation Scoop (un)installer
 - [Scoop-Ash258](https://github.com/Ash258/Scoop-Ash258) - Personal bucket with wide variety of applications of all kind.
 - [dorado](https://github.com/chawyehsu/dorado) - 🐟 Yet Another bucket for lovely Scoop
-- [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
+- [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
 - [AutomatedStoreInstaller](https://github.com/arcadiogarcia/AutomatedStoreInstaller) - A powershell script to automate the installation of a list of Microsoft Store apps
 - [Microsoft-Store-Access](https://github.com/Cosmo121/Microsoft-Store-Access) - Enable Microsoft Store Access. For corporate devices that have access restricted
 - [PowerShell-Microsoft-Store-AppX-Download](https://github.com/Floccinaucinihilipilification11/PowerShell-Microsoft-Store-AppX-Download) - PowerShell script to download AppX files form Microsoft Store.
