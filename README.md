@@ -81,7 +81,7 @@
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [PeanutButter](https://github.com/fluffynuts/PeanutButter) - Tasty, versatile, nutritious; goes with many things in .net.
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
-- [rant3](https://github.com/TheBerkin/rant3) - Archive of Rant 3.x
+- [rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [MUIA_Multi-Agent](https://github.com/juancanobenito/MUIA_Multi-Agent) - "A novel Communication Technique for Nanobots based on acoustic signals" in Unity 3D
 - [Unity-Tanks-ScriptableObject-Demo-Notes](https://github.com/ppak10-archives/Unity-Tanks-ScriptableObject-Demo-Notes) - Notes on Richard Fine's TANKS! demo displaying Scriptable Object architecture
@@ -912,7 +912,7 @@
 - [academicmarkdown](https://github.com/smathot/academicmarkdown) - Academic writing with Markdown
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
 - [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
-- [sos](https://github.com/vatlab/sos) - SoS Workflow, a workflow system designed for daily data analysis
+- [sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
 - [MatlabSnippets](https://github.com/Slaier/MatlabSnippets) - matlab command autocomplete on vscode
 - [course-activity-planner](https://github.com/fuhrmanator/course-activity-planner) - Tool for instructors to plan course activities and synchronize the data with syllabus, LMS, etc.
