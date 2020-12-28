@@ -709,7 +709,7 @@
 - [kb](https://github.com/gnebbia/kb) - A minimalist command line knowledge base manager
 - [container](https://github.com/ludeeus/container) - Custom containers for various usecases
 - [eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days) - Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋
-- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some premade binaries.
+- [GWSL-Source](https://github.com/Opticos/GWSL-Source) - The actual code for GWSL. And some prebuilt releases.
 - [jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [pygls](https://github.com/openlawlibrary/pygls) - a pythonic generic language server
 - [subuser](https://github.com/subuser-security/subuser) - Run programs on linux with selectively restricted permissions.
