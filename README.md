@@ -91,7 +91,7 @@
 - [MCMC](https://github.com/nobnak/MCMC) - 
 - [Unity3dAsyncAwaitUtil](https://github.com/modesttree/Unity3dAsyncAwaitUtil) - A bunch of code to make using async-await easier in Unity3D
 - [Moondust](https://github.com/ValveSoftware/Moondust) - 
-- [buttplug-csharp](https://github.com/buttplugio/buttplug-csharp) - C# (.Net Framework 4.7/Standard 2.0) Implementation of Buttplug Client/Server
+- [buttplug-csharp](https://github.com/buttplugio/buttplug-csharp) - DEPRECATED, see Repo Website for new Buttplug C# project
 - [MathUtilities](https://github.com/zalo/MathUtilities) - A collection of some of the neat math and physics tricks that I've collected over the last few years.
 - [MarkdownGenerator](https://github.com/neuecc/MarkdownGenerator) - Generate markdown from C# binary & xml document for GitHub Wiki.
 - [Minefield](https://github.com/5argon/Minefield) - Program a concise navigation play mode test in Unity.
@@ -761,7 +761,7 @@
 - [ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
 - [auto-auto-complete](https://github.com/maandree/auto-auto-complete) - Autogenerate shell auto-completion scripts
-- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from MLPerf, Arm, General Motors, IBM, Raspberry Pi and ACM:
+- [ck](https://github.com/ctuning/ck) - Collective Knowledge framework (CK) helps to organize any software project as a database of reusable components and micro-services with common APIs, automation actions and extensible meta descriptions. See real-world use cases from Arm, General Motors, ACM, Raspberry Pi foundation and others:
 - [keras-gp](https://github.com/alshedivat/keras-gp) - Keras + Gaussian Processes: Learning scalable deep and recurrent kernels.
 - [formulaic](https://github.com/matthewwardrop/formulaic) - A high-performance implementation of Wilkinson formulas for Python.
 - [clkhash](https://github.com/data61/clkhash) - CLK hash: hash pii for entity matching
