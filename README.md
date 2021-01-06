@@ -695,7 +695,7 @@
 - [container](https://github.com/xonsh/container) - xonsh on docker
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [incubator-superset](https://github.com/apache/incubator-superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [epr](https://github.com/wustho/epr) - CLI Epub Reader
@@ -1002,7 +1002,7 @@
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
 - [nix-feedstock](https://github.com/conda-forge/nix-feedstock) - A conda-smithy repository for nix.
 - [test-actions](https://github.com/ruanbekker/test-actions) - Test github actions
-- [archuseriso](https://github.com/laurent85v/archuseriso) - Profiles for building Arch Linux Live ISO images. Live USB creation tool featuring Persistent Storage & Encryption. AUR https://aur.archlinux.org/packages/archuseriso  ISO Download http://dl.gnutux.fr/archuseriso
+- [archuseriso](https://github.com/laurent85v/archuseriso) - Build iso images, create live usb drives, install on usb drives. AUR https://aur.archlinux.org/packages/archuseriso  ISO Download http://dl.gnutux.fr/archuseriso
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [tmux-config](https://github.com/tony/tmux-config) - :green_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar.
