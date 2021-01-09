@@ -1100,7 +1100,7 @@
 - [jupyterlab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents extension for JupyterLab
 - [jupyterlab-go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - Navigate to variable's definition with a click in JupyterLab (or with a few key strokes)
 - [Collapsible_Headings](https://github.com/aquirdTurtle/Collapsible_Headings) - Implements Collapsible Headers for Jupyter Lab Notebooks
-- [jupyterlab-kernelspy](https://github.com/vidartf/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel
+- [jupyterlab-kernelspy](https://github.com/jupyterlab-contrib/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [vscode-markdown-todo](https://github.com/fabiospampinato/vscode-markdown-todo) - Manage todo lists inside markdown files with ease.
 - [todo-txt](https://github.com/vamanos/todo-txt) - Todo.txt syntax highlighter and helper extension for visual studio code.
