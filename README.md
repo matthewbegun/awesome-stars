@@ -460,7 +460,7 @@
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" programming and other software guides.
+- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" design, programming, and software guides.
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -1017,7 +1017,7 @@
 - [docker-draw.io](https://github.com/fjudith/docker-draw.io) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on tomcat:9-jre11 & tomcat:9-jre8-alpine official image.
 - [C4-PlantumlSkin](https://github.com/skleanthous/C4-PlantumlSkin) - This library provides skinning to create C4 diagrams using PlantUml
-- [plantuml-kubernetes-sprites](https://github.com/michiel/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
+- [plantuml-kubernetes-sprites](https://github.com/plantuml-stdlib/plantuml-kubernetes-sprites) - PlantUML sprites generated from the kubernetes-icons
 - [hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-Compose, Docker, Taiga, GitLab, Drone CI, SonarQube, Selenium, InSpec, Alpine 3.10, Ubuntu-bionic, CentOS 7...
 - [awesome-graal](https://github.com/neomatrix369/awesome-graal) - A curated list of awesome resources for Graal, GraalVM, Truffle and related topics
 - [docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
