@@ -662,9 +662,7 @@
 - [yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
 - [pex](https://github.com/pantsbuild/pex) - A library and tool for generating .pex (Python EXecutable) files
 - [pants](https://github.com/pantsbuild/pants) - The Pants Build System
-- [warehouse](https://github.com/pypa/warehouse) - The Python Package Index
 - [pip](https://github.com/pypa/pip) - The Python package installer
-- [black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [werkzeug](https://github.com/pallets/werkzeug) - The comprehensive WSGI web application library.
@@ -684,7 +682,6 @@
 - [ann-benchmarks](https://github.com/erikbern/ann-benchmarks) - Benchmarks of approximate nearest neighbor libraries in Python
 - [sparse_dot_topn](https://github.com/ing-bank/sparse_dot_topn) - Python package to accelerate the sparse matrix multiplication and top-n similarity selection
 - [string_grouper](https://github.com/Bergvca/string_grouper) - Super Fast String Matching in Python
-- [data-vault](https://github.com/krassowski/data-vault) - IPython magic for simple, organized, compressed and encrypted: storage & transfer of files between notebooks.
 - [legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [blueman](https://github.com/blueman-project/blueman) - 
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
@@ -980,7 +977,6 @@
 
 ## Shell 
 
-- [example-python](https://github.com/pantsbuild/example-python) - An example repo to demonstrate Python support in Pants v2
 - [svntogit-packages](https://github.com/archlinux/svntogit-packages) - Automatic import of svn 'packages' repo (read-only mirror)
 - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - linux-tkg custom kernels
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
