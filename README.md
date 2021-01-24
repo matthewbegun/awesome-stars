@@ -128,6 +128,7 @@
 - [NGT](https://github.com/yahoojapan/NGT) - Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data
 - [annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
+- [pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [JuniperKernel](https://github.com/JuniperKernel/JuniperKernel) - R Kernel for Jupyter
 - [cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
@@ -686,7 +687,6 @@
 - [blueman](https://github.com/blueman-project/blueman) - 
 - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
-- [pythran](https://github.com/serge-sans-paille/pythran) - Ahead of Time compiler for numeric kernels
 - [asv](https://github.com/airspeed-velocity/asv) - Airspeed Velocity: A simple Python benchmarking tool with web-based reporting
 - [prefect](https://github.com/PrefectHQ/prefect) - The easiest way to automate your data
 - [container](https://github.com/xonsh/container) - xonsh on docker
