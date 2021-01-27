@@ -633,7 +633,6 @@
 - [Scoop-Core](https://github.com/Ash258/Scoop-Core) - Shovel. Alternative, more advanced and user-friendly implementation of windows command-line installer scoop.
 - [AutomatedStoreInstaller](https://github.com/arcadiogarcia/AutomatedStoreInstaller) - A powershell script to automate the installation of a list of Microsoft Store apps
 - [Microsoft-Store-Access](https://github.com/Cosmo121/Microsoft-Store-Access) - Enable Microsoft Store Access. For corporate devices that have access restricted
-- [PowerShell-Microsoft-Store-AppX-Download](https://github.com/Floccinaucinihilipilification11/PowerShell-Microsoft-Store-AppX-Download) - PowerShell script to download AppX files form Microsoft Store.
 - [windows-dev-box-setup-scripts](https://github.com/Jaykul/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 - [scoop-backup](https://github.com/KNOXDEV/scoop-backup) - mirror of https://git.irs.sh/KNOXDEV/scoop-backup
 - [PowerShellScripts](https://github.com/bsteil/PowerShellScripts) - Snippets & Scripts
