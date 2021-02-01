@@ -239,7 +239,6 @@
 - [recordlinkage-annotator](https://github.com/J535D165/recordlinkage-annotator) - A browser user interface for manual labeling of record pairs.
 - [beginners-intro-javascript-node](https://github.com/microsoft/beginners-intro-javascript-node) - Beginner's Series: Introduction to JavaScript (Node.js)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
-- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [vscode-todo-highlight](https://github.com/wayou/vscode-todo-highlight) - a vscode extension to highlighting todos, fixmes, and any annotations...
 - [gnome-shell-extension-quake-mode](https://github.com/repsac-by/gnome-shell-extension-quake-mode) - It's a GNOME Shell extension adds support quake-mode for any application
@@ -691,6 +690,7 @@
 - [container](https://github.com/xonsh/container) - xonsh on docker
 - [asreview](https://github.com/asreview/asreview) - Active learning for systematic reviews
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [dtale](https://github.com/man-group/dtale) - Visualizer for pandas data structures
 - [superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [dbt](https://github.com/fishtown-analytics/dbt) - dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
@@ -991,7 +991,7 @@
 - [dotfiles](https://github.com/ryantam626/dotfiles) - My machine-common dotfiles and scripts to setup my workstations.
 - [Tela-icon-theme](https://github.com/vinceliuice/Tela-icon-theme) - A flat colorful Design icon theme
 - [dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube
+- [rolling-rhino](https://github.com/wimpysworld/rolling-rhino) - Rolling Rhino; convert Ubuntu into a rolling release. As seen on YouTube 📺
 - [lab-redis](https://github.com/thedatasociety/lab-redis) - 
 - [data-science-stack](https://github.com/NVIDIA/data-science-stack) - NVIDIA Data Science stack tools
 - [fastmac](https://github.com/fastai/fastmac) - Get a MacOS or Linux shell, for free, in around 2 minutes
