@@ -907,7 +907,7 @@
 - [blockdiag](https://github.com/blockdiag/blockdiag) - 
 - [academicmarkdown](https://github.com/smathot/academicmarkdown) - Academic writing with Markdown
 - [pyyaml](https://github.com/yaml/pyyaml) - Canonical source repository for PyYAML
-- [yq](https://github.com/kislyuk/yq) - Command-line YAML and XML processor - jq wrapper for YAML/XML documents
+- [yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [sos](https://github.com/vatlab/sos) - SoS workflow system for daily data analysis
 - [GPy](https://github.com/SheffieldML/GPy) - Gaussian processes framework in python
 - [MatlabSnippets](https://github.com/Slaier/MatlabSnippets) - matlab command autocomplete on vscode
