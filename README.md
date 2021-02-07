@@ -1112,7 +1112,7 @@
 - [browser](https://github.com/ayqy/browser) - An embedded browser for your VS Code.
 - [jupyterlab-js-logs](https://github.com/QuantStack/jupyterlab-js-logs) - JupyterLab extension to show the logs from the browser developer tools console
 - [jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time) - Execute Time Plugin for Jupyter Lab
-- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Language Server Protocol integration for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename)
+- [jupyterlab-lsp](https://github.com/krassowski/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [vscode-write-good](https://github.com/TravisTheTechie/vscode-write-good) - Write Good Linter for Visual Studio Code
 - [material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
