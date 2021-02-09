@@ -113,7 +113,6 @@
 - [unity-design-patterns](https://github.com/Naphier/unity-design-patterns) - Examples of programming design patterns in Unity C#
 - [Unity-Design-Pattern](https://github.com/QianMo/Unity-Design-Pattern) - :tea:  All Gang of Four Design Patterns written in Unity C# with many examples. And some Game Programming Patterns  written in Unity C#. | 各种设计模式的Unity3D C#版本实现
 - [Unity.Mathematics](https://github.com/Unity-Technologies/Unity.Mathematics) - The C# math library used in Unity providing vector types and math functions with a shader like syntax
-- [SuperCow---Mutant-Adventure](https://github.com/KrzysiekZakrzewski/SuperCow---Mutant-Adventure) - 3D game about super hero cow and his adventure.
 - [Unity-Scene-ScriptableObject](https://github.com/ZeShmoutt/Unity-Scene-ScriptableObject) - A way of storing scenes in a ScriptableObject.
 - [ScriptableObject-Database-Example](https://github.com/bzaPetey/ScriptableObject-Database-Example) - A quick demonstration of how to use a ScriptableObject as a Database in your next Unity made application.
 - [Unity-3D-ScriptableObjects-Tanks](https://github.com/antfarmar/Unity-3D-ScriptableObjects-Tanks) - ScriptableObjects vs. Monobehaviours Study
