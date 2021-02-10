@@ -668,7 +668,6 @@
 - [coala-quickstart](https://github.com/coala/coala-quickstart) - A tool that generates an initial coala config file for you!
 - [elyra](https://github.com/elyra-ai/elyra) - Elyra extends JupyterLab Notebooks with an AI centric approach.
 - [dask-labextension](https://github.com/dask/dask-labextension) - JupyterLab extension for Dask
-- [uncertainty-metrics](https://github.com/google/uncertainty-metrics) - An easy-to-use interface for measuring uncertainty and robustness.
 - [starthinker](https://github.com/google/starthinker) - Framework for building data workflows provided by Google.
 - [latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
 - [pgANN](https://github.com/netrasys/pgANN) - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database.
