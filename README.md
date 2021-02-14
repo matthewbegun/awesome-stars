@@ -850,7 +850,7 @@
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [dill](https://github.com/uqfoundation/dill) - serialize all of python
-- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python?
+- [wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
 - [newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
 - [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
