@@ -459,7 +459,7 @@
 - [SAS-Data-Linking-Functions](https://github.com/DJMelksham/SAS-Data-Linking-Functions) - Functions used in the practice of data linking
 - [abstract-algebra-cheatsheet](https://github.com/mavam/abstract-algebra-cheatsheet) - :green_book: A visualization of key structures in abstract algebra.
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started" design, programming, and software guides.
+- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started": Design, programming, and software guides.
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
