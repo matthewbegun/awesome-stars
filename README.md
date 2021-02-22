@@ -435,6 +435,7 @@
 
 ## Lua 
 
+- [dilcue](https://github.com/Castux/dilcue) - A numerical solver for Euclidian geometry problems
 - [termux-env](https://github.com/fabiospampinato/termux-env) - My super-quick-to-setup Termux environment.
 
 ## Makefile 
