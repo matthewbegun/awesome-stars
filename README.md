@@ -7,6 +7,7 @@
 
   - [C](#c)
   - [C#](#c#)
+  - [C++](#c++)
   - [CSS](#css)
   - [Go](#go)
   - [HTML](#html)
@@ -32,6 +33,10 @@
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [gsudo](https://github.com/gerardog/gsudo) - A Sudo for Windows - run elevated without spawning a new Console Host Window
 - [bootnext](https://github.com/pgaskin/bootnext) - Windows tray icon to set the EFI BootNext variable.
+
+## C++ 
+
+- [mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 
 ## CSS 
 
