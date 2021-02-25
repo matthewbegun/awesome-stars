@@ -9,6 +9,7 @@
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
+  - [Dockerfile](#dockerfile)
   - [Go](#go)
   - [HTML](#html)
   - [JavaScript](#javascript)
@@ -36,11 +37,17 @@
 
 ## C++ 
 
+- [linuxdeploy](https://github.com/linuxdeploy/linuxdeploy) - AppDir creation and maintenance tool. Featuring flexible plugin system.
+- [boa-forge](https://github.com/mamba-org/boa-forge) - New style recipes for boa, with features enabled
 - [mamba](https://github.com/mamba-org/mamba) - The Fast Cross-Platform Package Manager
 
 ## CSS 
 
 - [missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+
+## Dockerfile 
+
+- [micromamba-docker](https://github.com/mamba-org/micromamba-docker) - Micromamba for fast building of small conda-based containers
 
 ## Go 
 
