@@ -89,7 +89,7 @@
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [faiss_tips](https://github.com/matsui528/faiss_tips) - Some useful tips for faiss
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
-- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started": Design, programming, and software guides.
+- [getting-started](https://github.com/kjsauer/getting-started) - Personal "Getting Started": Design, programming, and software guides
 - [awesome-monorepo](https://github.com/korfuri/awesome-monorepo) - A curated list of awesome Monorepo tools, software and architectures.
 - [free-science-books](https://github.com/EbookFoundation/free-science-books) - Inspired by free-programming-books, here's free-science-books
 - [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
